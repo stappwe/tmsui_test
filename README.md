@@ -1,9 +1,3 @@
-## repository
-
-1 create in bitbucket via manage account - personal access token
-2 include this token in the git origin: https://username:PersonalAccessToken@citnet.tech.ec.europa.eu/CITnet/stash/scm/tms/tms.git
-
-
 ## Development server
 
 ### Prerequestes and setup
