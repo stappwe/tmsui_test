@@ -1,0 +1,209 @@
+{
+  "personId": 198851,
+  "firstName": "Adam Tomasz",
+  "familyName": "Janiszewski",
+  "email": "adam.janiszewski@knf.gov.pl",
+  "privateEmail": "janiszadam@interia.pl",
+  "mobilePhone": "+48 60 833 56 29",
+  "formalAddressId": 1,
+  "supplierId": null,
+  "supplierName": null,
+  "street": null,
+  "city": "Warsaw",
+  "postalCode": "00-549",
+  "countryId": null,
+  "position": null,
+  "telephone": "+48 22 262 56 15",
+  "privateMobilePhone": null,
+  "privateTelephone": null,
+  "formType": 1,
+  "userType": 1,
+  "selectedNationality": {
+    "id": 7,
+    "countryName": "Poland",
+    "nationality": "Polish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "PL"
+  },
+  "selectedEmploymentStatus": {
+    "id": 1,
+    "description": "Public Official in Active service",
+    "abbreviation": "PO Active",
+    "options": 0
+  },
+  "selectedLanguages": [
+    {
+      "id": 1,
+      "abbreviation": "EN",
+      "description": "English",
+      "visible": 1
+    },
+    {
+      "id": 107,
+      "abbreviation": "PL",
+      "description": "Polish",
+      "visible": 1
+    }
+  ],
+  "selectedTwCountry": null,
+  "employmentStatusComment": null,
+  "employmentStatusDate": null,
+  "password": null,
+  "institution": "Polish Financial Supervision Authority",
+  "department": "Legal Department",
+  "function": "Legal Counsel",
+  "street1": "Piękna 20",
+  "street2": null,
+  "selectedCountry": {
+    "id": 7,
+    "countryName": "Poland",
+    "nationality": "Polish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "PL"
+  },
+  "institutionType": 0,
+  "euLegislation": "Directives: 2015/2366, 2014/92/UE, 2013/36/EU, 2009/110/EC, 2007/64/EC, 2005/60/EC, 2008/48/EC, 94/19/EC, Regulation UE 575/2013,  Regulation UE 2015/751, Directive 2013/36/EU, Regulation 575/2013.\nDelegated Regulation (EU) 2018/389, Implementing Regulation (EU) 2019/410, Delegated Regulation (EU) 2019/411\n PSD2, PAD, CRR, CRDIV",
+  "cvSummary": "[1]    04 September 2000 – 31 December 2006  - Ministry of Finance (Warsaw/Poland)\nLawyer / Principal Expert in Department of European Integration \nAreas of responsibility: harmonization of Polish law with acquis in the area of free movement of services (banking sector and capital markets sector) and in the area of free movement of capital.\nMain activities: 1) delivery of preliminary opinions as to conformity of drafts of Polish legal acts (within above-mentioned areas) prepared in the Ministry of Finance, with acquis 2) making analysis of drafts of acts of other governmental institutions as to their conformity with acquis, 3) preparation of legal analysis on EU financial services law and free movement of capital, 4) co-operation with other departments of the Ministry of Finance (in particular with the Financial Institutions Dep.), as well as with the National Bank of Poland and the Polish Securities Commission.\n\n[2]  1 July 2006 - 31 May 2007 - European Central Bank (Frankfurt am Main/Germany)\nLegal Counsel in DG Legal Services/ Financial Law Division\nAreas of responsibility: European and national banking financial legislation, clearing and payment systems, prudential supervision of credit and financial institutions, prevention of money laundering and terrorist financing and financial stability matters generally.\nMain activities: (1) contribution to preparation of the ECB opinions on proposed Community acts and on draft national legislation, (2) legal assessments of Level 2 EU legislation within the area of financial services (from the perspective of the ECB competencies), (3) coordination of legal input to ECB’s positions during the ESC meetings, (4) involvement in works on payment services directive and SEPA.\n\n[3]  01 July 2007 ? National Bank of Poland (until 31 December 2007)\nGeneral Inspectorate of Banking Supervision (Legal Interpretations Division)\nPolish Financial Supervision Authority (from 1 January 2008)\nLawyer / Principal Expert in Legal Department\nAreas of responsibility: legal interpretations of banking law and payment services law, EU banking matters and payment services.\nMain activities: delivery legal interpretations of banking law and payment services law, delivery of legal input to draft acts concerning financial services, interpretation of EU directives, monitoring changes in EU banking and payment services area from the perspective of financial supervision.",
+  "expertFileName": "Curriculum_Vitae_A_Janiszewski_2017.doc",
+  "expertCv": null,
+  "expertCvURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict//api/tmsweb/find-speakerform-cv?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIwIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NDA1ODUwOTQyIn0.jigxvsterPFz1kLNTuheTvcBjpm-JKAlfe43ZUkzydQ",
+  "expertCvExtension": null,
+  "selectedChapters": [
+    {
+      "id": 11719039,
+      "description": "04 Free movement of capital [10.40]",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 34
+    },
+    {
+      "id": 11719065,
+      "description": "09 Financial services",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 60
+    },
+    {
+      "id": 11719067,
+      "description": "09.20 Banks [06.20.20.20]",
+      "parentid": 11719065,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 62
+    },
+    {
+      "id": 11719069,
+      "description": "09.40 Other economic and commercial provisions [17.30.20]",
+      "parentid": 11719065,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 64
+    }
+  ],
+  "selectedKeywords": [
+    283,
+    13,
+    55,
+    282,
+    338,
+    60,
+    272,
+    389
+  ],
+  "status": 4,
+  "ncpValidate": 6,
+  "ncpComment": null,
+  "privateEmailInComm": true,
+  "expirationDate": 1582866017000,
+  "validationResultMessage": null,
+  "edbTwinning": [
+    {
+      "countryName": "Georgia",
+      "sector": "Finance, Internal market and economic criteria",
+      "project": "EU Twinning Project: Strengthening the National Bank of Georgia Capacity in the Fields of Banking and Payment Services in Line with EU standards 2019-2021",
+      "jobTitle": "MS - Component Leader",
+      "edbTwinningId": 5321,
+      "countryId": 73,
+      "sectorId": 6,
+      "jobTitleId": 9
+    }
+  ],
+  "registrationId": 9720,
+  "encryptedId": "eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIwIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NDA1ODUwOTQyIn0.jigxvsterPFz1kLNTuheTvcBjpm-JKAlfe43ZUkzydQ",
+  "eventName": "New TAIEX-8 from scratch",
+  "eventTypeAbbr": "AGR",
+  "eventId": 80035,
+  "eventStartDate": 1599721200000,
+  "eventCategoryId": 1,
+  "place": "Andrushivka",
+  "printUrl": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/speakerForm/print?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIwIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NDA1ODUwOTQyIn0.jigxvsterPFz1kLNTuheTvcBjpm-JKAlfe43ZUkzydQ",
+  "personAccount": {
+    "bankName": "Bank Millennium SA",
+    "accountHolder": "Adam Janiszewski",
+    "iban": "PL84 **** **** **** **** **** * 7620",
+    "originalIban": null,
+    "bic": "BIGBPLPW",
+    "confirm": null
+  },
+  "subsistanceAccount": {
+    "bankName": "test1",
+    "accountHolder": "test2",
+    "iban": "test3",
+    "originalIban": null,
+    "bic": "test4",
+    "confirm": null
+  },
+  "fax": null,
+  "speechTitle": null,
+  "codedString": null,
+  "result": null,
+  "caseHandlerEmail": "Tania.ANGUELOVA@ec.europa.eu",
+  "faaPaySupplier": false,
+  "perDiemPaySupplier": false,
+  "newRegistration": true,
+  "state": {
+    "logisticsFinished": false,
+    "completed": false,
+    "registered": false,
+    "valid": true
+  },
+  "participantTravelData": {
+    "travelBy": null,
+    "departureAirport": null,
+    "departureStation": null,
+    "earlyArrival": true,
+    "lateDeparture": true,
+    "requireAccommodation": null,
+    "comment": null
+  },
+  "limits": {},
+  "travelBy": null,
+  "comment": null,
+  "departure": null,
+  "studyVisit": false,
+  "requireAccommodation": null,
+  "registrationVersion": 1,
+  "breakOutSessionList": [
+    {
+      "id": 1,
+      "name": "Session 1 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 2,
+      "name": "Session 2 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 3,
+      "name": "Session 3 - Improve... 25/10 - 14h - 18h"
+    }
+  ],
+  "selectedBreakOutSessions": null
+}

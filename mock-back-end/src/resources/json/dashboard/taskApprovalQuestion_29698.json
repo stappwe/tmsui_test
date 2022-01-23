@@ -1,0 +1,351 @@
+{
+  "project": "IPA, ENI",
+  "taskId": 29698,
+  "lastWorkflowStep": 103,
+  "allowedWorkflowActions": [104,105],
+  "commentStatus": 1,
+  "questionList": [
+    {
+      "controlType": "YesNo",
+      "withComment" : false,
+      "label" : "Are the countries benefiting from the proposed action eligible?",
+      "order" : 1,
+      "key" : 1,
+      "value": 1,
+      "commentValue": "",
+      "commentSize": 1000
+    }, {
+      "controlType": "YesNo",
+      "withComment" : true,
+      "label" : "Does the application concern the acquis (IPA) or the priorities of the ENP?",
+      "order" : 2,
+      "key" : 2,
+      "value": 1,
+      "commentValue": "Please remark that...",
+      "commentSize": 1000
+    }, {
+      "controlType": "YesNo",
+      "withComment" : true,
+      "label" : "Is the applicant eligible? ( Ministries, Government bodies , National Parliaments, Judiciary, Social Partners, Private Sector Associations)",
+      "order" : 3,
+      "key" : 3,
+      "value": 1,
+      "commentValue": "",
+      "commentSize": 1000
+    }, {
+      "controlType": "YesNo",
+      "withComment" : true,
+      "label" : "Are the targeted participants the relevant ones?",
+      "order" : 4,
+      "key" : 4,
+      "value": 1,
+      "commentValue": "",
+      "commentSize": 1000
+    }, {
+      "controlType": "YesNo",
+      "withComment" : true,
+      "label" : "Is there an added value for TAIEX assistance?",
+      "order" : 5,
+      "key" : 5,
+      "value": 1,
+      "commentValue": "",
+      "commentSize": 1000
+    }, {
+      "controlType": "YesNo",
+      "withComment" : true,
+      "label" : "Does the TAIEX action come at the right time?",
+      "order" : 6,
+      "key" : 6,
+      "value": 2,
+      "commentValue": "",
+      "commentSize": 1000
+    }, {
+      "controlType": "YesNo",
+      "withComment" : true,
+      "label" : "Is it ensured that there is no overlap/duplication with on-going or previous assistance?",
+      "order" : 7,
+      "key" : 7,
+      "value": 0,
+      "commentValue": "Twinning project overlap...",
+      "commentSize": 1000
+    }, {
+      "controlType": "YesNo",
+      "withComment" : true,
+      "label" : "Are the needs justified and is the proposed action clear?",
+      "order" : 8,
+      "key" : 8,
+      "value": 1,
+      "commentValue": "",
+      "commentSize": 1000
+    },
+    {
+      "controlType": "Info",
+      "label": "Have the interested parties given there support?",
+      "order": 9,
+      "key": -1
+    },
+    {
+      "controlType": "Consultation",
+      "key": 9,
+      "label": "EUD",
+      "value": null,
+      "order": 10,
+      "selectionType": 1,
+      "textValue": "",
+      "groupValue": [76],
+      "groupList": [
+        {
+          "id" : 51,
+          "name" : "Albania"
+        }, {
+          "id" : 78,
+          "name" : "Algeria"
+        }, {
+          "id" : 76,
+          "name" : "Armenia"
+        }, {
+          "id" : 75,
+          "name" : "Azerbaijan"
+        }, {
+          "id" : 74,
+          "name" : "Belarus"
+        }, {
+          "id" : 52,
+          "name" : "Bosnia and Herzegovina"
+        }, {
+          "id" : 81,
+          "name" : "Egypt"
+        }, {
+          "id" : 73,
+          "name" : "Georgia"
+        }, {
+          "id" : 83,
+          "name" : "Israel"
+        }, {
+          "id" : 85,
+          "name" : "Jordan"
+        }, {
+          "id" : 56,
+          "name" : "Kosovo"
+        }, {
+          "id" : 84,
+          "name" : "Lebanon"
+        }, {
+          "id" : 87,
+          "name" : "Libya"
+        }, {
+          "id" : 72,
+          "name" : "Moldova"
+        }, {
+          "id" : 58,
+          "name" : "Montenegro"
+        }, {
+          "id" : 77,
+          "name" : "Morocco"
+        }, {
+          "id" : 54,
+          "name" : "North Macedonia"
+        }, {
+          "id" : 82,
+          "name" : "Palestine"
+        }, {
+          "id" : 70,
+          "name" : "Russian Federation"
+        }, {
+          "id" : 57,
+          "name" : "Serbia"
+        }, {
+          "id" : 86,
+          "name" : "Syria"
+        }, {
+          "id" : 79,
+          "name" : "Tunisia"
+        }, {
+          "id" : 12,
+          "name" : "Turkey"
+        }, {
+          "id" : 71,
+          "name" : "Ukraine"
+        }
+      ]
+    },
+    {
+      "controlType": "Consultation",
+      "key": 10,
+      "label": "Desk EC",
+      "value": null,
+      "order": 11,
+      "selectionType": 2,
+      "textValue": "Albania",
+      "groupValue": [],
+      "groupList": [],
+      "readOnly": true
+    },
+    {
+      "controlType": "Consultation",
+      "key": 11,
+      "label": "DG",
+      "value": null,
+      "order": 12,
+      "selectionType": 1,
+      "textValue": "",
+      "groupValue": [1,3],
+      "groupList": [
+        {
+          "id" : 1,
+          "name" : "AGRI"
+        }, {
+          "id" : 2,
+          "name" : "BUDG"
+        }, {
+          "id" : 3,
+          "name" : "CLIMA"
+        }, {
+          "id" : 4,
+          "name" : "COMM"
+        }, {
+          "id" : 5,
+          "name" : "CNECT"
+        }, {
+          "id" : 6,
+          "name" : "COMP"
+        }, {
+          "id" : 7,
+          "name" : "ECFIN"
+        }, {
+          "id" : 8,
+          "name" : "EAC"
+        }, {
+          "id" : 9,
+          "name" : "EMPL"
+        }, {
+          "id" : 10,
+          "name" : "ENER"
+        }, {
+          "id" : 11,
+          "name" : "ELARG"
+        }, {
+          "id" : 12,
+          "name" : "ENTR"
+        }, {
+          "id" : 13,
+          "name" : "ENV"
+        }, {
+          "id" : 14,
+          "name" : "DEVCO"
+        }, {
+          "id" : 15,
+          "name" : "ESTAT"
+        }, {
+          "id" : 16,
+          "name" : "SANTE"
+        }, {
+          "id" : 17,
+          "name" : "HOME"
+        }, {
+          "id" : 18,
+          "name" : "ECHO"
+        }, {
+          "id" : 19,
+          "name" : "HR"
+        }, {
+          "id" : 20,
+          "name" : "DIGIT"
+        }, {
+          "id" : 21,
+          "name" : "GROW"
+        }, {
+          "id" : 22,
+          "name" : "SCIC"
+        }, {
+          "id" : 23,
+          "name" : "JRC"
+        }, {
+          "id" : 24,
+          "name" : "JUST"
+        }, {
+          "id" : 25,
+          "name" : "MARE"
+        }, {
+          "id" : 26,
+          "name" : "MOVE"
+        }, {
+          "id" : 27,
+          "name" : "REGIO"
+        }, {
+          "id" : 28,
+          "name" : "RTD"
+        }, {
+          "id" : 29,
+          "name" : "SG"
+        }, {
+          "id" : 30,
+          "name" : "FPI"
+        }, {
+          "id" : 31,
+          "name" : "TAXUD"
+        }, {
+          "id" : 32,
+          "name" : "TRADE"
+        }, {
+          "id" : 33,
+          "name" : "DGT"
+        }, {
+          "id" : 34,
+          "name" : "FISMA"
+        }
+      ]
+    },
+    {
+      "controlType": "Consultation",
+      "key": 12,
+      "label": "CoTE",
+      "value": null,
+      "order": 13,
+      "selectionType": 1,
+      "textValue": "",
+      "groupValue": [5969],
+      "groupList": [
+        {
+          "id" : 5969,
+          "name" : "Civil Society Support - n / a"
+        }, {
+          "id" : 5968,
+          "name" : "Connectivity, environment, regional development"
+        }, {
+          "id" : 6408,
+          "name" : "Crisis reaction & Security sector reform"
+        }, {
+          "id" : 5971,
+          "name" : "Economic Governance"
+        }, {
+          "id" : 6990,
+          "name" : "Migration"
+        }, {
+          "id" : 5973,
+          "name" : "Public Administration Reform (PAR)"
+        }, {
+          "id" : 6949,
+          "name" : "Rule of Law/Fundamental Rights and Democracy"
+        }
+      ]
+    },
+    {
+      "controlType": "Consultation",
+      "key": 13,
+      "label": "Other",
+      "value": null,
+      "order": 14,
+      "selectionType": 2,
+      "textValue": "",
+      "groupValue": null,
+      "groupList": null
+    }
+  ],
+  "teamLeader": "Scott BOWEN",
+  "tlComment": "No action proposed",
+  "decision": 1,
+  "finalComment": "",
+  "applicationFormUrl": null
+}
+

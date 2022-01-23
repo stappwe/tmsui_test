@@ -1,0 +1,20 @@
+<ux-modal id="my-settings-modal"
+          titleLabel="{{ settings.title }}"
+          [isHandleCloseOnClose]="false"
+          [isVisible]="true"
+          [isFooterCustomAlignment]="true"
+          (onClose)="btnCancel($event)">
+
+  <uxModalBody>
+    {{ settings.description }}
+  </uxModalBody>
+
+  <uxModalFooter>
+    <ux-layout-horizontal>
+      <uxLayoutHorizontalRight fxLayout="row" fxLayoutGap="5px">
+        <ux-button typeClass="primary" (click)="btnSend($event)">Yes</ux-button>
+        <ux-button typeClass="primary" (click)="btnCancel($event)">No</ux-button>
+      </uxLayoutHorizontalRight>
+    </ux-layout-horizontal>
+  </uxModalFooter>
+</ux-modal>

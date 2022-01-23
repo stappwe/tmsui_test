@@ -1,0 +1,146 @@
+<ux-layout-app-shell [isScrollHandlerActive]="true"
+                     [headerAppFullName]="appService.application.activeModule?.fullTitle"
+                     [headerAppShortName]="appService.application.activeModule?.shortTitle"
+                     [isHeaderShowLanguageSelector]="false"
+                     [appHomeUrl]="appHomeUrl"
+                     [hasNavBar]="appService.application.hasNavBar"
+                     [hasHeader]="appService.application.hasHeader"
+
+                     [isHeaderHideLogo]="false"
+                     [headerUserProfileLinks]="menuUserProfileLinks"
+                     [hasHeaderUserProfile]="true"
+                     [headerUserInfos]="appService.application.user.name"
+                     [headerEnvLabel]="environment.environmentLabel"
+                     (headerUserProfileLinkSelected)="onUserProfileLinkSelected($event)"
+
+                     (headerLanguageChanged)="onLanguageChanged($event)"
+                     [navBarNotificationLinks]="notificationLinks"
+                     [navBarTopMenuLinks]="menuLinks"
+                     [isNavBarTopMenuShowHome]="false"
+                     [footerAppVersion]="environment.version"
+                     footerAppReleaseDate="@timestamp@"
+                     [ngClass]="(appService.application.user.isLoaded && appService.application.user.validAccount) ? '' : 'hideMenu'">
+
+  <uxAppShellNavBarLeftItemsContent fxHide fxShow.xs>
+    <div aria-label="European Commission logo" role="img" class="logo logo--en">
+      <div class="env" style="z-index: 100;">{{ environment.environmentLabel }}</div>
+      <div class="title">
+        <h1 class="short">{{ appService.application.activeModule?.fullTitle }}</h1>
+      </div>
+    </div>
+  </uxAppShellNavBarLeftItemsContent>
+  <uxAppShellHeaderRightContent>
+    <ux-layout-header-profile
+                              [userInfos]="(appService.application.user.backupUser.backupUserName !== undefined &&
+                              (appService.application.user.backupUser.backupUserName).trim().length > 0) ?
+                                (appService.application.user.name + '->' + appService.application.user.backupUser.backupUserName) :
+                                appService.application.user.name"
+                              [welcomeLabel]="''"
+                              [isUserLoggedIn]="appService.application.user.isLoaded && appService.application.user.validAccount"
+                              [isOnline]="(appState | async).connected" [isConnected]="(appState | async).connected" fxShow fxHide.xs>
+      <uxLayoutHeaderProfileNotLoggedInContent>
+        <button class="btn btn-secondary ml-1" (click)="onLogin($event)">Login</button>
+      </uxLayoutHeaderProfileNotLoggedInContent>
+      <uxLayoutHeaderProfileSubContent>
+        <div class="links" *ngIf="appService.application.user.validAccount && appService.application.user.userRoleList?.length > 0">
+          <select id="userRoleList" class="no-validation form-control form-control-toolbar" [formControl]="activeUserRole" [hidden]="appService.application.appType !== enApplicationType.TMS">
+            <option *ngFor="let userRole of appService.application.user.getUserWorkflowRoles()" [ngValue]="userRole">{{ userRole.description }}</option>
+          </select>
+        </div>
+      </uxLayoutHeaderProfileSubContent>
+
+      <uxLayoutHeaderProfileMenuContent>
+        <ul>
+          <li>
+            <i class="icon fa fa-fw fa-wifi"></i>
+            Connection status
+            <div class="ml-auto">
+              <ux-badge [hidden]="!(appState | async).connected" [isSmall]="true" [isPill]="true" typeClass="success">
+                Connected
+              </ux-badge>
+              <ux-badge [hidden]="(appState | async).connected" [isSmall]="true" [isPill]="true" typeClass="danger">
+                Not connected
+              </ux-badge>
+            </div>
+          </li>
+          <li (click)="startTMS()" *ngIf="appService.application.appType === enApplicationType.Twinning"
+              [hidden]="appService?.application.user && !appService?.application.user.hasTMSApplication()">
+            <i class="icon fa fa-fw fa-desktop"></i>
+            TMS
+          </li>
+          <li (click)="startTwinning()" *ngIf="appService.application.appType === enApplicationType.TMS"
+              [hidden]="appService?.application.user && !appService?.application.user.hasTwinningApplication()">
+            <i class="icon fa fa-fw fa-desktop"></i>
+            Twinning
+          </li>
+          <li (click)="coreService.userSettingsToggle()">
+            <i class="icon fa fa-fw fa-sliders"></i>
+            My settings
+          </li>
+          <li (click)="coreService.userProfileToggle()">
+            <i class="icon fa fa-fw fa-user"></i>
+            My profile
+          </li>
+          <li (click)="coreService.userPreferencesToggle()">
+            <i class="icon fa fa-fw fa-cog"></i>
+            Preferences
+          </li>
+          <li (click)="onChangePassword()">
+            <i class="icon fa fa-fw fa-key"></i>
+            Change password
+          </li>
+          <li (click)="onLogout()">
+            <i class="icon fa fa-fw fa-sign-out"></i>
+            Logout
+          </li>
+        </ul>
+      </uxLayoutHeaderProfileMenuContent>
+    </ux-layout-header-profile>
+  </uxAppShellHeaderRightContent>
+
+  <uxAppShellNavBarItemsContent>
+    <ux-layout-nav-bar-action-item iconClass="fa fa-info-circle">
+      <ul>
+        <li><a href="http://ec.europa.eu/neighbourhood-enlargement/contact_en" target="_blank">Contact</a></li>
+        <li><a href="https://ec.europa.eu/info/legal-notice_en"  target="_blank">Legal notice</a></li>
+        <li><a (click)="coreService.aboutToggle()">About</a></li>
+      </ul>
+    </ux-layout-nav-bar-action-item>
+    <ux-layout-nav-bar-action-item iconClass="fa fa-question-circle" [hidden]="!(appService.application.user.isLoaded && appService.application.user.validAccount)">
+      <ul>
+        <li><a (click)="btnGetDocument(77)" download>Manual of Procedure</a></li>
+        <li><a (click)="btnGetDocument(165)" download>Hotel ceilings in EU Countries</a></li>
+        <li><a (click)="btnGetDocument(162)" download>Agenda guidance</a></li>
+        <li><a (click)="btnGetDocument(205)" download>Digital Stage Manager (DSM)</a></li>
+        <li><a (click)="btnGetDocument(164)" download>TMS Help</a></li>
+        <li><a (click)="coreService.bugFeedbackToolToggle()">Report a bug</a></li>
+        <li><a (click)="coreService.feedbackToolToggle()">Give your feedback</a></li>
+      </ul>
+    </ux-layout-nav-bar-action-item>
+    <ux-layout-nav-bar-action-item iconClass="fa fa-user" fxHide fxShow.xs [hidden]="appService.application.user.isLoaded && appService.application.user.validAccount" (toggled)="onLogin($event)">
+    </ux-layout-nav-bar-action-item>
+    <ux-layout-nav-bar-action-item iconClass="fa fa-ellipsis-v" fxHide fxShow.xs [hidden]="!(appService.application.user.isLoaded && appService.application.user.validAccount)">
+      <ux-layout-sidebar-items [links]="userProfileLinks" >
+      </ux-layout-sidebar-items>
+    </ux-layout-nav-bar-action-item>
+  </uxAppShellNavBarItemsContent>
+
+  <uxAppShellMainContent>
+    <loading-spinner></loading-spinner>
+    <router-outlet></router-outlet>
+  </uxAppShellMainContent>
+</ux-layout-app-shell>
+
+<app-core-user-settings *ngIf="(coreService.state$ | async).isUserSettingsOpen"></app-core-user-settings>
+<app-core-user-profile *ngIf="(coreService.state$ | async).isUserProfileOpen" [user]="appService.application.user"></app-core-user-profile>
+<app-core-about *ngIf="(coreService.state$ | async).isAboutOpen"></app-core-about>
+<app-core-user-preferences *ngIf="(coreService.state$ | async).isUserPreferencesOpen"></app-core-user-preferences>
+<app-core-feedback [settings]="giveFeedbackSettings" [reportType]="enReportType.Feedback" *ngIf="(coreService.state$ | async).isFeedbackToolOpen"></app-core-feedback>
+<app-core-feedback [settings]="reportBugSettings" [reportType]="enReportType.Bug" *ngIf="(coreService.state$ | async).isBugFeedbackToolOpen"></app-core-feedback>
+<ux-modal #applicationMessageBox id="applicationMessageBox" [titleLabel]="applicationMessage?.summary" [isDismissActionVisible]="false">
+  <uxModalBody>
+    <p>
+      {{ applicationMessage?.message }}
+    </p>
+  </uxModalBody>
+</ux-modal>

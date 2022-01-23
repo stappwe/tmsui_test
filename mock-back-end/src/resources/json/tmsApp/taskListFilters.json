@@ -1,0 +1,615 @@
+{
+  "project": [
+    {
+      "id": 6,
+      "name": "EIR PEER 2 PEER"
+    },
+    {
+      "id": 1,
+      "name": "IPA, ENI"
+    },
+    {
+      "id": 2,
+      "name": "PI"
+    },
+    {
+      "id": 3,
+      "name": "REGIO PEER 2 PEER"
+    },
+    {
+      "id": 5,
+      "name": "SRSP PEER 2 PEER"
+    },
+    {
+      "id": 4,
+      "name": "TCC"
+    }
+  ],
+  "createYear": [
+    {
+      "id": 2010,
+      "name": "2010"
+    },
+    {
+      "id": 2011,
+      "name": "2011"
+    },
+    {
+      "id": 2012,
+      "name": "2012"
+    },
+    {
+      "id": 2013,
+      "name": "2013"
+    },
+    {
+      "id": 2014,
+      "name": "2014"
+    },
+    {
+      "id": 2015,
+      "name": "2015"
+    },
+    {
+      "id": 2016,
+      "name": "2016"
+    },
+    {
+      "id": 2017,
+      "name": "2017"
+    },
+    {
+      "id": 2018,
+      "name": "2018"
+    },
+    {
+      "id": 2019,
+      "name": "2019"
+    },
+    {
+      "id": 2020,
+      "name": "2020"
+    }
+  ],
+  "teamLeader": [
+    {
+      "id" : "borbata",
+      "name" : "BORBAS Tatjana"
+    },
+    {
+      "id" : "bowenda",
+      "name" : "BOWEN Scott"
+    },
+    {
+      "id" : "evangni",
+      "name" : "EVANGELOU Nicholas"
+    },
+    {
+      "id" : "gudeljo",
+      "name" : "GUDELYTE Jovita"
+    },
+    {
+      "id" : "kirscch",
+      "name" : "KIRSCHBAUM Christiane"
+    },
+    {
+      "id" : "larsshe",
+      "name" : "LARSSON Helen"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "AGR"
+    },
+    {
+      "id": 4,
+      "name": "ETT"
+    },
+    {
+      "id": 12,
+      "name": "ICE"
+    },
+    {
+      "id": 3,
+      "name": "IND/MOB"
+    },
+    {
+      "id": 5,
+      "name": "INT MARKT"
+    },
+    {
+      "id": 6,
+      "name": "JHA"
+    },
+    {
+      "id": 13,
+      "name": "LAF"
+    },
+    {
+      "id": 7,
+      "name": "LAN/INF"
+    },
+    {
+      "id": 11,
+      "name": "P2P"
+    },
+    {
+      "id": 8,
+      "name": "PEER"
+    },
+    {
+      "id": 10,
+      "name": "PROC"
+    },
+    {
+      "id": 9,
+      "name": "RTP"
+    },
+    {
+      "id": 14,
+      "name": "SCR"
+    },
+    {
+      "id": 2,
+      "name": "TCC"
+    }
+  ],
+  "beneficiary": [
+    {
+      "id": 51,
+      "name": "Albania"
+    },
+    {
+      "id": 78,
+      "name": "Algeria"
+    },
+    {
+      "id": 76,
+      "name": "Armenia"
+    },
+    {
+      "id": 75,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 74,
+      "name": "Belarus"
+    },
+    {
+      "id": 52,
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "id": 81,
+      "name": "Egypt"
+    },
+    {
+      "id": 73,
+      "name": "Georgia"
+    },
+    {
+      "id": 83,
+      "name": "Israel"
+    },
+    {
+      "id": 85,
+      "name": "Jordan"
+    },
+    {
+      "id": 56,
+      "name": "Kosovo"
+    },
+    {
+      "id": 84,
+      "name": "Lebanon"
+    },
+    {
+      "id": 87,
+      "name": "Libya"
+    },
+    {
+      "id": 72,
+      "name": "Moldova"
+    },
+    {
+      "id": 58,
+      "name": "Montenegro"
+    },
+    {
+      "id": 77,
+      "name": "Morocco"
+    },
+    {
+      "id": 0,
+      "name": "MultiCountry"
+    },
+    {
+      "id": 54,
+      "name": "North Macedonia"
+    },
+    {
+      "id": 82,
+      "name": "Palestine"
+    },
+    {
+      "id": 70,
+      "name": "Russian Federation"
+    },
+    {
+      "id": 57,
+      "name": "Serbia"
+    },
+    {
+      "id": 86,
+      "name": "Syria"
+    },
+    {
+      "id": 79,
+      "name": "Tunisia"
+    },
+    {
+      "id": 12,
+      "name": "Turkey"
+    },
+    {
+      "id": 71,
+      "name": "Ukraine"
+    }
+  ],
+  "budgetGroup": [
+    {
+      "id": 46,
+      "name": "DEVCO"
+    },
+    {
+      "id": 45,
+      "name": "EIR"
+    },
+    {
+      "id": 40,
+      "name": "ENPI EAST"
+    },
+    {
+      "id": 39,
+      "name": "ENPI SOUTH"
+    },
+    {
+      "id": 37,
+      "name": "IPA"
+    },
+    {
+      "id": 41,
+      "name": "PI"
+    },
+    {
+      "id": 42,
+      "name": "REGIO"
+    },
+    {
+      "id": 44,
+      "name": "SRSP"
+    },
+    {
+      "id": 38,
+      "name": "TCC"
+    },
+    {
+      "id": 0,
+      "name": "Multicountry"
+    }
+
+
+
+
+
+
+  ],
+  "decisionYear": [
+    {
+      "id": 2010,
+      "name": "2010"
+    },
+    {
+      "id": 2011,
+      "name": "2011"
+    },
+    {
+      "id": 2012,
+      "name": "2012"
+    },
+    {
+      "id": 2013,
+      "name": "2013"
+    },
+    {
+      "id": 2014,
+      "name": "2014"
+    },
+    {
+      "id": 2015,
+      "name": "2015"
+    },
+    {
+      "id": 2016,
+      "name": "2016"
+    },
+    {
+      "id": 2017,
+      "name": "2017"
+    },
+    {
+      "id": 2018,
+      "name": "2018"
+    },
+    {
+      "id": 2019,
+      "name": "2019"
+    },
+    {
+      "id": 2020,
+      "name": "2020"
+    }
+  ],
+  "eventTypeList": [
+    {
+      "id": 63,
+      "name": "AGR HOME"
+    },
+    {
+      "id": 36,
+      "name": "AGR IND/EXP"
+    },
+    {
+      "id": 35,
+      "name": "AGR IND/STUD"
+    },
+    {
+      "id": 34,
+      "name": "ATCC"
+    },
+    {
+      "id": 55,
+      "name": "ATCC HOME"
+    },
+    {
+      "id": 44,
+      "name": "ATCC IND/EXP"
+    },
+    {
+      "id": 43,
+      "name": "ATCC IND/STUD"
+    },
+    {
+      "id": 69,
+      "name": "ECRAN"
+    },
+    {
+      "id": 72,
+      "name": "ECRAN HOME"
+    },
+    {
+      "id": 70,
+      "name": "ECRAN IND/EXP"
+    },
+    {
+      "id": 71,
+      "name": "ECRAN IND/STUD"
+    },
+    {
+      "id": 77,
+      "name": "EIR"
+    },
+    {
+      "id": 78,
+      "name": "EIR HOME"
+    },
+    {
+      "id": 79,
+      "name": "EIR IND/EXP"
+    },
+    {
+      "id": 80,
+      "name": "EIR IND/STUD"
+    },
+    {
+      "id": 95,
+      "name": "EPPA"
+    },
+    {
+      "id": 96,
+      "name": "EPPA HOME"
+    },
+    {
+      "id": 97,
+      "name": "EPPA IND/EXP"
+    },
+    {
+      "id": 98,
+      "name": "EPPA IND/STUD"
+    },
+    {
+      "id": 59,
+      "name": "ETT"
+    },
+    {
+      "id": 64,
+      "name": "ETT HOME"
+    },
+    {
+      "id": 61,
+      "name": "ETT IND/EXP"
+    },
+    {
+      "id": 60,
+      "name": "ETT IND/STUD"
+    },
+    {
+      "id": 30,
+      "name": "INT MARKT"
+    },
+    {
+      "id": 65,
+      "name": "INT MARKT HOME"
+    },
+    {
+      "id": 42,
+      "name": "INT MARKT IND/EXP"
+    },
+    {
+      "id": 41,
+      "name": "INT MARKT IND/STUD"
+    },
+    {
+      "id": 32,
+      "name": "JHA"
+    },
+    {
+      "id": 66,
+      "name": "JHA HOME"
+    },
+    {
+      "id": 38,
+      "name": "JHA IND/EXP"
+    },
+    {
+      "id": 37,
+      "name": "JHA IND/STUD"
+    },
+    {
+      "id": 86,
+      "name": "PI"
+    },
+    {
+      "id": 85,
+      "name": "PI HOME"
+    },
+    {
+      "id": 88,
+      "name": "PI IND/EXP"
+    },
+    {
+      "id": 87,
+      "name": "PI IND/STUD"
+    },
+    {
+      "id": 90,
+      "name": "REGIO"
+    },
+    {
+      "id": 89,
+      "name": "REGIO HOME"
+    },
+    {
+      "id": 92,
+      "name": "REGIO IND/EXP"
+    },
+    {
+      "id": 91,
+      "name": "REGIO IND/STUD"
+    },
+    {
+      "id": 81,
+      "name": "RIPAP"
+    },
+    {
+      "id": 84,
+      "name": "RIPAP HOME"
+    },
+    {
+      "id": 83,
+      "name": "RIPAP IND/EXP"
+    },
+    {
+      "id": 82,
+      "name": "RIPAP IND/STUD"
+    },
+    {
+      "id": 62,
+      "name": "SCR"
+    },
+    {
+      "id": 73,
+      "name": "SRSP"
+    },
+    {
+      "id": 74,
+      "name": "SRSP HOME"
+    },
+    {
+      "id": 75,
+      "name": "SRSP IND/EXP"
+    },
+    {
+      "id": 76,
+      "name": "SRSP IND/STUD"
+    }
+  ],
+  "eventCategoryList": [
+    {
+      "id": 1,
+      "name": "Workshop"
+    },
+    {
+      "id": 2,
+      "name": "Expert Mission"
+    },
+    {
+      "id": 3,
+      "name": "Study Visit"
+    },
+    {
+      "id": 4,
+      "name": "Work from Home"
+    },
+    {
+      "id": 5,
+      "name": "Procurement"
+    }
+  ],
+  "lastWorkflowStep": [
+    {
+      "id": 101,
+      "name": "Task Inserted"
+    },
+    {
+      "id": 102,
+      "name": "Task Ack. letter sent"
+    },
+    {
+      "id": 103,
+      "name": "Task Finished"
+    },
+    {
+      "id": 104,
+      "name": "Task Signed"
+    },
+    {
+      "id": 105,
+      "name": "Task Refused"
+    },
+    {
+      "id": 106,
+      "name": "Task Completed"
+    },
+    {
+      "id": 107,
+      "name": "Task Unsigned"
+    }
+  ],
+  "taskDecision": [
+    {
+      "id": 1,
+      "name": "Yes"
+    },
+    {
+      "id": 2,
+      "name": "No"
+    },
+    {
+      "id": 0,
+      "name": "Undecided"
+    }
+  ]
+}
+

@@ -1,0 +1,37 @@
+[
+  {
+    "userCategoryId": 8192,
+    "abbreviation": "EIR",
+    "userType": 1
+  },
+  {
+    "userCategoryId": 256,
+    "abbreviation": "IBF-7",
+    "userType": 2
+  },
+  {
+    "userCategoryId": 1,
+    "abbreviation": "IBU",
+    "userType": 1
+  },
+  {
+    "userCategoryId": 32,
+    "abbreviation": "PI",
+    "userType": 1
+  },
+  {
+    "userCategoryId": 64,
+    "abbreviation": "REGIO",
+    "userType": 1
+  },
+  {
+    "userCategoryId": 4096,
+    "abbreviation": "SRSP",
+    "userType": 1
+  },
+  {
+    "userCategoryId": 128,
+    "abbreviation": "TCC",
+    "userType": 1
+  }
+]

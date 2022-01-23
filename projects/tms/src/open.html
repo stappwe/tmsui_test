@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Test Page</title>
+</head>
+<body> <!-- check box icon issue on printout: required -->
+  <button onclick="openPage1()">Open Page 1</button>
+<textarea id="result"></textarea>
+</body>
+
+<script>
+  const afConfFac_channel = new BroadcastChannel('afConfFac_channel');
+  var afConfFac = {
+    eventStartDate: "2020-10-25T00:00:00-00:00",
+    eventEndDate: "2020-10-30T00:00:00-00:00",
+    data: undefined /*{
+      dates: {
+        startDate: new Date(2021, 1, 5),
+        endDate: new Date(2021, 1, 8)
+      },
+      numberOfParticipants: null,
+      numberOfSpeakers: 2,
+      comment: 'test comment',
+      layoutShape: -1,
+      numberOfRooms: null,
+      interpretationEquipment: {
+        quantity: [],
+        interpretationBooth: false
+      },
+      technicalEquipment: [],
+      dsm: [],
+      interactionWithSpeakers: [],
+      technicalFeatures: [],
+      participantInteraction: [],
+      singleSourcing: [],
+      highLevelEvent: false,
+      description: 'test'
+    }*/
+  };
+
+  function openPage1() {
+    if (afConfFac.data === undefined) {
+      afConfFac.data = JSON.parse(`{
+      "dates": {
+      "startDate": "2020-10-27T00:00:00-00:00",
+        "endDate": "2020-10-28T00:00:00-00:00"
+    },
+      "numberOfParticipants": 15
+      ,
+      "numberOfSpeakers": 3
+      ,
+      "comment": "3 EU MS Speakers",
+      "layoutShape": null,
+      "numberOfRooms": null,
+      "interpretationEquipment": {
+      "quantity": [],
+        "interpretationBooth": true
+    },
+      "technicalEquipment":[],
+      "dsm":[],
+      "interactionWithSpeakers": [],
+      "technicalFeatures":[],
+      "participantInteraction":[],
+      "singleSourcing":[],
+      "highLevelEvent":false,
+      "description":""
+    }`
+      )
+    }
+
+    afConfFac_channel.onmessage = (messageEvent) => {
+      // If our broadcast message is 'conference_update' then get the new title from localStorage
+      if (messageEvent.data === 'conference_update') {
+        // localStorage is domain specific so when it changes in one window it changes in the other
+        const _afConfFac = localStorage.getItem('afConfFac');
+        if (_afConfFac !== null) {
+          console.log(_afConfFac);
+          afConfFac = JSON.parse(_afConfFac);
+          window.document.getElementById('result').value = _afConfFac;
+        }
+      } else if (messageEvent.data === 'conference_get') {
+        var afConfFacstr = window.document.getElementById('result').value ? window.document.getElementById('result').value : JSON.stringify(afConfFac);
+        localStorage.setItem('afConfFac', afConfFacstr);
+        afConfFac_channel.postMessage('conference_post');
+      }
+    }
+    var tab = window.open("http://localhost:4207/#/tms/events/conference-facility/89390");
+  }
+</script>
+</html>

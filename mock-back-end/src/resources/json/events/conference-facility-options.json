@@ -1,0 +1,242 @@
+[
+  {
+    "addTypeId": 9,
+    "addTypeAbbreviation": "DSM",
+    "addTypeDescription": "DSM",
+    "confFacId": 28,
+    "confFacDescription": "Host (A*)",
+    "displayOrder": 1
+  },
+  {
+    "addTypeId": 9,
+    "addTypeAbbreviation": "DSM",
+    "addTypeDescription": "DSM",
+    "confFacId": 29,
+    "confFacDescription": "Professional moderator (B*)",
+    "displayOrder": 2
+  },
+  {
+    "addTypeId": 10,
+    "addTypeAbbreviation": "INTSP",
+    "addTypeDescription": "Interaction with speakers",
+    "confFacId": 30,
+    "confFacDescription": "Oral",
+    "displayOrder": 1
+  },
+  {
+    "addTypeId": 10,
+    "addTypeAbbreviation": "INTSP",
+    "addTypeDescription": "Interaction with speakers",
+    "confFacId": 31,
+    "confFacDescription": "Chat",
+    "displayOrder": 2
+  },
+  {
+    "addTypeId": 10,
+    "addTypeAbbreviation": "INTSP",
+    "addTypeDescription": "Interaction with speakers",
+    "confFacId": 32,
+    "confFacDescription": "Video recorded",
+    "displayOrder": 3
+  },
+  {
+    "addTypeId": 11,
+    "addTypeAbbreviation": "TECFE",
+    "addTypeDescription": "Technical features",
+    "confFacId": 33,
+    "confFacDescription": "IT support",
+    "displayOrder": 1
+  },
+  {
+    "addTypeId": 12,
+    "addTypeAbbreviation": "PARIN",
+    "addTypeDescription": "Participant interaction",
+    "confFacId": 34,
+    "confFacDescription": "Public chat (to all)",
+    "displayOrder": 1
+  },
+  {
+    "addTypeId": 12,
+    "addTypeAbbreviation": "PARIN",
+    "addTypeDescription": "Participant interaction",
+    "confFacId": 35,
+    "confFacDescription": "Private chat",
+    "displayOrder": 2
+  },
+  {
+    "addTypeId": 12,
+    "addTypeAbbreviation": "PARIN",
+    "addTypeDescription": "Participant interaction",
+    "confFacId": 36,
+    "confFacDescription": "Restricted access",
+    "displayOrder": 3
+  },
+  {
+    "addTypeId": 13,
+    "addTypeAbbreviation": "SINSO",
+    "addTypeDescription": "Single-Sourcing",
+    "confFacId": 37,
+    "confFacDescription": "Platform",
+    "displayOrder": 1
+  },
+  {
+    "addTypeId": 13,
+    "addTypeAbbreviation": "SINSO",
+    "addTypeDescription": "Single-Sourcing",
+    "confFacId": 38,
+    "confFacDescription": "DSM",
+    "displayOrder": 2
+  },
+  {
+    "addTypeId": 14,
+    "addTypeAbbreviation": "HILEV",
+    "addTypeDescription": "High level event",
+    "confFacId": 39,
+    "confFacDescription": "High level event",
+    "displayOrder": 1
+  },
+  {
+    "addTypeId": 15,
+    "addTypeAbbreviation": "LAYSE",
+    "addTypeDescription": "Layout setup",
+    "confFacId": 15,
+    "confFacDescription": "U-shape",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 15,
+    "addTypeAbbreviation": "LAYSE",
+    "addTypeDescription": "Layout setup",
+    "confFacId": 18,
+    "confFacDescription": "Class room",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 15,
+    "addTypeAbbreviation": "LAYSE",
+    "addTypeDescription": "Layout setup",
+    "confFacId": 17,
+    "confFacDescription": "Theater",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 15,
+    "addTypeAbbreviation": "LAYSE",
+    "addTypeDescription": "Layout setup",
+    "confFacId": 16,
+    "confFacDescription": "Square",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 2,
+    "confFacDescription": "Overhead",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 10,
+    "confFacDescription": "Internet",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 4,
+    "confFacDescription": "LCD",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 5,
+    "confFacDescription": "Computer",
+    "displayOrder": 0
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 1,
+    "confFacDescription": "Flipchart",
+    "displayOrder": 8
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 3,
+    "confFacDescription": "Slide projector",
+    "displayOrder": 10
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 6,
+    "confFacDescription": "Video",
+    "displayOrder": 14
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 7,
+    "confFacDescription": "Copy machine",
+    "displayOrder": 15
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 8,
+    "confFacDescription": "Phone",
+    "displayOrder": 16
+  },
+  {
+    "addTypeId": 16,
+    "addTypeAbbreviation": "TECEQ",
+    "addTypeDescription": "Technical Equipment",
+    "confFacId": 9,
+    "confFacDescription": "Fax",
+    "displayOrder": 17
+  },
+  {
+    "addTypeId": 17,
+    "addTypeAbbreviation": "INTEQ",
+    "addTypeDescription": "Interpretation Equipment",
+    "confFacId": 12,
+    "confFacDescription": "Fixed micro",
+    "displayOrder": 2
+  },
+  {
+    "addTypeId": 17,
+    "addTypeAbbreviation": "INTEQ",
+    "addTypeDescription": "Interpretation Equipment",
+    "confFacId": 11,
+    "confFacDescription": "Wireless micro",
+    "displayOrder": 3
+  },
+  {
+    "addTypeId": 17,
+    "addTypeAbbreviation": "INTEQ",
+    "addTypeDescription": "Interpretation Equipment",
+    "confFacId": 13,
+    "confFacDescription": "Tie micro",
+    "displayOrder": 4
+  },
+  {
+    "addTypeId": 17,
+    "addTypeAbbreviation": "INTEQ",
+    "addTypeDescription": "Interpretation Equipment",
+    "confFacId": 14,
+    "confFacDescription": "Head phones",
+    "displayOrder": 5
+  }
+]

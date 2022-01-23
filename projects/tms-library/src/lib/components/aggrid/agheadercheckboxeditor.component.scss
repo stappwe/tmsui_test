@@ -1,0 +1,16 @@
+:host ::ng-deep label {
+  padding: 6px 4px 0 2px;
+}
+
+:host ::ng-deep .mat-checkbox-frame {
+  background: var(--eui-app-header-bg-color);
+}
+
+:host ::ng-deep .mat-checkbox-checkmark-path {
+  stroke: var(--eui-app-header-title-color) !important;
+}
+
+:host ::ng-deep .mat-checkbox-indeterminate.mat-primary .mat-checkbox-background,
+:host ::ng-deep .mat-checkbox-checked.mat-primary .mat-checkbox-background {
+  background-color: var(--eui-app-header-bg-color);
+}

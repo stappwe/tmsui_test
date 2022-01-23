@@ -1,0 +1,91 @@
+<form role="form" [formGroup]="detailForm" *ngIf="(detailForm !== undefined)">
+  <div #header>
+    <div class="btn-toolbar btn-toolbar-menu" fxLayout="row" fxLayoutAlign="end" fxLayoutGap="5px" fxHide.print="true" role="toolbar" aria-label="Project toolbar">
+      <button type="button" class="btn btn-primary" (click)="onCancelClick()" [hidden]="!detailForm.pristine">Back</button>
+      <button type="button" class="btn btn-primary" (click)="onCancelClick()" [hidden]="detailForm.pristine">Cancel</button>
+      <button type="button" class="btn btn-primary" [disabled]="!(detailForm.valid && !submitting)" (click)="onSubmit()" [hidden]="readOnlyMode">Save</button>
+    </div>
+  </div>
+  <div class="detail print-layout" [style.height.px]="detailHeight">
+    <ux-panel class="ux-panel-group" [label]="pageTitle">
+      <div fxLayout="row" fxLayout.xs="column" fxLayoutGap="15px">
+        <div fxFlex="0 1 800px">
+          <label-input [labelText]="'Project ID'" [labelAlign]="'Center'">
+            <input type="number" class="form-control col-sm-12" formControlName="projectId">
+          </label-input>
+          <label-input [labelText]="'Project'" [labelAlign]="'Center'">
+            <input type="text" class="form-control col-sm-12" formControlName="description">
+            <div [hidden]="detailForm.controls['description'].valid || detailForm.controls['description'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['description'].hasError('required')">Value is required</div>
+              <div *ngIf="detailForm.controls['description'].hasError('maxlength')">Maximum length exceeded</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Abbreviation'" [labelAlign]="'Center'">
+            <input type="text" class="form-control col-sm-12" formControlName="abbreviation">
+            <div [hidden]="detailForm.controls['abbreviation'].valid || detailForm.controls['abbreviation'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['abbreviation'].hasError('required')">Value is required</div>
+              <div *ngIf="detailForm.controls['abbreviation'].hasError('maxlength')">Maximum length exceeded</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Consultation'" [labelAlign]="'Center'" [matTooltipPosition]="'above'"
+                       matTooltip="Default consultation done for new tasks">
+            <div fxLayout="row" class="btn-toolbar">
+              <button type="button" class="btn btn-primary"
+                      [class.active]="detailForm.get('consultation').value === 1"
+                      [class.invalid]="!detailForm.controls['consultation'].valid && !readOnlyMode"
+                      (click)="setConsultation(1)" [disabled]="readOnlyMode">Yes
+              </button>
+              <button type="button" class="btn btn-primary"
+                      [class.active]="detailForm.get('consultation').value === 0"
+                      (click)="setConsultation(0)" [disabled]="readOnlyMode">No
+              </button>
+            </div>
+            <div [hidden]="detailForm.controls['consultation'].valid || detailForm.controls['consultation'].pristine"
+              class="error-message">
+              <div *ngIf="detailForm.controls['consultation'].hasError('required')">Value is required</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'General Email'" [labelAlign]="'Center'" [matTooltipPosition]="'above'"
+                       matTooltip="Email address used for notifications">
+            <input type="text" class="form-control col-sm-12" formControlName="generalEmail">
+            <div [hidden]="detailForm.controls['generalEmail'].valid || detailForm.controls['generalEmail'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['generalEmail'].hasError('maxlength')">Maximum length exceeded</div>
+              <div *ngIf="detailForm.controls['generalEmail'].hasError('invalidEmail')">Invalid email address</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Signature Email - HTML'" [labelAlign]="'Top'" [matTooltipPosition]="'above'"
+                       matTooltip="HTML signatures used by the system for external mails">
+            <textarea-with-size type="text" formControlName="signatureEmail" class="textarea-h200"
+                                [class]="'col-sm-12 col-no-padding'" [showSizeInfo]="true" [maxBytes]="1000"></textarea-with-size>
+            <div [hidden]="detailForm.controls['signatureEmail'].valid || detailForm.controls['signatureEmail'].pristine" class="error-message textarea-with-size-error">
+              <div *ngIf="detailForm.controls['signatureEmail'].hasError('invalidMaxByteSize')">Maximum length exceeded</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Signature Email - Outlook'" [labelAlign]="'Top'" [matTooltipPosition]="'above'"
+                       matTooltip="Outlook signatures used by the system for external mails">
+            <textarea-with-size type="text" formControlName="signatureEmailOutlook" class="textarea-h200"
+                                [class]="'col-sm-12 col-no-padding'" [showSizeInfo]="true" [maxBytes]="1000"></textarea-with-size>
+            <div [hidden]="detailForm.controls['signatureEmailOutlook'].valid || detailForm.controls['signatureEmailOutlook'].pristine" class="error-message textarea-with-size-error">
+              <div *ngIf="detailForm.controls['signatureEmailOutlook'].hasError('invalidMaxByteSize')">Maximum length exceeded</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Email Request Validator'" [labelAlign]="'Center'" [matTooltipPosition]="'above'"
+                       matTooltip="Email address of the person validation incoming requests (application forms). This email address is used in case missing countries (like for multi-country requests)">
+            <input type="text" class="form-control col-sm-12" formControlName="emailRequestValidator">
+            <div [hidden]="detailForm.controls['emailRequestValidator'].valid || detailForm.controls['emailRequestValidator'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['emailRequestValidator'].hasError('maxlength')">Maximum length exceeded</div>
+              <div *ngIf="detailForm.controls['emailRequestValidator'].hasError('invalidEmail')">Invalid email address</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Comment'" [labelAlign]="'Top'">
+            <textarea-with-size type="text" formControlName="comment" class="textarea-h200"
+                                [class]="'col-sm-12 col-no-padding'" [showSizeInfo]="true" [maxBytes]="2000"></textarea-with-size>
+            <div [hidden]="detailForm.controls['comment'].valid || detailForm.controls['comment'].pristine" class="error-message textarea-with-size-error">
+              <div *ngIf="detailForm.controls['comment'].hasError('invalidMaxByteSize')">Maximum length exceeded</div>
+            </div>
+          </label-input>
+        </div>
+      </div>
+    </ux-panel>
+  </div>
+</form>

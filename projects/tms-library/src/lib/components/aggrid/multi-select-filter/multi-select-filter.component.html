@@ -1,0 +1,26 @@
+<div [formGroup]="multiSelectFilterForm" *ngIf="(multiSelectFilterForm !== undefined)">
+  <div>
+    <select #input class="ag-filter-select no-validation" formControlName="filterType">
+      <option *ngFor="let item of filterTypes" [ngValue]="item.id">{{item.name}}</option>
+    </select>
+  </div>
+  <div class="ag-filter-body">
+    <div [hidden]="multiSelectFilterForm.controls['filterType'].value !== 1">
+      <input class="ag-filter-filter no-validation" type="text" #textInput formControlName="textFilter" placeholder="Filter...">
+    </div>
+    <div fxLayout.xs="column" fxLayoutGap="15px" [hidden]="multiSelectFilterForm.controls['filterType'].value !== 6">
+      <mat-selection-list fxLayoutGap="10px" (selectionChange)="onToggleCheckbox($event)">
+        <mat-list-option  *ngFor="let rowItem of values" checkboxPosition="before" [selected]="rowItem.checked"
+                          [value]="rowItem" >
+          {{ rowItem.name }}
+        </mat-list-option>
+      </mat-selection-list>
+    </div>
+  </div>
+  <div class="ag-filter-apply-panel">
+    <button type="button" (click)="onApplyClick()" [disabled]="!multiSelectFilterForm.valid">Apply Filter</button>
+  </div>
+  <div class="ag-filter-apply-panel" [hidden]="multiSelectFilterForm.controls['filterType'].value !== 6">
+    <button type="button"  class="btn-secondary" (click)="onResetClick()" [disabled]="!multiSelectFilterForm.valid">Reset Filter</button>
+  </div>
+</div>

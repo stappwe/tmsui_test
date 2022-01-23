@@ -1,0 +1,55 @@
+{
+  "supplierId": 209304,
+  "name": "Austrian Federal Ministry of Justice",
+  "description": "",
+  "capacity": "",
+  "enableEdit": true,
+  "flagged": true,
+  "departments": [
+    {
+      "departmentID": 10,
+      "name": "Human resources",
+      "occurrence": 999
+    },
+    {
+      "departmentID": 11,
+      "name": "IT",
+      "occurrence": 2
+    },
+    {
+      "departmentID": 15,
+      "name": "Not used",
+      "occurrence": 0
+    }
+  ],
+  "address": {
+    "addressID": 1520,
+    "street1": "Museumstrasse 7",
+    "street2": "",
+    "postalCode": "1070",
+    "city": "Vienna",
+    "countryId": 100,
+    "countryName": "Austria"
+  },
+  "contactInfo": {
+    "contactInfoID": 50,
+    "email": "amf@jus.au",
+    "telephone": "",
+    "mobilephone": "",
+    "fax": "",
+    "website": "",
+    "usageType": -1,
+    "emailVerified": false
+  },
+  "bankaccount": {
+    "bankName": "",
+    "bankAdditional": "",
+    "sortingCode": "",
+    "swift": "",
+    "iban": ""
+  },
+  "suppliertypes": [
+    9
+  ],
+  "categories": []
+}

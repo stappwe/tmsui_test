@@ -1,0 +1,34 @@
+[
+  {
+    "id": 32768,
+    "name": "EIR"
+  },
+  {
+    "id": 16,
+    "name": "ENPI EAST"
+  },
+  {
+    "id": 8,
+    "name": "ENPI SOUTH"
+  },
+  {
+    "id": 8192,
+    "name": "IPA"
+  },
+  {
+    "id": 2048,
+    "name": "PI"
+  },
+  {
+    "id": 4096,
+    "name": "REGIO"
+  },
+  {
+    "id": 16384,
+    "name": "SRSP"
+  },
+  {
+    "id": 4,
+    "name": "TCC"
+  }
+]

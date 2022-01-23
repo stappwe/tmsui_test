@@ -1,0 +1,21 @@
+{
+  "userCategory": [
+    {
+      "id": 1,
+      "name": "IBU"
+    },
+    {
+      "id": 4,
+      "name": "IBF - 6"
+    },
+    {
+      "id": 256,
+      "name": "IBF - 7"
+    },
+    {
+      "id": 16384,
+      "name": "TAIEX - 8"
+    }
+  ]
+}
+

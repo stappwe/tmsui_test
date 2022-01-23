@@ -1,0 +1,110 @@
+{
+  "eventId": 80390,
+  "motherEventId": 80390,
+  "eventName": "Online Workshop on Strengthening supervision capacity of the financial and Capital Market",
+  "eventType": "SRSP",
+  "startDate": 1639472400000,
+  "endDate": 1639551600000,
+  "cityList": ["Video Tele Conference"],
+  "countryEventPlace": "EU Institution",
+  "ibuCaseHandler": {
+    "id": "sanchis",
+    "name": "Isabel SANCHEZ",
+    "email": "Isabel.SANCHEZ@ec.europa.eu",
+    "phone": "+32 2 29 85652"
+  },
+  "coCaseHandler": {
+    "id": "w1040294",
+    "name": "Ayse Turkmen",
+    "email": "ayse.turkmen@cecoforma.com",
+    "phone": null
+  },
+  "lco": {
+    "id": null,
+    "name": "Dace Ducova",
+    "email": "dace.dubova@fktk.lv",
+    "phone": null
+  },
+  "agendaURL": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getAgendaDocument?id=ty23jja5iaYEJcU99KZmGA",
+  "publishedDocuments": [
+    {
+      "id": 2406792,
+      "name": "Ms Emilia Gargallo-Gonzalez",
+      "position": "-",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "LINK": "https://google.com",
+      "displayName": "DAY 2_ GARGALLO GONZALEZ Emilia_210127- TAIEX-Fisheries and aquaculture.pptx",
+      "size": 4511551,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2406793,
+      "name": "Ms Susanne Lindahl",
+      "position": "Policy Officer",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "LINK": "https://google.com",
+      "displayName": "DAY 2_Gislev TAIEX 27012021.pptx",
+      "size": 8405346,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2406833,
+      "name": "Mr Xavier Guillou",
+      "position": "Team leader: marine renewable energy and maritime spatial planning",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "LINK": "https://google.com",
+      "displayName": "DAY 3_ TOMAS Robert_TAIEX_GREEN_DEAL_RT_update.pptx",
+      "size": 6194106,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2406834,
+      "name": "Ms Vanda Jakir",
+      "position": "Policy Officer",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "LINK": "https://google.com",
+      "displayName": "DAY 3_WEDERDT Patrick_Biodiversity Strategy TAIEX regional event Jan 2021.pptx",
+      "size": 10687320,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2406812,
+      "name": "Ms Barbara Kauffmann",
+      "position": "Director",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "LINK": "https://google.com",
+      "displayName": "Justyna_External dimension Green Deal_final.pptx",
+      "size": 21123311,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2406832,
+      "name": "Mr Marco Onida",
+      "position": "Senior Expert - Team leader",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "LINK": "https://google.com",
+      "displayName": "Werner Bosmans_Plastics - nCEAP Werner Bosmans 28 01 2021.pptx",
+      "size": 6583309,
+      "isOwner": 1,
+      "canDelete": 1
+    }
+  ],
+  "confirmationLetterURL": null,
+  "registrationURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/speakerForm/print?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiIxMDUxNCJ9.QLIL6Wzq5BCkuMJ5WY4yQRXueW1x795tqBy3ez1qkhw",
+  "agendaURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getAgendaDocument?id=okAmEVpZ2KRbCVE2FO-VBw",
+  "participantId": 997264,
+  "personType": 2,
+  "contractorFullName": "IBF International Consulting",
+  "participationGuideURL": "https://webgate.ec.europa.eu/TMSWebRestrict/publicDocument?id=148"
+}

@@ -1,0 +1,38 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "id": -1,
+        "name": "Welcome coffee"
+      },
+      {
+        "id": 0,
+        "name": "Coffee"
+      },
+      {
+        "id": 1,
+        "name": "Breakfast"
+      },
+      {
+        "id": 2,
+        "name": "Lunch"
+      },
+      {
+        "id": 3,
+        "name": "Dinner"
+      },
+      {
+        "id": 4,
+        "name": "Other food/drink arrangement"
+      },
+      {
+        "id": 5,
+        "name": "Water"
+      }
+    ],
+    "rowCount": 7
+  }
+}

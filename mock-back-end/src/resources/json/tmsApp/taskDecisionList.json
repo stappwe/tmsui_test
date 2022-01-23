@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "Undecided",
+    "id" : 0
+  },
+  {
+    "name" : "Yes",
+    "id" : 1
+  },
+  {
+    "name" : "No",
+    "id" : 2
+  }
+]

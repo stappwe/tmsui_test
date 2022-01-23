@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel"
+  },
+  {
+    "id": 2,
+    "name": "Institution"
+  },
+  {
+    "id": 4,
+    "name": "Catering"
+  },
+  {
+    "id": 5,
+    "name": "Other"
+  },
+  {
+    "id": 6,
+    "name": "Interpretation"
+  },
+  {
+    "id": 7,
+    "name": "LVS"
+  }
+]

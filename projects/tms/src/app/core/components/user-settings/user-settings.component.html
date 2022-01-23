@@ -1,0 +1,19 @@
+<ux-modal id="my-settings-modal"
+          titleLabel="My settings"
+          [isHandleCloseOnClose]="false"
+          [isVisible]="true"
+          [isFooterCustomAlignment]="true"
+          (onClose)="onClose($event)">
+
+  <uxModalBody>
+    <my-settings></my-settings>
+  </uxModalBody>
+
+  <uxModalFooter>
+    <ux-layout-horizontal>
+      <uxLayoutHorizontalRight>
+        <ux-button typeClass="primary" (click)="onClose($event)">Close</ux-button>
+      </uxLayoutHorizontalRight>
+    </ux-layout-horizontal>
+  </uxModalFooter>
+</ux-modal>

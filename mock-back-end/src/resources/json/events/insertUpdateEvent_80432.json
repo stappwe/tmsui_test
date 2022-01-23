@@ -1,0 +1,165 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "eventId": 80432,
+    "motherEventId": 80304,
+    "seriesFirstEventId": null,
+    "ofStatus": "",
+    "workflowStepsDone": [],
+    "eventAddCorr": 0,
+    "eventName": "Add. 2 to 2010/80304 - TAIEX Flagship Workshop on Green Deal and Green Recovery",
+    "eventNameFR": "",
+    "taiexContractor": {
+      "id": 8,
+      "name": "TAIEX-8",
+      "startDate": "2020-08-01T00:00:00.000Z",
+      "endDate": "2024-07-31T23:59:59.000Z"
+    },
+    "eventType": {
+      "id": 59,
+      "name": "ETT",
+      "eventCategoryId": 1
+    },
+    "taskId": 31162,
+    "euLegislation": {
+      "_items": [
+        {
+          "id": 11719306,
+          "description": "27 Environment [15]",
+          "parentid": 0,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 2,
+          "order": 309
+        },
+        {
+          "id": 11719308,
+          "description": "27.10 Environment [15.10]",
+          "parentid": 11719306,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 2,
+          "order": 311
+        },
+        {
+          "id": 11719309,
+          "description": "27.10.10 General provisions and programmes [15.10.10]",
+          "parentid": 11719308,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 1,
+          "order": 312
+        },
+        {
+          "id": 11719466,
+          "description": "35 Other issues",
+          "parentid": 0,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 1,
+          "order": 469
+        }
+      ]
+    },
+    "keywords": [
+      191
+    ],
+    "eventDates": {
+      "startDate": "2021-01-26T08:30:00.000Z",
+      "endDate": "2021-01-28T15:30:00.000Z"
+    },
+    "project": {
+      "id": 1,
+      "name": "IPA, ENI"
+    },
+    "beneficiaryCountryList": [
+      {
+        "id": 51,
+        "name": "Albania",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 78,
+        "name": "Algeria",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 76,
+        "name": "Armenia",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      }
+    ],
+    "evalCorrEmail": "scott.bowen@ext.ec.europa.eu",
+    "countryEventPlace": {
+      "id": 101,
+      "name": "Belgium"
+    },
+    "cityList": [
+      {
+        "id": 1749723,
+        "name": "Brussels"
+      }
+    ],
+    "ibuCaseHandler": {
+      "id": "bowenda",
+      "name": "BOWEN Scott",
+      "email": "Scott.BOWEN@ec.europa.eu",
+      "phone": "56360",
+      "type": 1
+    },
+    "coCaseHandler": {
+      "id": "n004j2qr",
+      "name": "Joana Vilela",
+      "email": "joana.vilela@cecoforma.com",
+      "phone": null,
+      "type": 5
+    },
+    "ticketCoCaseHandler": {
+      "id": "w1040177",
+      "name": "Aleksandrs Lebedevs",
+      "email": "accounts@ibf.be",
+      "phone": "+32 2 786 58 55",
+      "type": 21
+    },
+    "accountCoCaseHandler": {
+      "id": "w1040187",
+      "name": "Estrella Marmol",
+      "email": "ticket@ibf.be",
+      "phone": "+60 2 786 58 55",
+      "type": 10
+    },
+    "createDate": "2020-10-19T08:35:21.000Z",
+    "lastChanged": "2021-01-21T11:20:05.000Z",
+    "ofSubmissionDate": "2021-01-22T00:00:00.000Z",
+    "contractorEventRemarks": "No event details provided",
+    "ofComments": "- The digital platform and interpretation services (EN-AR / EN-SR / EN-TR / EN-RU) were pre-approved on 12/01/2021. Approved by IBU TL;\n- Interpretation services (EN-SQ) were pre-approved on 14/01/2021. Approved by IBU TL.",
+    "cancelledEvent": false,
+    "webFolderLocked": false,
+    "taiexStrategic": false,
+    "allowedWorkflowActions": [],
+    "commentStatus": 2,
+    "contractorReportStatus": "1",
+    "eventStatus": "AF is signed. OF is Signed. TL Checklist Approved.\nEDB Status: Closed on 27/10/2020",
+    "summary": {
+      "participants": 10,
+      "coffeeBreaks": 20,
+      "lunches": 10,
+      "dinners": 10,
+      "waters": 20,
+      "totalCost": 41874.25,
+      "contingency": 3948.00,
+      "balance": 3948.00,
+      "contractorFee": 2400.00,
+      "contractorFeeAdditional": 0
+    },
+    "externalRequestId": "19AT33,20AT33",
+    "evaluationImpactFeedbackResultURL": "https://google.com",
+    "paymentFileURL": "https://google.com",
+    "implementationType": 1
+  }
+}

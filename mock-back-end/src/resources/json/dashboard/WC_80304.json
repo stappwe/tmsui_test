@@ -1,0 +1,51 @@
+[
+  {
+    "fieldName": "Active event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "21/04/2017 16:43",
+    "changedBy": "Jean-Paul MOURA EBEY"
+  },
+  {
+    "fieldName": "AF Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "26/04/2017 09:27",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF TL Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "26/04/2017 09:36",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF Signed",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "26/04/2017 09:37",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "Logistics can Start",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "26/04/2017 09:37",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "AF Unsigned",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "02/05/2017 11:16",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF Refused",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "02/05/2017 11:16",
+    "changedBy": "Werner STAPPAERTS"
+  }
+]

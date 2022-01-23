@@ -1,0 +1,1424 @@
+[
+  {
+    "id": 209,
+    "name": "Afghanistan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 51,
+    "name": "Albania",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 78,
+    "name": "Algeria",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 214,
+    "name": "American Samoa",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 162,
+    "name": "Andorra",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 190,
+    "name": "Angola",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 315,
+    "name": "Anguilla",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 215,
+    "name": "Antigua and Barbuda",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 163,
+    "name": "Argentina",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 76,
+    "name": "Armenia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 216,
+    "name": "Aruba",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 153,
+    "name": "Australia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 100,
+    "name": "Austria",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 75,
+    "name": "Azerbaijan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 335,
+    "name": "Bahamas",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 164,
+    "name": "Bahrain",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 217,
+    "name": "Bangladesh",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 218,
+    "name": "Barbados",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 74,
+    "name": "Belarus",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 101,
+    "name": "Belgium",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 219,
+    "name": "Belize",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 272,
+    "name": "Benin",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 316,
+    "name": "Bermuda",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 292,
+    "name": "Bhutan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 220,
+    "name": "Bolivia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 317,
+    "name": "Bonaire",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 52,
+    "name": "Bosnia and Herzegovina",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 282,
+    "name": "Botswana",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 191,
+    "name": "Brazil",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 318,
+    "name": "British Antarctic Territory",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 319,
+    "name": "British Indian Ocean Territory",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 320,
+    "name": "British Virgin Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 165,
+    "name": "Brunei",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 1,
+    "name": "Bulgaria",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 264,
+    "name": "Burkina Faso",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 273,
+    "name": "Burundi",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 192,
+    "name": "Cambodia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 262,
+    "name": "Cameroon",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 155,
+    "name": "Canada",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 291,
+    "name": "Cape Verde",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 321,
+    "name": "Cayman Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 279,
+    "name": "Central African Republic",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 250,
+    "name": "Chad",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 193,
+    "name": "Chile",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 202,
+    "name": "Colombia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 290,
+    "name": "Comoros",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 221,
+    "name": "Congo the Democratic Republic of the",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 297,
+    "name": "Cook Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 222,
+    "name": "Costa Rica",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 53,
+    "name": "Croatia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 223,
+    "name": "Cuba",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 224,
+    "name": "Curaçao",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 11,
+    "name": "Cyprus",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 2,
+    "name": "Czech Republic",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 294,
+    "name": "Democratic Peoples Republic of Korea",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 102,
+    "name": "Denmark",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 289,
+    "name": "Djibouti",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 225,
+    "name": "Dominica",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 226,
+    "name": "Dominican Republic",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 210,
+    "name": "Ecuador",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 81,
+    "name": "Egypt",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 212,
+    "name": "El Salvador",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 227,
+    "name": "Equatorial Guinea",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 276,
+    "name": "Eritrea",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 3,
+    "name": "Estonia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 288,
+    "name": "Eswatini",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 287,
+    "name": "Ethiopia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 322,
+    "name": "Falkland Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 228,
+    "name": "Faroe Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 298,
+    "name": "Fiji",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 103,
+    "name": "Finland",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 104,
+    "name": "France",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 323,
+    "name": "French Polynesia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 324,
+    "name": "French Southern and Antarctic Lands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 285,
+    "name": "Gabon",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 284,
+    "name": "Gambia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 73,
+    "name": "Georgia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 105,
+    "name": "Germany",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 259,
+    "name": "Ghana",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 106,
+    "name": "Greece",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 229,
+    "name": "Greenland",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 299,
+    "name": "Grenada",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 213,
+    "name": "Guatemala",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 230,
+    "name": "Guinea",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 286,
+    "name": "Guinea-Bissau",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 231,
+    "name": "Guyana",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 232,
+    "name": "Haiti",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 233,
+    "name": "Honduras",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 158,
+    "name": "Hong Kong",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 4,
+    "name": "Hungary",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 156,
+    "name": "Iceland",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 167,
+    "name": "India",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 168,
+    "name": "Indonesia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 171,
+    "name": "Iran",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 170,
+    "name": "Iraq",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 107,
+    "name": "Ireland",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 83,
+    "name": "Israel",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 108,
+    "name": "Italy",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 260,
+    "name": "Ivory Coast",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 234,
+    "name": "Jamaica",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 172,
+    "name": "Japan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 85,
+    "name": "Jordan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 161,
+    "name": "Kazakhstan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 255,
+    "name": "Kenya",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 293,
+    "name": "Kiribati",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 56,
+    "name": "Kosovo",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 173,
+    "name": "Kuwait",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 200,
+    "name": "Kyrgyzstan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 195,
+    "name": "Laos",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 5,
+    "name": "Latvia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 84,
+    "name": "Lebanon",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 247,
+    "name": "Lesotho",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 280,
+    "name": "Liberia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 87,
+    "name": "Libya",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 174,
+    "name": "Liechtenstein",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 6,
+    "name": "Lithuania",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 109,
+    "name": "Luxembourg",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 235,
+    "name": "Macao",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 261,
+    "name": "Madagascar",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 265,
+    "name": "Malawi",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 175,
+    "name": "Malaysia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 211,
+    "name": "Maldives",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 252,
+    "name": "Mali",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 13,
+    "name": "Malta",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 304,
+    "name": "Marshall Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 251,
+    "name": "Mauritania",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 249,
+    "name": "Mauritius",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 176,
+    "name": "Mexico",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 295,
+    "name": "Micronesia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 72,
+    "name": "Moldova",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 177,
+    "name": "Monaco",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 236,
+    "name": "Mongolia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 58,
+    "name": "Montenegro",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 305,
+    "name": "Montserrat",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 77,
+    "name": "Morocco",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 258,
+    "name": "Mozambique",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 196,
+    "name": "Myanmar",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 281,
+    "name": "Namibia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 306,
+    "name": "Nauru",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 237,
+    "name": "Nepal",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 325,
+    "name": "New Caledonia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 160,
+    "name": "New Zealand",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 238,
+    "name": "Nicaragua",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 263,
+    "name": "Niger",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 197,
+    "name": "Nigeria",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 307,
+    "name": "Niue",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 54,
+    "name": "North Macedonia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 152,
+    "name": "Norway",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 178,
+    "name": "Oman",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 150,
+    "name": "Other",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 179,
+    "name": "Pakistan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 308,
+    "name": "Palau",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 82,
+    "name": "Palestine",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 239,
+    "name": "Panama",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 296,
+    "name": "Papua New Guinea",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 203,
+    "name": "Paraguay",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 159,
+    "name": "People´s Republic of China",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 198,
+    "name": "Peru",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 180,
+    "name": "Philippines",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 326,
+    "name": "Pitcairn Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 7,
+    "name": "Poland",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 111,
+    "name": "Portugal",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 240,
+    "name": "Puerto Rico",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 181,
+    "name": "Qatar",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 194,
+    "name": "Republic of Korea",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 278,
+    "name": "Republic of the Congo",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 8,
+    "name": "Romania",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 70,
+    "name": "Russian Federation",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 270,
+    "name": "Rwanda",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 327,
+    "name": "Saba",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 328,
+    "name": "Saint Barthélemy",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 309,
+    "name": "Saint Helena",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 332,
+    "name": "Saint Kitts and Nevis",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 310,
+    "name": "Saint Lucia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 333,
+    "name": "Saint Pierre and Miquelon",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 311,
+    "name": "Saint Vincent and the Grenadines",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 312,
+    "name": "Samoa",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 246,
+    "name": "San Marino",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 241,
+    "name": "Sao Tome and Principe",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 182,
+    "name": "Saudi Arabia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 268,
+    "name": "Senegal",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 57,
+    "name": "Serbia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 248,
+    "name": "Seychelles",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 277,
+    "name": "Sierra Leone",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 183,
+    "name": "Singapore",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 329,
+    "name": "Sint Eustatius",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 330,
+    "name": "Sint Maarten",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 9,
+    "name": "Slovak Republic",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 10,
+    "name": "Slovenia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 300,
+    "name": "Solomon Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 267,
+    "name": "Somalia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 184,
+    "name": "South Africa",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 331,
+    "name": "South Georgia and the South Sandwich Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 274,
+    "name": "South Sudan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 112,
+    "name": "Spain",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 201,
+    "name": "Sri Lanka",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 253,
+    "name": "Sudan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 242,
+    "name": "Suriname",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 113,
+    "name": "Sweden",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 154,
+    "name": "Switzerland",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 86,
+    "name": "Syria",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 204,
+    "name": "Taiwan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 205,
+    "name": "Tajikistan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 254,
+    "name": "Tanzania",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 186,
+    "name": "Thailand",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 110,
+    "name": "The Netherlands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 243,
+    "name": "Timor-Leste",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 275,
+    "name": "Togo",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 303,
+    "name": "Tokelau",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 313,
+    "name": "Tonga",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 244,
+    "name": "Trinidad and Tobago",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 79,
+    "name": "Tunisia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 12,
+    "name": "Turkey",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 14,
+    "name": "Turkish Cypriot community",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 206,
+    "name": "Turkmenistan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 334,
+    "name": "Turks and Caicos Islands",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 301,
+    "name": "Tuvalu",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 188,
+    "name": "UAE - United Arab Emirates",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 257,
+    "name": "Uganda",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 71,
+    "name": "Ukraine",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 114,
+    "name": "United Kingdom",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 151,
+    "name": "United States of America",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 207,
+    "name": "Uruguay",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 208,
+    "name": "Uzbekistan",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 302,
+    "name": "Vanuatu",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 245,
+    "name": "Venezuela",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 199,
+    "name": "Vietnam",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 314,
+    "name": "Wallis and Futuna",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 189,
+    "name": "Yemen",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 266,
+    "name": "Zambia",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 269,
+    "name": "Zimbabwe",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 187,
+    "name": "the Holy See",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 512,
+    "name": "EU Institution",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 551,
+    "name": "International Organisation",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 600,
+    "name": "Public or private",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 500,
+    "name": "TAIEX Office",
+    "disabled": false,
+    "eventCategoryId": 0
+  },
+  {
+    "id": 0,
+    "name": "TO BE DEFINED",
+    "disabled": false,
+    "eventCategoryId": 0
+  }
+]

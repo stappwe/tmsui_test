@@ -1,0 +1,47 @@
+{
+  "result": true,
+  "message": null,
+  "messageTranslationCode": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "languageId": 151,
+        "languageName": "Albanian",
+        "languageAbbrev": "SQ",
+        "subtitle": false
+      },
+      {
+        "languageId": 201,
+        "languageName": "Arabic",
+        "languageAbbrev": "AR",
+        "subtitle": false
+      },
+      {
+        "languageId": 1,
+        "languageName": "English",
+        "languageAbbrev": "EN",
+        "subtitle": true
+      },
+      {
+        "languageId": 111,
+        "languageName": "Russian",
+        "languageAbbrev": "RU",
+        "subtitle": false
+      },
+      {
+        "languageId": 155,
+        "languageName": "Serbian",
+        "languageAbbrev": "SR",
+        "subtitle": false
+      },
+      {
+        "languageId": 113,
+        "languageName": "Turkish",
+        "languageAbbrev": "TR",
+        "subtitle": false
+      }
+    ],
+    "rowCount": 6
+  }
+}

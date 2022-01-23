@@ -1,0 +1,15 @@
+<div class="modal-header" fxLayout="row">
+  <h4 class="modal-title">{{ caption }}</h4>
+  <button type="button" class="btn btn-icon btn-secondary" (click)="onClose()">
+    <span class="fa fa-times btn-close" fxLayoutAlign="end" aria-label="Close" aria-hidden="true"></span>
+  </button>
+</div>
+<div class="modal-body">
+  <p>{{ message }}</p>
+</div>
+<div class="modal-footer">
+  <div fxLayout="row" fxLayoutAlign="end">
+    <button type="button" class="btn btn-primary btn-toolbar-text btn-split" (click)="onCancel()" [hidden]="messageType !== enMessageDialog.accept">{{ captionCancelBtn }}</button>
+    <button type="button" class="btn btn-primary btn-toolbar-text" (click)="onOk()">{{ captionOkBtn }}</button>
+  </div>
+</div>

@@ -1,0 +1,320 @@
+{
+  "personId": 541595,
+  "firstName": "Domagoj",
+  "familyName": "Dodig",
+  "email": "domagoj.dodig@miz.hr",
+  "privateEmail": "ddodig@gmail.com",
+  "mobilePhone": "+385 99 486 60 87",
+  "formalAddressId": 1,
+  "supplierId": null,
+  "supplierName": null,
+  "street": null,
+  "city": "Zagreb",
+  "postalCode": "10000",
+  "countryId": null,
+  "position": null,
+  "telephone": null,
+  "privateMobilePhone": null,
+  "privateTelephone": null,
+  "formType": 3,
+  "userType": 1,
+  "selectedNationality": {
+    "id": 53,
+    "countryName": "Croatia",
+    "nationality": "Croatian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "HR"
+  },
+  "selectedEmploymentStatus": {
+    "id": 1,
+    "description": "Public Official in Active service",
+    "abbreviation": "PO Active",
+    "options": 0
+  },
+  "selectedLanguages": [
+    {
+      "id": 155,
+      "abbreviation": "SR",
+      "description": "Serbian",
+      "visible": 1
+    },
+    {
+      "id": 1,
+      "abbreviation": "EN",
+      "description": "English",
+      "visible": 1
+    },
+    {
+      "id": 152,
+      "abbreviation": "BS",
+      "description": "Bosnian",
+      "visible": 1
+    },
+    {
+      "id": 153,
+      "abbreviation": "HR",
+      "description": "Croatian",
+      "visible": 1
+    }
+  ],
+  "selectedTwCountry": null,
+  "employmentStatusComment": null,
+  "employmentStatusDate": null,
+  "password": null,
+  "institution": "Ministry of Health",
+  "department": "Sector for Financing",
+  "function": "Head of Sector",
+  "street1": "Ksaver 200a",
+  "street2": null,
+  "selectedCountry": {
+    "id": 53,
+    "countryName": "Croatia",
+    "nationality": "Croatian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "HR"
+  },
+  "institutionType": 0,
+  "euLegislation": "32014L0024, 32014L0025, 32014L0055, 32002R2195, 32009L0081, 32014L0023, 32013R0473, 32010L0031,",
+  "cvSummary": "Currently I am Head of Sector for Financing at Ministry of Health. Previously I was head of Division for Approving and Monitoring PPP projects in Agency for investment and competitiveness, Regulatory body responsible for Public-private partnership projects in Croatia (national level). This role requires me to analyze, evaluate and approve PPP project proposals (Risk Analyzing, Approving proposed financial models, Approving tender documentation, Approving draft of PPP contract) as well as monitor PPP projects in operational phase. \nWith more than 10 years of experience in PPP sector I was a member of the team who was: (i) set up complete Croatian PPP legal and institutional framework, (ii) provide technical assistance and advising public sector clients on PPP policy and programming (strengthening legal and institutional framework),  (iii) draft Manuals for public sector, potential private partners and lenders, (iv) implemented numerous of seminars and workshops on PPP,  Project preparation, legal, financial and technical aspects and (v) work on specific PPP projects",
+  "expertFileName": "Domagoj Dodig_resume_2017_09.docx",
+  "expertCv": null,
+  "expertCvURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict//api/tmsweb/find-speakerform-cv?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIyIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NjUxMTYyNTY5In0.lLsNiIMgbkFhih9nAdm2H_XG-GR-CKlbJknOBx8MLcE",
+  "expertCvExtension": null,
+  "selectedChapters": [
+    {
+      "id": 11719040,
+      "description": "05 Public procurement",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 35
+    },
+    {
+      "id": 11719268,
+      "description": "22 Regional policy and coordination of structural instruments [14]",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 263
+    },
+    {
+      "id": 11719041,
+      "description": "05.10 Public contracts [06.30]",
+      "parentid": 11719040,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 36
+    },
+    {
+      "id": 11719042,
+      "description": "05.10.10 General [06.30.10]",
+      "parentid": 11719041,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 37
+    },
+    {
+      "id": 11719043,
+      "description": "05.10.20 Public works contracts [06.30.20]",
+      "parentid": 11719041,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 38
+    },
+    {
+      "id": 11719044,
+      "description": "05.10.30 Public supply contracts [06.30.30]",
+      "parentid": 11719041,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 39
+    },
+    {
+      "id": 11719045,
+      "description": "05.10.40 Public services contracts [06.30.40]",
+      "parentid": 11719041,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 40
+    },
+    {
+      "id": 11719046,
+      "description": "05.10.50 Other public contracts [06.30.50]",
+      "parentid": 11719041,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 41
+    },
+    {
+      "id": 11743849,
+      "description": "22.01 REGIO [14]",
+      "parentid": 11719268,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 264
+    },
+    {
+      "id": 11743842,
+      "description": "22.01.10 Programming cycle [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 265
+    },
+    {
+      "id": 11743843,
+      "description": "22.01.20 Thematic areas [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 266
+    },
+    {
+      "id": 11743844,
+      "description": "22.01.30 Horizontal areas [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 267
+    },
+    {
+      "id": 11743845,
+      "description": "22.01.40 Financial Instruments [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 268
+    },
+    {
+      "id": 11743846,
+      "description": "22.01.50 Integrated and territorial approaches [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 269
+    },
+    {
+      "id": 11743847,
+      "description": "22.01.60 European Territorial Cooperation  [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 270
+    },
+    {
+      "id": 11743848,
+      "description": "22.01.70 Other [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 271
+    }
+  ],
+  "selectedKeywords": [
+    106,
+    22,
+    56,
+    290,
+    105,
+    178,
+    162,
+    240,
+    47,
+    284,
+    434
+  ],
+  "status": 4,
+  "ncpValidate": 6,
+  "ncpComment": null,
+  "privateEmailInComm": true,
+  "expirationDate": 1605430956275,
+  "validationResultMessage": null,
+  "edbTwinning": [],
+  "registrationId": 9722,
+  "encryptedId": "eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIyIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NjUxMTYyNTY5In0.lLsNiIMgbkFhih9nAdm2H_XG-GR-CKlbJknOBx8MLcE",
+  "eventName": "TAIEX-REGIO Study Visit on communication activities",
+  "eventTypeAbbr": "REGIO IND/STUD",
+  "eventId": 70469,
+  "eventStartDate": 1601535600000,
+  "eventCategoryId": 2,
+  "place": "",
+  "printUrl": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/speakerForm/print?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIyIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NjUxMTYyNTY5In0.lLsNiIMgbkFhih9nAdm2H_XG-GR-CKlbJknOBx8MLcE",
+  "personAccount": {
+    "bankName": null,
+    "accountHolder": null,
+    "iban": null,
+    "originalIban": null,
+    "bic": null,
+    "confirm": null
+  },
+  "subsistanceAccount": {
+    "bankName": null,
+    "accountHolder": null,
+    "iban": null,
+    "originalIban": null,
+    "bic": null,
+    "confirm": null
+  },
+  "fax": null,
+  "speechTitle": null,
+  "codedString": null,
+  "result": null,
+  "caseHandlerEmail": "Thibault.CHARLET@ec.europa.eu",
+  "faaPaySupplier": false,
+  "perDiemPaySupplier": false,
+  "newRegistration": true,
+  "state": {
+    "logisticsFinished": false,
+    "completed": false,
+    "registered": false,
+    "valid": true
+  },
+  "participantTravelData": {
+    "travelBy": null,
+    "departureAirport": null,
+    "departureStation": null,
+    "earlyArrival": true,
+    "lateDeparture": true,
+    "requireAccommodation": null,
+    "comment": null
+  },
+  "limits": {},
+  "travelBy": null,
+  "comment": null,
+  "departure": null,
+  "studyVisit": true,
+  "requireAccommodation": null,
+  "breakOutSessionList": [
+    {
+      "id": 1,
+      "name": "Session 1 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 2,
+      "name": "Session 2 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 3,
+      "name": "Session 3 - Improve... 25/10 - 14h - 18h"
+    }
+  ],
+  "selectedBreakOutSessions": [1,2]
+}

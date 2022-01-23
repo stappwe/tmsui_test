@@ -1,0 +1,11 @@
+[
+  {"id": 128, "name": "Preparation of fiche", "disabled": true, "abbreviation": "Preparation"},
+  {"id": 4, "name": "Call for Proposal open", "disabled": true, "abbreviation": "CfP open"},
+  {"id": 1024, "name": "Under selection", "disabled": true, "abbreviation": "Under selection"},
+  {"id": 32, "name": "Preparation of contract", "disabled": true, "abbreviation": "Pr contract"},
+  {"id": 64, "name": "Ongoing", "disabled": true, "abbreviation": "Ongoing"},
+  {"id": 16, "name": "Concluded", "disabled": true, "abbreviation": "Concluded"},
+  {"id": 2, "name": "Unsuccessful/To be recirculated", "disabled": false, "abbreviation": "Unsuccessful"},
+  {"id": 512, "name": "Cancelled", "disabled": false, "abbreviation": "Cancelled"}
+]
+

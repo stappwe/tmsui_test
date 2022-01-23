@@ -1,0 +1,1067 @@
+{
+  "project": [
+    {
+      "id": 6,
+      "name": "EIR PEER 2 PEER"
+    },
+    {
+      "id": 1,
+      "name": "IPA, ENI"
+    },
+    {
+      "id": 2,
+      "name": "PI"
+    },
+    {
+      "id": 3,
+      "name": "REGIO PEER 2 PEER"
+    },
+    {
+      "id": 5,
+      "name": "SRSP PEER 2 PEER"
+    },
+    {
+      "id": 4,
+      "name": "TCC"
+    }
+  ],
+  "startDateYear": [
+    {
+      "id": 2010,
+      "name": "2010"
+    },
+    {
+      "id": 2011,
+      "name": "2011"
+    },
+    {
+      "id": 2012,
+      "name": "2012"
+    },
+    {
+      "id": 2013,
+      "name": "2013"
+    },
+    {
+      "id": 2014,
+      "name": "2014"
+    },
+    {
+      "id": 2015,
+      "name": "2015"
+    },
+    {
+      "id": 2016,
+      "name": "2016"
+    },
+    {
+      "id": 2017,
+      "name": "2017"
+    },
+    {
+      "id": 2018,
+      "name": "2018"
+    },
+    {
+      "id": 2019,
+      "name": "2019"
+    },
+    {
+      "id": 2020,
+      "name": "2020"
+    }
+  ],
+  "eventType": [
+    {
+      "id": 63,
+      "name": "AGR HOME"
+    },
+    {
+      "id": 36,
+      "name": "AGR IND/EXP"
+    },
+    {
+      "id": 35,
+      "name": "AGR IND/STUD"
+    },
+    {
+      "id": 34,
+      "name": "ATCC"
+    },
+    {
+      "id": 55,
+      "name": "ATCC HOME"
+    },
+    {
+      "id": 44,
+      "name": "ATCC IND/EXP"
+    },
+    {
+      "id": 43,
+      "name": "ATCC IND/STUD"
+    },
+    {
+      "id": 69,
+      "name": "ECRAN"
+    },
+    {
+      "id": 72,
+      "name": "ECRAN HOME"
+    },
+    {
+      "id": 70,
+      "name": "ECRAN IND/EXP"
+    },
+    {
+      "id": 71,
+      "name": "ECRAN IND/STUD"
+    },
+    {
+      "id": 77,
+      "name": "EIR"
+    },
+    {
+      "id": 78,
+      "name": "EIR HOME"
+    },
+    {
+      "id": 79,
+      "name": "EIR IND/EXP"
+    },
+    {
+      "id": 80,
+      "name": "EIR IND/STUD"
+    },
+    {
+      "id": 95,
+      "name": "EPPA"
+    },
+    {
+      "id": 96,
+      "name": "EPPA HOME"
+    },
+    {
+      "id": 97,
+      "name": "EPPA IND/EXP"
+    },
+    {
+      "id": 98,
+      "name": "EPPA IND/STUD"
+    },
+    {
+      "id": 59,
+      "name": "ETT"
+    },
+    {
+      "id": 64,
+      "name": "ETT HOME"
+    },
+    {
+      "id": 61,
+      "name": "ETT IND/EXP"
+    },
+    {
+      "id": 60,
+      "name": "ETT IND/STUD"
+    },
+    {
+      "id": 30,
+      "name": "INT MARKT"
+    },
+    {
+      "id": 65,
+      "name": "INT MARKT HOME"
+    },
+    {
+      "id": 42,
+      "name": "INT MARKT IND/EXP"
+    },
+    {
+      "id": 41,
+      "name": "INT MARKT IND/STUD"
+    },
+    {
+      "id": 32,
+      "name": "JHA"
+    },
+    {
+      "id": 66,
+      "name": "JHA HOME"
+    },
+    {
+      "id": 38,
+      "name": "JHA IND/EXP"
+    },
+    {
+      "id": 37,
+      "name": "JHA IND/STUD"
+    },
+    {
+      "id": 86,
+      "name": "PI"
+    },
+    {
+      "id": 85,
+      "name": "PI HOME"
+    },
+    {
+      "id": 88,
+      "name": "PI IND/EXP"
+    },
+    {
+      "id": 87,
+      "name": "PI IND/STUD"
+    },
+    {
+      "id": 90,
+      "name": "REGIO"
+    },
+    {
+      "id": 89,
+      "name": "REGIO HOME"
+    },
+    {
+      "id": 92,
+      "name": "REGIO IND/EXP"
+    },
+    {
+      "id": 91,
+      "name": "REGIO IND/STUD"
+    },
+    {
+      "id": 81,
+      "name": "RIPAP"
+    },
+    {
+      "id": 84,
+      "name": "RIPAP HOME"
+    },
+    {
+      "id": 83,
+      "name": "RIPAP IND/EXP"
+    },
+    {
+      "id": 82,
+      "name": "RIPAP IND/STUD"
+    },
+    {
+      "id": 62,
+      "name": "SCR"
+    },
+    {
+      "id": 73,
+      "name": "SRSP"
+    },
+    {
+      "id": 74,
+      "name": "SRSP HOME"
+    },
+    {
+      "id": 75,
+      "name": "SRSP IND/EXP"
+    },
+    {
+      "id": 76,
+      "name": "SRSP IND/STUD"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "AGR"
+    },
+    {
+      "id": 4,
+      "name": "ETT"
+    },
+    {
+      "id": 12,
+      "name": "ICE"
+    },
+    {
+      "id": 3,
+      "name": "IND/MOB"
+    },
+    {
+      "id": 5,
+      "name": "INT MARKT"
+    },
+    {
+      "id": 6,
+      "name": "JHA"
+    },
+    {
+      "id": 13,
+      "name": "LAF"
+    },
+    {
+      "id": 7,
+      "name": "LAN/INF"
+    },
+    {
+      "id": 11,
+      "name": "P2P"
+    },
+    {
+      "id": 8,
+      "name": "PEER"
+    },
+    {
+      "id": 10,
+      "name": "PROC"
+    },
+    {
+      "id": 9,
+      "name": "RTP"
+    },
+    {
+      "id": 14,
+      "name": "SCR"
+    },
+    {
+      "id": 2,
+      "name": "TCC"
+    }
+  ],
+  "eventCategory": [
+    {
+      "id": 1,
+      "name": "Workshop"
+    },
+    {
+      "id": 2,
+      "name": "Expert Mission"
+    },
+    {
+      "id": 3,
+      "name": "Study Visit"
+    },
+    {
+      "id": 4,
+      "name": "Work from Home"
+    },
+    {
+      "id": 5,
+      "name": "Procurement"
+    }
+  ],
+  "lastWorkflowStep": [
+    {
+      "id": 1,
+      "name": "AF Finished"
+    },
+    {
+      "id": 22,
+      "name": "AF Refused"
+    },
+    {
+      "id": 3,
+      "name": "AF Signed"
+    },
+    {
+      "id": 36,
+      "name": "AF Signed Change"
+    },
+    {
+      "id": 20,
+      "name": "AF TL Approved"
+    },
+    {
+      "id": 21,
+      "name": "AF TL Refused"
+    },
+    {
+      "id": 2,
+      "name": "AF Unlocked"
+    },
+    {
+      "id": 4,
+      "name": "AF Unsigned"
+    },
+    {
+      "id": 31,
+      "name": "Accounts Approved"
+    },
+    {
+      "id": 30,
+      "name": "Accounts Finished"
+    },
+    {
+      "id": 32,
+      "name": "Accounts Refused"
+    },
+    {
+      "id": 29,
+      "name": "Accounts Start"
+    },
+    {
+      "id": 19,
+      "name": "Active event"
+    },
+    {
+      "id": 5,
+      "name": "Block Event"
+    },
+    {
+      "id": 37,
+      "name": "CH Approved"
+    },
+    {
+      "id": 33,
+      "name": "CH Checklist Finished"
+    },
+    {
+      "id": 38,
+      "name": "CH Refused"
+    },
+    {
+      "id": 0,
+      "name": "Draft Event"
+    },
+    {
+      "id": 16,
+      "name": "ER Accounts Approved"
+    },
+    {
+      "id": 17,
+      "name": "ER Accounts Refused"
+    },
+    {
+      "id": 35,
+      "name": "ER Refused"
+    },
+    {
+      "id": 14,
+      "name": "ER Signed"
+    },
+    {
+      "id": 15,
+      "name": "ER Unsigned"
+    },
+    {
+      "id": -1,
+      "name": "Event Cancelled"
+    },
+    {
+      "id": -2,
+      "name": "Event Uncancelled"
+    },
+    {
+      "id": 40,
+      "name": "IBU FCH Approved"
+    },
+    {
+      "id": 41,
+      "name": "IBU FCH Refused Accounts"
+    },
+    {
+      "id": 42,
+      "name": "IBU FCH Refused Checklist"
+    },
+    {
+      "id": 24,
+      "name": "Logistics Finished"
+    },
+    {
+      "id": 23,
+      "name": "Logistics can Start"
+    },
+    {
+      "id": 28,
+      "name": "OF Refused"
+    },
+    {
+      "id": 12,
+      "name": "OF Signed"
+    },
+    {
+      "id": 13,
+      "name": "OF Unsigned"
+    },
+    {
+      "id": 7,
+      "name": "Protect Event"
+    },
+    {
+      "id": 9,
+      "name": "TL Approved"
+    },
+    {
+      "id": 34,
+      "name": "TL Checklist Approved"
+    },
+    {
+      "id": 39,
+      "name": "TL Checklist Refused"
+    },
+    {
+      "id": 11,
+      "name": "TL Finished"
+    },
+    {
+      "id": 10,
+      "name": "TL Refused"
+    },
+    {
+      "id": 25,
+      "name": "Travel Finished "
+    },
+    {
+      "id": 26,
+      "name": "Unblock"
+    },
+    {
+      "id": 6,
+      "name": "Unblocked"
+    },
+    {
+      "id": 27,
+      "name": "Unprotect"
+    },
+    {
+      "id": 8,
+      "name": "Unprotected"
+    }
+  ],
+  "countryEventPlace": [
+    {
+      "id": 51,
+      "name": "Albania"
+    },
+    {
+      "id": 78,
+      "name": "Algeria"
+    },
+    {
+      "id": 76,
+      "name": "Armenia"
+    },
+    {
+      "id": 75,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 74,
+      "name": "Belarus"
+    },
+    {
+      "id": 52,
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "id": 81,
+      "name": "Egypt"
+    },
+    {
+      "id": 73,
+      "name": "Georgia"
+    },
+    {
+      "id": 83,
+      "name": "Israel"
+    },
+    {
+      "id": 85,
+      "name": "Jordan"
+    },
+    {
+      "id": 56,
+      "name": "Kosovo"
+    },
+    {
+      "id": 84,
+      "name": "Lebanon"
+    },
+    {
+      "id": 87,
+      "name": "Libya"
+    },
+    {
+      "id": 72,
+      "name": "Moldova"
+    },
+    {
+      "id": 58,
+      "name": "Montenegro"
+    },
+    {
+      "id": 77,
+      "name": "Morocco"
+    },
+    {
+      "id": 0,
+      "name": "MultiCountry"
+    },
+    {
+      "id": 54,
+      "name": "North Macedonia"
+    },
+    {
+      "id": 82,
+      "name": "Palestine"
+    },
+    {
+      "id": 70,
+      "name": "Russian Federation"
+    },
+    {
+      "id": 57,
+      "name": "Serbia"
+    },
+    {
+      "id": 86,
+      "name": "Syria"
+    },
+    {
+      "id": 79,
+      "name": "Tunisia"
+    },
+    {
+      "id": 12,
+      "name": "Turkey"
+    },
+    {
+      "id": 71,
+      "name": "Ukraine"
+    }
+  ],
+  "ibuCasehandler": [
+    {
+      "id": "default",
+      "name": "  DEFAULT"
+    },
+    {
+      "id": "iarocal",
+      "name": "Alexei IAROCHEVITCH"
+    },
+    {
+      "id": "versman",
+      "name": "Andreas VERSMANN"
+    },
+    {
+      "id": "mannaan",
+      "name": "Antje MANNAERTS"
+    },
+    {
+      "id": "salkubr",
+      "name": "Brigita SALKUTE"
+    },
+    {
+      "id": "lambcla",
+      "name": "Clara LAMBERT"
+    },
+    {
+      "id": "bmariac",
+      "name": "Cristina BARAGANESCU"
+    },
+    {
+      "id": "roggier",
+      "name": "Erica ROGGIO"
+    },
+    {
+      "id": "zolceer",
+      "name": "Erik ZOLCER"
+    },
+    {
+      "id": "chinafe",
+      "name": "Federica LA CHINA"
+    },
+    {
+      "id": "sanchil",
+      "name": "Isabel SANCHEZ"
+    },
+    {
+      "id": "babiciv",
+      "name": "Iva BABIC"
+    },
+    {
+      "id": "domijos",
+      "name": "Jose DOMINGUEZ MENDOZA"
+    },
+    {
+      "id": "marakon",
+      "name": "Konstantina MARAGKOU"
+    },
+    {
+      "id": "ciabala",
+      "name": "Lara CIABATTONI"
+    },
+    {
+      "id": "shandma",
+      "name": "Marie SHAND"
+    },
+    {
+      "id": "mitscma",
+      "name": "Marion MITSCHKE"
+    },
+    {
+      "id": "vamarta",
+      "name": "Marta VALENZA"
+    },
+    {
+      "id": "haberna",
+      "name": "Nais HABERMACHER"
+    },
+    {
+      "id": "cannnat",
+      "name": "Natasha MCCANN"
+    },
+    {
+      "id": "mijolni",
+      "name": "Nikolina MIJOLOVIC"
+    },
+    {
+      "id": "londepa",
+      "name": "Paolo LONDERO"
+    },
+    {
+      "id": "bissepa",
+      "name": "Parveen BISSESSUR"
+    },
+    {
+      "id": "milinsa",
+      "name": "Sanja MILINOVIC"
+    },
+    {
+      "id": "lopedst",
+      "name": "Stefania LOPEDOTE"
+    },
+    {
+      "id": "sotgist",
+      "name": "Stefano SOTGIA"
+    },
+    {
+      "id": "angueta",
+      "name": "Tania ANGUELOVA"
+    },
+    {
+      "id": "borbata",
+      "name": "Tatjana BORBAS"
+    },
+    {
+      "id": "charlth",
+      "name": "Thibault CHARLET"
+    }
+  ],
+  "coCasehandler": [
+    {
+      "id": "w1040169",
+      "name": "Anna Kozachenko"
+    },
+    {
+      "id": "w1040214",
+      "name": "Anna Kozachenko"
+    },
+    {
+      "id": "w1040053",
+      "name": "Ayse Turkmen"
+    },
+    {
+      "id": "w1040132",
+      "name": "Ayse Turkmen"
+    },
+    {
+      "id": "w1040232",
+      "name": "Ayse Turkmen"
+    },
+    {
+      "id": "w1040200",
+      "name": "Bozinova Aleksandra"
+    },
+    {
+      "id": "w1040146",
+      "name": "Damla \u00D6ztan"
+    },
+    {
+      "id": "w1040225",
+      "name": "Damla \u00D6ztan"
+    },
+    {
+      "id": "w1040153",
+      "name": "Emilija Pavlovska"
+    },
+    {
+      "id": "w1040226",
+      "name": "Emilija Pavlovska"
+    },
+    {
+      "id": "w1040166",
+      "name": "Eva Debinski"
+    },
+    {
+      "id": "w1040203",
+      "name": "Eva Debinski"
+    },
+    {
+      "id": "w1040180",
+      "name": "Maria Teresa Ramandi"
+    },
+    {
+      "id": "w1040183",
+      "name": "Marie-Christine Laktit"
+    },
+    {
+      "id": "w1040178",
+      "name": "Marine Cardeilhac"
+    },
+    {
+      "id": "w1040131",
+      "name": "Mehmet Cemal"
+    },
+    {
+      "id": "w1040201",
+      "name": "Mehmet Cemal"
+    },
+    {
+      "id": "w1040184",
+      "name": "Nataliia Kostenko"
+    },
+    {
+      "id": "w1040249",
+      "name": "Nina Novakovic"
+    },
+    {
+      "id": "w1040157",
+      "name": "Petronela Gregov\u00E1"
+    },
+    {
+      "id": "w1040208",
+      "name": "Petronela Gregov\u00E1"
+    },
+    {
+      "id": "w1040237",
+      "name": "Simona Comin"
+    },
+    {
+      "id": "w1040173",
+      "name": "Snizhana  Shevchenko"
+    },
+    {
+      "id": "w1040147",
+      "name": "Suela Llaci"
+    },
+    {
+      "id": "w1040218",
+      "name": "Suela Llaci"
+    }
+  ],
+  "teamLeader": [
+    {
+      "id": "borbata",
+      "name": "BORBAS Tatjana"
+    },
+    {
+      "id": "bowenda",
+      "name": "BOWEN Scott"
+    },
+    {
+      "id": "evangni",
+      "name": "EVANGELOU Nicholas"
+    },
+    {
+      "id": "gudeljo",
+      "name": "GUDELYTE Jovita"
+    },
+    {
+      "id": "kirscch",
+      "name": "KIRSCHBAUM Christiane"
+    },
+    {
+      "id": "larsshe",
+      "name": "LARSSON Helen"
+    }
+  ],
+  "beneficiary": [
+    {
+      "id": 51,
+      "name": "Albania"
+    },
+    {
+      "id": 78,
+      "name": "Algeria"
+    },
+    {
+      "id": 76,
+      "name": "Armenia"
+    },
+    {
+      "id": 75,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 74,
+      "name": "Belarus"
+    },
+    {
+      "id": 52,
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "id": 81,
+      "name": "Egypt"
+    },
+    {
+      "id": 73,
+      "name": "Georgia"
+    },
+    {
+      "id": 83,
+      "name": "Israel"
+    },
+    {
+      "id": 85,
+      "name": "Jordan"
+    },
+    {
+      "id": 56,
+      "name": "Kosovo"
+    },
+    {
+      "id": 84,
+      "name": "Lebanon"
+    },
+    {
+      "id": 87,
+      "name": "Libya"
+    },
+    {
+      "id": 72,
+      "name": "Moldova"
+    },
+    {
+      "id": 58,
+      "name": "Montenegro"
+    },
+    {
+      "id": 77,
+      "name": "Morocco"
+    },
+    {
+      "id": 0,
+      "name": "MultiCountry"
+    },
+    {
+      "id": 54,
+      "name": "North Macedonia"
+    },
+    {
+      "id": 82,
+      "name": "Palestine"
+    },
+    {
+      "id": 70,
+      "name": "Russian Federation"
+    },
+    {
+      "id": 57,
+      "name": "Serbia"
+    },
+    {
+      "id": 86,
+      "name": "Syria"
+    },
+    {
+      "id": 79,
+      "name": "Tunisia"
+    },
+    {
+      "id": 12,
+      "name": "Turkey"
+    },
+    {
+      "id": 71,
+      "name": "Ukraine"
+    }
+  ],
+  "budgetGroup": [
+    {
+      "id": 46,
+      "name": "DEVCO"
+    },
+    {
+      "id": 45,
+      "name": "EIR"
+    },
+    {
+      "id": 40,
+      "name": "ENPI EAST"
+    },
+    {
+      "id": 39,
+      "name": "ENPI SOUTH"
+    },
+    {
+      "id": 37,
+      "name": "IPA"
+    },
+    {
+      "id": 41,
+      "name": "PI"
+    },
+    {
+      "id": 42,
+      "name": "REGIO"
+    },
+    {
+      "id": 44,
+      "name": "SRSP"
+    },
+    {
+      "id": 38,
+      "name": "TCC"
+    },
+    {
+      "id": 0,
+      "name": "Multicountry"
+    }
+  ],
+  "accountCaseHandler": [
+    {
+      "id": "w1040177",
+      "name": "Aleksandrs Lebedevs"
+    },
+    {
+      "id": "w1040215",
+      "name": "Karina Lebedeva-Dzabara"
+    },
+    {
+      "id": "w1040172",
+      "name": "Roman Shagan"
+    },
+    {
+      "id": "w1040241",
+      "name": "Roman Shagan"
+    },
+    {
+      "id": "w1040088",
+      "name": "Warwar Soe"
+    },
+    {
+      "id": "w1040231",
+      "name": "Warwar Soe"
+    },
+    {
+      "id": "w1040250",
+      "name": "Yuriko Hashimoto"
+    }
+  ],
+  "ticketCoCaseHandler": [
+    {
+      "id": "w1040187",
+      "name": "Estrella Marmol"
+    },
+    {
+      "id": "w1040242",
+      "name": "Rahul Mohinder"
+    },
+    {
+      "id": "w1040186",
+      "name": "Sahar Samaan"
+    },
+    {
+      "id": "w1040182",
+      "name": "Suhaib Ismaeil"
+    }
+  ]
+}
+

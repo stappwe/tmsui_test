@@ -1,0 +1,496 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "defaultProject": "tms",
+  "cli": {
+    "analytics": false
+  },
+  "projects": {
+    "tms-library": {
+      "root": "projects/tms-library",
+      "sourceRoot": "projects/tms-library/src",
+      "projectType": "library",
+      "prefix": "lib",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-ng-packagr:build",
+          "options": {
+            "tsConfig": "projects/tms-library/tsconfig.lib.json",
+            "project": "projects/tms-library/ng-package.json"
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/tms-library/tsconfig.lib.json",
+              "projects/tms-library/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    },
+    "tms": {
+      "root": "projects/tms/",
+      "sourceRoot": "projects/tms/src",
+      "projectType": "application",
+      "prefix": "app",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss",
+          "spec": false
+        }
+      },
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "allowedCommonJsDependencies": [
+              "lodash",
+              "hammerjs",
+              "ag-grid-enterprise",
+              "@eui/core"
+            ],
+            "outputPath": "dist/tms",
+            "index": "projects/tms/src/index.html",
+            "main": "projects/tms/src/main.ts",
+            "polyfills": "projects/tms/src/polyfills.ts",
+            "tsConfig": "projects/tms/tsconfig.app.json",
+            "assets": [
+              "projects/tms/src/favicon.ico",
+              "projects/tms/src/assets",
+              "projects/tms/src/manifest.json",
+              "projects/tms/src/open.html",
+              {
+                "glob": "**/*",
+                "input": "node_modules/@eui/core/assets/",
+                "output": "./assets"
+              },
+              {
+                "glob": "**/*",
+                "input": "node_modules/@eui/styles/dist/assets/images",
+                "output": "./assets/images"
+              },
+              {
+                "glob": "**/*",
+                "input": "node_modules/@eui/ecl-core/assets/",
+                "output": "./assets"
+              },
+              {
+                "glob": "**/*",
+                "input": "node_modules/@eui/ecl-styles/dist/assets/images",
+                "output": "./assets/images"
+              },
+              "projects/tms/src/app/services/json"
+            ],
+            "styles": [
+              "node_modules/@eui/styles/dist/assets/fonts/webfont/Roboto/Roboto.css",
+              "node_modules/@eui/styles/dist/assets/fonts/font-awesome/font-awesome.min.css",
+              "node_modules/@eui/styles/dist/styles/eui.css",
+              "node_modules/@eui/styles/dist/styles/eui-bootstrap.css",
+              "node_modules/@eui/styles/dist/styles/eui-components.css",
+              "projects/tms/src/styles.scss",
+              "projects/tms/src/eui-t-fresh.scss",
+              "projects/tms/src/ag-grid-fresh.scss",
+              "projects/tms/src/app/app.component.scss",
+              "projects/tms/src/theme.scss",
+              "node_modules/shaka-player/dist/controls.css"
+            ],
+            "scripts": [
+              "node_modules/shaka-player/dist/shaka-player.ui.js"
+            ],
+            "serviceWorker": true,
+            "ngswConfigPath": "projects/tms/ngsw-config.json"
+          },
+          "configurations": {
+            "prod": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "3mb",
+                  "maximumError": "7mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "dev": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.dev.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": false,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "10mb",
+                  "maximumError": "15mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "12kb",
+                  "maximumError": "20kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "acc": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.acc.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "10mb",
+                  "maximumError": "15mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "12kb",
+                  "maximumError": "20kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "test": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.test.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "10mb",
+                  "maximumError": "15mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "12kb",
+                  "maximumError": "20kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "trn": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.trn.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "5mb",
+                  "maximumError": "10mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "vm": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.vm.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "5mb",
+                  "maximumError": "10mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "proxy-mock": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.proxy-mock.ts"
+                }
+              ],
+              "optimization": false,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": false,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "5mb",
+                  "maximumError": "10mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "vm4dev10": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.vm4dev10.ts"
+                }
+              ],
+              "optimization": false,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": false,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "5mb",
+                  "maximumError": "10mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "vm4dev11": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.vm4dev11.ts"
+                }
+              ],
+              "optimization": false,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": false,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "5mb",
+                  "maximumError": "10mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "serviceWorker": true
+            },
+            "vm4dev13": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/tms/src/environments/environment.ts",
+                  "with": "projects/tms/src/environments/environment.vm4dev13.ts"
+                }
+              ],
+              "optimization": false,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": true,
+              "namedChunks": true,
+              "aot": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": false,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "5mb",
+                  "maximumError": "10mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "serviceWorker": true
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "tms:build",
+            "port": 4207
+          },
+          "configurations": {
+            "vm4dev10": {
+              "browserTarget": "tms:build:vm4dev10",
+              "proxyConfig": "proxy-vm4dev10.conf.json"
+            },
+            "vm4dev11": {
+              "browserTarget": "tms:build:vm4dev11",
+              "proxyConfig": "proxy-vm4dev11.conf.json"
+            },
+            "vm4dev13": {
+              "browserTarget": "tms:build:vm4dev13",
+              "proxyConfig": "proxy-vm4dev13.conf.json"
+            },
+            "proxy-mock": {
+              "browserTarget": "tms:build:proxy-mock",
+              "proxyConfig": "proxy-mock.conf.json"
+            },
+            "proxy": {
+              "browserTarget": "tms:build",
+              "proxyConfig": "proxy.conf.json"
+            },
+            "prod": {
+              "browserTarget": "tms:build:prod"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "tms:build"
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/tms/tsconfig.app.json",
+              "projects/tms/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    },
+    "tms-e2e": {
+      "root": "projects/tms-e2e/",
+      "projectType": "application",
+      "prefix": "",
+      "architect": {
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/tms-e2e/protractor.conf.js",
+            "devServerTarget": "tms:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "tms:serve:production"
+            }
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": "projects/tms-e2e/tsconfig.e2e.json",
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "cli": {
+    "analytics": false
+  }
+}

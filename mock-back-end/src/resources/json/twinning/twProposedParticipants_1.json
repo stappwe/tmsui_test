@@ -1,0 +1,22 @@
+[
+  {
+    "twinningId": 2011242,
+    "personId": null,
+    "proposalId": 1,
+    "participantID": 52647,
+    "supplierId": null,
+    "country": "Poland",
+    "jobtitle": null,
+    "firstName": null,
+    "familyName": null,
+    "institutionName": null,
+    "institutionType": null,
+    "comment": null,
+    "email": null,
+    "privateEmail": null,
+    "selected": false,
+    "replaced": false,
+    "countryRole": 1,
+    "archived": false
+  }
+]

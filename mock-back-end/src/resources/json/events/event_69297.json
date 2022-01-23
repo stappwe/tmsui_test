@@ -1,0 +1,147 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": "1",
+  "data": {
+    "eventId": 69297,
+    "motherEventId": 69297,
+    "seriesFirstEventId": null,
+    "ofStatus": "Y",
+    "workflowStepsDone": [
+      0,
+      19,
+      1,
+      20,
+      3,
+      23,
+      24,
+      37,
+      9,
+      12,
+      30,
+      31,
+      39
+    ],
+    "eventAddCorr": 0,
+    "eventName": "TAIEX Expert mission on follow-up mission to peer review on freedom of expression in Kosovo",
+    "eventNameFR": null,
+    "taiexContractor": {
+      "id": 8,
+      "name": "TAIEX - 8",
+      "startDate": "2020-08-01T00:00:00.000Z",
+      "endDate": "2024-07-31T23:59:59.000Z"
+    },
+    "eventType": {
+      "id": 38,
+      "name": "JHA IND/EXP",
+      "eventCategoryId": 3
+    },
+    "taskId": 30667,
+    "euLegislation": {
+      "_items": [
+        {
+          "id": 11719282,
+          "description": "23 Judiciary and fundamental rights [20]",
+          "parentid": 0,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 1,
+          "order": 285
+        }
+      ]
+    },
+    "keywords": [
+      49
+    ],
+    "eventDates": {
+      "startDate": "2020-10-05T09:30:00.000Z",
+      "endDate": "2020-10-07T17:15:00.000Z"
+    },
+    "project": {
+      "id": 1,
+      "name": "IPA, ENI"
+    },
+    "beneficiaryCountryList": [
+      {
+        "id": 56,
+        "name": "Kosovo",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      }
+    ],
+    "evalCorrEmail": "david.cullen@ec.europa.eu",
+    "countryEventPlace": {
+      "id": 512,
+      "name": "EU Institution"
+    },
+    "cityList": [
+      {
+        "id": 1785361,
+        "name": "Video Tele Conference "
+      }
+    ],
+    "ibuCaseHandler": {
+      "id": "shandma",
+      "name": "SHAND Marie",
+      "email": "Marie.SHAND@ec.europa.eu",
+      "phone": "+32 2 29 85586",
+      "type": 1
+    },
+    "coCaseHandler": {
+      "id": "n0043l6b",
+      "name": "Nataliia Kostenko",
+      "email": "nataliia.kostenko@cecoforma.com",
+      "phone": null,
+      "type": 5
+    },
+    "ticketCoCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 21
+    },
+    "accountCoCaseHandler": {
+      "id": "n0041ee3",
+      "name": "Zsofia Salamon",
+      "email": "zsofia.salamon@cecoforma.com",
+      "phone": "003243323003",
+      "type": 10
+    },
+    "createDate": "2019-07-04T14:02:05.000Z",
+    "lastChanged": "2021-03-15T11:25:22.000Z",
+    "ofSubmissionDate": "2020-09-24T00:00:00.000Z",
+    "invoicePeriod": null,
+    "contractorEventRemarks": null,
+    "ofComments": "Addendum will be created to add 2 additional participants at 0 costs. ",
+    "cancelledEvent": false,
+    "visibleOnTaiex": false,
+    "hasToBePublished": false,
+    "hiddenOnESE": false,
+    "evaluationRequired": true,
+    "webFolderLocked": true,
+    "taiexStrategic": false,
+    "allowedWorkflowActions": [
+      33
+    ],
+    "commentStatus": 2,
+    "contractorReportStatus": null,
+    "eventStatus": "AF is signed. OF is Signed. TL Checklist Refused.\\nEDB Status: Not published",
+    "summary": {
+      "participants": 30,
+      "coffeBreaks": 0,
+      "lunches": 0,
+      "dinners": 0,
+      "waters": 0,
+      "totalCost": 7820.05,
+      "contingency": 553,
+      "balance": 553,
+      "contractorFee": 2300,
+      "contractorFeeAdditional": 0
+    },
+    "blankChecklistURL": "https://webgate.acceptance.ec.europa.eu/Twinning/api/TMS/getDocumentByKey?keyid=eyJhbGciOiJIUzI1NiJ9.eyJkSUQiOiIyNDE2NTgwIiwidGltZXN0YW1wIjoiMTYyMzgzMDA1NTE5MCJ9.ovy4njJWIGoGen6cZDIBt-feY-MqWu8QlwD2ZjYYCY0",
+    "evaluationImpactFeedbackResultURL": "https://google.com",
+    "paymentFileURL": null,
+    "implementationType": 1
+  }
+}

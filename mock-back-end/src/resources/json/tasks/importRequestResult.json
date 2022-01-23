@@ -1,0 +1,9 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJhcHBGb3JtSUQiOiI1MzQwNiIsInRJRCI6IjMwMTI3In0.awscF6OprBiv7hWfnxPbKS7App1U2KgDR61mBjMiZn0",
+    "taskId": 30127
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "invoicePeriod": "Q20/TAIEX_2020",
+    "invoiceDate": "01/08/2025",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q19/TAIEX_2020",
+    "invoiceDate": "01/05/2025",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q18/TAIEX_2020",
+    "invoiceDate": "01/02/2025",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q17/TAIEX_2020",
+    "invoiceDate": "01/11/2024",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q16/TAIEX_2020",
+    "invoiceDate": "01/08/2024",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q15/TAIEX_2020",
+    "invoiceDate": "01/05/2024",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q14/TAIEX_2020",
+    "invoiceDate": "01/02/2024",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q13/TAIEX_2020",
+    "invoiceDate": "01/11/2023",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q12/TAIEX_2020",
+    "invoiceDate": "01/08/2023",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q11/TAIEX_2020",
+    "invoiceDate": "01/05/2023",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q10/TAIEX_2020",
+    "invoiceDate": "01/02/2023",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q9/TAIEX_2020",
+    "invoiceDate": "01/11/2022",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q8/TAIEX_2020",
+    "invoiceDate": "01/08/2022",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q7/TAIEX_2020",
+    "invoiceDate": "01/05/2022",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q6/TAIEX_2020",
+    "invoiceDate": "01/02/2022",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q5/TAIEX_2020",
+    "invoiceDate": "01/11/2021",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q4/TAIEX_2020",
+    "invoiceDate": "01/08/2021",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q3/TAIEX_2020",
+    "invoiceDate": "01/05/2021",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q2/TAIEX_2020",
+    "invoiceDate": "01/02/2021",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q1/TAIEX_2020",
+    "invoiceDate": "01/11/2020",
+    "taiexContractor": 8
+  },
+  {
+    "invoicePeriod": "Q20/IBF_2016",
+    "invoiceDate": "01/08/2021",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q19/IBF_2016",
+    "invoiceDate": "01/05/2021",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q18/IBF_2016",
+    "invoiceDate": "01/02/2021",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q17/IBF_2016",
+    "invoiceDate": "01/11/2020",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q16/IBF_2016",
+    "invoiceDate": "01/08/2020",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q15/IBF_2016",
+    "invoiceDate": "01/05/2020",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q14/IBF_2016",
+    "invoiceDate": "01/02/2020",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q13/IBF_2016",
+    "invoiceDate": "01/11/2019",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q12/IBF_2016",
+    "invoiceDate": "01/08/2019",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q11/IBF_2016",
+    "invoiceDate": "01/05/2019",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q10/IBF_2016",
+    "invoiceDate": "01/02/2019",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q9/IBF_2016",
+    "invoiceDate": "01/11/2018",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q8/IBF_2016",
+    "invoiceDate": "01/08/2018",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q7/IBF_2016",
+    "invoiceDate": "01/05/2018",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q6/IBF_2016",
+    "invoiceDate": "01/02/2018",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q5/IBF_2016",
+    "invoiceDate": "01/11/2017",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q4/IBF_2016",
+    "invoiceDate": "01/08/2017",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q3/IBF_2016",
+    "invoiceDate": "01/05/2017",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q2/IBF_2016",
+    "invoiceDate": "01/02/2017",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q1/IBF_2016",
+    "invoiceDate": "01/11/2016",
+    "taiexContractor": 7
+  },
+  {
+    "invoicePeriod": "Q20/IBF_2012",
+    "invoiceDate": "01/08/2017",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q19/IBF_2012",
+    "invoiceDate": "01/05/2017",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q18/IBF_2012",
+    "invoiceDate": "01/02/2017",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q17/IBF_2012",
+    "invoiceDate": "01/11/2016",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q16/IBF_2012",
+    "invoiceDate": "01/08/2016",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q15/IBF_2012",
+    "invoiceDate": "01/05/2016",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q14/IBF_2012",
+    "invoiceDate": "01/02/2016",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q13/IBF_2012",
+    "invoiceDate": "01/11/2015",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q12/IBF_2012",
+    "invoiceDate": "01/08/2015",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q11/IBF_2012",
+    "invoiceDate": "01/05/2015",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q10/IBF_2012",
+    "invoiceDate": "01/02/2015",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q9/IBF_2012",
+    "invoiceDate": "01/11/2014",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q8/IBF_2012",
+    "invoiceDate": "01/08/2014",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q7/IBF_2012",
+    "invoiceDate": "01/05/2014",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q6/IBF_2012",
+    "invoiceDate": "01/02/2014",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q5/IBF_2012",
+    "invoiceDate": "01/11/2013",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q4/IBF_2012",
+    "invoiceDate": "01/08/2013",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q3/IBF_2012",
+    "invoiceDate": "01/05/2013",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q2/IBF_2012",
+    "invoiceDate": "01/02/2013",
+    "taiexContractor": 6
+  },
+  {
+    "invoicePeriod": "Q1/IBF_2012",
+    "invoiceDate": "01/11/2012",
+    "taiexContractor": 6
+  }
+]

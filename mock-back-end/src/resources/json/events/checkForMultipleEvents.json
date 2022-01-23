@@ -1,0 +1,33 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": [
+    {
+      "eventId": 80432,
+      "startDate": "2021-01-26T08:30:00.000Z",
+      "endDate": "2021-01-28T17:00:00.000Z",
+      "eventType": "ETT",
+      "city": "Rome,Milan",
+      "afStatus": "Y",
+      "ofStatus": "R",
+      "eventName": "Add. 2 to 2010/80304 - TAIEX Flagship Workshop on Green Deal and Green Recovery",
+      "ibuCasehandler": "Tatjana BORBAS",
+      "ibuCasehandlerEmail": "Tatjana.BORBAS@ec.europa.eu",
+      "ibuCasehandlerPhone": "+32 2 29 58951"
+    },
+    {
+      "eventId": 80304,
+      "startDate":"2021-01-26T08:30:00.000Z",
+      "endDate": "2021-01-29T17:00:00.000Z",
+      "eventType": "ETT",
+      "city": "Rome",
+      "afStatus": "N",
+      "ofStatus": "N",
+      "eventName": "TAIEX Flagship Workshop on Green Deal and Green Recovery",
+      "ibuCasehandler": "Tatjana BORBAS",
+      "ibuCasehandlerEmail": "Tatjana.BORBAS@ec.europa.eu",
+      "ibuCasehandlerPhone": "+32 2 29 58951"
+    }
+  ]
+}

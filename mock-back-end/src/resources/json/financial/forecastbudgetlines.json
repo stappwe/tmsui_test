@@ -1,0 +1,344 @@
+[
+  {
+    "budgetlineID": 46,
+    "budgetline": "DEVCO",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 46,
+    "budgetline": "DEVCO",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 46,
+    "budgetline": "DEVCO",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 46,
+    "budgetline": "DEVCO",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 46,
+    "budgetline": "DEVCO",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 46,
+    "budgetline": "DEVCO",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 46,
+    "budgetline": "DEVCO",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 45,
+    "budgetline": "EIR",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 45,
+    "budgetline": "EIR",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 45,
+    "budgetline": "EIR",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 45,
+    "budgetline": "EIR",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 45,
+    "budgetline": "EIR",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 45,
+    "budgetline": "EIR",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 45,
+    "budgetline": "EIR",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 40,
+    "budgetline": "ENPI EAST",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 40,
+    "budgetline": "ENPI EAST",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 40,
+    "budgetline": "ENPI EAST",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 40,
+    "budgetline": "ENPI EAST",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 40,
+    "budgetline": "ENPI EAST",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 40,
+    "budgetline": "ENPI EAST",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 40,
+    "budgetline": "ENPI EAST",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 39,
+    "budgetline": "ENPI SOUTH",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 39,
+    "budgetline": "ENPI SOUTH",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 39,
+    "budgetline": "ENPI SOUTH",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 39,
+    "budgetline": "ENPI SOUTH",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 39,
+    "budgetline": "ENPI SOUTH",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 39,
+    "budgetline": "ENPI SOUTH",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 39,
+    "budgetline": "ENPI SOUTH",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 37,
+    "budgetline": "IPA",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 37,
+    "budgetline": "IPA",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 37,
+    "budgetline": "IPA",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 37,
+    "budgetline": "IPA",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 37,
+    "budgetline": "IPA",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 37,
+    "budgetline": "IPA",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 37,
+    "budgetline": "IPA",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 41,
+    "budgetline": "PI",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 41,
+    "budgetline": "PI",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 41,
+    "budgetline": "PI",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 41,
+    "budgetline": "PI",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 41,
+    "budgetline": "PI",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 41,
+    "budgetline": "PI",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 41,
+    "budgetline": "PI",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 42,
+    "budgetline": "REGIO",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 42,
+    "budgetline": "REGIO",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 42,
+    "budgetline": "REGIO",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 42,
+    "budgetline": "REGIO",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 42,
+    "budgetline": "REGIO",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 42,
+    "budgetline": "REGIO",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 42,
+    "budgetline": "REGIO",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 44,
+    "budgetline": "SRSP",
+    "teamID": 1,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 44,
+    "budgetline": "SRSP",
+    "teamID": 4,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 44,
+    "budgetline": "SRSP",
+    "teamID": 5,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 44,
+    "budgetline": "SRSP",
+    "teamID": 6,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 44,
+    "budgetline": "SRSP",
+    "teamID": 10,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 44,
+    "budgetline": "SRSP",
+    "teamID": 14,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 44,
+    "budgetline": "SRSP",
+    "teamID": 15,
+    "taiexContractorID": 7
+  },
+  {
+    "budgetlineID": 38,
+    "budgetline": "TCC",
+    "teamID": 2,
+    "taiexContractorID": 7
+  }
+]

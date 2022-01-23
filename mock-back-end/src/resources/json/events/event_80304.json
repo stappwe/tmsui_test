@@ -1,0 +1,295 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "eventId": 80304,
+    "motherEventId": 80304,
+    "seriesFirstEventId": null,
+    "ofStatus": "N",
+    "workflowStepsDone": [
+      1,
+      20,
+      3,
+      23,
+      24,
+      37,
+      9
+    ],
+    "eventAddCorr": 0,
+    "eventName": "TAIEX Flagship Workshop on Green Deal and Green Recovery",
+    "eventNameFR": null,
+    "taiexContractor": {
+      "id": 8,
+      "name": "TAIEX - 8",
+      "startDate": "2020-08-01T00:00:00.000Z",
+      "endDate": "2024-07-31T23:59:59.000Z"
+    },
+    "eventType": {
+      "id": 59,
+      "name": "ETT",
+      "eventCategoryId": 1
+    },
+    "taskId": 31162,
+    "euLegislation": {
+      "_items": [
+        {
+          "id": 11719306,
+          "description": "27 Environment [15]",
+          "parentid": 0,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 2,
+          "order": 309
+        },
+        {
+          "id": 11719308,
+          "description": "27.10 Environment [15.10]",
+          "parentid": 11719306,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 2,
+          "order": 311
+        },
+        {
+          "id": 11719309,
+          "description": "27.10.10 General provisions and programmes [15.10.10]",
+          "parentid": 11719308,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 1,
+          "order": 312
+        }
+      ]
+    },
+    "keywords": [
+      122,
+      356
+    ],
+    "eventDates": {
+      "startDate": "2021-01-26T08:30:00.000Z",
+      "endDate": "2021-01-28T15:30:00.000Z"
+    },
+    "project": {
+      "id": 1,
+      "name": "IPA, ENI"
+    },
+    "beneficiaryCountryList": [
+      {
+        "id": 51,
+        "name": "Albania",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 78,
+        "name": "Algeria",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 76,
+        "name": "Armenia",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 75,
+        "name": "Azerbaijan",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 74,
+        "name": "Belarus",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 52,
+        "name": "Bosnia and Herzegovina",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 81,
+        "name": "Egypt",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 73,
+        "name": "Georgia",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 83,
+        "name": "Israel",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 85,
+        "name": "Jordan",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 56,
+        "name": "Kosovo",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 84,
+        "name": "Lebanon",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 87,
+        "name": "Libya",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 72,
+        "name": "Moldova",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 58,
+        "name": "Montenegro",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 77,
+        "name": "Morocco",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 54,
+        "name": "North Macedonia",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 82,
+        "name": "Palestine",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 57,
+        "name": "Serbia",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 86,
+        "name": "Syria",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 79,
+        "name": "Tunisia",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 12,
+        "name": "Turkey",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      },
+      {
+        "id": 71,
+        "name": "Ukraine",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      }
+    ],
+    "evalCorrEmail": "scott.bowen@ext.ec.europa.eu",
+    "countryEventPlace": {
+      "id": 512,
+      "name": "EU Institution"
+    },
+    "cityList": [
+      {
+        "id": 1785361,
+        "name": "Video Tele Conference"
+      }
+    ],
+    "ibuCaseHandler": {
+      "id": "bowenda",
+      "name": "BOWEN Scott",
+      "email": "scott.bowen@ext.ec.europa.eu",
+      "phone": "+32 229-56519",
+      "type": 1
+    },
+    "coCaseHandler": {
+      "id": "n004j2qr",
+      "name": "Joana Vilela",
+      "email": "joana.vilela@cecoforma.com",
+      "phone": null,
+      "type": 5
+    },
+    "ticketCoCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 21
+    },
+    "accountCoCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 10
+    },
+    "createDate": "2020-10-19T09:14:33.000Z",
+    "lastChanged": "2021-02-11T09:31:22.000Z",
+    "AFSignDate": "2021-03-11T09:31:22.000Z",
+    "OFSignDate": "2021-04-11T09:31:22.000Z",
+    "ERSignDate": null,
+    "ofSubmissionDate": "2021-01-15T00:00:00.000Z",
+    "invoicePeriod": null,
+    "contractorEventRemarks": null,
+    "ofComments": "- The digital platform and interpretation services (EN-AR / EN-SR / EN-TR / EN-RU) were pre-approved on 12/01/2021. Approved by IBU TL;\r\n- Interpretation services (EN-SQ) were pre-approved on 14/01/2021. Approved by IBU TL.\r\n",
+    "cancelledEvent": false,
+    "visibleOnTaiex": true,
+    "hasToBePublished": false,
+    "hiddenOnESE": true,
+    "evaluationRequired": true,
+    "webFolderLocked": false,
+    "taiexStrategic": true,
+    "allowedWorkflowActions": [],
+    "commentStatus": 2,
+    "contractorReportStatus": "1",
+    "eventStatus": "AF is signed.  OF is signed.  TL Checklist approved.\\nEDB Status: Closed on 27/10/2020",
+    "summary": {
+      "participants": 30,
+      "coffeBreaks": 0,
+      "lunches": 0,
+      "dinners": 0,
+      "waters": 0,
+      "totalCost": 41874,
+      "contingency": 3948,
+      "balance": 3948,
+      "contractorFee": 2400,
+      "contractorFeeAdditional": 0
+    },
+    "blankChecklistURL": null,
+    "externalRequestId": "19AT33,20AT33,21AT33,22AT33",
+    "externalRequestUrl": "https://webgate.ec.europa.eu/srss/issues/?jql=%22SRSP%20request%20ID%22%20~%20",
+    "evaluationImpactFeedbackResultURL": "https://google.com",
+    "paymentFileURL": null,
+    "implementationType": 2
+  }
+}

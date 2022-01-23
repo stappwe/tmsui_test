@@ -1,0 +1,5 @@
+<div #videoDiv id="videoDiv" data-shaka-player-container class="shaka-video-container" [style.height.px]="uiHeight" [style.width.px]="uiWidth">
+  <!-- The data-shaka-player tag will make the UI library use this video element.
+      If no video is provided, the UI will automatically make one inside the container div. -->
+  <video #videoPlayer data-shaka-player id="video" [poster]="poster" style="height: 100%; width: 100%;"></video>
+</div>

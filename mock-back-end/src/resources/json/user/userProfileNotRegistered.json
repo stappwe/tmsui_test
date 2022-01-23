@@ -1,0 +1,31 @@
+{
+  "userId": "n002s6k8",
+  "firstName": "Werner",
+  "familyName": "STAPPAERTS",
+  "email": "werner.stappaerts@live.be",
+  "contractorProfile": false,
+  "validAccount": null,
+  "userCategory": null,
+  "activeAccessRoleMode": null,
+  "activeUserRoleId": null,
+  "activeTeamId": null,
+  "userRoleList": [],
+  "backupUserId": null,
+  "backupUserFirstName": null,
+  "backupUserFamilyName": null,
+  "availableActions": {
+    "TWINNING": [],
+    "TMS": []
+  },
+  "availableApplications": [],
+  "encryptedUserId": null,
+  "taiexContractorId": null,
+  "phone": null,
+  "enabled": true,
+  "username": null,
+  "password": null,
+  "authorities": [],
+  "credentialsNonExpired": true,
+  "accountNonExpired": true,
+  "accountNonLocked": true
+}

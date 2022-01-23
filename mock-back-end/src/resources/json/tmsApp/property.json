@@ -1,0 +1,6 @@
+{
+  "propertyId": 2,
+  "property": "LDAP_SEARCH_FILTER",
+  "value": "(dg=NEAR) (departmentNumber=NEAR.C.3)",
+  "taiexContractorId": 0
+}

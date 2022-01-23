@@ -1,0 +1,226 @@
+[
+  {
+    "id": 100,
+    "countryName": "Austria",
+    "nationality": "Austrian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "AT"
+  },
+  {
+    "id": 101,
+    "countryName": "Belgium",
+    "nationality": "Belgian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BE"
+  },
+  {
+    "id": 1,
+    "countryName": "Bulgaria",
+    "nationality": "Bulgarian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BG"
+  },
+  {
+    "id": 53,
+    "countryName": "Croatia",
+    "nationality": "Croatian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "HR"
+  },
+  {
+    "id": 11,
+    "countryName": "Cyprus",
+    "nationality": "Cypriot",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "CY"
+  },
+  {
+    "id": 2,
+    "countryName": "Czech Republic",
+    "nationality": "Czech",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "CZ"
+  },
+  {
+    "id": 102,
+    "countryName": "Denmark",
+    "nationality": "Danish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "DK"
+  },
+  {
+    "id": 3,
+    "countryName": "Estonia",
+    "nationality": "Estonian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "EE"
+  },
+  {
+    "id": 104,
+    "countryName": "France",
+    "nationality": "French",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "FR"
+  },
+  {
+    "id": 105,
+    "countryName": "Germany",
+    "nationality": "German",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "DE"
+  },
+  {
+    "id": 106,
+    "countryName": "Greece",
+    "nationality": "Greek",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "EL"
+  },
+  {
+    "id": 4,
+    "countryName": "Hungary",
+    "nationality": "Hungarian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "HU"
+  },
+  {
+    "id": 107,
+    "countryName": "Ireland",
+    "nationality": "Irish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "IE"
+  },
+  {
+    "id": 108,
+    "countryName": "Italy",
+    "nationality": "Italian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "IT"
+  },
+  {
+    "id": 5,
+    "countryName": "Latvia",
+    "nationality": "Latvian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LV"
+  },
+  {
+    "id": 6,
+    "countryName": "Lithuania",
+    "nationality": "Lithuanian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LT"
+  },
+  {
+    "id": 109,
+    "countryName": "Luxemburg",
+    "nationality": "Luxembourger",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LU"
+  },
+  {
+    "id": 13,
+    "countryName": "Malta",
+    "nationality": "Maltese",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "MT"
+  },
+  {
+    "id": 7,
+    "countryName": "Poland",
+    "nationality": "Polish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "PL"
+  },
+  {
+    "id": 111,
+    "countryName": "Portugal",
+    "nationality": "Portuguese",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "PT"
+  },
+  {
+    "id": 8,
+    "countryName": "Romania",
+    "nationality": "Romanian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "RO"
+  },
+  {
+    "id": 9,
+    "countryName": "Slovak Republic",
+    "nationality": "Slovakian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "SK"
+  },
+  {
+    "id": 10,
+    "countryName": "Slovenia",
+    "nationality": "Slovenian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "SI"
+  },
+  {
+    "id": 112,
+    "countryName": "Spain",
+    "nationality": "Spanish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "ES"
+  },
+  {
+    "id": 103,
+    "countryName": "Suomi Finland",
+    "nationality": "Finnish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "FI"
+  },
+  {
+    "id": 113,
+    "countryName": "Sweden",
+    "nationality": "Swedish",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "SE"
+  },
+  {
+    "id": 110,
+    "countryName": "The Netherlands",
+    "nationality": "Dutch",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "NL"
+  },
+  {
+    "id": 114,
+    "countryName": "United Kingdom",
+    "nationality": "British",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "UK"
+  }
+]

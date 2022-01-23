@@ -1,0 +1,32 @@
+[
+  {
+    "id": 4,
+    "name": "Home",
+    "description": "Home"
+  },
+  {
+    "id": 5,
+    "name": "Procurement",
+    "description": "Procurement"
+  },
+  {
+    "id": 1,
+    "name": "Workshop",
+    "description": "Workshop"
+  },
+  {
+    "id": 2,
+    "name": "Study Visit",
+    "description": "Study Visit"
+  },
+  {
+    "id": 3,
+    "name": "Expert Mission",
+    "description": "Expert Mission"
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "description": "Other"
+  }
+]

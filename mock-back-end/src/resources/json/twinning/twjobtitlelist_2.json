@@ -1,0 +1,17 @@
+[
+  {
+    "id": 6,
+    "name": "BC - Project Leader",
+    "abbreviation": "BC-PL"
+  },
+  {
+    "id": 7,
+    "name": "BC - Resident Twinning Adviser Counterpart",
+    "abbreviation": "BC-RTA"
+  },
+  {
+    "id": 10,
+    "name": "BC - Component Leader",
+    "abbreviation": "BC-CL"
+  }
+]

@@ -1,0 +1,219 @@
+{
+  "formalTitle": [
+    {
+      "id": 1,
+      "name": "Mr"
+    },
+    {
+      "id": 2,
+      "name": "Ms"
+    }
+  ],
+  "countryName": [
+    {
+      "id": 100,
+      "name": "Austria"
+    },
+    {
+      "id": 101,
+      "name": "Belgium"
+    },
+    {
+      "id": 1,
+      "name": "Bulgaria"
+    },
+    {
+      "id": 53,
+      "name": "Croatia"
+    },
+    {
+      "id": 11,
+      "name": "Cyprus"
+    },
+    {
+      "id": 2,
+      "name": "Czech Republic"
+    },
+    {
+      "id": 102,
+      "name": "Denmark"
+    },
+    {
+      "id": 3,
+      "name": "Estonia"
+    },
+    {
+      "id": 103,
+      "name": "Finland"
+    },
+    {
+      "id": 104,
+      "name": "France"
+    },
+    {
+      "id": 105,
+      "name": "Germany"
+    },
+    {
+      "id": 106,
+      "name": "Greece"
+    },
+    {
+      "id": 4,
+      "name": "Hungary"
+    },
+    {
+      "id": 107,
+      "name": "Ireland"
+    },
+    {
+      "id": 108,
+      "name": "Italy"
+    },
+    {
+      "id": 5,
+      "name": "Latvia"
+    },
+    {
+      "id": 6,
+      "name": "Lithuania"
+    },
+    {
+      "id": 109,
+      "name": "Luxembourg"
+    },
+    {
+      "id": 13,
+      "name": "Malta"
+    },
+    {
+      "id": 7,
+      "name": "Poland"
+    },
+    {
+      "id": 111,
+      "name": "Portugal"
+    },
+    {
+      "id": 8,
+      "name": "Romania"
+    },
+    {
+      "id": 9,
+      "name": "Slovak Republic"
+    },
+    {
+      "id": 10,
+      "name": "Slovenia"
+    },
+    {
+      "id": 112,
+      "name": "Spain"
+    },
+    {
+      "id": 113,
+      "name": "Sweden"
+    },
+    {
+      "id": 110,
+      "name": "The Netherlands"
+    },
+    {
+      "id": 512,
+      "name": "EU Institution"
+    },
+    {
+      "id": 551,
+      "name": "International Organisation"
+    },
+    {
+      "id": 150,
+      "name": "Other"
+    }
+  ],
+  "travelBy": [
+    {
+      "id": 0,
+      "name": ""
+    },
+    {
+      "id": 1,
+      "name": "Plane"
+    },
+    {
+      "id": 2,
+      "name": "Train"
+    },
+    {
+      "id": 4,
+      "name": "Own means of travel"
+    },
+    {
+      "id": 8,
+      "name": "Public transport"
+    },
+    {
+      "id": 16,
+      "name": "No travel"
+    }
+  ],
+  "bookHotel": [
+    {
+      "id": 0,
+      "name": "No"
+    },
+    {
+      "id": 1,
+      "name": "Yes"
+    }
+  ],
+  "selectedBreakOutSessions": [
+    {
+      "id": 2,
+      "name": "Session - IPA - 8-12h"
+    },
+    {
+      "id": 3,
+      "name": "Session on green deal - 8-12h"
+    }
+  ],
+  "implementationType": [
+    {
+      "id": 1,
+      "name": "On the spot"
+    },
+    {
+      "id": 2,
+      "name": "Online"
+    }
+  ],
+  "registrationVersion": [
+    {
+      "id": 1,
+      "name": "Short"
+    },
+    {
+      "id": 2,
+      "name": "Full"
+    }
+  ],
+  "formType": [
+    {
+      "id": 1,
+      "name": "Public Expert"
+    },
+    {
+      "id": 2,
+      "name": "EU Institution"
+    },
+    {
+      "id": 3,
+      "name": "Host institution"
+    },
+    {
+      "id": 4,
+      "name": "Private Expert"
+    }
+  ]
+}
+

@@ -1,0 +1,17 @@
+<div class="input-group">
+  <input type="text" class="form-control col-sm-12 validate" #textInput [(ngModel)]="value" (blur)="btnEndEditIds()" [hidden]="!editIds">
+  <div class="form-control id-list validate" readonly *ngIf="!editIds">
+    <span *ngFor="let id of idList; last as isLast">
+      <a (click)="btnOpenURL(id)">{{ getIdText(id, isLast) }}</a>
+    </span>
+  </div>
+  <div class="input-group-append" fxHide.print *ngIf="!disabled">
+    <button type="button" class="btn btn-primary" [title]="buttonTitle" (click)="btnStartEditIds()" *ngIf="!editIds">
+      <span class="fa fa-edit" aria-hidden="true"></span>
+    </button>
+    <button type="button" class="btn btn-primary" [title]="buttonTitle" (click)="btnEndEditIds()" *ngIf="editIds">
+      <span class="fa fa-edit" aria-hidden="true"></span>
+    </button>
+  </div>
+</div>
+

@@ -1,0 +1,1810 @@
+[
+  {
+    "id": 209,
+    "countryName": "Afghanistan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AF"
+  },
+  {
+    "id": 51,
+    "countryName": "Albania",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 1,
+    "abbreviation": "AL"
+  },
+  {
+    "id": 78,
+    "countryName": "Algeria",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "DZ"
+  },
+  {
+    "id": 214,
+    "countryName": "American Samoa",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AS"
+  },
+  {
+    "id": 162,
+    "countryName": "Andorra",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AD"
+  },
+  {
+    "id": 190,
+    "countryName": "Angola",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AO"
+  },
+  {
+    "id": 315,
+    "countryName": "Anguilla",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AI"
+  },
+  {
+    "id": 215,
+    "countryName": "Antigua and Barbuda",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AG"
+  },
+  {
+    "id": 163,
+    "countryName": "Argentina",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AR"
+  },
+  {
+    "id": 76,
+    "countryName": "Armenia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 2,
+    "abbreviation": "AM"
+  },
+  {
+    "id": 216,
+    "countryName": "Aruba",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AW"
+  },
+  {
+    "id": 153,
+    "countryName": "Australia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AU"
+  },
+  {
+    "id": 100,
+    "countryName": "Austria",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "AT"
+  },
+  {
+    "id": 75,
+    "countryName": "Azerbaijan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 2,
+    "abbreviation": "AZ"
+  },
+  {
+    "id": 335,
+    "countryName": "Bahamas",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BS"
+  },
+  {
+    "id": 164,
+    "countryName": "Bahrain",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BH"
+  },
+  {
+    "id": 217,
+    "countryName": "Bangladesh",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BD"
+  },
+  {
+    "id": 218,
+    "countryName": "Barbados",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BB"
+  },
+  {
+    "id": 74,
+    "countryName": "Belarus",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 2,
+    "abbreviation": "BY"
+  },
+  {
+    "id": 101,
+    "countryName": "Belgium",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BE"
+  },
+  {
+    "id": 219,
+    "countryName": "Belize",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BZ"
+  },
+  {
+    "id": 272,
+    "countryName": "Benin",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BJ"
+  },
+  {
+    "id": 316,
+    "countryName": "Bermuda",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BM"
+  },
+  {
+    "id": 292,
+    "countryName": "Bhutan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BT"
+  },
+  {
+    "id": 220,
+    "countryName": "Bolivia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BO"
+  },
+  {
+    "id": 317,
+    "countryName": "Bonaire",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BQ-BO"
+  },
+  {
+    "id": 52,
+    "countryName": "Bosnia and Herzegovina",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 1,
+    "abbreviation": "BA"
+  },
+  {
+    "id": 282,
+    "countryName": "Botswana",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BW"
+  },
+  {
+    "id": 191,
+    "countryName": "Brazil",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BR"
+  },
+  {
+    "id": 318,
+    "countryName": "British Antarctic Territory",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AQ"
+  },
+  {
+    "id": 319,
+    "countryName": "British Indian Ocean Territory",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "IO"
+  },
+  {
+    "id": 320,
+    "countryName": "British Virgin Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "VG"
+  },
+  {
+    "id": 165,
+    "countryName": "Brunei",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BN"
+  },
+  {
+    "id": 1,
+    "countryName": "Bulgaria",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BG"
+  },
+  {
+    "id": 264,
+    "countryName": "Burkina Faso",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BF"
+  },
+  {
+    "id": 273,
+    "countryName": "Burundi",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BI"
+  },
+  {
+    "id": 192,
+    "countryName": "Cambodia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KH"
+  },
+  {
+    "id": 262,
+    "countryName": "Cameroon",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CM"
+  },
+  {
+    "id": 155,
+    "countryName": "Canada",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CA"
+  },
+  {
+    "id": 291,
+    "countryName": "Cape Verde",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CV"
+  },
+  {
+    "id": 321,
+    "countryName": "Cayman Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KY"
+  },
+  {
+    "id": 279,
+    "countryName": "Central African Republic",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CF"
+  },
+  {
+    "id": 250,
+    "countryName": "Chad",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TD"
+  },
+  {
+    "id": 193,
+    "countryName": "Chile",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CL"
+  },
+  {
+    "id": 202,
+    "countryName": "Colombia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CO"
+  },
+  {
+    "id": 290,
+    "countryName": "Comoros",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KM"
+  },
+  {
+    "id": 221,
+    "countryName": "Congo the Democratic Republic of the",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CD"
+  },
+  {
+    "id": 297,
+    "countryName": "Cook Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CK"
+  },
+  {
+    "id": 222,
+    "countryName": "Costa Rica",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CR"
+  },
+  {
+    "id": 53,
+    "countryName": "Croatia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "HR"
+  },
+  {
+    "id": 223,
+    "countryName": "Cuba",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CU"
+  },
+  {
+    "id": 224,
+    "countryName": "Curaçao",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CW"
+  },
+  {
+    "id": 11,
+    "countryName": "Cyprus",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "CY"
+  },
+  {
+    "id": 2,
+    "countryName": "Czech Republic",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "CZ"
+  },
+  {
+    "id": 294,
+    "countryName": "Democratic Peoples Republic of Korea",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KP"
+  },
+  {
+    "id": 102,
+    "countryName": "Denmark",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "DK"
+  },
+  {
+    "id": 289,
+    "countryName": "Djibouti",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "DJ"
+  },
+  {
+    "id": 225,
+    "countryName": "Dominica",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "DM"
+  },
+  {
+    "id": 226,
+    "countryName": "Dominican Republic",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "DO"
+  },
+  {
+    "id": 210,
+    "countryName": "Ecuador",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "EC"
+  },
+  {
+    "id": 81,
+    "countryName": "Egypt",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "EG"
+  },
+  {
+    "id": 212,
+    "countryName": "El Salvador",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SV"
+  },
+  {
+    "id": 227,
+    "countryName": "Equatorial Guinea",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GQ"
+  },
+  {
+    "id": 276,
+    "countryName": "Eritrea",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "ER"
+  },
+  {
+    "id": 3,
+    "countryName": "Estonia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "EE"
+  },
+  {
+    "id": 288,
+    "countryName": "Eswatini",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SZ"
+  },
+  {
+    "id": 322,
+    "countryName": "Falkland Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "FK"
+  },
+  {
+    "id": 228,
+    "countryName": "Faroe Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "FO"
+  },
+  {
+    "id": 298,
+    "countryName": "Fiji",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "FJ"
+  },
+  {
+    "id": 104,
+    "countryName": "France",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "FR"
+  },
+  {
+    "id": 323,
+    "countryName": "French Polynesia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PF"
+  },
+  {
+    "id": 324,
+    "countryName": "French Southern and Antarctic Lands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TF"
+  },
+  {
+    "id": 285,
+    "countryName": "Gabon",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GA"
+  },
+  {
+    "id": 284,
+    "countryName": "Gambia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GM"
+  },
+  {
+    "id": 73,
+    "countryName": "Georgia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 2,
+    "abbreviation": "GE"
+  },
+  {
+    "id": 105,
+    "countryName": "Germany",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "DE"
+  },
+  {
+    "id": 259,
+    "countryName": "Ghana",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GH"
+  },
+  {
+    "id": 106,
+    "countryName": "Greece",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "EL"
+  },
+  {
+    "id": 229,
+    "countryName": "Greenland",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GL"
+  },
+  {
+    "id": 299,
+    "countryName": "Grenada",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GD"
+  },
+  {
+    "id": 213,
+    "countryName": "Guatemala",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GT"
+  },
+  {
+    "id": 230,
+    "countryName": "Guinea",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GN"
+  },
+  {
+    "id": 286,
+    "countryName": "Guinea-Bissau",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GW"
+  },
+  {
+    "id": 231,
+    "countryName": "Guyana",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GY"
+  },
+  {
+    "id": 232,
+    "countryName": "Haiti",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "HT"
+  },
+  {
+    "id": 233,
+    "countryName": "Honduras",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "HN"
+  },
+  {
+    "id": 158,
+    "countryName": "Hong Kong",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "HK"
+  },
+  {
+    "id": 4,
+    "countryName": "Hungary",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "HU"
+  },
+  {
+    "id": 167,
+    "countryName": "India",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "IN"
+  },
+  {
+    "id": 168,
+    "countryName": "Indonesia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "ID"
+  },
+  {
+    "id": 171,
+    "countryName": "Iran",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "IR"
+  },
+  {
+    "id": 170,
+    "countryName": "Iraq",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "IQ"
+  },
+  {
+    "id": 107,
+    "countryName": "Ireland",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "IE"
+  },
+  {
+    "id": 83,
+    "countryName": "Israel",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "IL"
+  },
+  {
+    "id": 108,
+    "countryName": "Italy",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "IT"
+  },
+  {
+    "id": 260,
+    "countryName": "Ivory Coast",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CI"
+  },
+  {
+    "id": 234,
+    "countryName": "Jamaica",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "JM"
+  },
+  {
+    "id": 172,
+    "countryName": "Japan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "JP"
+  },
+  {
+    "id": 85,
+    "countryName": "Jordan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "JO"
+  },
+  {
+    "id": 161,
+    "countryName": "Kazakhstan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KAZ"
+  },
+  {
+    "id": 255,
+    "countryName": "Kenya",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KE"
+  },
+  {
+    "id": 293,
+    "countryName": "Kiribati",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KI"
+  },
+  {
+    "id": 56,
+    "countryName": "Kosovo",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 1,
+    "abbreviation": "KS"
+  },
+  {
+    "id": 173,
+    "countryName": "Kuwait",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KW"
+  },
+  {
+    "id": 200,
+    "countryName": "Kyrgyzstan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KG"
+  },
+  {
+    "id": 195,
+    "countryName": "Laos",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "LA"
+  },
+  {
+    "id": 5,
+    "countryName": "Latvia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LV"
+  },
+  {
+    "id": 84,
+    "countryName": "Lebanon",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "LB"
+  },
+  {
+    "id": 247,
+    "countryName": "Lesotho",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "LS"
+  },
+  {
+    "id": 280,
+    "countryName": "Liberia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "LR"
+  },
+  {
+    "id": 87,
+    "countryName": "Libya",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "LY"
+  },
+  {
+    "id": 174,
+    "countryName": "Liechtenstein",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "LI"
+  },
+  {
+    "id": 6,
+    "countryName": "Lithuania",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LT"
+  },
+  {
+    "id": 109,
+    "countryName": "Luxemburg",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LU"
+  },
+  {
+    "id": 235,
+    "countryName": "Macao",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MO"
+  },
+  {
+    "id": 261,
+    "countryName": "Madagascar",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MG"
+  },
+  {
+    "id": 265,
+    "countryName": "Malawi",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MW"
+  },
+  {
+    "id": 175,
+    "countryName": "Malaysia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MY"
+  },
+  {
+    "id": 211,
+    "countryName": "Maldives",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MV"
+  },
+  {
+    "id": 13,
+    "countryName": "Malta",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "MT"
+  },
+  {
+    "id": 304,
+    "countryName": "Marshall Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MH"
+  },
+  {
+    "id": 251,
+    "countryName": "Mauritania",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MR"
+  },
+  {
+    "id": 249,
+    "countryName": "Mauritius",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MU"
+  },
+  {
+    "id": 176,
+    "countryName": "Mexico",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MX"
+  },
+  {
+    "id": 295,
+    "countryName": "Micronesia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "FM"
+  },
+  {
+    "id": 72,
+    "countryName": "Moldova",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 2,
+    "abbreviation": "MD"
+  },
+  {
+    "id": 177,
+    "countryName": "Monaco",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MC"
+  },
+  {
+    "id": 236,
+    "countryName": "Mongolia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MN"
+  },
+  {
+    "id": 58,
+    "countryName": "Montenegro",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 1,
+    "abbreviation": "ME"
+  },
+  {
+    "id": 305,
+    "countryName": "Montserrat",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MS"
+  },
+  {
+    "id": 77,
+    "countryName": "Morocco",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "MA"
+  },
+  {
+    "id": 258,
+    "countryName": "Mozambique",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MZ"
+  },
+  {
+    "id": 196,
+    "countryName": "Myanmar",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "MM"
+  },
+  {
+    "id": 281,
+    "countryName": "Namibia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NA"
+  },
+  {
+    "id": 306,
+    "countryName": "Nauru",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NR"
+  },
+  {
+    "id": 237,
+    "countryName": "Nepal",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NP"
+  },
+  {
+    "id": 325,
+    "countryName": "New Caledonia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NC"
+  },
+  {
+    "id": 160,
+    "countryName": "New Zealand",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NZ"
+  },
+  {
+    "id": 238,
+    "countryName": "Nicaragua",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NI"
+  },
+  {
+    "id": 263,
+    "countryName": "Niger",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NE"
+  },
+  {
+    "id": 197,
+    "countryName": "Nigeria",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NG"
+  },
+  {
+    "id": 307,
+    "countryName": "Niue",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "NU"
+  },
+  {
+    "id": 54,
+    "countryName": "North Macedonia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 1,
+    "abbreviation": "MK"
+  },
+  {
+    "id": 178,
+    "countryName": "Oman",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "OM"
+  },
+  {
+    "id": 179,
+    "countryName": "Pakistan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PK"
+  },
+  {
+    "id": 308,
+    "countryName": "Palau",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PW"
+  },
+  {
+    "id": 82,
+    "countryName": "Palestine",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "PS"
+  },
+  {
+    "id": 239,
+    "countryName": "Panama",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PA"
+  },
+  {
+    "id": 296,
+    "countryName": "Papua New Guinea",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PG"
+  },
+  {
+    "id": 203,
+    "countryName": "Paraguay",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PY"
+  },
+  {
+    "id": 159,
+    "countryName": "People´s Republic of China",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CN"
+  },
+  {
+    "id": 198,
+    "countryName": "Peru",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PE"
+  },
+  {
+    "id": 180,
+    "countryName": "Philippines",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PH"
+  },
+  {
+    "id": 326,
+    "countryName": "Pitcairn Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PN"
+  },
+  {
+    "id": 7,
+    "countryName": "Poland",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "PL"
+  },
+  {
+    "id": 111,
+    "countryName": "Portugal",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "PT"
+  },
+  {
+    "id": 240,
+    "countryName": "Puerto Rico",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PR"
+  },
+  {
+    "id": 181,
+    "countryName": "Qatar",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "QA"
+  },
+  {
+    "id": 194,
+    "countryName": "Republic of Korea",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KR"
+  },
+  {
+    "id": 278,
+    "countryName": "Republic of the Congo",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "CG"
+  },
+  {
+    "id": 8,
+    "countryName": "Romania",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "RO"
+  },
+  {
+    "id": 70,
+    "countryName": "Russian Federation",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "RU"
+  },
+  {
+    "id": 270,
+    "countryName": "Rwanda",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "RW"
+  },
+  {
+    "id": 327,
+    "countryName": "Saba",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BQ-SA"
+  },
+  {
+    "id": 328,
+    "countryName": "Saint Barthélemy",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BL"
+  },
+  {
+    "id": 309,
+    "countryName": "Saint Helena",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SH-HL"
+  },
+  {
+    "id": 332,
+    "countryName": "Saint Kitts and Nevis",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "KN"
+  },
+  {
+    "id": 310,
+    "countryName": "Saint Lucia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "LC"
+  },
+  {
+    "id": 333,
+    "countryName": "Saint Pierre and Miquelon",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PM"
+  },
+  {
+    "id": 311,
+    "countryName": "Saint Vincent and the Grenadines",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "VC"
+  },
+  {
+    "id": 312,
+    "countryName": "Samoa",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "WS"
+  },
+  {
+    "id": 246,
+    "countryName": "San Marino",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SM"
+  },
+  {
+    "id": 241,
+    "countryName": "Sao Tome and Principe",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "ST"
+  },
+  {
+    "id": 182,
+    "countryName": "Saudi Arabia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SA"
+  },
+  {
+    "id": 268,
+    "countryName": "Senegal",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SN"
+  },
+  {
+    "id": 57,
+    "countryName": "Serbia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 1,
+    "abbreviation": "RS"
+  },
+  {
+    "id": 248,
+    "countryName": "Seychelles",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SC"
+  },
+  {
+    "id": 277,
+    "countryName": "Sierra Leone",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SL"
+  },
+  {
+    "id": 183,
+    "countryName": "Singapore",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SG"
+  },
+  {
+    "id": 329,
+    "countryName": "Sint Eustatius",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "BQ"
+  },
+  {
+    "id": 330,
+    "countryName": "Sint Maarten",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SX"
+  },
+  {
+    "id": 9,
+    "countryName": "Slovak Republic",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "SK"
+  },
+  {
+    "id": 10,
+    "countryName": "Slovenia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "SI"
+  },
+  {
+    "id": 300,
+    "countryName": "Solomon Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SB"
+  },
+  {
+    "id": 267,
+    "countryName": "Somalia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SO"
+  },
+  {
+    "id": 184,
+    "countryName": "South Africa",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "ZA"
+  },
+  {
+    "id": 331,
+    "countryName": "South Georgia and the South Sandwich Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "GS"
+  },
+  {
+    "id": 274,
+    "countryName": "South Sudan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SS"
+  },
+  {
+    "id": 112,
+    "countryName": "Spain",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "ES"
+  },
+  {
+    "id": 201,
+    "countryName": "Sri Lanka",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "LK"
+  },
+  {
+    "id": 253,
+    "countryName": "Sudan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "SD"
+  },
+  {
+    "id": 103,
+    "countryName": "Suomi Finland",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "FI"
+  },
+  {
+    "id": 242,
+    "countryName": "Suriname",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "SR"
+  },
+  {
+    "id": 113,
+    "countryName": "Sweden",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "SE"
+  },
+  {
+    "id": 86,
+    "countryName": "Syria",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "SY"
+  },
+  {
+    "id": 204,
+    "countryName": "Taiwan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TW"
+  },
+  {
+    "id": 205,
+    "countryName": "Tajikistan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TJ"
+  },
+  {
+    "id": 254,
+    "countryName": "Tanzania",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TZ"
+  },
+  {
+    "id": 186,
+    "countryName": "Thailand",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TH"
+  },
+  {
+    "id": 187,
+    "countryName": "the Holy See",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "VA"
+  },
+  {
+    "id": 110,
+    "countryName": "The Netherlands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "NL"
+  },
+  {
+    "id": 243,
+    "countryName": "Timor-Leste",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TL"
+  },
+  {
+    "id": 275,
+    "countryName": "Togo",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TG"
+  },
+  {
+    "id": 303,
+    "countryName": "Tokelau",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TK"
+  },
+  {
+    "id": 313,
+    "countryName": "Tonga",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TO"
+  },
+  {
+    "id": 244,
+    "countryName": "Trinidad and Tobago",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TT"
+  },
+  {
+    "id": 79,
+    "countryName": "Tunisia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 3,
+    "abbreviation": "TN"
+  },
+  {
+    "id": 12,
+    "countryName": "Turkey",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 1,
+    "abbreviation": "TR"
+  },
+  {
+    "id": 14,
+    "countryName": "Turkish Cypriot community",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TC"
+  },
+  {
+    "id": 206,
+    "countryName": "Turkmenistan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TM"
+  },
+  {
+    "id": 334,
+    "countryName": "Turks and Caicos Islands",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TC"
+  },
+  {
+    "id": 301,
+    "countryName": "Tuvalu",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "TV"
+  },
+  {
+    "id": 188,
+    "countryName": "UAE - United Arab Emirates",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "AE"
+  },
+  {
+    "id": 257,
+    "countryName": "Uganda",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "UG"
+  },
+  {
+    "id": 71,
+    "countryName": "Ukraine",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 2,
+    "abbreviation": "UA"
+  },
+  {
+    "id": 114,
+    "countryName": "United Kingdom",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "UK"
+  },
+  {
+    "id": 151,
+    "countryName": "United States of America",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "US"
+  },
+  {
+    "id": 207,
+    "countryName": "Uruguay",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "UY"
+  },
+  {
+    "id": 208,
+    "countryName": "Uzbekistan",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "UZ"
+  },
+  {
+    "id": 302,
+    "countryName": "Vanuatu",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "VU"
+  },
+  {
+    "id": 245,
+    "countryName": "Venezuela",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "VE"
+  },
+  {
+    "id": 199,
+    "countryName": "Vietnam",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "VN"
+  },
+  {
+    "id": 314,
+    "countryName": "Wallis and Futuna",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "WF"
+  },
+  {
+    "id": 189,
+    "countryName": "Yemen",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "YE"
+  },
+  {
+    "id": 266,
+    "countryName": "Zambia",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "ZM"
+  },
+  {
+    "id": 269,
+    "countryName": "Zimbabwe",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "ZW"
+  }
+]

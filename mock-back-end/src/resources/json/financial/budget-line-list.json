@@ -1,0 +1,47 @@
+[
+  {
+    "id": 46,
+    "name": "DEVCO",
+    "abbreviation": "DEVCO"
+  },
+  {
+    "id": 45,
+    "name": "EIR",
+    "abbreviation": "EIR"
+  },
+  {
+    "id": 40,
+    "name": "ENPI EAST",
+    "abbreviation": "ENPI EAST"
+  },
+  {
+    "id": 39,
+    "name": "ENPI SOUTH",
+    "abbreviation": "ENPI SOUTH"
+  },
+  {
+    "id": 37,
+    "name": "IPA",
+    "abbreviation": "IPA"
+  },
+  {
+    "id": 41,
+    "name": "PI",
+    "abbreviation": "PI"
+  },
+  {
+    "id": 42,
+    "name": "REGIO",
+    "abbreviation": "REGIO"
+  },
+  {
+    "id": 44,
+    "name": "SRSP",
+    "abbreviation": "SRSP"
+  },
+  {
+    "id": 38,
+    "name": "Turkish Cypriot community",
+    "abbreviation": "TCC"
+  }
+]

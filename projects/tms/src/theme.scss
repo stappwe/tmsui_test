@@ -1,0 +1,177 @@
+@import 'styles';
+
+@import '~@angular/material/theming';
+// Plus imports for other components in your app.
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+
+@include mat-core();
+
+$mat-tms: (
+  50: #e8eaf6,
+  100: #c5cae9,
+  200: #9fa8da,
+  300: #7986cb,
+  400: #5c6bc0,
+  500: #3f51b5,
+  600: #3949ab,
+  700: #303f9f,
+  800: #283593,
+  900: #1a237e,
+  A100: #409ee6,
+  A200: #3194cd,
+  A400: #3071a9,
+  A700: #30629a,
+  contrast: (
+    50: $dark-primary-text,
+    100: $dark-primary-text,
+    200: $dark-primary-text,
+    300: $light-primary-text,
+    400: $light-primary-text,
+    500: $light-primary-text,
+    600: $light-primary-text,
+    700: $light-primary-text,
+    800: $light-primary-text,
+    900: $light-primary-text,
+    A100: $dark-primary-text,
+    A200: $light-primary-text,
+    A400: $light-primary-text,
+    A700: $light-primary-text,
+  )
+);
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker
+// hue.
+$custom-theme-primary: mat-palette($mat-tms, a400, a200, a700);
+$custom-theme-accent: mat-palette($mat-tms, a400, a200, a700); // mat-palette($mat-indigo) mat-palette($mat-pink, A200, A100, A400)
+
+// The warn palette is optional (defaults to red).
+$custom-theme-warn: mat-palette($mat-red);
+
+// Create the theme object (a Sass map containing all of the palettes).
+$custom-theme: mat-light-theme($custom-theme-primary, $custom-theme-accent, $custom-theme-warn);
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+@include angular-material-theme($custom-theme);
+
+$custom-typography: mat-typography-config(
+  $font-family: 'eui-bold, Helvetica, Arial, sans-serif'
+);
+
+@include mat-core($custom-typography);
+
+.mat-snack-bar-container {
+  margin: 5px !important;
+  max-width: 800px !important;
+  padding: 0 !important;
+}
+
+.mat-icon {
+  transform: scale(2);
+}
+
+.mat-pseudo-checkbox-checked,
+.mat-pseudo-checkbox-indeterminate,
+.mat-accent .mat-pseudo-checkbox-checked,
+.mat-accent .mat-pseudo-checkbox-indeterminate {
+  background: $base-background-color;
+}
+
+.mat-calendar-body-selected {
+  color: #fff;
+}
+
+@media print {
+  app-alert-snackbar {
+    display: none;
+  }
+}
+
+.btn-primary {
+  background-color: $base-background-color;
+  border-color: $base-background-color;
+}
+
+#nav-bar {
+  background-color: $base-background-color;
+}
+
+#top-menu ul,
+#top-menu ul li,
+#top-menu ul li a {
+  border-bottom: 0;
+}
+
+#top-menu ul,
+#top-menu ul li {
+  background-color: $base-background-color !important;
+}
+
+input[type="checkbox"]:checked + label::before {
+  background: $base-background-color;
+}
+
+input[type="checkbox"] + label::after,
+input[type="radio"] + label::after {
+  background-color: $base-background-color;
+}
+
+.ui-datepicker.ui-widget .ui-datepicker-calendar td a.ui-state-active {
+  background-color: $base-background-color;
+}
+
+.profile-dropdown ul li .icon {
+  color: $base-background-color;
+}
+
+.btn-outline-primary {
+  border-color: $base-background-color;
+  color: $base-background-color;
+}
+
+.ux-u-color-primary {
+  color: $base-background-color !important;
+}
+
+.btn-outline-primary:focus,
+.btn-outline-primary:hover {
+  background-color: $base-background-color;
+}
+
+a,
+a:not([href]):not([tabindex]) {
+  color: $base-background-color;
+}
+
+a:hover,
+a:focus,
+a:not([href]):not([tabindex]):hover,
+a:not([href]):not([tabindex]):focus {
+  color: $base-background-color;
+}
+
+.detail {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+@media screen and (max-width: 767px) {
+  uxappshellnavbarleftitemscontent .logo {
+    background-image: url(./assets/images/logo-ec-mobile.png);
+    background-size: cover;
+    cursor: pointer;
+    float: left;
+    height: 41px;
+    left: -0.25rem;
+    opacity: 0.75;
+    position: absolute;
+    top: -22px;
+    width: 79px;
+    z-index: 1000;
+  }
+}

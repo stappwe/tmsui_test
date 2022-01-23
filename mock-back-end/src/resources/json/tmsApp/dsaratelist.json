@@ -1,0 +1,722 @@
+[
+  {
+    "countryId": 209,
+    "countryName": "Afghanistan",
+    "dsaRate": 220.0
+  },
+  {
+    "countryId": 51,
+    "countryName": "Albania",
+    "dsaRate": 180.0
+  },
+  {
+    "countryId": 78,
+    "countryName": "Algeria",
+    "dsaRate": 332.0
+  },
+  {
+    "countryId": 214,
+    "countryName": "American Samoa",
+    "dsaRate": 225.0
+  },
+  {
+    "countryId": 162,
+    "countryName": "Andorra",
+    "dsaRate": 212.0
+  },
+  {
+    "countryId": 190,
+    "countryName": "Angola",
+    "dsaRate": 378.0
+  },
+  {
+    "countryId": 215,
+    "countryName": "Antigua and Barbuda",
+    "dsaRate": 329.0
+  },
+  {
+    "countryId": 163,
+    "countryName": "Argentina",
+    "dsaRate": 243.0
+  },
+  {
+    "countryId": 76,
+    "countryName": "Armenia",
+    "dsaRate": 151.0
+  },
+  {
+    "countryId": 216,
+    "countryName": "Aruba",
+    "dsaRate": 351.0
+  },
+  {
+    "countryId": 153,
+    "countryName": "Australia",
+    "dsaRate": 329.0
+  },
+  {
+    "countryId": 100,
+    "countryName": "Austria",
+    "dsaRate": 225.0
+  },
+  {
+    "countryId": 75,
+    "countryName": "Azerbaijan",
+    "dsaRate": 293.0
+  },
+  {
+    "countryId": 164,
+    "countryName": "Bahrain",
+    "dsaRate": 298.0
+  },
+  {
+    "countryId": 217,
+    "countryName": "Bangladesh",
+    "dsaRate": 140.0
+  },
+  {
+    "countryId": 218,
+    "countryName": "Barbados",
+    "dsaRate": 406.0
+  },
+  {
+    "countryId": 74,
+    "countryName": "Belarus",
+    "dsaRate": 208.0
+  },
+  {
+    "countryId": 101,
+    "countryName": "Belgium",
+    "dsaRate": 232.0
+  },
+  {
+    "countryId": 219,
+    "countryName": "Belize",
+    "dsaRate": 235.0
+  },
+  {
+    "countryId": 220,
+    "countryName": "Bolivia",
+    "dsaRate": 176.0
+  },
+  {
+    "countryId": 52,
+    "countryName": "Bosnia and Herzegovina",
+    "dsaRate": 159.0
+  },
+  {
+    "countryId": 191,
+    "countryName": "Brazil",
+    "dsaRate": 182.0
+  },
+  {
+    "countryId": 165,
+    "countryName": "Brunei",
+    "dsaRate": 166.0
+  },
+  {
+    "countryId": 1,
+    "countryName": "Bulgaria",
+    "dsaRate": 227.0
+  },
+  {
+    "countryId": 192,
+    "countryName": "Cambodia",
+    "dsaRate": 170.0
+  },
+  {
+    "countryId": 155,
+    "countryName": "Canada",
+    "dsaRate": 308.0
+  },
+  {
+    "countryId": 193,
+    "countryName": "Chile",
+    "dsaRate": 242.0
+  },
+  {
+    "countryId": 202,
+    "countryName": "Colombia",
+    "dsaRate": 197.0
+  },
+  {
+    "countryId": 221,
+    "countryName": "Congo the Democratic Republic of the",
+    "dsaRate": 267.0
+  },
+  {
+    "countryId": 222,
+    "countryName": "Costa Rica",
+    "dsaRate": 200.0
+  },
+  {
+    "countryId": 53,
+    "countryName": "Croatia",
+    "dsaRate": 180.0
+  },
+  {
+    "countryId": 223,
+    "countryName": "Cuba",
+    "dsaRate": 254.0
+  },
+  {
+    "countryId": 224,
+    "countryName": "Curaçao",
+    "dsaRate": 263.0
+  },
+  {
+    "countryId": 11,
+    "countryName": "Cyprus",
+    "dsaRate": 238.0
+  },
+  {
+    "countryId": 2,
+    "countryName": "Czech Republic",
+    "dsaRate": 230.0
+  },
+  {
+    "countryId": 102,
+    "countryName": "Denmark",
+    "dsaRate": 270.0
+  },
+  {
+    "countryId": 225,
+    "countryName": "Dominica",
+    "dsaRate": 325.0
+  },
+  {
+    "countryId": 226,
+    "countryName": "Dominican Republic",
+    "dsaRate": 245.0
+  },
+  {
+    "countryId": 210,
+    "countryName": "Ecuador",
+    "dsaRate": 230.0
+  },
+  {
+    "countryId": 81,
+    "countryName": "Egypt",
+    "dsaRate": 266.0
+  },
+  {
+    "countryId": 212,
+    "countryName": "El Salvador",
+    "dsaRate": 217.0
+  },
+  {
+    "countryId": 227,
+    "countryName": "Equatorial Guinea",
+    "dsaRate": 241.0
+  },
+  {
+    "countryId": 3,
+    "countryName": "Estonia",
+    "dsaRate": 181.0
+  },
+  {
+    "countryId": 228,
+    "countryName": "Faroe Islands",
+    "dsaRate": 270.0
+  },
+  {
+    "countryId": 104,
+    "countryName": "France",
+    "dsaRate": 245.0
+  },
+  {
+    "countryId": 73,
+    "countryName": "Georgia",
+    "dsaRate": 198.0
+  },
+  {
+    "countryId": 105,
+    "countryName": "Germany",
+    "dsaRate": 208.0
+  },
+  {
+    "countryId": 106,
+    "countryName": "Greece",
+    "dsaRate": 222.0
+  },
+  {
+    "countryId": 229,
+    "countryName": "Greenland",
+    "dsaRate": 270.0
+  },
+  {
+    "countryId": 213,
+    "countryName": "Guatemala",
+    "dsaRate": 175.0
+  },
+  {
+    "countryId": 230,
+    "countryName": "Guinea",
+    "dsaRate": 247.0
+  },
+  {
+    "countryId": 231,
+    "countryName": "Guyana",
+    "dsaRate": 222.0
+  },
+  {
+    "countryId": 232,
+    "countryName": "Haiti",
+    "dsaRate": 208.0
+  },
+  {
+    "countryId": 233,
+    "countryName": "Honduras",
+    "dsaRate": 195.0
+  },
+  {
+    "countryId": 158,
+    "countryName": "Hong Kong",
+    "dsaRate": 354.0
+  },
+  {
+    "countryId": 4,
+    "countryName": "Hungary",
+    "dsaRate": 222.0
+  },
+  {
+    "countryId": 156,
+    "countryName": "Iceland",
+    "dsaRate": 349.0
+  },
+  {
+    "countryId": 167,
+    "countryName": "India",
+    "dsaRate": 229.0
+  },
+  {
+    "countryId": 168,
+    "countryName": "Indonesia",
+    "dsaRate": 251.0
+  },
+  {
+    "countryId": 171,
+    "countryName": "Iran",
+    "dsaRate": 211.0
+  },
+  {
+    "countryId": 170,
+    "countryName": "Iraq",
+    "dsaRate": 260.0
+  },
+  {
+    "countryId": 107,
+    "countryName": "Ireland",
+    "dsaRate": 254.0
+  },
+  {
+    "countryId": 83,
+    "countryName": "Israel",
+    "dsaRate": 361.0
+  },
+  {
+    "countryId": 108,
+    "countryName": "Italy",
+    "dsaRate": 230.0
+  },
+  {
+    "countryId": 234,
+    "countryName": "Jamaica",
+    "dsaRate": 296.0
+  },
+  {
+    "countryId": 172,
+    "countryName": "Japan",
+    "dsaRate": 289.0
+  },
+  {
+    "countryId": 85,
+    "countryName": "Jordan",
+    "dsaRate": 289.0
+  },
+  {
+    "countryId": 161,
+    "countryName": "Kazakhstan",
+    "dsaRate": 258.0
+  },
+  {
+    "countryId": 56,
+    "countryName": "Kosovo",
+    "dsaRate": 158.0
+  },
+  {
+    "countryId": 173,
+    "countryName": "Kuwait",
+    "dsaRate": 341.0
+  },
+  {
+    "countryId": 200,
+    "countryName": "Kyrgyzstan",
+    "dsaRate": 171.0
+  },
+  {
+    "countryId": 195,
+    "countryName": "Laos",
+    "dsaRate": 165.0
+  },
+  {
+    "countryId": 5,
+    "countryName": "Latvia",
+    "dsaRate": 211.0
+  },
+  {
+    "countryId": 84,
+    "countryName": "Lebanon",
+    "dsaRate": 260.0
+  },
+  {
+    "countryId": 87,
+    "countryName": "Libya",
+    "dsaRate": 204.0
+  },
+  {
+    "countryId": 6,
+    "countryName": "Lithuania",
+    "dsaRate": 183.0
+  },
+  {
+    "countryId": 109,
+    "countryName": "Luxemburg",
+    "dsaRate": 237.0
+  },
+  {
+    "countryId": 235,
+    "countryName": "Macao",
+    "dsaRate": 230.0
+  },
+  {
+    "countryId": 175,
+    "countryName": "Malaysia",
+    "dsaRate": 187.0
+  },
+  {
+    "countryId": 211,
+    "countryName": "Maldives",
+    "dsaRate": 321.0
+  },
+  {
+    "countryId": 13,
+    "countryName": "Malta",
+    "dsaRate": 205.0
+  },
+  {
+    "countryId": 176,
+    "countryName": "Mexico",
+    "dsaRate": 322.0
+  },
+  {
+    "countryId": 72,
+    "countryName": "Moldova",
+    "dsaRate": 139.0
+  },
+  {
+    "countryId": 177,
+    "countryName": "Monaco",
+    "dsaRate": 299.0
+  },
+  {
+    "countryId": 236,
+    "countryName": "Mongolia",
+    "dsaRate": 181.0
+  },
+  {
+    "countryId": 58,
+    "countryName": "Montenegro",
+    "dsaRate": 134.0
+  },
+  {
+    "countryId": 77,
+    "countryName": "Morocco",
+    "dsaRate": 203.0
+  },
+  {
+    "countryId": 196,
+    "countryName": "Myanmar",
+    "dsaRate": 127.0
+  },
+  {
+    "countryId": 237,
+    "countryName": "Nepal",
+    "dsaRate": 160.0
+  },
+  {
+    "countryId": 160,
+    "countryName": "New Zealand",
+    "dsaRate": 316.0
+  },
+  {
+    "countryId": 238,
+    "countryName": "Nicaragua",
+    "dsaRate": 194.0
+  },
+  {
+    "countryId": 197,
+    "countryName": "Nigeria",
+    "dsaRate": 227.0
+  },
+  {
+    "countryId": 54,
+    "countryName": "North Macedonia",
+    "dsaRate": 158.0
+  },
+  {
+    "countryId": 152,
+    "countryName": "Norway",
+    "dsaRate": 275.0
+  },
+  {
+    "countryId": 178,
+    "countryName": "Oman",
+    "dsaRate": 297.0
+  },
+  {
+    "countryId": 179,
+    "countryName": "Pakistan",
+    "dsaRate": 226.0
+  },
+  {
+    "countryId": 82,
+    "countryName": "Palestine",
+    "dsaRate": 201.0
+  },
+  {
+    "countryId": 239,
+    "countryName": "Panama",
+    "dsaRate": 230.0
+  },
+  {
+    "countryId": 203,
+    "countryName": "Paraguay",
+    "dsaRate": 235.0
+  },
+  {
+    "countryId": 159,
+    "countryName": "People´s Republic of China",
+    "dsaRate": 217.0
+  },
+  {
+    "countryId": 198,
+    "countryName": "Peru",
+    "dsaRate": 227.0
+  },
+  {
+    "countryId": 180,
+    "countryName": "Philippines",
+    "dsaRate": 259.0
+  },
+  {
+    "countryId": 7,
+    "countryName": "Poland",
+    "dsaRate": 217.0
+  },
+  {
+    "countryId": 111,
+    "countryName": "Portugal",
+    "dsaRate": 204.0
+  },
+  {
+    "countryId": 240,
+    "countryName": "Puerto Rico",
+    "dsaRate": 342.0
+  },
+  {
+    "countryId": 181,
+    "countryName": "Qatar",
+    "dsaRate": 402.0
+  },
+  {
+    "countryId": 194,
+    "countryName": "Republic of Korea",
+    "dsaRate": 402.0
+  },
+  {
+    "countryId": 8,
+    "countryName": "Romania",
+    "dsaRate": 222.0
+  },
+  {
+    "countryId": 70,
+    "countryName": "Russian Federation",
+    "dsaRate": 251.0
+  },
+  {
+    "countryId": 246,
+    "countryName": "San Marino",
+    "dsaRate": 230.0
+  },
+  {
+    "countryId": 241,
+    "countryName": "Sao Tome and Principe",
+    "dsaRate": 175.0
+  },
+  {
+    "countryId": 182,
+    "countryName": "Saudi Arabia",
+    "dsaRate": 360.0
+  },
+  {
+    "countryId": 57,
+    "countryName": "Serbia",
+    "dsaRate": 158.0
+  },
+  {
+    "countryId": 183,
+    "countryName": "Singapore",
+    "dsaRate": 364.0
+  },
+  {
+    "countryId": 9,
+    "countryName": "Slovak Republic",
+    "dsaRate": 205.0
+  },
+  {
+    "countryId": 10,
+    "countryName": "Slovenia",
+    "dsaRate": 180.0
+  },
+  {
+    "countryId": 184,
+    "countryName": "South Africa",
+    "dsaRate": 166.0
+  },
+  {
+    "countryId": 112,
+    "countryName": "Spain",
+    "dsaRate": 212.0
+  },
+  {
+    "countryId": 201,
+    "countryName": "Sri Lanka",
+    "dsaRate": 211.0
+  },
+  {
+    "countryId": 103,
+    "countryName": "Suomi Finland",
+    "dsaRate": 244.0
+  },
+  {
+    "countryId": 242,
+    "countryName": "Suriname",
+    "dsaRate": 174.0
+  },
+  {
+    "countryId": 113,
+    "countryName": "Sweden",
+    "dsaRate": 257.0
+  },
+  {
+    "countryId": 154,
+    "countryName": "Switzerland",
+    "dsaRate": 348.0
+  },
+  {
+    "countryId": 86,
+    "countryName": "Syria",
+    "dsaRate": 185.0
+  },
+  {
+    "countryId": 500,
+    "countryName": "TAIEX Office",
+    "dsaRate": 232.0
+  },
+  {
+    "countryId": 205,
+    "countryName": "Tajikistan",
+    "dsaRate": 179.0
+  },
+  {
+    "countryId": 186,
+    "countryName": "Thailand",
+    "dsaRate": 209.0
+  },
+  {
+    "countryId": 110,
+    "countryName": "The Netherlands",
+    "dsaRate": 263.0
+  },
+  {
+    "countryId": 243,
+    "countryName": "Timor-Leste",
+    "dsaRate": 151.0
+  },
+  {
+    "countryId": 244,
+    "countryName": "Trinidad and Tobago",
+    "dsaRate": 322.0
+  },
+  {
+    "countryId": 79,
+    "countryName": "Tunisia",
+    "dsaRate": 141.0
+  },
+  {
+    "countryId": 12,
+    "countryName": "Turkey",
+    "dsaRate": 162.0
+  },
+  {
+    "countryId": 14,
+    "countryName": "Turkish Cypriot community",
+    "dsaRate": 195.0
+  },
+  {
+    "countryId": 206,
+    "countryName": "Turkmenistan",
+    "dsaRate": 235.0
+  },
+  {
+    "countryId": 188,
+    "countryName": "UAE - United Arab Emirates",
+    "dsaRate": 349.0
+  },
+  {
+    "countryId": 71,
+    "countryName": "Ukraine",
+    "dsaRate": 290.0
+  },
+  {
+    "countryId": 114,
+    "countryName": "United Kingdom",
+    "dsaRate": 276.0
+  },
+  {
+    "countryId": 151,
+    "countryName": "United States of America",
+    "dsaRate": 343.0
+  },
+  {
+    "countryId": 207,
+    "countryName": "Uruguay",
+    "dsaRate": 226.0
+  },
+  {
+    "countryId": 208,
+    "countryName": "Uzbekistan",
+    "dsaRate": 200.0
+  },
+  {
+    "countryId": 245,
+    "countryName": "Venezuela",
+    "dsaRate": 138.0
+  },
+  {
+    "countryId": 199,
+    "countryName": "Vietnam",
+    "dsaRate": 159.0
+  },
+  {
+    "countryId": 189,
+    "countryName": "Yemen",
+    "dsaRate": 142.0
+  },
+  {
+    "countryId": 187,
+    "countryName": "the Holy See",
+    "dsaRate": 230.0
+  }
+]

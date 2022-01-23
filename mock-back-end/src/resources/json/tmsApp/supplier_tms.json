@@ -1,0 +1,64 @@
+{
+  "supplierId": 209304,
+  "name": "IBU",
+  "description": "",
+  "capacity": "",
+  "enableEdit": true,
+  "flagged": true,
+  "frameworkAgreement": true,
+  "departments": [
+    {
+      "departmentID": 10,
+      "name": "Human resources",
+      "occurrence": 999
+    },
+    {
+      "departmentID": 11,
+      "name": "IT",
+      "occurrence": 2
+    },
+    {
+      "departmentID": 15,
+      "name": "Not used",
+      "occurrence": 0
+    }
+  ],
+  "address": {
+    "addressID": 1520,
+    "street1": "Wiener strasse",
+    "street2": "",
+    "postalCode": "1201",
+    "city": "Vienna",
+    "countryId": 100,
+    "countryName": "Austria"
+  },
+  "contactInfo": {
+    "contactInfoID": -1,
+    "email": "",
+    "telephone": "",
+    "mobilephone": "",
+    "fax": "",
+    "website": "",
+    "usageType": -1,
+    "emailVerified": false
+  },
+  "bankaccount": {
+    "bankName": "Bank of Austria",
+    "bankAdditional": "",
+    "sortingCode": "",
+    "swift": "897ABCC75",
+    "iban": "AT76 1934 1934 1343"
+  },
+  "suppliertypes": [
+    1,
+    4,
+    5,
+    7
+  ],
+  "categories": [
+    5,
+    10,
+    25,
+    30
+  ]
+}

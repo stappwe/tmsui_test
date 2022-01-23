@@ -1,0 +1,62 @@
+[
+  {
+    "id": 104,
+    "name": "Addenda"
+  },
+  {
+    "id": 125,
+    "name": "Award_Notification"
+  },
+  {
+    "id": 101,
+    "name": "Circulation_Message"
+  },
+  {
+    "id": 103,
+    "name": "Contracts"
+  },
+  {
+    "id": 126,
+    "name": "Final_Reports"
+  },
+  {
+    "id": 127,
+    "name": "Non_Award_Notification"
+  },
+  {
+    "id": 102,
+    "name": "Proposals_Received"
+  },
+  {
+    "id": 100,
+    "name": "Publication_Notice"
+  },
+  {
+    "id": 99,
+    "name": "Publication_Reference"
+  },
+  {
+    "id": 128,
+    "name": "Quarterly_Reports"
+  },
+  {
+    "id": 129,
+    "name": "Request_For_Clarification"
+  },
+  {
+    "id": 105,
+    "name": "Inter_Service_Group_Opinion"
+  },
+  {
+    "id": 98,
+    "name": "Twinning_Fiche"
+  },
+  {
+    "id": 107,
+    "name": "Twinning_Review_Mission_Reports"
+  },
+  {
+    "id": 108,
+    "name": "Other"
+  }
+]

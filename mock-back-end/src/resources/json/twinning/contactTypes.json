@@ -1,0 +1,74 @@
+[
+  {
+    "id": -1,
+    "name": "",
+    "abbreviation": "",
+    "applications": [1,2]
+  },
+  {
+    "id": 4,
+    "name": "Mission",
+    "abbreviation": "MISSION",
+    "applications": [1,2]
+  },
+  {
+    "id": 3,
+    "name": "Desk EU",
+    "abbreviation": "DESK",
+    "applications": [1,2]
+  },
+  {
+    "id": 2,
+    "name": "European Union Delegation",
+    "abbreviation": "EUD",
+    "applications": [1,2]
+  },
+  {
+    "id": 1,
+    "name": "National Contact Point",
+    "abbreviation": "NCP",
+    "applications": [1,2]
+  },
+  {
+    "id": 5,
+    "name": "Country Coordinator",
+    "abbreviation": "CC",
+    "applications": [1,2]
+  },
+  {
+    "id": 6,
+    "name": "Communication",
+    "abbreviation": "INF/COM",
+    "applications": [1,2]
+  },
+  {
+    "id": 7,
+    "name": "Head of Operations/Political",
+    "abbreviation": "EUD-HEAD",
+    "applications": [1]
+  },
+  {
+    "id": 8,
+    "name": "Event Information Group",
+    "abbreviation": "OTHER-EIG",
+    "applications": [2]
+  },
+  {
+    "id": 12,
+    "name": "GEO-DESK",
+    "abbreviation": "Geographical Desk",
+    "applications": [1,2]
+  },
+  {
+    "id": 14,
+    "name": "CoTE",
+    "abbreviation": "Centres of Thematic Expertise",
+    "applications": [1,2]
+  },
+  {
+    "id": 15,
+    "name": "DG",
+    "abbreviation": "Line DG",
+    "applications": [1,2]
+  }
+]

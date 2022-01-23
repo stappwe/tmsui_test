@@ -1,0 +1,411 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "cityID": 1762275,
+        "name": "Amantia",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.3768",
+        "lng": "19.6997"
+      },
+      {
+        "cityID": 1754832,
+        "name": "Aulon",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.471477",
+        "lng": "19.458075"
+      },
+      {
+        "cityID": 1778666,
+        "name": "Bajram Curri",
+        "countryId": 51,
+        "visible": true,
+        "lat": "42.358216666",
+        "lng": "20.076011111"
+      },
+      {
+        "cityID": 1776266,
+        "name": "Ballsh",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.600833333",
+        "lng": "19.736388888"
+      },
+      {
+        "cityID": 1752633,
+        "name": "Belsh",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.983333333",
+        "lng": "19.883333333"
+      },
+      {
+        "cityID": 1767366,
+        "name": "Berat",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.704939",
+        "lng": "19.949673"
+      },
+      {
+        "cityID": 1752081,
+        "name": "Bilisht",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.6275",
+        "lng": "20.99"
+      },
+      {
+        "cityID": 1751681,
+        "name": "Bulqizë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.5",
+        "lng": "20.216666666"
+      },
+      {
+        "cityID": 1763944,
+        "name": "Burrel",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.6",
+        "lng": "20.0"
+      },
+      {
+        "cityID": 1778646,
+        "name": "Cërrik",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.033333333",
+        "lng": "19.983333333"
+      },
+      {
+        "cityID": 1772039,
+        "name": "Delvinë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "39.949444444",
+        "lng": "20.095833333"
+      },
+      {
+        "cityID": 1749120,
+        "name": "Divjakë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.0",
+        "lng": "19.533333333"
+      },
+      {
+        "cityID": 1769718,
+        "name": "Durrës",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.324166666",
+        "lng": "19.455833333"
+      },
+      {
+        "cityID": 1750237,
+        "name": "Elbasan",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.1125",
+        "lng": "20.082222222"
+      },
+      {
+        "cityID": 1771797,
+        "name": "Epidamnos",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.3167",
+        "lng": "19.45"
+      },
+      {
+        "cityID": 1754431,
+        "name": "Ersekë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.333333333",
+        "lng": "20.683333333"
+      },
+      {
+        "cityID": 1759891,
+        "name": "Fier",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.716666666",
+        "lng": "19.55"
+      },
+      {
+        "cityID": 1759374,
+        "name": "Fushë-Krujë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.483333333",
+        "lng": "19.716666666"
+      },
+      {
+        "cityID": 1752724,
+        "name": "Gjirokastër",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.076388",
+        "lng": "20.13629"
+      },
+      {
+        "cityID": 1761724,
+        "name": "Gramsh",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.866666666",
+        "lng": "20.183333333"
+      },
+      {
+        "cityID": 1742259,
+        "name": "Himarë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.116666666",
+        "lng": "19.733333333"
+      },
+      {
+        "cityID": 1742766,
+        "name": "Kamëz",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.383333333",
+        "lng": "19.766666666"
+      },
+      {
+        "cityID": 1745445,
+        "name": "Kavajë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.183333333",
+        "lng": "19.55"
+      },
+      {
+        "cityID": 1747064,
+        "name": "Konispol",
+        "countryId": 51,
+        "visible": true,
+        "lat": "39.666666666",
+        "lng": "20.183333333"
+      },
+      {
+        "cityID": 1774532,
+        "name": "Korçë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.616666666",
+        "lng": "20.766666666"
+      },
+      {
+        "cityID": 1744675,
+        "name": "Krujë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.517777777",
+        "lng": "19.797777777"
+      },
+      {
+        "cityID": 1775844,
+        "name": "Krumë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "42.2",
+        "lng": "20.416666666"
+      },
+      {
+        "cityID": 1766668,
+        "name": "Kukës",
+        "countryId": 51,
+        "visible": true,
+        "lat": "42.066666666",
+        "lng": "20.416666666"
+      },
+      {
+        "cityID": 1778671,
+        "name": "Kuçovë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.803888888",
+        "lng": "19.914444444"
+      },
+      {
+        "cityID": 1773702,
+        "name": "Këlcyrë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.313",
+        "lng": "20.192"
+      },
+      {
+        "cityID": 1769003,
+        "name": "Laç",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.635277777",
+        "lng": "19.713055555"
+      },
+      {
+        "cityID": 1761829,
+        "name": "Lezhë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.783333333",
+        "lng": "19.633333333"
+      },
+      {
+        "cityID": 1744653,
+        "name": "Libohovë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.033333333",
+        "lng": "20.266666666"
+      },
+      {
+        "cityID": 1759337,
+        "name": "Librazhd",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.183333333",
+        "lng": "20.316666666"
+      },
+      {
+        "cityID": 1760094,
+        "name": "Lushnjë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.933333333",
+        "lng": "19.7"
+      },
+      {
+        "cityID": 1771490,
+        "name": "Maliq",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.708333333",
+        "lng": "20.7"
+      },
+      {
+        "cityID": 1744652,
+        "name": "Memaliaj",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.35",
+        "lng": "19.983333333"
+      },
+      {
+        "cityID": 1752358,
+        "name": "Onchesmos",
+        "countryId": 51,
+        "visible": true,
+        "lat": "39.87457",
+        "lng": "20.006943"
+      },
+      {
+        "cityID": 1745134,
+        "name": "Oricum",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.317777777",
+        "lng": "19.430555555"
+      },
+      {
+        "cityID": 1773767,
+        "name": "Patos",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.683333333",
+        "lng": "19.619444444"
+      },
+      {
+        "cityID": 1773899,
+        "name": "Peqin",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.05",
+        "lng": "19.75"
+      },
+      {
+        "cityID": 1749695,
+        "name": "Peshkopi",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.683055555",
+        "lng": "20.428888888"
+      },
+      {
+        "cityID": 1771908,
+        "name": "Pogradec",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.9",
+        "lng": "20.65"
+      },
+      {
+        "cityID": 1769005,
+        "name": "Poliçan",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.612222222",
+        "lng": "20.098055555"
+      },
+      {
+        "cityID": 1778667,
+        "name": "Prrenjas",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.066666666",
+        "lng": "20.55"
+      },
+      {
+        "cityID": 1756928,
+        "name": "Pukë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "42.05",
+        "lng": "19.9"
+      },
+      {
+        "cityID": 1764372,
+        "name": "Përmet",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.233333333",
+        "lng": "20.35"
+      },
+      {
+        "cityID": 1769024,
+        "name": "Roskovec",
+        "countryId": 51,
+        "visible": true,
+        "lat": "40.733333333",
+        "lng": "19.7"
+      },
+      {
+        "cityID": 1778602,
+        "name": "Rrogozhinë",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.076111111",
+        "lng": "19.666666666"
+      },
+      {
+        "cityID": 1742220,
+        "name": "Rrëshen",
+        "countryId": 51,
+        "visible": true,
+        "lat": "41.766666666",
+        "lng": "19.883333333"
+      }
+    ],
+    "rowCount": 63
+  }
+}
+

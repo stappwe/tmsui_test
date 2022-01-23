@@ -1,0 +1,240 @@
+{
+  "personID": 489151,
+  "formalTitle": "Ms",
+  "firstName": "Ruzdi",
+  "familyName": "Abduli",
+  "profEmail": "rabduli@fva.gov.mk",
+  "position": null,
+  "events": [
+    {
+      "eventType": "AGR",
+      "eventId": 67864,
+      "name": "Add. 2 to 1807/67400 - TAIEX Workshop on Strategic communication on Serbia’s EU integration ",
+      "eulegislation": "10 Information society and media (Complete)",
+      "startDate": 1539727200000,
+      "placeCountry": "Serbia",
+      "fda": 0.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 67690,
+      "name": "Expert Mission on Intellectual Property",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1538344800000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 67166,
+      "name": "Expert Mission on Intellectual Property",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1529272800000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC HOME",
+      "eventId": 67194,
+      "name": "Work From Home on Intellectual Property",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1528322400000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 0.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 66957,
+      "name": "Expert Mission on Intellectual Property",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1526248800000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 66691,
+      "name": "Expert Mission on Intellectual Property",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1523829600000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 66165,
+      "name": "Expert Mission on Intellectual Property",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1519599600000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 65759,
+      "name": "Expert Mission on Intellectual Property",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1511823600000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1400.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT IND/EXP",
+      "eventId": 63564,
+      "name": "TAIEX Expert Mission on the Transposition of EU Legislation on Certain Permitted Uses of Orphan Works ",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1485817200000,
+      "placeCountry": "Montenegro",
+      "fda": 1000.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT",
+      "eventId": 61667,
+      "name": "TAIEX Multi-Country Workshop on Protection and Management of Copyright and Related Rights in the Digital Age",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete),32 Financial control [01.60.60] (Complete)",
+      "startDate": 1480892400000,
+      "placeCountry": "Albania",
+      "fda": 1000.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT",
+      "eventId": 61235,
+      "name": "TAIEX Workshop on the Internet Service Providers Liability for Copyright Infringements ",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1469484000000,
+      "placeCountry": "Georgia",
+      "fda": 750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT IND/EXP",
+      "eventId": 62138,
+      "name": "TAIEX Expert Mission on Amendments on Copyright and Related Rights Law",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1468879200000,
+      "placeCountry": "Montenegro",
+      "fda": 1250.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT",
+      "eventId": 62006,
+      "name": "TAIEX Workshop on the Collective Management System of Copyright and Related Rights ",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1466373600000,
+      "placeCountry": "Kosovo",
+      "fda": 750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT",
+      "eventId": 56995,
+      "name": "Multi-Country Workshop on Collective Management Societies ",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1429048800000,
+      "placeCountry": "Albania",
+      "fda": 1000.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 55783,
+      "name": "Assistance in the field of Intellectual Property Rights",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1393887600000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 750.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 55205,
+      "name": "Assistance in the field of Intellectual Property Rights",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1385938800000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1250.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT",
+      "eventId": 53726,
+      "name": "Workshop on Methods and Procedures for Transfer Pricing Application ",
+      "eulegislation": "16 Taxation [09] (Complete)",
+      "startDate": 1384902000000,
+      "placeCountry": "North Macedonia",
+      "fda": 0.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 54813,
+      "name": "Assistance in the field of Intellectual Property Rights",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1382306400000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1250.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC HOME",
+      "eventId": 54496,
+      "name": "Assistance in the field of Intellectual Property Rights",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1378850400000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 0.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC HOME",
+      "eventId": 56178,
+      "name": "Corr. 2 to 1309/54496 - Assistance in the field of Intellectual Property Rights",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete),07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1378850400000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 0.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "ATCC IND/EXP",
+      "eventId": 54304,
+      "name": "Assistance in the field of Intellectual Property Rights",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1378677600000,
+      "placeCountry": "Turkish Cypriot community",
+      "fda": 1250.000,
+      "fee": 0.000
+    },
+    {
+      "eventType": "INT MARKT",
+      "eventId": 52355,
+      "name": "Workshop on Collective Management of Copyright and Neighbouring rights",
+      "eulegislation": "07 Intellectual property law [17.20] (Complete)",
+      "startDate": 1370210400000,
+      "placeCountry": "North Macedonia",
+      "fda": 1000.000,
+      "fee": 0.000
+    }
+  ],
+  "address": {
+    "addressID": null,
+    "street1": null,
+    "street2": null,
+    "postalCode": null,
+    "city": "Gostivar",
+    "countryId": null,
+    "countryName": "Afghanistan"
+  },
+  "projects": []
+}

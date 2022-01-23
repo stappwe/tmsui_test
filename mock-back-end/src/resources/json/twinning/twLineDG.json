@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Agriculture and Rural Development",
+    "abbreviation": "AGRI"
+  },
+  {
+    "id": 2,
+    "name": "Budget",
+    "abbreviation": "BUDG"
+  },
+  {
+    "id": 3,
+    "name": "Climate Action",
+    "abbreviation": "CLIMA"
+  },
+  {
+    "id": 4,
+    "name": "Communication",
+    "abbreviation": "COMM"
+  },
+  {
+    "id": 5,
+    "name": "Communications Networks, Content and Technology",
+    "abbreviation": "CNECT"
+  },
+  {
+    "id": 6,
+    "name": "Competition",
+    "abbreviation": "COMP"
+  },
+  {
+    "id": 7,
+    "name": "Economic and Financial Affairs",
+    "abbreviation": "ECFIN"
+  },
+  {
+    "id": 8,
+    "name": "Education and Culture",
+    "abbreviation": "EAC"
+  },
+  {
+    "id": 9,
+    "name": "Employment, Social Affairs and Inclusion",
+    "abbreviation": "EMPL"
+  },
+  {
+    "id": 10,
+    "name": "Energy",
+    "abbreviation": "ENER"
+  },
+  {
+    "id": 11,
+    "name": "Enlargement",
+    "abbreviation": "ELARG"
+  },
+  {
+    "id": 12,
+    "name": "Enterprise and Industry",
+    "abbreviation": "ENTR"
+  },
+  {
+    "id": 13,
+    "name": "Environment",
+    "abbreviation": "ENV"
+  },
+  {
+    "id": 15,
+    "name": "Eurostat",
+    "abbreviation": "ESTAT"
+  },
+  {
+    "id": 34,
+    "name": "Financial Stability, Financial Services and Capital Markets Union",
+    "abbreviation": "FISMA"
+  },
+  {
+    "id": 16,
+    "name": "Health and Food Safety",
+    "abbreviation": "SANTE"
+  },
+  {
+    "id": 19,
+    "name": "Human Resources and Security",
+    "abbreviation": "HR"
+  },
+  {
+    "id": 18,
+    "name": "Humanitarian Aid and Civil Protection",
+    "abbreviation": "ECHO"
+  },
+  {
+    "id": 20,
+    "name": "Informatics",
+    "abbreviation": "DIGIT"
+  },
+  {
+    "id": 21,
+    "name": "Internal Market, Industry, Entrepreneurship and SMEs",
+    "abbreviation": "GROW"
+  },
+  {
+    "id": 14,
+    "name": "International Cooperation and Development",
+    "abbreviation": "DEVCO"
+  },
+  {
+    "id": 22,
+    "name": "Interpretation",
+    "abbreviation": "SCIC"
+  },
+  {
+    "id": 23,
+    "name": "Joint Research Centre",
+    "abbreviation": "JRC"
+  },
+  {
+    "id": 24,
+    "name": "Justice and Consumers",
+    "abbreviation": "JUST"
+  },
+  {
+    "id": 25,
+    "name": "Maritime Affairs and Fisheries",
+    "abbreviation": "MARE"
+  },
+  {
+    "id": 17,
+    "name": "Migration and Home Affairs",
+    "abbreviation": "HOME"
+  },
+  {
+    "id": 26,
+    "name": "Mobility and Transport",
+    "abbreviation": "MOVE"
+  },
+  {
+    "id": 27,
+    "name": "Regional and Urban Policy",
+    "abbreviation": "REGIO"
+  },
+  {
+    "id": 28,
+    "name": "Research and Innovation",
+    "abbreviation": "RTD"
+  },
+  {
+    "id": 29,
+    "name": "Secretariat-General",
+    "abbreviation": "SG"
+  },
+  {
+    "id": 30,
+    "name": "Service for Foreign Policy Instruments",
+    "abbreviation": "FPI"
+  },
+  {
+    "id": 31,
+    "name": "Taxation and Customs Union ",
+    "abbreviation": "TAXUD"
+  },
+  {
+    "id": 32,
+    "name": "Trade",
+    "abbreviation": "TRADE"
+  },
+  {
+    "id": 33,
+    "name": "Translation",
+    "abbreviation": "DGT"
+  }
+]

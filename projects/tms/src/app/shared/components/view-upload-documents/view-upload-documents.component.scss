@@ -1,0 +1,33 @@
+@import '../../../../styles';
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.btn-toolbar-content {
+  background-color: $base-background-color;
+  padding: 2px;
+}
+
+:host ::ng-deep .label-input-toolbar {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+label-input select.form-control {
+  height: 30px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+@media print, screen and (min-width: 543px) {
+  :host ::ng-deep .label-align-center {
+    padding-bottom: 0 !important;
+    padding-top: 7px !important;
+    color: white;
+  }
+}

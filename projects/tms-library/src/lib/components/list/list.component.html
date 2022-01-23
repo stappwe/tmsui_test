@@ -1,0 +1,19 @@
+<div [class]="classList"  [style.height.px]="height" #container>
+  <div *ngIf="titleLabel" class="ux-list-items-title {{titleLabelClass}}">{{titleLabel}}</div>
+  <ul class="ux-list-items">
+    <ng-template [ngIf]="links">
+      <ux-list-item *ngFor="let link of links"
+                    [item]="link"
+                    (listItemClick)="onListItemClick($event)"
+                    [isExpanded]="expanded"
+                    [isSmall]="isSmall"
+                    [hasBorder]="hasBorder"
+                    [isLarge]="isLarge"
+                    [isLeftPositioned]="isLeftPositioned">
+      </ux-list-item>
+    </ng-template>
+    <ng-template [ngIf]="!links">
+      <ng-content></ng-content>
+    </ng-template>
+  </ul>
+</div>

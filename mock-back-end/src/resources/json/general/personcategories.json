@@ -1,0 +1,382 @@
+[
+  {
+    "id": 15,
+    "name": "CCs - Agricultural Ministry - Contact",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 74,
+    "name": "CCs - Chief Veterinary Officers",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 65,
+    "name": "CCs - Contact JHA",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 115,
+    "name": "CCs - Contact Phytosanitary services",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 13,
+    "name": "CCs - Contact Sub-national",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 16,
+    "name": "CCs - Contact Veterinary",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 10,
+    "name": "CCs - Integration Office - Contact Database",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 75,
+    "name": "CCs - Integration Office - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 3,
+    "name": "CCs - Integration Office - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 12,
+    "name": "CCs - Mission - Contact Agriculture",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 11,
+    "name": "CCs - Mission - Contact Screening",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 5,
+    "name": "CCs - Mission - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 2,
+    "name": "CCs - Mission - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 76,
+    "name": "CCs - Phytosanitary services - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 79,
+    "name": "CCs - Pre-Notification - Administrators",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 80,
+    "name": "CCs - RTP Experts",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 4,
+    "name": "CCs - Translation Coordination Units - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 62,
+    "name": "CCs - Translation coordination Units - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 64,
+    "name": "Commission - Contact Screening",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 54,
+    "name": "Commission - Delegation - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 1,
+    "name": "Commission - Delegation - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 73,
+    "name": "Commission - Enlargement DG",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 14,
+    "name": "Commission - Enlargement DG - Country Desks",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 63,
+    "name": "Commission - Enlargement DG - Phare - Agriculture",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 8,
+    "name": "Commission - Enlargement Interservices Group Members",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 9,
+    "name": "Commission - Enlargement Interservices Group Suppleants",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 97,
+    "name": "Commission - Line DG - Contacts",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 77,
+    "name": "Commission - Retired Commission Officials",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 114,
+    "name": "Commission - WB Delegation - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 120,
+    "name": "ENP - Contact EC Delegation",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 118,
+    "name": "ENP - Contact PAO",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 119,
+    "name": "ENP - Contact Relex",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 121,
+    "name": "ENP - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 122,
+    "name": "ENP - Mission - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 78,
+    "name": "Former contractor&#39;s staff",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 81,
+    "name": "MS - Agricultural Ministry - Contact",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 82,
+    "name": "MS - Chief Veterinary Officers",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 116,
+    "name": "MS - Contact  Phytosanitary services",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 83,
+    "name": "MS - Contact JHA",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 84,
+    "name": "MS - Contact Sub-national",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 85,
+    "name": "MS - Contact Veterinary",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 86,
+    "name": "MS - Integration Office - Contact Database",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 87,
+    "name": "MS - Integration Office - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 88,
+    "name": "MS - Integration Office - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 89,
+    "name": "MS - Perm Reps - Contact Agriculture",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 90,
+    "name": "MS - Perm Reps - Contact Screening",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 91,
+    "name": "MS - Perm Reps - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 92,
+    "name": "MS - Perm Reps - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 93,
+    "name": "MS - Phytosanitary services - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 94,
+    "name": "MS - Pre-Notification - Administrators",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 96,
+    "name": "MS - Translation Coordination Units - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 95,
+    "name": "MS - Translation coordination Units - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 123,
+    "name": "MS – Contact TAIEX-REGIO",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 60,
+    "name": "Member States - Contact Capitals",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 59,
+    "name": "Member States - Contact PermReps",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 66,
+    "name": "Member States - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 17,
+    "name": "Newsletter",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 7,
+    "name": "Parliament CCs - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 58,
+    "name": "Parliament MS - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 98,
+    "name": "WB - Agricultural Ministry - Contact",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 99,
+    "name": "WB - Chief Veterinary Officers",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 117,
+    "name": "WB - Contact  Phytosanitary services",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 100,
+    "name": "WB - Contact JHA",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 101,
+    "name": "WB - Contact Sub-national",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 102,
+    "name": "WB - Contact Veterinary",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 103,
+    "name": "WB - Integration Office - Contact Database",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 104,
+    "name": "WB - Integration Office - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 105,
+    "name": "WB - Integration Office - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 106,
+    "name": "WB - Mission - Contact Agriculture",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 107,
+    "name": "WB - Mission - Contact Screening",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 108,
+    "name": "WB - Mission - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 109,
+    "name": "WB - Mission - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 110,
+    "name": "WB - Phytosanitary services - Head of",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 111,
+    "name": "WB - Pre-Notification - Administrators",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 112,
+    "name": "WB - Translation Coordination Units - Contact TAIEX",
+    "visibleOnWeb": false
+  },
+  {
+    "id": 113,
+    "name": "WB - Translation Coordination Units - Head of",
+    "visibleOnWeb": false
+  }
+]

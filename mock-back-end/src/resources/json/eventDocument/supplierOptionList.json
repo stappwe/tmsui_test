@@ -1,0 +1,27 @@
+{
+  "rows": [
+    {
+      "supplierId": 242168,
+      "name": "IBF International Consulting",
+      "street1": "Avenue Louise 209A",
+      "street2": "",
+      "postalCode": "1050",
+      "city": "Brussels",
+      "email": "office.bg@kscnet.com",
+      "telephone": "+32 2 237 09 00",
+      "mobilePhone": "+32 2 230 46 49"
+    },
+    {
+      "supplierId": 281780,
+      "name": "Hotel Queens Astoria****",
+      "street1": "Rue ..",
+      "street2": "",
+      "postalCode": "",
+      "city": "Belgrade",
+      "email": "",
+      "telephone": "",
+      "mobilePhone": ""
+    }
+  ],
+  "rowCount": 2
+}

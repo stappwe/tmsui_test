@@ -1,0 +1,53 @@
+{
+  "result": true,
+  "message": null,
+  "messageTranslationCode": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "id": 996594,
+        "name": "Garamvölgyi Balázs"
+      },
+      {
+        "id": 997116,
+        "name": "Ladislav Hamran"
+      },
+      {
+        "id": 997117,
+        "name": "Gerhard Jarosch "
+      },
+      {
+        "id": 997119,
+        "name": "Boštjan  Škrlec"
+      },
+      {
+        "id": 997122,
+        "name": "Teresa Magno"
+      },
+      {
+        "id": 997436,
+        "name": "Claudia Pina"
+      },
+      {
+        "id": 997121,
+        "name": "Michael  Schmid"
+      },
+      {
+        "id": 997115,
+        "name": "Lukáš  Starý"
+      },
+      {
+        "id": 997120,
+        "name": "Xavier Tracol"
+      },
+      {
+        "id": -1,
+        "name": "Other presentation"
+      }
+    ],
+    "rowCount": 9
+  }
+}
+
+

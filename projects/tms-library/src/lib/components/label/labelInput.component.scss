@@ -1,0 +1,40 @@
+@import '../../styles/styles';
+
+label {
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding-right: 0;
+}
+
+label span {
+   color: $base-error-color;
+ }
+
+@media print, screen and (max-width: 544px) {
+  label {
+    margin-bottom: 0;
+    padding-bottom: 8px;
+  }
+}
+
+@media print, screen and (min-width: 543px) {
+  .label-align-top {
+    padding-top: 0;
+  }
+
+  .label-align-center {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .label-align-bottom {
+    padding-bottom: 0;
+    padding-top: 10px;
+  }
+}
+
+@media print {
+  label {
+    font-size: 10px;
+  }
+}

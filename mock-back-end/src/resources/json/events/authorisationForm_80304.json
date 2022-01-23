@@ -1,0 +1,159 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "eventId": 80304,
+    "eventStartDate": "2021-05-18T08:30:00.000Z",
+    "eventEndDate": "2021-05-19T17:00:00.000Z",
+    "eventCategoryId": 1,
+    "readOnlyMode": false,
+    "general": {
+      "teamLeader": {
+        "id": "bowenda",
+        "name": "BOWEN Scott",
+        "email": "scott.bowen@ext.ec.europa.eu",
+        "phone": "+32 229-56519",
+        "type": 2
+      },
+      "exactDefinition": "The aim of the workshop is to provide advice and guidance on the Sustainability of Food Systems aspects of the European Green Deal and Green Recovery. This is a follow to the TAIEX Flagship Workshop on the Green Deal and Green Recovery (ETT80304), held between 26 to 28 January 2021. \r\nThe provision of this information is intended to ensure that DG NEARâ€™s beneficiary and partner countries are fully informed of the nature and implications of the Sustainability of Food Systems aspects of the Green Deal and Green Recovery. This will allow them to utilise this information in order to align themselves where agreed or where needed, with the direction that is being taken and the legislation that has been and will be implemented in order to achieve the desired outcome of making Europe the first climate-neutral Continent by 2050.",
+      "proposedAction": "Multi beneficiary Workshop",
+      "consultation": null,
+      "consultWho": null,
+      "backgroundInfo": "The experts from the beneficiaries countries have requested assistance in selected topic. Beneficiaries usualy have no adequate legislation or the national legislative framework is not implemented. Beneficiaries have lack of the financial and professional capacities. The aim is to assist with information on current EU legislative framework related to the waste management in circular economy, to exchange experiences and to share information how to prepare national legislative framework and how to enforce it.",
+      "coOrganisation": "sts",
+      "ecMeasure": "The Green Deal and Green Recovery\r\nThe Farm to Fork Strategy\r\n",
+      "beneficiaryInst": "NEAR C3 - TAIEX",
+      "benefApplicant": null,
+      "applicant": "Representatives from all three NEAR Regions dealing with the Green Deal and Green Recovery. Colleagues working in the EU delegations covering the  Green Deal and Green Recovery.",
+      "afInfo": [{ "id": 2, "name": "MTA"}],
+      "afInfoComment": "Follow-up Flagship to the TAIEX Flagship Workshop on the Green Deal and Green Recovery (ETT80304), held between 26 to 28 January 2021.",
+      "seriesOfEvents": {
+        "id": -1,
+        "name": "ATCC MTA 2021 - Environment - VOCs",
+        "disabled": false
+      }
+    },
+    "logistics": {
+      "interpretationFacility": null,
+      "coOrganisationContact": "scott.bowen@ext.ec.europa.eu\r\ncristina.baraganescu@ec.europa.eu\r\nantje.mannaerts@ec.europa.eu\r\nandrej.kindle@ec.europa.eu\r\nnatasha.mccann@ec.europa.eu",
+      "conferenceFacility": null,
+      "cateringFacility": {
+        "numberOfCoffees": 2,
+        "numberOfWaters": 20,
+        "numberOfLunches": 15,
+        "numberOfDinners": 5,
+        "numberOfOthers": null,
+        "comment": "No food required",
+        "description": "Coffee: 2\nWater: 20\nLunch: 15\nDinner: 5\nComment: No food required\n"
+      },
+      "feeComment": "Up to 20 Pax per beneficiary to be invited, plus 5 from each EU delegation; latter included under speakers. \r\nAlso need English/Turkish interpretation but cannot include it in selected languages. ",
+      "comment": "Recording of the event in the 5 languages is also required. \r\nDraft agenda is uploaded, timing may need to change. \r\nFour addenda are needed to invite i) the speakers ii) the participants from IPA iii) the participants from ENI East iv) the participants from ENI South. Additional EU participants are included in this file and all the addenda on registration tools.  "
+    },
+    "estimation": {
+      "speakers": 19,
+      "flights": 2,
+      "hotelRooms": 5,
+      "totalCost": 10000,
+      "projectId": 1,
+      "participants": [
+        {
+          "projectId": 1,
+          "projectName": "IPA, ENI",
+          "budgetlines": [
+            {
+              "id": 57,
+              "name": "IPA",
+              "percentage": 0,
+              "participants": 75
+            },
+            {
+              "id": 59,
+              "name": "ENPI SOUTH",
+              "percentage": 0,
+              "participants": 75
+            },
+            {
+              "id": 60,
+              "name": "ENPI EAST",
+              "percentage": 0,
+              "participants": 75
+            }
+          ]
+        },
+        {
+          "projectId": 2,
+          "projectName": "PI",
+          "budgetlines": [
+            {
+              "id": 61,
+              "name": "PI",
+              "percentage": 0,
+              "participants": 0
+            }
+          ]
+        },
+        {
+          "projectId": 3,
+          "projectName": "REGIO PEER 2 PEER",
+          "budgetlines": [
+            {
+              "id": 62,
+              "name": "REGIO",
+              "percentage": 0,
+              "participants": 0
+            }
+          ]
+        },
+        {
+          "projectId": 4,
+          "projectName": "TCC",
+          "budgetlines": [
+            {
+              "id": 58,
+              "name": "TCC",
+              "percentage": 0,
+              "participants": 0
+            }
+          ]
+        },
+        {
+          "projectId": 5,
+          "projectName": "SRSP PEER 2 PEER",
+          "budgetlines": [
+            {
+              "id": 64,
+              "name": "SRSP",
+              "percentage": 0,
+              "participants": 0
+            }
+          ]
+        },
+        {
+          "projectId": 6,
+          "projectName": "EIR PEER 2 PEER",
+          "budgetlines": [
+            {
+              "id": 65,
+              "name": "EIR",
+              "percentage": 0,
+              "participants": 0
+            }
+          ]
+        },
+        {
+          "projectId": 7,
+          "projectName": "INTPA PEER 2 PEER",
+          "budgetlines": [
+            {
+              "id": 66,
+              "name": "INTPA",
+              "percentage": 0,
+              "participants": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Beneficiaries IPA",
+    "abbreviation": "IPA"
+  },
+  {
+    "id": 2,
+    "name": "Beneficiaries ENI EAST",
+    "abbreviation": "ENI EAST"
+  },
+  {
+    "id": 4,
+    "name": "Beneficiaries ENI SOUTH",
+    "abbreviation": "ENI SOUTH"
+  },
+  {
+    "id": 8,
+    "name": "Member States",
+    "abbreviation": "MS"
+  }
+]

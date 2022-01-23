@@ -1,0 +1,19 @@
+select.ng-valid {
+  border-left: 1px solid #ccc !important;
+}
+
+.label-content {
+  padding: 5px;
+}
+
+button[disabled] {
+  color: #c1c0c0;
+}
+
+button[disabled]:hover {
+  color: #c1c0c0;
+}
+
+.ag-filter-apply-panel > button {
+  width: 100%;
+}

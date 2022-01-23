@@ -1,0 +1,163 @@
+/* This is the root class name of the custom theme */
+.eui-t-fresh {
+  // eUI Layout
+  --eui-layout-nav-height: 46px;
+
+  /* The optional scale factor is usefull to quickly scale the overall appearance of the UI.
+     It is commonly used to set up custom "compact" themes as the eUI compact theme.
+     It can be removed as well as the calc functions or set to 1.
+  */
+  --eui-scale-factor-base: 0.9;
+  --eui-line-height-base: 1.25;
+  --eui-border-radius-base: 3px;
+  --eui-disabled-opacity-base: 0.45;
+
+  /* App layout variables */
+  --eui-app-header-height: 0;
+  --eui-app-sidebar-width: 280px;
+  --eui-app-sidebar-width-close: 64px;
+  --eui-app-sidebar-header-height: 0;
+  --eui-app-sidebar-footer-height: 24px;
+
+  /* Font variables */
+  --eui-font-family: eui-default, 'Trebuchet MS', georgia, times, sans-serif;
+  --eui-font-size: calc(16px * var(--eui-scale-factor-base));
+  --eui-font-size-4xl: calc(2rem * var(--eui-scale-factor-base));
+  --eui-font-size-3xl: calc(1.75rem * var(--eui-scale-factor-base));
+  --eui-font-size-2xl: calc(1.5rem * var(--eui-scale-factor-base));
+  --eui-font-size-xl: calc(1.25rem * var(--eui-scale-factor-base));
+  --eui-font-size-l: calc(1.125rem * var(--eui-scale-factor-base));
+  --eui-font-size-m: calc(1rem * var(--eui-scale-factor-base));
+  --eui-font-size-s: calc(0.875rem * var(--eui-scale-factor-base));
+  --eui-font-size-xs: calc(0.75rem * var(--eui-scale-factor-base));
+  --eui-font-size-2xs: calc(0.625rem * var(--eui-scale-factor-base));
+
+  /* Spacing variables */
+  --eui-spacing-none: 0;
+  --eui-spacing: calc(1rem * var(--eui-scale-factor-base));
+  --eui-spacing-3xs: calc(0.125rem * var(--eui-scale-factor-base));
+  --eui-spacing-2xs: calc(0.25rem * var(--eui-scale-factor-base));
+  --eui-spacing-1xs: calc(0.375rem * var(--eui-scale-factor-base));
+  --eui-spacing-xs: calc(0.5rem * var(--eui-scale-factor-base));
+  --eui-spacing-s: calc(0.75rem * var(--eui-scale-factor-base));
+  --eui-spacing-m: calc(1rem * var(--eui-scale-factor-base));
+  --eui-spacing-l: calc(1.5rem * var(--eui-scale-factor-base));
+  --eui-spacing-xl: calc(2rem * var(--eui-scale-factor-base));
+  --eui-spacing-2xl: calc(2.5rem * var(--eui-scale-factor-base));
+  --eui-spacing-3xl: calc(3rem * var(--eui-scale-factor-base));
+  --eui-spacing-4xl: calc(4rem * var(--eui-scale-factor-base));
+
+  /* Base Color variables */
+  --eui-color: #555;
+  --eui-color-font: var(--eui-color);
+  --eui-color-link: #004494;
+  --eui-color-white: #fff;
+  --eui-color-black: #000;
+
+  /* App Layout colors variables */
+  --eui-app-header-bg-color: #fff;
+  --eui-app-header-title-color: #616161;
+  --eui-app-header-subtitle-color: #9e9e9e;
+  --eui-app-toolbar-color: #fff;
+  --eui-app-toolbar-bg-color: #004494;
+  --eui-app-toolbar-border-bottom-color: #4d7cb4;
+  --eui-app-sidebar-bg-color: #f9fafb;
+  --eui-app-sidebar-border-right-color: #f2f4f9;
+  --eui-app-body-bg-color: #fff;
+  --eui-app-main-bg-color: #fafafa;
+  --eui-app-footer-color: #333;
+  --eui-app-footer-bg-color: #f9fafb;
+  --eui-app-footer-border-top-color: #e8ebf1;
+
+  /* Primary colors (blue palette) */
+  --eui-color-primary: #004494;
+  --eui-color-primary-light: #2660a4;
+  --eui-color-primary-lighter: #4d7cb4;
+  --eui-color-primary-lightest: #80a2ca;
+  --eui-color-primary-lightester: #b3c7df;
+  --eui-color-primary-lightester-2: #e0e9f2;
+  --eui-color-primary-dark: #003e8c;
+  --eui-color-primary-darker: #003581;
+  --eui-color-primary-darkest: #002d77;
+  --eui-color-primary-darkester: #001f65;
+  --eui-color-primary-darkester-2: #00174c;
+
+  /* Secondary colors (grey palette) */
+  --eui-color-secondary: #d2d2d2;
+  --eui-color-grey: #9e9e9e;
+  --eui-color-grey-light: #bdbdbd;
+  --eui-color-grey-lighter: #d2d2d2;
+  --eui-color-grey-lightest: #eee;
+  --eui-color-grey-lightester: #f6f7fa;
+  --eui-color-grey-lightester-2: #fafafa;
+  --eui-color-grey-dark: #757575;
+  --eui-color-grey-darker: #616161;
+  --eui-color-grey-darkest: #424242;
+  --eui-color-grey-darkester: #212121;
+  --eui-color-grey-darkester-2: #141414;
+
+  /* Info colors (indigo palette) */
+  --eui-color-info: #006fb4;
+  --eui-color-info-light: #2685bf;
+  --eui-color-info-lighter: #4d9acb;
+  --eui-color-info-lightest: #80b7da;
+  --eui-color-info-lightester: #b3d4e9;
+  --eui-color-info-lightester-2: #e0eef6;
+  --eui-color-info-dark: #0067ad;
+  --eui-color-info-darker: #005ca4;
+  --eui-color-info-darkest: #00529c;
+  --eui-color-info-darkester: #00408c;
+  --eui-color-info-darkester-2: #003473;
+
+  /* Success colors (green palette) */
+  --eui-color-success: #467a39;
+  --eui-color-success-light: #628e57;
+  --eui-color-success-lighter: #7ea274;
+  --eui-color-success-lightest: #a3bd9c;
+  --eui-color-success-lightester: #c8d7c4;
+  --eui-color-success-lightester-2: #e9efe7;
+  --eui-color-success-dark: #3f7233;
+  --eui-color-success-darker: #37672c;
+  --eui-color-success-darkest: #2f5d24;
+  --eui-color-success-darkester: #204a17;
+  --eui-color-success-darkester-2: #183711;
+
+  /* Warning colors (orange palette) */
+  --eui-color-warning: #f29527;
+  --eui-color-warning-light: #f4a547;
+  --eui-color-warning-lighter: #f6b568;
+  --eui-color-warning-lightest: #f9ca93;
+  --eui-color-warning-lightester: #fbdfbe;
+  --eui-color-warning-lightester-2: #fdf2e5;
+  --eui-color-warning-dark: #f08d23;
+  --eui-color-warning-darker: #ee821d;
+  --eui-color-warning-darkest: #ec7817;
+  --eui-color-warning-darkester: #e8670e;
+  --eui-color-warning-darkester-2: #d05c0d;
+
+  /* Danger colors (red palette) */
+  --eui-color-danger: #da2131;
+  --eui-color-danger-light: #e0424f;
+  --eui-color-danger-lighter: #e5646e;
+  --eui-color-danger-lightest: #ed9098;
+  --eui-color-danger-lightester: #f4bcc1;
+  --eui-color-danger-lightester-2: #fbe4e6;
+  --eui-color-danger-dark: #d61d2b;
+  --eui-color-danger-darker: #d01824;
+  --eui-color-danger-darkest: #cb141e;
+  --eui-color-danger-darkester: #c20b13;
+  --eui-color-danger-darkester-2: #aa0a11;
+
+  /* Accent colors (yellow palette) */
+  --eui-color-accent: #ffd617;
+  --eui-color-accent-light: #ffdc3a;
+  --eui-color-accent-lighter: #ffe25d;
+  --eui-color-accent-lightest: #ffeb8b;
+  --eui-color-accent-lightester: #fff3b9;
+  --eui-color-accent-lightester-2: #fffae3;
+  --eui-color-accent-dark: #ffd114;
+  --eui-color-accent-darker: #fc1;
+  --eui-color-accent-darkest: #ffc60d;
+  --eui-color-accent-darkester: #ffbc07;
+  --eui-color-accent-darkester-2: #edad00;
+}

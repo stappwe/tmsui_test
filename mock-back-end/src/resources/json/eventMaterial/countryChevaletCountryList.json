@@ -1,0 +1,1684 @@
+[
+  {
+    "countryId": 209,
+    "countryName": "Afghanistan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 51,
+    "countryName": "Albania",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 78,
+    "countryName": "Algeria",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 214,
+    "countryName": "American Samoa",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 162,
+    "countryName": "Andorra",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 190,
+    "countryName": "Angola",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 315,
+    "countryName": "Anguilla",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 215,
+    "countryName": "Antigua and Barbuda",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 163,
+    "countryName": "Argentina",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 76,
+    "countryName": "Armenia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 216,
+    "countryName": "Aruba",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 153,
+    "countryName": "Australia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 100,
+    "countryName": "Austria",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 75,
+    "countryName": "Azerbaijan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 335,
+    "countryName": "Bahamas",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 164,
+    "countryName": "Bahrain",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 217,
+    "countryName": "Bangladesh",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 218,
+    "countryName": "Barbados",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 74,
+    "countryName": "Belarus",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 101,
+    "countryName": "Belgium",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 219,
+    "countryName": "Belize",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 272,
+    "countryName": "Benin",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 316,
+    "countryName": "Bermuda",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 292,
+    "countryName": "Bhutan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 220,
+    "countryName": "Bolivia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 317,
+    "countryName": "Bonaire",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 52,
+    "countryName": "Bosnia and Herzegovina",
+    "countryTypes": [
+      1,
+      2
+    ]
+  },
+  {
+    "countryId": 282,
+    "countryName": "Botswana",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 191,
+    "countryName": "Brazil",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 318,
+    "countryName": "British Antarctic Territory",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 319,
+    "countryName": "British Indian Ocean Territory",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 320,
+    "countryName": "British Virgin Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 165,
+    "countryName": "Brunei",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 1,
+    "countryName": "Bulgaria",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 264,
+    "countryName": "Burkina Faso",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 273,
+    "countryName": "Burundi",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 192,
+    "countryName": "Cambodia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 262,
+    "countryName": "Cameroon",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 155,
+    "countryName": "Canada",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 291,
+    "countryName": "Cape Verde",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 321,
+    "countryName": "Cayman Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 279,
+    "countryName": "Central African Republic",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 250,
+    "countryName": "Chad",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 193,
+    "countryName": "Chile",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 202,
+    "countryName": "Colombia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 290,
+    "countryName": "Comoros",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 221,
+    "countryName": "Congo the Democratic Republic of the",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 297,
+    "countryName": "Cook Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 222,
+    "countryName": "Costa Rica",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 53,
+    "countryName": "Croatia",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 223,
+    "countryName": "Cuba",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 224,
+    "countryName": "Curaçao",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 11,
+    "countryName": "Cyprus",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 2,
+    "countryName": "Czech Republic",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 294,
+    "countryName": "Democratic Peoples Republic of Korea",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 102,
+    "countryName": "Denmark",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 289,
+    "countryName": "Djibouti",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 225,
+    "countryName": "Dominica",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 226,
+    "countryName": "Dominican Republic",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 210,
+    "countryName": "Ecuador",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 81,
+    "countryName": "Egypt",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 212,
+    "countryName": "El Salvador",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 227,
+    "countryName": "Equatorial Guinea",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 276,
+    "countryName": "Eritrea",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 3,
+    "countryName": "Estonia",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 288,
+    "countryName": "Eswatini",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 322,
+    "countryName": "Falkland Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 228,
+    "countryName": "Faroe Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 298,
+    "countryName": "Fiji",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 104,
+    "countryName": "France",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 323,
+    "countryName": "French Polynesia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 324,
+    "countryName": "French Southern and Antarctic Lands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 285,
+    "countryName": "Gabon",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 284,
+    "countryName": "Gambia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 73,
+    "countryName": "Georgia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 105,
+    "countryName": "Germany",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 259,
+    "countryName": "Ghana",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 106,
+    "countryName": "Greece",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 229,
+    "countryName": "Greenland",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 299,
+    "countryName": "Grenada",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 213,
+    "countryName": "Guatemala",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 230,
+    "countryName": "Guinea",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 286,
+    "countryName": "Guinea-Bissau",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 231,
+    "countryName": "Guyana",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 232,
+    "countryName": "Haiti",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 233,
+    "countryName": "Honduras",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 158,
+    "countryName": "Hong Kong",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 4,
+    "countryName": "Hungary",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 156,
+    "countryName": "Iceland",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 167,
+    "countryName": "India",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 168,
+    "countryName": "Indonesia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 171,
+    "countryName": "Iran",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 170,
+    "countryName": "Iraq",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 107,
+    "countryName": "Ireland",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 83,
+    "countryName": "Israel",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 108,
+    "countryName": "Italy",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 260,
+    "countryName": "Ivory Coast",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 234,
+    "countryName": "Jamaica",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 172,
+    "countryName": "Japan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 85,
+    "countryName": "Jordan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 161,
+    "countryName": "Kazakhstan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 255,
+    "countryName": "Kenya",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 293,
+    "countryName": "Kiribati",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 56,
+    "countryName": "Kosovo",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 173,
+    "countryName": "Kuwait",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 200,
+    "countryName": "Kyrgyzstan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 195,
+    "countryName": "Laos",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 5,
+    "countryName": "Latvia",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 84,
+    "countryName": "Lebanon",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 247,
+    "countryName": "Lesotho",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 280,
+    "countryName": "Liberia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 87,
+    "countryName": "Libya",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 174,
+    "countryName": "Liechtenstein",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 6,
+    "countryName": "Lithuania",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 109,
+    "countryName": "Luxemburg",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 235,
+    "countryName": "Macao",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 261,
+    "countryName": "Madagascar",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 265,
+    "countryName": "Malawi",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 175,
+    "countryName": "Malaysia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 211,
+    "countryName": "Maldives",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 252,
+    "countryName": "Mali",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 13,
+    "countryName": "Malta",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 304,
+    "countryName": "Marshall Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 251,
+    "countryName": "Mauritania",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 249,
+    "countryName": "Mauritius",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 176,
+    "countryName": "Mexico",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 295,
+    "countryName": "Micronesia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 72,
+    "countryName": "Moldova",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 177,
+    "countryName": "Monaco",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 236,
+    "countryName": "Mongolia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 58,
+    "countryName": "Montenegro",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 305,
+    "countryName": "Montserrat",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 77,
+    "countryName": "Morocco",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 258,
+    "countryName": "Mozambique",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 196,
+    "countryName": "Myanmar",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 281,
+    "countryName": "Namibia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 306,
+    "countryName": "Nauru",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 237,
+    "countryName": "Nepal",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 325,
+    "countryName": "New Caledonia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 160,
+    "countryName": "New Zealand",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 238,
+    "countryName": "Nicaragua",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 263,
+    "countryName": "Niger",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 197,
+    "countryName": "Nigeria",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 307,
+    "countryName": "Niue",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 54,
+    "countryName": "North Macedonia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 152,
+    "countryName": "Norway",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 178,
+    "countryName": "Oman",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 150,
+    "countryName": "Other",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 179,
+    "countryName": "Pakistan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 308,
+    "countryName": "Palau",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 82,
+    "countryName": "Palestine",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 239,
+    "countryName": "Panama",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 296,
+    "countryName": "Papua New Guinea",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 203,
+    "countryName": "Paraguay",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 159,
+    "countryName": "People´s Republic of China",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 198,
+    "countryName": "Peru",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 180,
+    "countryName": "Philippines",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 326,
+    "countryName": "Pitcairn Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 7,
+    "countryName": "Poland",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 111,
+    "countryName": "Portugal",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 240,
+    "countryName": "Puerto Rico",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 181,
+    "countryName": "Qatar",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 194,
+    "countryName": "Republic of Korea",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 278,
+    "countryName": "Republic of the Congo",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 8,
+    "countryName": "Romania",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 70,
+    "countryName": "Russian Federation",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 270,
+    "countryName": "Rwanda",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 327,
+    "countryName": "Saba",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 328,
+    "countryName": "Saint Barthélemy",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 309,
+    "countryName": "Saint Helena",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 332,
+    "countryName": "Saint Kitts and Nevis",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 310,
+    "countryName": "Saint Lucia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 333,
+    "countryName": "Saint Pierre and Miquelon",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 311,
+    "countryName": "Saint Vincent and the Grenadines",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 312,
+    "countryName": "Samoa",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 246,
+    "countryName": "San Marino",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 241,
+    "countryName": "Sao Tome and Principe",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 182,
+    "countryName": "Saudi Arabia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 268,
+    "countryName": "Senegal",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 57,
+    "countryName": "Serbia",
+    "countryTypes": [
+      1,
+      2
+    ]
+  },
+  {
+    "countryId": 55,
+    "countryName": "Serbia and Montenegro",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 248,
+    "countryName": "Seychelles",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 277,
+    "countryName": "Sierra Leone",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 183,
+    "countryName": "Singapore",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 329,
+    "countryName": "Sint Eustatius",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 330,
+    "countryName": "Sint Maarten",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 9,
+    "countryName": "Slovak Republic",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 10,
+    "countryName": "Slovenia",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 300,
+    "countryName": "Solomon Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 267,
+    "countryName": "Somalia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 184,
+    "countryName": "South Africa",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 331,
+    "countryName": "South Georgia and the South Sandwich Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 274,
+    "countryName": "South Sudan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 112,
+    "countryName": "Spain",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 201,
+    "countryName": "Sri Lanka",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 253,
+    "countryName": "Sudan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 103,
+    "countryName": "Suomi Finland",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 242,
+    "countryName": "Suriname",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 113,
+    "countryName": "Sweden",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 154,
+    "countryName": "Switzerland",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 86,
+    "countryName": "Syria",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 204,
+    "countryName": "Taiwan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 205,
+    "countryName": "Tajikistan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 254,
+    "countryName": "Tanzania",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 186,
+    "countryName": "Thailand",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 110,
+    "countryName": "The Netherlands",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 243,
+    "countryName": "Timor-Leste",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 275,
+    "countryName": "Togo",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 303,
+    "countryName": "Tokelau",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 313,
+    "countryName": "Tonga",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 244,
+    "countryName": "Trinidad and Tobago",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 79,
+    "countryName": "Tunisia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 12,
+    "countryName": "Turkey",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 14,
+    "countryName": "Turkish Cypriot community",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 206,
+    "countryName": "Turkmenistan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 334,
+    "countryName": "Turks and Caicos Islands",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 301,
+    "countryName": "Tuvalu",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 188,
+    "countryName": "UAE - United Arab Emirates",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 257,
+    "countryName": "Uganda",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 71,
+    "countryName": "Ukraine",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 114,
+    "countryName": "United Kingdom",
+    "countryTypes": [
+      1,
+      3
+    ]
+  },
+  {
+    "countryId": 151,
+    "countryName": "United States of America",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 207,
+    "countryName": "Uruguay",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 208,
+    "countryName": "Uzbekistan",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 302,
+    "countryName": "Vanuatu",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 245,
+    "countryName": "Venezuela",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 199,
+    "countryName": "Vietnam",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 314,
+    "countryName": "Wallis and Futuna",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 189,
+    "countryName": "Yemen",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 266,
+    "countryName": "Zambia",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 269,
+    "countryName": "Zimbabwe",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 187,
+    "countryName": "the Holy See",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 512,
+    "countryName": "EU Institution",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 551,
+    "countryName": "International Organisation",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 600,
+    "countryName": "Public or private",
+    "countryTypes": [
+      1
+    ]
+  },
+  {
+    "countryId": 500,
+    "countryName": "TAIEX Office",
+    "countryTypes": [
+      1
+    ]
+  }
+]

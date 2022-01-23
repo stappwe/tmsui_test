@@ -1,0 +1,3 @@
+server:
+  urlServer: "http://localhost"
+  root: "backend"

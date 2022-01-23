@@ -1,0 +1,4 @@
+server:
+  port: 3005
+  urlServer: "http://near-vm4dev09"
+  root: "backend"

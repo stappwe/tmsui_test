@@ -1,0 +1,25 @@
+{
+  "result": true,
+  "message": "",
+  "messageType": 1,
+  "data": [
+    {
+      "participantId": -1,
+      "documentId": 2401505,
+      "documentName": "new_uploaded_presentation.pptx",
+      "size": 250320,
+      "publishedBy": "Other Presentation",
+      "templateId": 161,
+      "publishedTo": 1
+    },
+    {
+      "participantId": -1,
+      "documentId": 2401506,
+      "documentName": "new_uploaded_presentation.docx",
+      "size": 1250320,
+      "publishedBy": "Other Presentation",
+      "templateId": 161,
+      "publishedTo": 1
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 51,
+    "name": "Albania",
+    "abbreviation": "AL"
+  },
+  {
+    "id": 78,
+    "name": "Algeria",
+    "abbreviation": "DZ"
+  },
+  {
+    "id": 76,
+    "name": "Armenia",
+    "abbreviation": "AM"
+  },
+  {
+    "id": 75,
+    "name": "Azerbaijan",
+    "abbreviation": "AZ"
+  },
+  {
+    "id": 74,
+    "name": "Belarus",
+    "abbreviation": "BY"
+  },
+  {
+    "id": 52,
+    "name": "Bosnia and Herzegovina",
+    "abbreviation": "BA"
+  },
+  {
+    "id": 1,
+    "name": "Bulgaria",
+    "abbreviation": "BG"
+  },
+  {
+    "id": 53,
+    "name": "Croatia",
+    "abbreviation": "HR"
+  },
+  {
+    "id": 11,
+    "name": "Cyprus",
+    "abbreviation": "CY"
+  },
+  {
+    "id": 2,
+    "name": "Czech Republic",
+    "abbreviation": "CZ"
+  },
+  {
+    "id": 226,
+    "name": "Dominican Republic",
+    "abbreviation": "DO"
+  },
+  {
+    "id": 81,
+    "name": "Egypt",
+    "abbreviation": "EG"
+  },
+  {
+    "id": 3,
+    "name": "Estonia",
+    "abbreviation": "EE"
+  },
+  {
+    "id": 73,
+    "name": "Georgia",
+    "abbreviation": "GE"
+  },
+  {
+    "id": 4,
+    "name": "Hungary",
+    "abbreviation": "HU"
+  },
+  {
+    "id": 168,
+    "name": "Indonesia",
+    "abbreviation": "ID"
+  },
+  {
+    "id": 83,
+    "name": "Israel",
+    "abbreviation": "IL"
+  },
+  {
+    "id": 85,
+    "name": "Jordan",
+    "abbreviation": "JO"
+  },
+  {
+    "id": 56,
+    "name": "Kosovo",
+    "abbreviation": "KS"
+  },
+  {
+    "id": 200,
+    "name": "Kyrgyzstan",
+    "abbreviation": "KG"
+  },
+  {
+    "id": 5,
+    "name": "Latvia",
+    "abbreviation": "LV"
+  },
+  {
+    "id": 84,
+    "name": "Lebanon",
+    "abbreviation": "LB"
+  },
+  {
+    "id": 6,
+    "name": "Lithuania",
+    "abbreviation": "LT"
+  },
+  {
+    "id": 261,
+    "name": "Madagascar",
+    "abbreviation": "MG"
+  },
+  {
+    "id": 13,
+    "name": "Malta",
+    "abbreviation": "MT"
+  },
+  {
+    "id": 72,
+    "name": "Moldova",
+    "abbreviation": "MD"
+  },
+  {
+    "id": 58,
+    "name": "Montenegro",
+    "abbreviation": "ME"
+  },
+  {
+    "id": 77,
+    "name": "Morocco",
+    "abbreviation": "MA"
+  },
+  {
+    "id": 281,
+    "name": "Namibia",
+    "abbreviation": "NA"
+  },
+  {
+    "id": 54,
+    "name": "North Macedonia",
+    "abbreviation": "MK"
+  },
+  {
+    "id": 82,
+    "name": "Palestine",
+    "abbreviation": "PS"
+  },
+  {
+    "id": 7,
+    "name": "Poland",
+    "abbreviation": "PL"
+  },
+  {
+    "id": 8,
+    "name": "Romania",
+    "abbreviation": "RO"
+  },
+  {
+    "id": 57,
+    "name": "Serbia",
+    "abbreviation": "RS"
+  },
+  {
+    "id": 9,
+    "name": "Slovak Republic",
+    "abbreviation": "SK"
+  },
+  {
+    "id": 10,
+    "name": "Slovenia",
+    "abbreviation": "SI"
+  },
+  {
+    "id": 79,
+    "name": "Tunisia",
+    "abbreviation": "TN"
+  },
+  {
+    "id": 12,
+    "name": "Turkey",
+    "abbreviation": "TR"
+  },
+  {
+    "id": 71,
+    "name": "Ukraine",
+    "abbreviation": "UA"
+  },
+  {
+    "id": 266,
+    "name": "Zambia",
+    "abbreviation": "ZM"
+  }
+]

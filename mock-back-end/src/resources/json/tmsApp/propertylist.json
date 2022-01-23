@@ -1,0 +1,500 @@
+[
+  {
+    "propertyId": 1,
+    "property": "TWINNING_ID_VALIDATION",
+    "value": "(AL|BA|HR|KS|ME|RS|MK|TR|DZ|AM|AZ|EG|GE|IL|JO|LB|MD|MA|TN|UA) [0-9]{2} (IPA|ENI) (AG|FI|EY|EN|HE|JH|NS|SO|OT|EC|ST|SPP|TE|TR) [0-9]{2} [0-9]{2}( TWL)?( R[2-9]?)?(\\([1-9]\\))?",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 2,
+    "property": "LDAP_SEARCH_FILTER",
+    "value": "(dg=NEAR) (departmentNumber=NEAR.C.3)",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 3,
+    "property": "FILESYSTEM_FOR_FONT_ITEXT",
+    "value": "./_files/TMS_3rdParty/Fonts_for_itext/ECSQUARESANSPRO-REGULAR.TTF",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 4,
+    "property": "FILESYSTEM_FOR_TEMPLATE",
+    "value": "./_files/TMS_3rdParty/template",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 5,
+    "property": "USER_CATEGORY_IBU",
+    "value": "1",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 6,
+    "property": "STARTDATE_NEW_CONTRACT",
+    "value": "15/07/2012",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 7,
+    "property": "TMS_AF_CHANGES_LAST_CHECK_DATE",
+    "value": "21/12/2018 12:54:51",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 8,
+    "property": "DB_CHANGE_VERSION",
+    "value": "4",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 9,
+    "property": "TMSWEB_EDB_URL_EXPIRATION",
+    "value": "50",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 10,
+    "property": "MAX_ROW_PER_PAGE",
+    "value": "60",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 11,
+    "property": "TMS_OPEN_JOBS_PERIOD",
+    "value": "60",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 12,
+    "property": "EDB_URL_VALIDATIONEXPIRATION",
+    "value": "7",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 13,
+    "property": "PERSON_NAME_SIMILARITY",
+    "value": "85",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 14,
+    "property": "TMSWEB_DOCUMENT_LINK_EXPIRATION_IN_MINUTES",
+    "value": "86400",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 15,
+    "property": "EDB_RECONFIRM_DEADLINE",
+    "value": "90",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 16,
+    "property": "WEBDAV_FILEBROWSER_LICENSE",
+    "value": "<?xml version=\"1.0\" encoding=\"utf-8\"?><License><Data><Product>IT Hit AJAX File Browser</Product><LicensedTo><![CDATA[European Commission - DG NEAR]]></LicensedTo><Quantity>1</Quantity><IssueDate><![CDATA[Friday, February 16, 2018]]></IssueDate><ExpirationDate><![CDATA[]]></ExpirationDate><SupportExpirationDate><![CDATA[Saturday, February 16, 2019]]></SupportExpirationDate><Type>Redistribution</Type><Modules></Modules><Id>6951da6a-f313-40ba-86a1-97c6641c12e1</Id></Data><Signature><![CDATA[NFOir/2S3iGiwjl6JwPVxxzfGepjhpVA7ohECIju+hcOUUKXoujdYmUDbSIL1JUVaywVC7JqkWyb4+0zKqp58Qmp7v93Pu1ipjTKhbmJlCHHD2GWNN4FhbDqozVkPOKyX6K4odO9Im9YjC3w//wRTkCFAUAiW8MHpBiaZRRHw9E=]]></Signature></License>",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 17,
+    "property": "WEBDAV_AJAX_LICENSE",
+    "value": "<?xml version=\"1.0\" encoding=\"utf-8\"?><License><Data><Product>IT Hit WebDAV AJAX Library</Product><LicensedTo><![CDATA[European Commission - DG NEAR]]></LicensedTo><Quantity>1</Quantity><IssueDate><![CDATA[Friday, February 16, 2018]]></IssueDate><ExpirationDate><![CDATA[]]></ExpirationDate><SupportExpirationDate><![CDATA[Saturday, February 16, 2019]]></SupportExpirationDate><Type>Redistribution</Type><Modules></Modules><Id>41a7c731-6ed7-4c7f-ac2e-6238ea859c02</Id></Data><Signature><![CDATA[HEGWHAh6HbJ9EwNFYkYh5Oieu5CcfG/JimfEa+k2TSn30MXKUHRfslJYfhjsTIFwgTOGj6rE52Tv7lMVilX1e2CWTMsudqs8ozL4BQDm8hnWTbJQMVCtls6PulgVSKRHWsxlFAVElIcX01mldq0xHbFpWh6Qti68r9xwt2D9j28=]]></Signature></License>",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 18,
+    "property": "WEBDAV_SERVER_LICENSE",
+    "value": "<?xml version=\"1.0\" encoding=\"utf-8\"?><License><Data><Product>IT Hit WebDAV Server Java</Product><LicensedTo><![CDATA[European Commission - DG NEAR]]></LicensedTo><Quantity>1</Quantity><IssueDate><![CDATA[Friday, February 16, 2018]]></IssueDate><ExpirationDate><![CDATA[]]></ExpirationDate><SupportExpirationDate><![CDATA[Saturday, February 16, 2019]]></SupportExpirationDate><Type>Redistribution</Type><Modules></Modules><Id>42b1cb5d-9648-4aef-9520-2050e300a7f1</Id></Data><Signature><![CDATA[ocQ7C1437J+Wc5bZcKskEQhGfVm4DtVclF1WU8MZ3ofWAbnN1dSQNCTCclXTt6P/2sE4xlBJMojCerWwdoyxOpHCpE5pzqb4YU6/K8qRH12VB5L/o05B/A8M8ZqFhalJAe5lnyVJAVAExExNzCvtSzSvNR9RfexJdG6SSj366JE=]]></Signature></License>",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 19,
+    "property": "TMS_WARNING_MESSAGE",
+    "value": "<div class=\"recentChanges\">WARNING: Dear, Please note that TMS will be shortly unavailable for updating (version 3.0.38) tomorrow morning, November 15 between 08H00 and 08H20. Thank you for your understanding.</div> ",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 20,
+    "property": "FOOTNOTE_KOSOVO_FR",
+    "value": "Cette appellation est sans préjudice des positions sur le statut et elle est conforme à la résolution 1244/1999 du Conseil de sécurité des Nations unies ainsi qu’à l’avis de la Cour internationale de justice sur la déclaration d’indépendance du Kosovo.",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 21,
+    "property": "FOOTNOTE_PALESTINE_FR",
+    "value": "Cette dénomination ne saurait être interprétée comme une reconnaissance d'un État de Palestine et est sans préjudice de la position de chaque État membre de l'UE sur cette question.",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 22,
+    "property": "HEAD_OF_UNIT",
+    "value": "Diana Jablonska",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 23,
+    "property": "ELARG_DIRECTORATE",
+    "value": "Directorate C: Neighbourhood East",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 24,
+    "property": "ELARG_DIR_GENERAL",
+    "value": "Directorate-General Neighbourhood and Enlargement Negotiations",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 25,
+    "property": "HEAD_OF_UNIT_FUNCTION",
+    "value": "Directorate-General Neighbourhood and Enlargement Negotiations<br/>Directorate C: Neighbourhood East<br/>Unit C.3 - Institution-Building, TAIEX, Twinning<br/>European Commission",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 26,
+    "property": "TMS_BUGREPORT_TO",
+    "value": "EC-CENTRAL-HELPDESK@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 27,
+    "property": "TMSWEB_EDB_CONTEXT",
+    "value": "ExpertDatabase",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 28,
+    "property": "LDAP_PASSWORD",
+    "value": "GUnTqAcLLF",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 29,
+    "property": "ELARG_UNIT_LEADER",
+    "value": "Head of Unit",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 30,
+    "property": "IBU_FCH_EMAIL",
+    "value": "Javier.MARTINEZ-CRESPO@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 31,
+    "property": "FINANCIAL_OFFICER_EMAIL",
+    "value": "Javier.MARTINEZ-CRESPO@ec.europa.eu; Nicholas.EVANGELOU@ec.europa.eu",
+    "taiexContractorId": 6
+  },
+  {
+    "propertyId": 32,
+    "property": "FINANCIAL_OFFICER_EMAIL",
+    "value": "Javier.MARTINEZ-CRESPO@ec.europa.eu; Nicholas.EVANGELOU@ec.europa.eu",
+    "taiexContractorId": 7
+  },
+  {
+    "propertyId": 33,
+    "property": "TMS_ENCODED_URL_KEY",
+    "value": "KdW8wrlcRIJ6JGkV",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 34,
+    "property": "TMS_SIGNATURE_EXTERNAL_EMAIL",
+    "value": "Kind regards,<br/><br/>Unit C.3 - Institution-Building, TAIEX, Twinning<br/>Directorate C - Neighbourhood East<br/>Directorate-General Neighbourhood and Enlargement Negotiations<brEuropean Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 35,
+    "property": "TMS_SIGNATURE_INTERNAL_EMAIL",
+    "value": "Kind regards,<br/>TMS Controller",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 36,
+    "property": "TMS_SIGNATURE_INTERNAL_EMAIL_OUTLOOK",
+    "value": "Kind regards,\\nTMS Controller",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 37,
+    "property": "TMS_SIGNATURE_EXTERNAL_EMAIL_OUTLOOK",
+    "value": "Kind regards,\\n\\nUnit C.3 - Institution-Building, TAIEX, Twinning\\nDirectorate C - Neighbourhood East\\nDirectorate-General Neighbourhood and Enlargement Negotiations\\nEuropean Commission\\nhttp://ec.europa.eu/taiex",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 38,
+    "property": "TMS_BUGREPORT_CC",
+    "value": "Lionello.PETTINELLI@ec.europa.eu; Werner.STAPPAERTS@ext.ec.europa.eu; Alin.BEJENARU@ext.ec.europa.eu; Jean-Paul.MOURA-EBEY@ext.ec.europa.eu; Scott.BOWEN@ec.europa.eu; Mario.FORINO@ec.europa.eu; andre@ibf.be; walbrecq@ibf.be; vitaly@ibf.be; logistics.manager@ibf.be; Grzegorz.MACIAG@ext.ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 39,
+    "property": "TMS_DG_UNIT_SHORT",
+    "value": "NEAR C.3",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 40,
+    "property": "TMS_EMAIL_ACCEPT",
+    "value": "NEAR-IBU_JCS_TESTING@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 41,
+    "property": "TMS_CONTROLLER_MAIL_FOOTNOTE",
+    "value": "P.S. Please do not reply to this message. It has been automatically generated by the system controller.",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 42,
+    "property": "FOOTNOTE_PRIVACY_STATEMENT",
+    "value": "Personal data contained in this document will be processed in accordance with the privacy statement of the TAIEX instrument (see https://webgate.ec.europa.eu/TMSWebRestrict/publicDocument?id=149) and in compliance with the Regulation (EC) N° 45/2001.",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 43,
+    "property": "FOOTNOTE_KOSOVO",
+    "value": "This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo Declaration of Independence.",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 44,
+    "property": "FOOTNOTE_PALESTINE",
+    "value": "This designation shall not be construed as recognition of a State of Palestine and is without prejudice to the individual positions of the Member States on this issue.",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 45,
+    "property": "ELARG_UNIT",
+    "value": "Unit C.3 - Institution-Building, TAIEX, Twinning",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 46,
+    "property": "ACCOUNT_MANAGER_NAME",
+    "value": "Yuriko Hashimoto",
+    "taiexContractorId": 6
+  },
+  {
+    "propertyId": 47,
+    "property": "ACCOUNT_MANAGER_NAME",
+    "value": "Yuriko Hashimoto",
+    "taiexContractorId": 7
+  },
+  {
+    "propertyId": 48,
+    "property": "FILESERVER_NAME_IBU",
+    "value": "\\\\s-elarg-pen01\\TMSPRODUCTION\\Events",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 49,
+    "property": "TMSWEB_APPFORM_CONTEXT",
+    "value": "appForm",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 50,
+    "property": "TMS_EMAIL_NOREPLY_SENDER",
+    "value": "automated-notifications@nomail.ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 51,
+    "property": "ACCOUNT_MANAGER_EMAIL",
+    "value": "beaudet@ibf.be; coenen@ibf.be; gao@ibf.be; gedaj@ibf.be; kadiri@ibf.be; lebedeva@ibf.be; mulombo@ibf.be; neveu@ibf.be; preziosi@ibf.be; shagan@ibf.be; soe@ibf.be; hashimoto@ibf.be",
+    "taiexContractorId": 6
+  },
+  {
+    "propertyId": 52,
+    "property": "TMSWEB_EDB_CONFIRM_EMAIL",
+    "value": "confirmEmail",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 53,
+    "property": "TMSWEB_EDB_CONFIRM_PROFILE",
+    "value": "confirmProfile",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 54,
+    "property": "MAP_WEB_DRIVE",
+    "value": "echo off \nNET USE R: /DELETE\nNET USE R: https://webgate.ec.europa.eu/NewTms/webfolder/USRSSN_%PLACEHOLDER_USER_SESSION%/\nR:\n%PLACEHOLDER_EVENTID%\nstart .",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 55,
+    "property": "TMSWEB_EDB_START",
+    "value": "http://ec.europa.eu/enlargement/taiex/experts/edb/index_en.htm",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 56,
+    "property": "QLIKVIEW_DASHBOARD_PATH_OLD",
+    "value": "http://intragate.acceptance.ec.europa.eu/near-qlikview/QvAJAXZfc/opendoc.htm?document=PROD_TMS_AccessPoint%2FTMS_Dashboard.qvw&host=QVS%40localhost",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 57,
+    "property": "ARES_SEARCH_URL",
+    "value": "http://www.cc.cec/Ares/documentSearch/fullTextSearch.do?fulltext=",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 58,
+    "property": "TWINNING_CALL_TENDER_URL",
+    "value": "http://www.cc.cec/EUROPEAID/cris/saisie/cris.cfm?destinationUrl=appeloffre%2Fappeloffre%2Ecfm%3Faction%3DShowFromList%26Key%3D",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 59,
+    "property": "TWINNING_CONTRACT_URL",
+    "value": "http://www.cc.cec/EUROPEAID/cris/saisie/cris.cfm?destinationUrl=contrat%2Fcontratlm%2Ecfm%3Faction%3DShowFromList%26fct%3D%26key%3D",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 60,
+    "property": "TWINNING_CRIS_CONTRACT_URL",
+    "value": "http://www.cc.cec/EUROPEAID/cris/saisie/cris.cfm?destinationUrl=contrat%2Fcontratlm%2Ecfm%3Faction%3DShowFromList%26fct%3D%26key%3D",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 61,
+    "property": "TWINNING_FINANCIAL_DECISION_URL",
+    "value": "http://www.cc.cec/EUROPEAID/cris/saisie/cris.cfm?destinationUrl=decision%2Fdecision%2Ecfm%3Faction%3DShowFromList%26Key%3D",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 62,
+    "property": "TMSWEB_HOST_JCSWEBEUROPA",
+    "value": "http://www.ec.europa.eu/enlargement/taiex/",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 63,
+    "property": "TMSWEB_HOST_URL",
+    "value": "http://www.ec.europa.eu/enlargement/taiex/dyn/",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 64,
+    "property": "TMSWEB_HOST_JCSWEBRESTRICT",
+    "value": "https://webgate.ec.europa.eu/JCSWebRestrict/",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 65,
+    "property": "TMS_HOST_URL",
+    "value": "https://webgate.ec.europa.eu/TMS/",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 66,
+    "property": "TMS_EVENT_DETAILS_URL",
+    "value": "https://webgate.ec.europa.eu/TMS/detailEvent.do?eventID=",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 67,
+    "property": "TMSWEB_HOST_TMSWEBRESTRICT",
+    "value": "https://webgate.ec.europa.eu/TMSWebRestrict/",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 68,
+    "property": "TWINNING_HOST_URL",
+    "value": "https://webgate.ec.europa.eu/Twinning/",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 69,
+    "property": "QLIKVIEW_DASHBOARD_PATH",
+    "value": "https://webgate.ec.europa.eu/near_qv/QvAJAXZfc/opendoc.htm?document=Access%20Point%2F1.Application%2FPROD%2F003_TMS_Dashboard%2F2_Qvw%2F4_AccesPoint%2FTMS_Dashboard.qvw&host=QVS%40NEAR_QLIKVIEW_ext%20&Select=LB_Sheet,TMS",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 70,
+    "property": "TMSWEB_EDB_INTEREST_SHOWN",
+    "value": "interestShown",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 71,
+    "property": "ACCOUNT_MANAGER_EMAIL",
+    "value": "izmirova@ibf.be; lebedeva@ibf.be;hashimoto@ibf.be",
+    "taiexContractorId": 7
+  },
+  {
+    "propertyId": 72,
+    "property": "LDAP_HOSTNAME",
+    "value": "ldap://cedprod.cec.eu.int:10389",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 73,
+    "property": "TMS_EMAIL_GLOBALCHECK",
+    "value": "near-TMSGlobalCheck@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 74,
+    "property": "TMS_EMAIL_DL_TMSCONF",
+    "value": "near-dl-tmsconf@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 75,
+    "property": "TMS_EMAIL_EVALUATION",
+    "value": "near-taiex-evaluation@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 76,
+    "property": "TMS_EMAIL_EXPERTS",
+    "value": "near-taiex-experts@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 77,
+    "property": "TMSWEB_AF_DEFAULTCONTACT_EMAIL",
+    "value": "near-taiex@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 78,
+    "property": "TMS_EMAIL_TASKCARD",
+    "value": "near-taskcard@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 79,
+    "property": "TMS_EMAIL_CONTROLER",
+    "value": "near-tms-controler@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 80,
+    "property": "TMS_EMAIL_CONTROLLER",
+    "value": "near-tms-controler@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 81,
+    "property": "TMS_EMAIL_CONF",
+    "value": "near-tmsConf@ec.europa.eu",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 82,
+    "property": "LDAP_LOGIN",
+    "value": "uid=ELARG_TMS,ou=TrustedApps,o=cec.eu.int",
+    "taiexContractorId": 0
+  },
+  {
+    "propertyId": 83,
+    "property": "FOOTNOTE_MACEDONIA",
+    "value": "¹Provisional code that does not prejudge in any way the definitive nomenclature for this country, which will be agreed following the conclusion of negotiations currently taking place under the auspices of the United Nations.",
+    "taiexContractorId": 0
+  }
+]

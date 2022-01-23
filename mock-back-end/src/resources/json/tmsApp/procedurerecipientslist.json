@@ -1,0 +1,418 @@
+[
+  {
+    "procedureRecipientsId": 2,
+    "procedureId": 1,
+    "description": "Checkbudget : checks budget warnings (adding beneficiaries)",
+    "functionEmail": "Diana.JABLONSKA@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 3,
+    "procedureId": 1,
+    "description": "Checkbudget : checks budget warnings (adding beneficiaries)",
+    "functionEmail": "Javier.MARTINEZ-CRESPO@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 6,
+    "procedureId": 1,
+    "description": "Checkbudget : checks budget warnings (adding beneficiaries)",
+    "functionEmail": null,
+    "userId": "evangni",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 5,
+    "procedureId": 1,
+    "description": "Checkbudget : checks budget warnings (adding beneficiaries)",
+    "functionEmail": null,
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 1,
+    "procedureId": 1,
+    "description": "Checkbudget : checks budget warnings (adding beneficiaries)",
+    "functionEmail": null,
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 7,
+    "procedureId": 2,
+    "description": "Unsign AF and Checkbudget : unsigns AF and budget warning is reached",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 9,
+    "procedureId": 3,
+    "description": "Approve by TL and Checkbudget : approves event and budget warning is reached",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 125,
+    "procedureId": 4,
+    "description": "CheckForChangedDates (Controller)",
+    "functionEmail": "TMS.changeofdate@ibf.be",
+    "userId": null,
+    "taiexContractorId": 4
+  },
+  {
+    "procedureRecipientsId": 101,
+    "procedureId": 4,
+    "description": "CheckForChangedDates (Controller)",
+    "functionEmail": "TMS.changeofdate@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 11,
+    "procedureId": 4,
+    "description": "CheckForChangedDates (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 12,
+    "procedureId": 5,
+    "description": "CheckForEventsBehindSchedule (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 102,
+    "procedureId": 6,
+    "description": "CheckForEventsOccurIn1week (Controller)",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 126,
+    "procedureId": 6,
+    "description": "CheckForEventsOccurIn1week (Controller)",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 14,
+    "procedureId": 7,
+    "description": "CheckForPipelineBehindSchedule (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 127,
+    "procedureId": 8,
+    "description": "CheckForRefused (Controller)",
+    "functionEmail": "TMS.OFrefused@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 103,
+    "procedureId": 8,
+    "description": "CheckForRefused (Controller)",
+    "functionEmail": "TMS.OFrefused@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 128,
+    "procedureId": 9,
+    "description": "CheckForSignedAF - LogisticTeamAFSignedReminder (Controller)",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 104,
+    "procedureId": 9,
+    "description": "CheckForSignedAF - LogisticTeamAFSignedReminder (Controller)",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 17,
+    "procedureId": 9,
+    "description": "CheckForSignedAF - LogisticTeamAFSignedReminder (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 18,
+    "procedureId": 10,
+    "description": "CheckForSignedAF - TeamLeaders30DayReminder (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 105,
+    "procedureId": 11,
+    "description": "CheckForSignedOF (Controller)",
+    "functionEmail": "TMS.OFSigned@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 129,
+    "procedureId": 11,
+    "description": "CheckForSignedOF (Controller)",
+    "functionEmail": "TMS.OFSigned@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 22,
+    "procedureId": 12,
+    "description": "CheckForStartDateParsed (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 106,
+    "procedureId": 13,
+    "description": "CheckForSignedER (Controller)",
+    "functionEmail": "TMS.management@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 130,
+    "procedureId": 13,
+    "description": "CheckForSignedER (Controller)",
+    "functionEmail": "TMS.management@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 61,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": null,
+    "userId": "eulaele",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 42,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": null,
+    "userId": "mohseja",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 56,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": null,
+    "userId": "forinma",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 112,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": null,
+    "userId": "stappwe",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 24,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 59,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 100,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": null,
+    "userId": "bejenal",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 111,
+    "procedureId": 14,
+    "description": "SendHoldingLetter (Controller)",
+    "functionEmail": null,
+    "userId": "ebeywje",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 107,
+    "procedureId": 15,
+    "description": "Check upload files (contractor) before signing Expense Report",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 131,
+    "procedureId": 15,
+    "description": "Check upload files (contractor) before signing Expense Report",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 63,
+    "procedureId": 16,
+    "description": "Send list of events protected lately (Controller)",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 122,
+    "procedureId": 16,
+    "description": "Send list of events protected lately (Controller)",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 60,
+    "procedureId": 16,
+    "description": "Send list of events protected lately (Controller)",
+    "functionEmail": "near-tms-controler@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 46,
+    "procedureId": 16,
+    "description": "Send list of events protected lately (Controller)",
+    "functionEmail": "near-TaskCard@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 54,
+    "procedureId": 17,
+    "description": "Send draft when ENP replies added to task (Controller)",
+    "functionEmail": "near-tms-devco@ec.europa.eu",
+    "userId": null,
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 65,
+    "procedureId": 18,
+    "description": "Send notification for setting backup user",
+    "functionEmail": null,
+    "userId": "bejenal",
+    "taiexContractorId": 0
+  },
+  {
+    "procedureRecipientsId": 66,
+    "procedureId": 19,
+    "description": "Send notification for upload agenda (GlobalCheck Job)",
+    "functionEmail": "taiex_tms@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 123,
+    "procedureId": 19,
+    "description": "Send notification for upload agenda (GlobalCheck Job)",
+    "functionEmail": "taiex_tms@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 124,
+    "procedureId": 20,
+    "description": "Send notification for OF payment file (GlobalCheck Job)",
+    "functionEmail": "TMS.ofpayments@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 67,
+    "procedureId": 20,
+    "description": "Send notification for OF payment file (GlobalCheck Job)",
+    "functionEmail": "TMS.ofpayments@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 113,
+    "procedureId": 21,
+    "description": "BlockingEvents",
+    "functionEmail": "blocking@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 132,
+    "procedureId": 21,
+    "description": "BlockingEvents",
+    "functionEmail": "blocking@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 133,
+    "procedureId": 21,
+    "description": "BlockingEvents",
+    "functionEmail": "blocking@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 114,
+    "procedureId": 21,
+    "description": "BlockingEvents",
+    "functionEmail": "blocking@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 115,
+    "procedureId": 22,
+    "description": "NoContractorCH",
+    "functionEmail": "accounts.team@ibf.be",
+    "userId": null,
+    "taiexContractorId": 6
+  },
+  {
+    "procedureRecipientsId": 116,
+    "procedureId": 22,
+    "description": "NoContractorCH",
+    "functionEmail": "accounts.team@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  },
+  {
+    "procedureRecipientsId": 120,
+    "procedureId": 23,
+    "description": "Participant Registration Notification",
+    "functionEmail": "TMS.logteam@ibf.be",
+    "userId": null,
+    "taiexContractorId": 7
+  }
+]

@@ -1,0 +1,22 @@
+<div class="modal-header" fxLayout="row">
+  <h4 class="modal-title">{{ title }}</h4>
+  <button type="button" class="btn btn-icon btn-secondary" (click)="onCancel()">
+    <span class="fa fa-times btn-close" fxLayoutAlign="end" aria-label="Close" aria-hidden="true"></span>
+  </button>
+</div>
+<div class="modal-body">
+  <label-input [labelText]="caption" [labelAlign]="'Top'" [labelClass]="'col-sm-12 no-left-padding'" [contentClass]="'col-sm-12'">
+    <input type="text" [placeholder]="placeholder" class="form-control"
+           aria-describedby="sizing-addon3" [formControl]="eventId">
+    <div [hidden]="eventId.valid || eventId.pristine" class="error-message">
+      <div *ngIf="eventId.hasError('required')">Budget contracted is required</div>
+      <div *ngIf="eventId.hasError('invalidNumber')">Invalid number, only 5 digits allowed</div>
+    </div>
+  </label-input>
+</div>
+<div class="modal-footer">
+  <div fxLayout="row" fxLayoutAlign="end">
+    <button type="button" class="btn btn-primary btn-toolbar-text btn-split" (click)="onCancel()">Cancel</button>
+    <button type="button" class="btn btn-primary btn-toolbar-text" (click)="onOk()" [disabled]="!eventId.valid">Ok</button>
+  </div>
+</div>

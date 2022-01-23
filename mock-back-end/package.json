@@ -1,0 +1,76 @@
+{
+  "name": "mock-back-end",
+  "version": "1.0.0",
+  "description": "TMSWEB - Mock-up Backend",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "postbuild:localIIS": "copy package.json dist_localIIS && copy web.config dist_localIIS && cpx \"src/resources/**/*.*\" \"dist_localIIS/resources\" --clean && cpx \"config/localIIS/*.*\" dist_localIIS",
+    "postbuild:localhost": "copy package.json dist_localhost && cpx \"src/resources/**/*.*\" \"dist_localhost/resources\" --clean && cpx \"config/localhost/*.*\" dist_localhost",
+    "build:localIIS": "rimraf dist_localIIS && nest build --path tsconfig.build.localIIS.json --config nest-cli.localIIS.json && npm run postbuild:localIIS",
+    "build:localhost": "rimraf dist_localhost && nest build --path tsconfig.build.localhost.json --config nest-cli.localhost.json && npm run postbuild:localhost",
+    "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
+    "start": "nest start",
+    "start:dev": "NODE_ENV=development nest start --watch",
+    "start:debug": "nest start --debug --watch",
+    "start:prod": "node dist/main",
+    "lint": "eslint '{src,apps,libs,test}/**/*.ts' --fix",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:cov": "jest --coverage",
+    "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
+    "test:e2e": "jest --config ./test/jest-e2e.json"
+  },
+  "dependencies": {
+    "@nestjs/common": "^7.6.15",
+    "@nestjs/core": "^7.6.15",
+    "@nestjs/jwt": "^7.2.0",
+    "@nestjs/platform-express": "^7.6.15",
+    "@nestjs/swagger": "^4.8.0",
+    "config": "^3.3.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "reflect-metadata": "^0.1.13",
+    "rimraf": "^3.0.2",
+    "rxjs": "^6.6.3",
+    "win-node-env": "^0.4.0"
+  },
+  "devDependencies": {
+    "@nestjs/cli": "^7.6.0",
+    "@nestjs/schematics": "^7.3.1",
+    "@nestjs/testing": "^7.6.15",
+    "@types/express": "^4.17.11",
+    "@types/jest": "25.2.3",
+    "@types/node": "^14.14.22",
+    "@types/supertest": "^2.0.10",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
+    "@typescript-eslint/parser": "^2.34.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^25.5.4",
+    "prettier": "^2.2.1",
+    "supertest": "^4.0.2",
+    "ts-jest": "25.5.1",
+    "ts-loader": "^6.2.2",
+    "ts-node": "^8.10.2",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.9.7",
+    "cp": "^0.2.0",
+    "cpx": "^1.5.0"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "ts"
+    ],
+    "rootDir": "src",
+    "testRegex": ".spec.ts$",
+    "transform": {
+      "^.+\\.(t|j)s$": "ts-jest"
+    },
+    "coverageDirectory": "../coverage",
+    "testEnvironment": "node"
+  }
+}

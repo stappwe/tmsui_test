@@ -1,0 +1,22 @@
+{
+  "personId": 3306,
+  "type": 1,
+  "nationality": "Slovakian",
+  "createDate": 1236339528000,
+  "lastChangedDate": 1509610358000,
+  "ncpValidated": 6,
+  "employmentStatus": "Public Official in Active service",
+  "validationComment": null,
+  "ibuComment": null,
+  "chapterExpertise": "10 Information society and media\n10.20 Dissemination of information [16.20]",
+  "keywords": "Chapter 10",
+  "euLegislation": "32006L0123, 32003L0098,\r\n31998D0262, 31999D0853, 32002D0093,",
+  "cvComment": "- Antimonopoly Office of the Slovak Republic (1995-1997), antitrust\n- Office of the Government of the Slovak Republic, Section of Law Approximation, Central Translation Unit, (1997-2004)\n- Ministry of Interior of the Slovak Republic (2004-2005), Justice and Home Affairs, EU integration, Acquis translation\n- Ministry of Telecommunications of the Slovak Republic (2005-2006), INFORMATION SOCIETY CO-ORDINATION (Legal and institutional framework in the ICT sector), EU law, approximation and Acquis translation co-ordination, eGovernment\n- Ministry of Finance of the Slovak Republic (2007-2015),  INFORMATION SOCIETY CO-ORDINATION (Legal and institutional framework in the ICT sector, eGovernment, PSI re-use, open data, points of single contact in e-services), EU eGov law approximation and Acquis translation co-ordination.\n- Ministry of Justice of the Slovak Republic (2016), Section of Informatics and Project Management,  Analytical Centre for Advanced Studies, e-Justice analyst, \n- Ministry of Finance of the Slovak Republic (2017-present),  INFORMATION SOCIETY CO-ORDINATION (Legal and institutional framework in the ICT sector, eGovernment, PSI re-use,  open data, points of single contact in e-services), EU eGovernment law approximation.",
+  "filenameCV": "CV_Strehar_EN_TAIEX.pdf",
+  "lastCVUpdateDate": 1509610358000,
+  "lastStatusChanged": 1236339528000,
+  "lastStatusChangedBy": "ronald.strehar@mfsr.sk",
+  "status": 4,
+  "expertCvURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/ExpertDatabase/api/find-expert-cv?jwt=eyJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlSWQiOiIzMzA2In0.n3GZnxtVA_6xl-_5nlr43LISxbwh895_xv7sk8pJdz8",
+  "edbTwinningData": []
+}

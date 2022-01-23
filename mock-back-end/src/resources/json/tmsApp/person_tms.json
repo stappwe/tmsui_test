@@ -1,0 +1,135 @@
+{
+  "personId": 623055,
+  "firstName": "Sergei",
+  "familyName": "Nedvetsky",
+  "email": null,
+  "privateEmail": null,
+  "mobilePhone": null,
+  "supplierId": null,
+  "supplierName": null,
+  "street": null,
+  "city": null,
+  "postalCode": null,
+  "countryId": null,
+  "position": null,
+  "formalAddressId": 1,
+  "title": null,
+  "flagged": false,
+  "enableEdit": true,
+  "payFdaToSupplier": false,
+  "payPerdiemToSupplier": false,
+  "breakOutSessionList": [
+    {
+      "id": 1,
+      "name": "Session 1 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 2,
+      "name": "Session 2 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 3,
+      "name": "Session 3 - Improve... 25/10 - 14h - 18h"
+    }
+  ],
+  "selectedBreakOutSessions": [1, 2],
+  "eventImplementationType": 3,
+  "implementationType": 1,
+  "ofSigned": false,
+  "comment": null,
+  "expert": true,
+  "peInId": null,
+  "employmentStatus": "",
+  "address": {
+    "addressID": 647840,
+    "street1": "Vadivlos 25",
+    "street2": null,
+    "postalCode": "2222",
+    "city": "Mosk",
+    "countryId": 74,
+    "countryName": null,
+    "countryAbr": null
+  },
+  "addressID": 647822,
+  "professionalContactInfo": {
+    "contactInfoID": 672218,
+    "email": "nadve2014@gmail.com",
+    "telephone": null,
+    "mobilephone": "+375297608845",
+    "fax": null,
+    "website": null,
+    "usageType": 1,
+    "emailVerified": false,
+    "useInCommunication": true
+  },
+  "privateContactInfo": {
+    "contactInfoID": 672219,
+    "email": null,
+    "telephone": null,
+    "mobilephone": null,
+    "fax": null,
+    "website": null,
+    "usageType": 2,
+    "emailVerified": false,
+    "useInCommunication": false
+  },
+  "bankaccount": {
+    "bankName": null,
+    "bankAdditional": null,
+    "sortingCode": "",
+    "swift": null,
+    "iban": ""
+  },
+  "categories": [],
+  "languages": [],
+  "personSuppliers": [
+    {
+      "id": 0,
+      "name": "Republican Unitary Enterprise",
+      "applications": null,
+      "peInId": 507091,
+      "position": "Engineer",
+      "supplierId": 301197,
+      "departmentID": null,
+      "departments": [],
+      "eventIds": [],
+      "active": true,
+      "activeForEvent": false,
+      "address": {
+        "addressID": 647822,
+        "street1": "Vokzalnaya 96",
+        "street2": null,
+        "postalCode": "223028",
+        "city": "Minsk",
+        "countryId": 74,
+        "countryName": null,
+        "countryAbr": null
+      }
+    },
+    {
+      "id": 0,
+      "name": "Republican Unitary Enterprise\n“Belarusian State Centre for Accreditation”",
+      "applications": null,
+      "peInId": 525607,
+      "position": null,
+      "supplierId": 227607,
+      "departmentID": null,
+      "departments": [],
+      "eventIds": [
+        70644
+      ],
+      "active": false,
+      "activeForEvent": true,
+      "address": {
+        "addressID": 585047,
+        "street1": "Velozavodskaya, 6",
+        "street2": null,
+        "postalCode": null,
+        "city": "Minsk",
+        "countryId": 74,
+        "countryName": null,
+        "countryAbr": null
+      }
+    }
+  ]
+}

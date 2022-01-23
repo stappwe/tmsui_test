@@ -1,0 +1,16 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "assets": [
+      "resources/**/*",
+      { "include":  "../config/development.yml", "outDir": "dist/config", "watchAssets": true },
+      { "include":  "../config/development.yml", "outDir": "dist/config", "watchAssets": true },
+      { "include":  "../ffmpeg/bin/ffmpeg.exe", "outDir": "dist/ffmpeg", "watchAssets": true },
+      { "include":  "../ffmpeg/bin/ffprobe.exe", "outDir": "dist/ffmpeg", "watchAssets": true },
+      { "include":  "../ffmpeg/bin/ffplay.exe", "outDir": "dist/ffmpeg", "watchAssets": true }
+    ],
+    "watchAssets": true,
+    "deleteOutDir": true
+  }
+}

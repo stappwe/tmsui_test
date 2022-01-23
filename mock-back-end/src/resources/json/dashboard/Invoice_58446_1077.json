@@ -1,0 +1,63 @@
+{
+  "EVENTID": 58446,
+  "EVENTTYPE": "INT MARKT IND/EXP",
+  "TASKID": 22922,
+  "TEAMLEADER": "TODOROV Lazar",
+  "IBUCASEHANDLER": "LUKASEVICIENE Ieva",
+  "ACCOUNTCH": "Shagan Anna",
+  "NAME": "TAIEX Expert Mission on Dust Explosions",
+  "SUBJECT": "19 Social policy and employment [05] (Partial),19.20 Social policy [05.20] (Partial),19.20.20 Working conditions [05.20.20] (Partial),19.20.20.10 Safety at work [05.20.20.10] (Complete)",
+  "STARTDATESTR": "07/11/2016 09:00",
+  "ENDDATESTR": "11/11/2016 16:30",
+  "CITY": "Ankara",
+  "COUNTRY": "Turkey",
+  "BENEFICIARY": "Turkey",
+  "MULTICOUNTRY": "No",
+  "LASTCHANGEDDATE": "03/01/2018 18:59",
+  "AFSIGNDATE": "17/10/2016 16:14",
+  "OFSIGNDATE": "21/10/2016 14:21",
+  "TEAMLEADEREMAIL": "Lazar.TODOROV@ec.europa.eu",
+  "IBUCASEHANDLEREMAIL": "Ieva.LUKASEVICIENE@ec.europa.eu",
+  "ACCOUNTCHEMAIL": "shagan@ibf.be",
+  "OFCOMMENT": "- All prices are encoded including VAT. 8% VAT applied for accommodation and 18% for all other services. \f\n-The venue is located 17,8 km from the hotel, it has been agreed with IBU that it is accepted to use our FA 1 for hotel due to lack of accommodation options near the venue (same arangement for AF 60987)\f\n- Experts will use taxi to travel to and from venue as public transportation is not easily accessible, agreed with IBU CH to reimburse the experts taxi cost in Ankara \f\n- LCO will arrange the transportation to the fiield visits\f\n- Experts have the same flight itinerary, taxi from airport to hotel and vice versa has been arranged accordingly. Taxi company has agreed to have payment after service and cacellation policy 2 days before the event\f\n- No suitable return flights on the 11/11 for both experts",
+  "EVENTREMARK": "",
+  "STATUS": 0,
+  "FEE": 1462,
+  "FEEADDITIONAL": 0,
+  "BALANCE": 856,
+  "TOTALBUDGET": 10870.6,
+  "COMMENTSTATUS": 1,
+  "EXPENDITURE": 8984.72,
+  "TEAMLEADERPHONE": "+32 229-65516",
+  "IBUCASEHANDLERPHONE": "+32 229-87713",
+  "ACCOUNTCHPHONE": "+32 2 237 09 98",
+  "ER_CC_F_DATE": "02/12/2016 13:15",
+  "ER_TC_A_DATE": "02/12/2016 15:56",
+  "TASKCARDURL": "https://webgate.acceptance.ec.europa.eu/TMS/updateTask.do?dispatch=Modify&taskcardID=22922",
+  "COMMENTLISTURL": "https://webgate.acceptance.ec.europa.eu/TMS/eventDashboard.do?dispatch=Select&eventID=58446",
+  "STATUSADDENCORR": [
+    {
+      "EVENTID": 58446,
+      "TYPE": "Main Event",
+      "NUMBER": 0,
+      "DATEOFSIGNATURE": "21/10/2016 14:21",
+      "STATUS": "S",
+      "COST": 10014.6
+    }
+  ],
+  "BUDGETLINES": [
+    {
+      "BUDGETLINE": "IPA",
+      "BENEFICIARIES": "Turkey",
+      "PARTICIPANTS": 14,
+      "COST": 8984.72
+    }
+  ],
+  "AFREVOKED": "N",
+  "OFREVOKED": "Y",
+  "ENABLEWFB_FCA": 0,
+  "ENABLEWFB_FCRA": 0,
+  "ENABLEWFB_FCRC": 0,
+  "ADJUSTMENTS": -1029.88,
+  "OPENFOLDER_URL": "\\\\s-elarg-pen01\\TMSACCEPTANCE\\Events\\INT MRK EX\\2016\\Open\\58446-TR-Ankara"
+}

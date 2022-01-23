@@ -1,0 +1,17 @@
+﻿[
+  {
+    "supplierId": 171233,
+    "name": "Egypt/Austrian Federal Ministry of Justice",
+    "supplierTypeIDs": [9,10]
+  },
+  {
+    "supplierId": 171234,
+    "name": "Agency for Economic Cooperation and Development (aed)",
+    "supplierTypeIDs": [11]
+  },
+  {
+    "supplierId": 171235,
+    "name": "NEUSTART",
+    "supplierTypeIDs": [9,11]
+  }
+]

@@ -1,0 +1,43 @@
+.profile-wrapper {
+  justify-content: center;
+
+  &.profile-wrapper--big {
+    margin-right: 0;
+
+    .profile-avatar {
+      background-size: 100px 100px;
+      height: 100px;
+      width: 100px;
+
+      .connected-state {
+        background: white;
+        border: 2px solid white;
+        border-radius: 100%;
+        position: absolute;
+        right: 10px;
+        top: -6px;
+
+        .icon {
+          background: #fff;
+          border-radius: 100%;
+          font-size: 1.25rem;
+          transform: translate(2px, 2px);
+        }
+      }
+
+      .available-state {
+        background: white;
+        border-radius: 100%;
+        bottom: 0;
+        position: absolute;
+        right: 8px;
+
+        .icon {
+          border: 2px solid white;
+          border-radius: 100%;
+          font-size: 1rem;
+        }
+      }
+    }
+  }
+}

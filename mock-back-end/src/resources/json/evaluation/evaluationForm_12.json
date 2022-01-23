@@ -1,0 +1,452 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "evalSysPartId": 12,
+    "status": 0,
+    "languageCodes": "en,fr",
+    "defaultLanguage": "fr",
+    "form": [
+      {
+        "controlType": "FormTabs",
+        "order": 1,
+        "label": null,
+        "qId": 19001,
+        "key": "1",
+        "tabs": [
+          {
+            "controlType": "FormTab",
+            "order": 1,
+            "label": "Event",
+            "qId": 19100,
+            "key": "1_1",
+            "questionList": [
+              {
+                "controlType": "TextInfo",
+                "order": 1,
+                "label": "Evaluation Report",
+                "value": "Workshop - speaker",
+                "labelLayout": 1,
+                "qId": 19110,
+                "key": "1_1_1"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 2,
+                "label": "Event",
+                "value": "TAIEX-REGIO Workshop on Conflict of Interest in the European Structural and Investment Funds",
+                "labelLayout": 1,
+                "qId": 19120,
+                "key": "1_1_2"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 3,
+                "label": "Event ID and Classification",
+                "value": "Event 69925 - REGIO - Workshop",
+                "labelLayout": 1,
+                "qId": 19130,
+                "key": "1_1_3"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 4,
+                "label": "Location and Date",
+                "value": "Bratislava, Slovak Republic - 25 Feb 2020",
+                "labelLayout": 1,
+                "qId": 19140,
+                "key": "1_1_4"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 5,
+                "label": "Beneficiary Institution",
+                "value": "Deputy Prime Minister's Office for Investments and Informatization",
+                "labelLayout": 1,
+                "qId": 19150,
+                "key": "1_1_5"
+              },
+              {
+                "controlType": "YesNo",
+                "order": 6,
+                "label": "Did I attend this event?",
+                "value": null,
+                "hint": "When you didn't attend, no feedback will be collected",
+                "required": true,
+                "labelLayout": 1,
+                "qId": 19160,
+                "key": "1_1_6"
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 2,
+            "label": "General evaluation",
+            "qId": 19200,
+            "key": "1_2",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "Did you receive all the information necessary for the preparation of your contribution?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20120
+              },
+              {
+                "order": 2,
+                "label": "Has the overall aim of the workshop been achieved?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20130
+              },
+              {
+                "order": 3,
+                "label": "Was the agenda well structured?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20140
+              },
+              {
+                "order": 4,
+                "label": "Were the participants present throughout the scheduled workshop?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20150
+              },
+              {
+                "order": 5,
+                "label": "Was the beneficiary represented by the appropriate participants?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20160
+              },
+              {
+                "order": 6,
+                "label": "Did the participants actively take part in the discussions?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20170
+              },
+              {
+                "order": 7,
+                "label": "Do you expect that the beneficiary will undertake follow-up based on the results of the workshop (new initiative, new administrative approach etc.)?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 4,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 5,
+                    "name": "No"
+                  },
+                  {
+                    "id": 6,
+                    "name": "Do not know"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20180
+              },
+              {
+                "order": 8,
+                "label": "Do you think that the beneficiary needs further TAIEX - REGIO PEER 2 PEER assistance (workshop, expert mission, study visit, assessment mission) on the topic of this workshop?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20190
+              },
+              {
+                "order": 9,
+                "label": "Would you be ready to participate in future TAIEX - REGIO PEER 2 PEER workshops?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 20200
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 4,
+            "label": "Logistics rating",
+            "qId": 19400,
+            "key": "1_4",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "If applicable, were you satisfied with the logistical arrangements?",
+                "value": null,
+                "controlType": "TextInfo",
+                "labelLayout": 1,
+                "qId": 19410
+              },
+              {
+                "order": 2,
+                "label": "Conference venue",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 19420
+              },
+              {
+                "order": 3,
+                "label": "Interpretation",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 19430
+              },
+              {
+                "order": 4,
+                "label": "Hotel",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 19440
+              },
+              {
+                "order": 5,
+                "label": "Flight",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 19450
+              },
+              {
+                "order": 6,
+                "label": "Catering",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 19460
+              },
+              {
+                "controlType": "TextArea",
+                "order": 7,
+                "label": "General Comments and suggestions",
+                "value": null,
+                "hint": "Comment and suggestions on the event organization in general (content, accommodation, travel...)",
+                "required": false,
+                "fieldSize": 500,
+                "labelLayout": 1,
+                "qId": 19470
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

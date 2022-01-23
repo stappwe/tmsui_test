@@ -1,0 +1,93 @@
+{
+  "EVENTID": 62212,
+  "EVENTTYPE": "JHA",
+  "TASKID": 25453,
+  "TEAMLEADER": "KIRSCHBAUM Christiane",
+  "IBUCASEHANDLER": "KELLER Mihai",
+  "ACCOUNTCH": "Neveu  Thomas",
+  "NAME": "TAIEX Workshop on Collective Redress",
+  "SUBJECT": "23 Judiciary and fundamental rights [20] (Partial),23.20 European citizenship [20.20] (Complete),28 Consumer and health protection (Partial),28.10 Consumers [15.20] (Partial),28.20.10 General [15.20.10] (Complete),28.20.40 Protection of economic interests [15.20.40] (Complete)",
+  "STARTDATESTR": "07/10/2016 09:00",
+  "ENDDATESTR": "07/10/2016 16:30",
+  "CITY": "Kyiv",
+  "COUNTRY": "Ukraine",
+  "BENEFICIARY": "Ukraine",
+  "MULTICOUNTRY": "No",
+  "LASTCHANGEDDATE": "17/07/2017 14:46",
+  "AFSIGNDATE": "07/09/2016 13:00",
+  "OFSIGNDATE": "22/09/2016 17:59",
+  "TEAMLEADEREMAIL": "Christiane.Kirschbaum@ec.europa.eu",
+  "IBUCASEHANDLEREMAIL": "Mihai.KELLER@ec.europa.eu",
+  "ACCOUNTCHEMAIL": "neveu@ibf.be",
+  "OFCOMMENT": "Prices are included with VAT.\f\nAs Mr. Swahn requested his return back on Sunday (09/10), he will pay additional costs for accommodation himself. No deduction of difference in the flight costs as his flight option is cheaper than the one we would have booked. For Mr. Voet there was only one return flight option, too close to the end of the event (18pm). IBU has confirmed his return flight next day after the event. Addendum for three additional local participants will follow, catering and headphones units are included in the mother file.",
+  "EVENTREMARK": "",
+  "STATUS": 11,
+  "FEE": 3493,
+  "FEEADDITIONAL": 0,
+  "BALANCE": 1114.93,
+  "TOTALBUDGET": 19072.71,
+  "COMMENTSTATUS": 2,
+  "EXPENDITURE": 15692.03,
+  "TEAMLEADERPHONE": "+32 229-50803",
+  "IBUCASEHANDLERPHONE": "+32 2 29 51029",
+  "ACCOUNTCHPHONE": "+32 2 237 09 87",
+  "ER_CC_F_DATE": "25/10/2016 15:52",
+  "ER_TC_A_DATE": "25/11/2016 12:18",
+  "TASKCARDURL": "https://webgate.acceptance.ec.europa.eu/TMS/updateTask.do?dispatch=Modify&taskcardID=25453",
+  "COMMENTLISTURL": "https://webgate.acceptance.ec.europa.eu/TMS/eventDashboard.do?dispatch=Select&eventID=62212",
+  "STATUSADDENCORR": [
+    {
+      "EVENTID": 62212,
+      "TYPE": "Main Event",
+      "NUMBER": 0,
+      "DATEOFSIGNATURE": "22/09/2016 17:59",
+      "STATUS": "S",
+      "COST": 17655.71
+    },
+    {
+      "EVENTID": 63302,
+      "TYPE": "Add.",
+      "NUMBER": 1,
+      "DATEOFSIGNATURE": "28/09/2016 17:06",
+      "STATUS": "S",
+      "COST": 203.07
+    },
+    {
+      "EVENTID": 63346,
+      "TYPE": "Add.",
+      "NUMBER": 2,
+      "DATEOFSIGNATURE": "04/10/2016 16:39",
+      "STATUS": "S",
+      "COST": 99
+    },
+    {
+      "EVENTID": 63524,
+      "TYPE": "Corr.",
+      "NUMBER": 3,
+      "DATEOFSIGNATURE": "03/11/2016 16:28",
+      "STATUS": "S",
+      "COST": -53.5
+    }
+  ],
+  "BUDGETLINES": [
+    {
+      "BUDGETLINE": "ENPI EAST",
+      "BENEFICIARIES": "Ukraine",
+      "PARTICIPANTS": 94,
+      "COST": 15692.03
+    }
+  ],
+  "AFREVOKED": "N",
+  "OFREVOKED": "N",
+  "ENABLEWFB_FCA": 0,
+  "ENABLEWFB_FCRA": 0,
+  "ENABLEWFB_FCRC": 0,
+  "ADJUSTMENTS": -2212.25,
+  "LASTSIGNEDER_RS_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=799520&key=02350bf59a7c81e70e69b4553eb7e4f0",
+  "LASTSIGNEDER_BL_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=799519&key=361c2c4650f07d1b98d663f623f5fec1",
+  "LASTSIGNEDER_ER_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=799518&key=ece49ee57676682c0e6738fa14808db5",
+  "OPENFOLDER_URL": "\\\\s-elarg-pen01\\TMSACCEPTANCE\\Events\\JHA\\2016\\Open\\62212-UA-Kyiv",
+  "coCasehandler": "Vilela Joana",
+  "coCasehandlerEmail": "vilela@ibf.be",
+  "coCasehandlerPhone": "+32 2 237 09 37"
+}

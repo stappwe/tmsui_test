@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 59177,
+    "name": "2015 Training Map ME - Ch.23 - 59177",
+    "disabled": true
+  },
+  {
+    "id": 59069,
+    "name": "2015 Training Map ME - Ch.24 - 59069",
+    "disabled": true
+  },
+  {
+    "id": 63093,
+    "name": "2016 TAIEX Training Map Montenegro CH 24 - 63093",
+    "disabled": false
+  },
+  {
+    "id": 63323,
+    "name": "2016 Training Map ME - Ch. 23 - 63323",
+    "disabled": false
+  },
+  {
+    "id": 63973,
+    "name": "2017 TAIEX Training Map Serbia - ch. 24 - 63973",
+    "disabled": false
+  },
+  {
+    "id": 65571,
+    "name": "2017 Training Map Montenegro - Ch.23  - 65571",
+    "disabled": false
+  },
+  {
+    "id": 64026,
+    "name": "2017 Training Map Montenegro - Ch. 24 - 64026",
+    "disabled": false
+  },
+  {
+    "id": 63925,
+    "name": "2017 Training Map PS - 63925",
+    "disabled": false
+  },
+  {
+    "id": 63971,
+    "name": "2017 Training Map Serbia Ch. 23 - 63971",
+    "disabled": false
+  },
+  {
+    "id": 64884,
+    "name": "2017- UA - cyber-security package of activities - 64884",
+    "disabled": false
+  },
+  {
+    "id": 65474,
+    "name": "2018 Egypt - 27781 TAIEX Workshop on Market Surveillance for Consumer Protection - 65474",
+    "disabled": false
+  },
+  {
+    "id": 61545,
+    "name": "20 Years TAIEX - 61545",
+    "disabled": false
+  },
+  {
+    "id": 49052,
+    "name": "49052 public sector accounting Turkey - 49052",
+    "disabled": false
+  },
+  {
+    "id": 49502,
+    "name": "49502 - IPARD focusing on investments - 49502",
+    "disabled": false
+  },
+  {
+    "id": 51365,
+    "name": "51366 - 51365",
+    "disabled": false
+  },
+  {
+    "id": 52174,
+    "name": "52174 KOS Broadcasting - 52174",
+    "disabled": false
+  },
+  {
+    "id": 52320,
+    "name": "52320 - 52320",
+    "disabled": false
+  },
+  {
+    "id": 55696,
+    "name": "55696 RS Health requirements for aquaculture animals  - 55696",
+    "disabled": false
+  },
+  {
+    "id": 55701,
+    "name": "55701 Official controls on GMOs - Albania - 55701",
+    "disabled": true
+  },
+  {
+    "id": 55707,
+    "name": "55707 Albania agrifood establishments - 55707",
+    "disabled": false
+  },
+  {
+    "id": 55776,
+    "name": "55776 Aquaculture MK - 55776",
+    "disabled": false
+  },
+  {
+    "id": 55831,
+    "name": "55831 - Drafting wine legislation Montenegro - 55831",
+    "disabled": true
+  },
+  {
+    "id": 55837,
+    "name": "55837 Plant protection products Albania - 55837",
+    "disabled": false
+  },
+  {
+    "id": 56025,
+    "name": "56025 Expert mission on Information Security - 56025",
+    "disabled": true
+  },
+  {
+    "id": 56028,
+    "name": "56028 State Aid in agriculture - 56028",
+    "disabled": false
+  },
+  {
+    "id": 56079,
+    "name": "56079 Control of GMOs - 56079",
+    "disabled": true
+  },
+  {
+    "id": 56135,
+    "name": "56135 Methods to determine pesticide residues in products of animal origin - 56135",
+    "disabled": false
+  },
+  {
+    "id": 56576,
+    "name": "56576 rulebook on raw milk quality ME - 56576",
+    "disabled": false
+  },
+  {
+    "id": 56796,
+    "name": "56796 - Expert missions on Natura 2000 network - 56796",
+    "disabled": false
+  },
+  {
+    "id": 57094,
+    "name": "57094 Multi-country workshop on road safety/ DG Move - 57094",
+    "disabled": false
+  },
+  {
+    "id": 57313,
+    "name": "57313 - SEA/EIA - Train of trainers - 57313",
+    "disabled": false
+  },
+  {
+    "id": 57993,
+    "name": "57993 - Benchmarks for chapter 12 negotiations ME - 57993",
+    "disabled": false
+  },
+  {
+    "id": 58604,
+    "name": "58604 microbiological criteria - 58604",
+    "disabled": false
+  },
+  {
+    "id": 60264,
+    "name": "58679 - 60264",
+    "disabled": false
+  },
+  {
+    "id": 58924,
+    "name": "58924 Consumer protection on food - 58924",
+    "disabled": false
+  },
+  {
+    "id": 58996,
+    "name": "58996_ Preparation of a New Law on Education_Ukraine - 58996",
+    "disabled": false
+  },
+  {
+    "id": 58999,
+    "name": "58999 EURL on Rabies - 58999",
+    "disabled": false
+  },
+  {
+    "id": 59072,
+    "name": "59072 Food safety India - 59072",
+    "disabled": false
+  },
+  {
+    "id": 59262,
+    "name": "59262_Recognition of Diplomas_Serbia - 59262",
+    "disabled": false
+  },
+  {
+    "id": 59862,
+    "name": "59862 TAIEX/PI Maldives - 59862",
+    "disabled": false
+  },
+  {
+    "id": 60696,
+    "name": "60696 Cableways Serbia - 60696",
+    "disabled": false
+  },
+  {
+    "id": 61486,
+    "name": "61486 Air pollution EM Kosovo - 61486",
+    "disabled": false
+  },
+  {
+    "id": 62087,
+    "name": "62087_Montenegro_Cultural Heritage - 62087",
+    "disabled": false
+  },
+  {
+    "id": 62175,
+    "name": "62175_Egypt_Learning  Difficulties - 62175",
+    "disabled": false
+  },
+  {
+    "id": 62350,
+    "name": "62350_Montenegro_Talented Students - 62350",
+    "disabled": false
+  },
+  {
+    "id": 62898,
+    "name": "62898 EM IRAM BiH - 62898",
+    "disabled": false
+  },
+  {
+    "id": 62973,
+    "name": "62973 Egypt Events in Areas of Cultural Heritage, Migration and the Suez Canal Special Economic Zone - 62973",
+    "disabled": false
+  },
+  {
+    "id": 63275,
+    "name": "63275 Albania_Accreditation of HEI - 63275",
+    "disabled": false
+  },
+  {
+    "id": 63374,
+    "name": "63376 Western balkan Chamber of Commerce - 63374",
+    "disabled": false
+  },
+  {
+    "id": 65139,
+    "name": "65139 - MD General requirements for proficiency testing in Metrology - 65139",
+    "disabled": false
+  },
+  {
+    "id": 54198,
+    "name": "Accreditation and verification in third trading period - 54198",
+    "disabled": false
+  },
+  {
+    "id": 50880,
+    "name": "Action Plan Bosnia - 50880",
+    "disabled": false
+  },
+  {
+    "id": 53973,
+    "name": "Action Plan - Montenegro - 53973",
+    "disabled": false
+  },
+  {
+    "id": 53813,
+    "name": "ad hoc Committee of Inquiry established by the Assembly of the former Yugoslav Republic of Macedonia - 53813",
+    "disabled": false
+  },
+  {
+    "id": 57785,
+    "name": "AGR -Action Plan Montengero - 57785",
+    "disabled": false
+  },
+  {
+    "id": 65996,
+    "name": "AGRI 2018 Land Price Information System - 65996 - 65996",
+    "disabled": false
+  },
+  {
+    "id": 56564,
+    "name": "AGRI BiH - Integrated Pest Management - 56564",
+    "disabled": false
+  },
+  {
+    "id": 50723,
+    "name": "Agri-environment measure on preservation of animal breeds and plant varieties - 50723",
+    "disabled": false
+  },
+  {
+    "id": 66443,
+    "name": "AGRI FADN in Kosovo 2018 - 66443",
+    "disabled": false
+  },
+  {
+    "id": 67115,
+    "name": "AGRI GEORGIA Transplantation system 2018 - 67115",
+    "disabled": false
+  },
+  {
+    "id": 66250,
+    "name": "AGRI GE Plant Varieties Catalogue - 66250",
+    "disabled": false
+  },
+  {
+    "id": 54216,
+    "name": "AGRI - KS - LFA Definition - 54216",
+    "disabled": false
+  },
+  {
+    "id": 56652,
+    "name": "AGRI - KS - Paying Agency and IACS - 56652",
+    "disabled": false
+  },
+  {
+    "id": 53274,
+    "name": "AGRI- MD - Plant Health, Nematodes - 53274",
+    "disabled": false
+  },
+  {
+    "id": 57776,
+    "name": "AGR-MK-Management of Direct Payments - 57776",
+    "disabled": false
+  },
+  {
+    "id": 59438,
+    "name": "Air quality - 59438",
+    "disabled": false
+  },
+  {
+    "id": 62007,
+    "name": "Albania_62007_Occupational Medicine Curricula - 62007",
+    "disabled": false
+  },
+  {
+    "id": 56132,
+    "name": "Albania - albendazole in milk 56132 - 56132",
+    "disabled": false
+  },
+  {
+    "id": 64368,
+    "name": "Albania-assessment on communicable diseases - 64368",
+    "disabled": false
+  },
+  {
+    "id": 64407,
+    "name": "Albania - Better Participation in Horizon 2020 - 64407",
+    "disabled": false
+  },
+  {
+    "id": 52319,
+    "name": "Albania - Energy efficiency - 52319",
+    "disabled": false
+  },
+  {
+    "id": 57154,
+    "name": "Albania - expert missions on roll out of electronic record system ; 22118 - 57154",
+    "disabled": false
+  },
+  {
+    "id": 63646,
+    "name": "Albania_ Medical Treatment on Board Vessels_63646 - 63646",
+    "disabled": false
+  },
+  {
+    "id": 59858,
+    "name": "Algeria_Support for Autistic Children_59858 - 59858",
+    "disabled": false
+  },
+  {
+    "id": 61781,
+    "name": "Algérie - Appui à l'élaboration des textes législatifs - 61781",
+    "disabled": false
+  },
+  {
+    "id": 64236,
+    "name": "ALGERIE - Techniques d'enquête criminelle - 64236",
+    "disabled": false
+  },
+  {
+    "id": 58091,
+    "name": "Animal identification and registration (I&R) system  - 58091",
+    "disabled": false
+  },
+  {
+    "id": 55579,
+    "name": "Anti fraud events - 55579",
+    "disabled": false
+  },
+  {
+    "id": 58169,
+    "name": "Artichoke and mushroom production - 58169",
+    "disabled": false
+  },
+  {
+    "id": 64489,
+    "name": "ASF - 64489",
+    "disabled": false
+  },
+  {
+    "id": 54297,
+    "name": "Asset recovery new challenges - 54297",
+    "disabled": false
+  },
+  {
+    "id": 52208,
+    "name": "Assistance to BIPs Croatia - 52208",
+    "disabled": false
+  },
+  {
+    "id": 54514,
+    "name": "ATCC - AGRI - Farm Advisory System - 54514",
+    "disabled": false
+  },
+  {
+    "id": 54630,
+    "name": "ATCC - AGRI - HOME - 54630",
+    "disabled": false
+  },
+  {
+    "id": 55197,
+    "name": "ATCC - AGRI - Organic - 55197",
+    "disabled": false
+  },
+  {
+    "id": 54010,
+    "name": "ATCC - AGRI - Payment functions and control system - 54010",
+    "disabled": false
+  },
+  {
+    "id": 54316,
+    "name": "ATCC - AGRI - Rural Development - 54316",
+    "disabled": false
+  },
+  {
+    "id": 54309,
+    "name": "ATCC - Company Law - 54309",
+    "disabled": false
+  },
+  {
+    "id": 53246,
+    "name": "ATCC - Competiton policy - 53246",
+    "disabled": false
+  },
+  {
+    "id": 54503,
+    "name": "ATCC - Consumer Potection - 54503",
+    "disabled": false
+  },
+  {
+    "id": 53600,
+    "name": "ATCC - Environment - 53600",
+    "disabled": false
+  },
+  {
+    "id": 53464,
+    "name": "ATCC - Financial services - Insurance - 53464",
+    "disabled": false
+  },
+  {
+    "id": 62893,
+    "name": "ATCC - fiscal acquis and governance  - 62893",
+    "disabled": false
+  },
+  {
+    "id": 51669,
+    "name": "ATCC - FMC AML - 51669",
+    "disabled": false
+  },
+  {
+    "id": 53616,
+    "name": "ATCC - FMC Payment services - 53616",
+    "disabled": false
+  },
+  {
+    "id": 53757,
+    "name": "ATCC - Free Movement of Capital - 53757",
+    "disabled": false
+  },
+  {
+    "id": 54613,
+    "name": "ATCC - Free Movement of Goods - 54613",
+    "disabled": false
+  },
+  {
+    "id": 56806,
+    "name": "ATCc - General - 56806",
+    "disabled": false
+  },
+  {
+    "id": 53872,
+    "name": "ATCC - Green line trade - 53872",
+    "disabled": false
+  },
+  {
+    "id": 54074,
+    "name": "ATCC - Green line trade - 54074",
+    "disabled": false
+  },
+  {
+    "id": 63982,
+    "name": "ATCC - Health Protection - Assisted Reproduction Technologies (ART) - 63982",
+    "disabled": false
+  },
+  {
+    "id": 53516,
+    "name": "ATCC - Health Protection - Blood and Blood components - 53516",
+    "disabled": false
+  },
+  {
+    "id": 53754,
+    "name": "ATCC - Health Protection - Communicable Diseases - 53754",
+    "disabled": false
+  },
+  {
+    "id": 53756,
+    "name": "ATCC - Health Protection - TCOs - 53756",
+    "disabled": false
+  },
+  {
+    "id": 53790,
+    "name": "ATCC - Health Protection - Tobacco - 53790",
+    "disabled": false
+  },
+  {
+    "id": 60686,
+    "name": "ATCC HOME Green Line - 60686",
+    "disabled": false
+  },
+  {
+    "id": 54626,
+    "name": "ATCC - HOME - Health Protection - 54626",
+    "disabled": false
+  },
+  {
+    "id": 51656,
+    "name": "ATCC - Legal drafting - 51656",
+    "disabled": false
+  },
+  {
+    "id": 56920,
+    "name": "ATCC - Mutual Recognition of Professional Qualifications - 56920",
+    "disabled": false
+  },
+  {
+    "id": 56060,
+    "name": "ATCC - PFAA - 56060",
+    "disabled": false
+  },
+  {
+    "id": 54088,
+    "name": "ATCC - Phytosanitary - 54088",
+    "disabled": false
+  },
+  {
+    "id": 53748,
+    "name": "ATCC - Public Expenditure Management - 53748",
+    "disabled": false
+  },
+  {
+    "id": 53751,
+    "name": "ATCC - Public Internal Financial Control - 53751",
+    "disabled": false
+  },
+  {
+    "id": 53760,
+    "name": "ATCC - Public Procurement - 53760",
+    "disabled": false
+  },
+  {
+    "id": 55264,
+    "name": "ATCC - Road Transport - 55264",
+    "disabled": false
+  },
+  {
+    "id": 54560,
+    "name": "ATCC - Social Policy - 54560",
+    "disabled": false
+  },
+  {
+    "id": 59425,
+    "name": "ATCC Special waste - 59425",
+    "disabled": false
+  },
+  {
+    "id": 53752,
+    "name": "ATCC - Statistics - 53752",
+    "disabled": false
+  },
+  {
+    "id": 54998,
+    "name": "ATCC - VET - Animal Health - 54998",
+    "disabled": false
+  },
+  {
+    "id": 54430,
+    "name": "ATCC - VET - Animal Welfare - 54430",
+    "disabled": false
+  },
+  {
+    "id": 65883,
+    "name": "ATCC - Veterinary sector - AIR databse - 65883",
+    "disabled": false
+  },
+  {
+    "id": 54258,
+    "name": "ATCC - VET - Foot and Mouth Disease  - 54258",
+    "disabled": false
+  },
+  {
+    "id": 54625,
+    "name": "ATCC - VET - HOME - 54625",
+    "disabled": false
+  },
+  {
+    "id": 57407,
+    "name": "ATCC - VET - Medicinal products - 57407",
+    "disabled": false
+  },
+  {
+    "id": 54731,
+    "name": "ATCC - VET - Policy - 54731",
+    "disabled": false
+  },
+  {
+    "id": 54615,
+    "name": "ATTC HOME - Consumer Protection - 54615",
+    "disabled": false
+  },
+  {
+    "id": 54617,
+    "name": "ATTC - HOME - Road Transport - 54617",
+    "disabled": false
+  },
+  {
+    "id": 54620,
+    "name": "ATTC - HOME - Social Policy - 54620",
+    "disabled": false
+  },
+  {
+    "id": 55680,
+    "name": "Audit  - 55680",
+    "disabled": false
+  },
+  {
+    "id": 63544,
+    "name": "Azerbaijan - 63544 Peer review Transport - 63544",
+    "disabled": false
+  },
+  {
+    "id": 63608,
+    "name": "Azerbaijan_ School Inspection_63608 - 63608",
+    "disabled": false
+  },
+  {
+    "id": 64682,
+    "name": "Azerbaijan_Task 27248_ Textbooks - 64682",
+    "disabled": false
+  },
+  {
+    "id": 55031,
+    "name": "Azerbajan Accessibility Policies for People with Disabilities  - 55031",
+    "disabled": false
+  },
+  {
+    "id": 61353,
+    "name": "Belarus_61353_Public – Private Partnership - 61353",
+    "disabled": false
+  },
+  {
+    "id": 54750,
+    "name": "Border police reform - 54750",
+    "disabled": false
+  },
+  {
+    "id": 66876,
+    "name": "Cableways in GE - 66876",
+    "disabled": false
+  },
+  {
+    "id": 66179,
+    "name": "Capacity Building for the Theodore Bilharz Research Institute - 66179",
+    "disabled": false
+  },
+  {
+    "id": 48486,
+    "name": "certification committee  - 48486",
+    "disabled": false
+  },
+  {
+    "id": 52914,
+    "name": "certification - énergie renouvelable - Algérie - 52914",
+    "disabled": false
+  },
+  {
+    "id": 64624,
+    "name": "Cluster Model Development in Moldova - 64624",
+    "disabled": false
+  },
+  {
+    "id": 51618,
+    "name": "Collection of data on critical halons - 51618",
+    "disabled": false
+  },
+  {
+    "id": 57309,
+    "name": "Common Security and Defence Policy Training Programme - 57309",
+    "disabled": false
+  },
+  {
+    "id": 51892,
+    "name": "Conservation of Biological Diversity - 51892",
+    "disabled": false
+  },
+  {
+    "id": 54232,
+    "name": "Consumer Protection Acquis - 54232",
+    "disabled": false
+  },
+  {
+    "id": 60995,
+    "name": "Corruption risk assessment - event 60995 - 60995",
+    "disabled": false
+  },
+  {
+    "id": 59907,
+    "name": "Crimnal code of SRB - 59907",
+    "disabled": false
+  },
+  {
+    "id": 61347,
+    "name": "Customs Post Clearance Audit Strategy - Serbia  - 61347",
+    "disabled": false
+  },
+  {
+    "id": 53198,
+    "name": "Development of Business Strategy, Business Continuity and Risk Analysis Methodology Plans - 53198",
+    "disabled": false
+  },
+  {
+    "id": 60322,
+    "name": "DG AGRI IPARD II implementation - 60322",
+    "disabled": false
+  },
+  {
+    "id": 57456,
+    "name": "Directive ascensceur - 57456",
+    "disabled": false
+  },
+  {
+    "id": 66615,
+    "name": "Drafting of rulebook on quick-frozen food stuffs in line with Council Directive 89/108/EEC - 66615",
+    "disabled": false
+  },
+  {
+    "id": 55669,
+    "name": "Drafting the Regulation on Accounting Separation - 55669",
+    "disabled": false
+  },
+  {
+    "id": 56360,
+    "name": "ECRAN 56360 - Capacity building  environmental legislation - 56360",
+    "disabled": false
+  },
+  {
+    "id": 56798,
+    "name": "ECRAN 56798 - management plan of the Drina River Basin - 56798",
+    "disabled": false
+  },
+  {
+    "id": 57312,
+    "name": "ECRAN 57312 - ETS regulation - 57312",
+    "disabled": false
+  },
+  {
+    "id": 57315,
+    "name": "ECRAN 57315 - Air Quality Directive - 57315",
+    "disabled": false
+  },
+  {
+    "id": 57316,
+    "name": "ECRAN 57316 - Appropriate Assessment  - 57316",
+    "disabled": false
+  },
+  {
+    "id": 56706,
+    "name": "ECRAN chapter 27 - 56706",
+    "disabled": false
+  },
+  {
+    "id": 55580,
+    "name": "ECRAN Climate 2014 - 55580",
+    "disabled": false
+  },
+  {
+    "id": 56987,
+    "name": "ECRAN greenhouse gas emissions - 56987",
+    "disabled": false
+  },
+  {
+    "id": 58033,
+    "name": "ECRAN - national climate adaptation teams, first phase 58033 - 58033",
+    "disabled": false
+  },
+  {
+    "id": 65580,
+    "name": "EG ASRT STI  - 65580",
+    "disabled": false
+  },
+  {
+    "id": 62984,
+    "name": "EG_Support to the General Authority for the Suez Canal Economic Zone - 62984",
+    "disabled": false
+  },
+  {
+    "id": 67235,
+    "name": "EIR Waste Management 29128 - 67235",
+    "disabled": false
+  },
+  {
+    "id": 57927,
+    "name": "elaboration of a \"Participatory Management Plan\" - 57927",
+    "disabled": false
+  },
+  {
+    "id": 55764,
+    "name": "Empowering Rural Stakeholders - 55764",
+    "disabled": false
+  },
+  {
+    "id": 52749,
+    "name": "Environmental data reporting - 52749",
+    "disabled": false
+  },
+  {
+    "id": 51894,
+    "name": "Environmental noise   - 51894",
+    "disabled": false
+  },
+  {
+    "id": 59542,
+    "name": " Environmental noise - 59542",
+    "disabled": false
+  },
+  {
+    "id": 47375,
+    "name": "E-signature - 47375",
+    "disabled": false
+  },
+  {
+    "id": 64435,
+    "name": "EU Climate Diplomacy Week (Australia) - 64435",
+    "disabled": false
+  },
+  {
+    "id": 66592,
+    "name": "Existing models to support people with mental, cognitive or emotional disabilities - 66592",
+    "disabled": false
+  },
+  {
+    "id": 58490,
+    "name": "Expert mission on Air protection I - 58490",
+    "disabled": false
+  },
+  {
+    "id": 56267,
+    "name": "FADN Training - MK - 56267",
+    "disabled": false
+  },
+  {
+    "id": 58462,
+    "name": "Finalisation of the Book of Rules for Completing the Customs Single Administrative Document - 58462",
+    "disabled": false
+  },
+  {
+    "id": 55211,
+    "name": "Free Movement of Goods - 55211",
+    "disabled": false
+  },
+  {
+    "id": 56251,
+    "name": "FYROM accreditation system for health care institutions - 56251",
+    "disabled": false
+  },
+  {
+    "id": 62484,
+    "name": "FYROM- Assessment Communicable diseases - 62484",
+    "disabled": false
+  },
+  {
+    "id": 52547,
+    "name": "FYROM Good Manufacturing Practice and Good Distribution Practice Inspections(Medicines) - 52547",
+    "disabled": false
+  },
+  {
+    "id": 51080,
+    "name": "FYROM - Postal services - 51080",
+    "disabled": false
+  },
+  {
+    "id": 59344,
+    "name": "FYROM rule of law - 59344",
+    "disabled": false
+  },
+  {
+    "id": 67243,
+    "name": "Genetically Modified food - 67243",
+    "disabled": false
+  },
+  {
+    "id": 55084,
+    "name": "GEOID - 55084",
+    "disabled": false
+  },
+  {
+    "id": 64883,
+    "name": "Good Manufacturing Practices for Pharmaceutical Products - 64883",
+    "disabled": false
+  },
+  {
+    "id": 55249,
+    "name": "Hands-on technical assistance for Step 1 re-registration of Plant Protection Propucts (PPP) - 55249",
+    "disabled": false
+  },
+  {
+    "id": 54384,
+    "name": "Heath - Blood - 54384",
+    "disabled": false
+  },
+  {
+    "id": 53127,
+    "name": "HETUS - 53127",
+    "disabled": false
+  },
+  {
+    "id": 53965,
+    "name": "Hot pursuit - 53965",
+    "disabled": false
+  },
+  {
+    "id": 48770,
+    "name": "Iceland - MTA on Capacity-building in the field of EU External Relations: security-related trade controls and restrictive measures  - 48770",
+    "disabled": false
+  },
+  {
+    "id": 48769,
+    "name": "Iceland - MTA on Capacity-building in the field of EU External Relations: Security-related trade controls & Restrictive measures - 48769",
+    "disabled": false
+  },
+  {
+    "id": 48302,
+    "name": "Iceland - MTA on Capacity-building in the field of foreign, security and defence policy: perspectives of EU and NATO Member States - 48302",
+    "disabled": false
+  },
+  {
+    "id": 51092,
+    "name": "Iceland - MTA on Customs : customs administration and implementation of European customs standards - 51092",
+    "disabled": false
+  },
+  {
+    "id": 47939,
+    "name": "Iceland - MTA on the INSPIRE Directive  - 47939",
+    "disabled": false
+  },
+  {
+    "id": 51800,
+    "name": "Implementation of the import and export licenses system - 51800",
+    "disabled": false
+  },
+  {
+    "id": 64917,
+    "name": "Industrial Sector Census-LB - 64917",
+    "disabled": false
+  },
+  {
+    "id": 53350,
+    "name": "INSPIRE  - 53350",
+    "disabled": false
+  },
+  {
+    "id": 53559,
+    "name": "INSPIRE CENSUS ATLAS - 53559",
+    "disabled": false
+  },
+  {
+    "id": 53712,
+    "name": "INT MARKT - Algeria - social inclusion - 53712",
+    "disabled": false
+  },
+  {
+    "id": 53124,
+    "name": "INT MARKT - Azerbejian - Social Services - 53124",
+    "disabled": false
+  },
+  {
+    "id": 56143,
+    "name": "INT MARKT- Israel- Recognition of Academic Qualifications-53831 - 56143",
+    "disabled": false
+  },
+  {
+    "id": 53580,
+    "name": "INT MARKT - Moldova - Education - School Inspection  - 53580",
+    "disabled": false
+  },
+  {
+    "id": 53475,
+    "name": "INT MARKT - Moldova - education & training (NQF & VET) - 53475",
+    "disabled": false
+  },
+  {
+    "id": 53901,
+    "name": "INT MARKT - Turkey - OSH - 53901",
+    "disabled": false
+  },
+  {
+    "id": 58942,
+    "name": "Introduction of a Risk treatment plan as management instrument - customs area  - 58942",
+    "disabled": false
+  },
+  {
+    "id": 58943,
+    "name": "Introduction of a Risk Treatment Plan as Management Instrument - VAT part  - 58943",
+    "disabled": false
+  },
+  {
+    "id": 62668,
+    "name": "Investment promotion - Ukraine - 62668",
+    "disabled": false
+  },
+  {
+    "id": 57172,
+    "name": "IPA II  - 57172",
+    "disabled": false
+  },
+  {
+    "id": 54304,
+    "name": "IPR - 54304",
+    "disabled": false
+  },
+  {
+    "id": 57623,
+    "name": "IRAM - 57623",
+    "disabled": false
+  },
+  {
+    "id": 53885,
+    "name": "Kososo -  MTA on health inspections - 53885",
+    "disabled": false
+  },
+  {
+    "id": 53832,
+    "name": "Kososo -  MTA on tax intelligence - 53832",
+    "disabled": false
+  },
+  {
+    "id": 53703,
+    "name": "Kososo -  MTA on tax risk management - 53703",
+    "disabled": false
+  },
+  {
+    "id": 65352,
+    "name": "Kosovo - air navigation context  - 65352",
+    "disabled": false
+  },
+  {
+    "id": 67084,
+    "name": "Kosovo Airspace Normalisation Study - 67084",
+    "disabled": false
+  },
+  {
+    "id": 64349,
+    "name": "Kosovo* Air Transport Management Network Feasibility Study - 64349",
+    "disabled": false
+  },
+  {
+    "id": 63874,
+    "name": "Kosovo - Air Transport Market Research  - 63874",
+    "disabled": false
+  },
+  {
+    "id": 65092,
+    "name": "Kosovo Aviation Harminisation 65092 - 65092",
+    "disabled": false
+  },
+  {
+    "id": 62393,
+    "name": "KOSOVO_Double Taxation Agreements - 62393",
+    "disabled": false
+  },
+  {
+    "id": 51974,
+    "name": "Kosovo - low carbon development - 51974",
+    "disabled": false
+  },
+  {
+    "id": 61847,
+    "name": "Kosovo - Merging Tax and Customs Administrations - 61847",
+    "disabled": false
+  },
+  {
+    "id": 51607,
+    "name": "Kosovo - MTA on development of minority communities - 51607",
+    "disabled": false
+  },
+  {
+    "id": 49444,
+    "name": "Kosovo - MTA on electricity transmission system 18377 - 49444",
+    "disabled": false
+  },
+  {
+    "id": 49428,
+    "name": "Kosovo - MTA on export-import agri statistics 18303 - 49428",
+    "disabled": false
+  },
+  {
+    "id": 54351,
+    "name": "Kosovo - MTA on health care reform 20611 - 54351",
+    "disabled": false
+  },
+  {
+    "id": 54753,
+    "name": "Kosovo - MTA on health promotion 20784 - 54753",
+    "disabled": false
+  },
+  {
+    "id": 53329,
+    "name": "Kosovo - MTA on intelligence in tax administration - 53329",
+    "disabled": false
+  },
+  {
+    "id": 53649,
+    "name": "Kosovo- MTA on organic farming 20255 - 53649",
+    "disabled": false
+  },
+  {
+    "id": 53551,
+    "name": "Kosovo - MTA on pharmaceutical inspections - 53551",
+    "disabled": false
+  },
+  {
+    "id": 52718,
+    "name": "Kosovo - MTA on railway legislation 19408 - 52718",
+    "disabled": false
+  },
+  {
+    "id": 53578,
+    "name": "Kosovo - National Radio Frequency Spectrum Monitoring Systems - 53578",
+    "disabled": false
+  },
+  {
+    "id": 64115,
+    "name": "Kosovo* Universal Services - 64115",
+    "disabled": false
+  },
+  {
+    "id": 63559,
+    "name": "KS - administrative boundaries of municipalities  - 63559",
+    "disabled": false
+  },
+  {
+    "id": 62715,
+    "name": "KS - Emission Reduction Plan - 62715",
+    "disabled": false
+  },
+  {
+    "id": 55979,
+    "name": "Labour Market - 55979",
+    "disabled": false
+  },
+  {
+    "id": 59095,
+    "name": "Legal professions - 59095",
+    "disabled": false
+  },
+  {
+    "id": 60000,
+    "name": "Legal professions - 60000",
+    "disabled": false
+  },
+  {
+    "id": 57434,
+    "name": "marine strategy - 57434",
+    "disabled": false
+  },
+  {
+    "id": 63264,
+    "name": "MAROC – Appui à la mise en place d'un centre de gestion des concours à la fonction publique marocaine  - 63264",
+    "disabled": false
+  },
+  {
+    "id": 56531,
+    "name": "ME - Expert missions on electronic communications - 56531",
+    "disabled": false
+  },
+  {
+    "id": 63046,
+    "name": "MK - Support to Develop a Staff Retention Policy - 63046",
+    "disabled": false
+  },
+  {
+    "id": 59742,
+    "name": "MNE Need Analysis Task 23816 - 59742",
+    "disabled": false
+  },
+  {
+    "id": 60205,
+    "name": "Moldova_ Quality Assurance in General Education_60205 - 60205",
+    "disabled": false
+  },
+  {
+    "id": 54101,
+    "name": "Money Laundering Risk Assessment - 54101",
+    "disabled": false
+  },
+  {
+    "id": 56461,
+    "name": "Montenegro-assesment- substances of human origin - 56461",
+    "disabled": false
+  },
+  {
+    "id": 55578,
+    "name": "Montenegro - assistance to parliamentary working group  - 55578",
+    "disabled": false
+  },
+  {
+    "id": 60640,
+    "name": "Montenegro: Financial Decentralisation of Education _ 60640 - 60640",
+    "disabled": false
+  },
+  {
+    "id": 56083,
+    "name": "Montenegro LGBTI - 56083",
+    "disabled": false
+  },
+  {
+    "id": 64414,
+    "name": "MONTENEGRO - Managing Small Group Homes for Children - 64414",
+    "disabled": false
+  },
+  {
+    "id": 61799,
+    "name": "Montenegro Peer Reviews 2016 - 61799",
+    "disabled": false
+  },
+  {
+    "id": 55795,
+    "name": "Montenegro - Peer Reviews chapters 23&24  - 55795",
+    "disabled": false
+  },
+  {
+    "id": 63961,
+    "name": "Montenegro_Preparation Law on Employment_61861 - 63961",
+    "disabled": false
+  },
+  {
+    "id": 64415,
+    "name": "Montenegro - reducing cost for broadband development - 64415",
+    "disabled": false
+  },
+  {
+    "id": 57255,
+    "name": "Montenegro- Screening Program for Early Detection of Alcohol Abuse - 57255",
+    "disabled": false
+  },
+  {
+    "id": 60309,
+    "name": "Montenegro- Sustainable use of pesticides - 60309",
+    "disabled": false
+  },
+  {
+    "id": 55941,
+    "name": "Montenegro - Training Map chapter 23 - 55941",
+    "disabled": false
+  },
+  {
+    "id": 63126,
+    "name": "Morocco- certification of management systems - 63126",
+    "disabled": false
+  },
+  {
+    "id": 64024,
+    "name": "Multicountry workshops communicable diseases (ECDC) - 64024",
+    "disabled": false
+  },
+  {
+    "id": 57021,
+    "name": "Mutual Recognition of Professional Qualifications - 57021",
+    "disabled": false
+  },
+  {
+    "id": 53566,
+    "name": "National money laundering and terrorist financing risk assessment - 53566",
+    "disabled": false
+  },
+  {
+    "id": 57627,
+    "name": "Nature inspection training - 57627",
+    "disabled": false
+  },
+  {
+    "id": 52669,
+    "name": "Open Data - 52669",
+    "disabled": false
+  },
+  {
+    "id": 66646,
+    "name": "OPS certification Beirut Airport - 66646",
+    "disabled": false
+  },
+  {
+    "id": 55835,
+    "name": "Ornamental plants AL - 55835",
+    "disabled": false
+  },
+  {
+    "id": 53820,
+    "name": "OTS Controls - 53820",
+    "disabled": false
+  },
+  {
+    "id": 66180,
+    "name": "Palestine-Development of a Performance Appraisal for Civil Servants-28305 - 66180",
+    "disabled": false
+  },
+  {
+    "id": 56675,
+    "name": "Participatory Management Plan - Albania - 56675",
+    "disabled": false
+  },
+  {
+    "id": 56769,
+    "name": "Paying Agency Risks and Irregularities - 56769",
+    "disabled": false
+  },
+  {
+    "id": 54120,
+    "name": "Perfomance Auditing - 54120",
+    "disabled": false
+  },
+  {
+    "id": 61699,
+    "name": "Pesticide residues - 61699",
+    "disabled": false
+  },
+  {
+    "id": 52911,
+    "name": "Pesticide residues and contaminants in food MK - 52911",
+    "disabled": false
+  },
+  {
+    "id": 56659,
+    "name": "Polytypic  - 56659",
+    "disabled": false
+  },
+  {
+    "id": 60872,
+    "name": "Postal Services Ukraine - 60872",
+    "disabled": false
+  },
+  {
+    "id": 63919,
+    "name": "Pumped Storage Hydroelectric Power Plants in the Electricity Market - 63919",
+    "disabled": false
+  },
+  {
+    "id": 55525,
+    "name": "Quality Management - 55525",
+    "disabled": false
+  },
+  {
+    "id": 63319,
+    "name": "Reference Price Database- Serbia - 63319",
+    "disabled": false
+  },
+  {
+    "id": 64774,
+    "name": "REGIO-LT-Creation of a State Aid Scheme for Health Care Institutions under the SGEI Framework  - 64774",
+    "disabled": false
+  },
+  {
+    "id": 57827,
+    "name": "Regional Workshop on Appropriate Assessment (AA) - 57827",
+    "disabled": false
+  },
+  {
+    "id": 63232,
+    "name": "REGIO-Railway infrastructure projects - 63232",
+    "disabled": false
+  },
+  {
+    "id": 67611,
+    "name": "REGIO State aid Mapping - 67611",
+    "disabled": false
+  },
+  {
+    "id": 53651,
+    "name": "Requirements for aquaculture animals (53651) - 53651",
+    "disabled": false
+  },
+  {
+    "id": 65091,
+    "name": "Risk Assessment Methodology - Agriculture Insurance - 65091",
+    "disabled": false
+  },
+  {
+    "id": 56186,
+    "name": "RTP on measure 103 IPARD Turkey  - 56186",
+    "disabled": false
+  },
+  {
+    "id": 53169,
+    "name": "Sector review Albania - 53169",
+    "disabled": false
+  },
+  {
+    "id": 63031,
+    "name": "Security and Defence Series (ESDC) - 63031",
+    "disabled": false
+  },
+  {
+    "id": 58089,
+    "name": "Serbia-Blood transfusion - 58089",
+    "disabled": false
+  },
+  {
+    "id": 51966,
+    "name": "Serbia - EU legislation on Occupational Safety and Health - 51966",
+    "disabled": false
+  },
+  {
+    "id": 51617,
+    "name": "Serbia - Large Combustion Plants Directive: implementation and policy instruments - 51617",
+    "disabled": false
+  },
+  {
+    "id": 67162,
+    "name": "Serbia Law on control of major hazards involving dangerous substances - 67162",
+    "disabled": false
+  },
+  {
+    "id": 58464,
+    "name": "Serbia-Medicines - 58464",
+    "disabled": false
+  },
+  {
+    "id": 55015,
+    "name": "Serbia - Rule of law - 55015",
+    "disabled": false
+  },
+  {
+    "id": 60365,
+    "name": "Serbia - State Aid Control - 60365",
+    "disabled": false
+  },
+  {
+    "id": 54834,
+    "name": "Sexual Offences - 54834",
+    "disabled": false
+  },
+  {
+    "id": 62812,
+    "name": "Sharing Network Infrastructure - 62812",
+    "disabled": false
+  },
+  {
+    "id": 54383,
+    "name": "Social policy - 54383",
+    "disabled": false
+  },
+  {
+    "id": 54306,
+    "name": "Social Policy - OSH - 54306",
+    "disabled": false
+  },
+  {
+    "id": 66205,
+    "name": "SRSP AML programme Latvia (28387) - 66205",
+    "disabled": false
+  },
+  {
+    "id": 66451,
+    "name": "SRSP AML Programme Latvia (28542) - 66451",
+    "disabled": false
+  },
+  {
+    "id": 66453,
+    "name": "SRSP AML Programme Latvia (28545)  - 66453",
+    "disabled": false
+  },
+  {
+    "id": 67198,
+    "name": "SRSP Audit Committees in Bulgaria - 67198",
+    "disabled": false
+  },
+  {
+    "id": 67285,
+    "name": "SRSP Change Management Cyprus - 67285",
+    "disabled": false
+  },
+  {
+    "id": 66004,
+    "name": "SRSP Change Management Romania - 66004",
+    "disabled": false
+  },
+  {
+    "id": 66939,
+    "name": "SRSP Germany LCUs - 66939",
+    "disabled": false
+  },
+  {
+    "id": 65795,
+    "name": "SRSP Lithuania National Productivity Board (28072) - 65795",
+    "disabled": false
+  },
+  {
+    "id": 66565,
+    "name": "SRSP LT-Support to the Lithuanian authorities with improving the process of healthcare technology assessment - 66565",
+    "disabled": false
+  },
+  {
+    "id": 65960,
+    "name": "SRSP - LT - Teacher Workforce Forecasting Model - 65960",
+    "disabled": false
+  },
+  {
+    "id": 66400,
+    "name": "SRSP-LV DRG cost accounting - 66400",
+    "disabled": false
+  },
+  {
+    "id": 66678,
+    "name": "SRSP RO NAFA Strategic Planning  - 66678",
+    "disabled": false
+  },
+  {
+    "id": 66500,
+    "name": "SRSP Series Impact of Innovation schemes on labour Market (28580) - 66500",
+    "disabled": false
+  },
+  {
+    "id": 66062,
+    "name": "SRSP SOE in Lithuania - 66062",
+    "disabled": false
+  },
+  {
+    "id": 67200,
+    "name": "SRSP Tax Excise in Italy - 67200",
+    "disabled": false
+  },
+  {
+    "id": 56738,
+    "name": "State Aid - 56738",
+    "disabled": false
+  },
+  {
+    "id": 53289,
+    "name": "State Aid Control - 53289",
+    "disabled": false
+  },
+  {
+    "id": 51908,
+    "name": "Statistics for decision making - 51908",
+    "disabled": false
+  },
+  {
+    "id": 65995,
+    "name": "Statistics for vocational training and lifelong learning-UA - 65995",
+    "disabled": false
+  },
+  {
+    "id": 65871,
+    "name": "Strategic support in SPS area  - 65871",
+    "disabled": false
+  },
+  {
+    "id": 55804,
+    "name": "strenthen AFCOS - 55804",
+    "disabled": false
+  },
+  {
+    "id": 60254,
+    "name": "Structured Dialog on Justice - 60254",
+    "disabled": false
+  },
+  {
+    "id": 57488,
+    "name": "Sub-regional workshops on appropriate assessment  - 57488",
+    "disabled": false
+  },
+  {
+    "id": 58672,
+    "name": "Supervision of operators/Organic products MK - 58672",
+    "disabled": false
+  },
+  {
+    "id": 62628,
+    "name": "Support in preparing the ERPs - 62628",
+    "disabled": false
+  },
+  {
+    "id": 64003,
+    "name": "Support in preparing the ERPs - 64003",
+    "disabled": false
+  },
+  {
+    "id": 63331,
+    "name": "Support to the implementation of the EU-India Capacity building Initiative for Trade Development (CITD) - 63331",
+    "disabled": false
+  },
+  {
+    "id": 53115,
+    "name": "Surveillance - 53115",
+    "disabled": false
+  },
+  {
+    "id": 57963,
+    "name": "TAIEX ECRAN Expert Missions on chemicals legislation in Albania - 57963",
+    "disabled": false
+  },
+  {
+    "id": 58769,
+    "name": "TAIEX ECRAN ‘Training of trainers’  - SEA - 58769",
+    "disabled": false
+  },
+  {
+    "id": 54389,
+    "name": "TAIEX programming - 54389",
+    "disabled": false
+  },
+  {
+    "id": 62972,
+    "name": "TAIEX support requested by EUD in Cairo on Cultural Heritage - 62972",
+    "disabled": false
+  },
+  {
+    "id": 53725,
+    "name": "Taxation - 53725",
+    "disabled": false
+  },
+  {
+    "id": 65561,
+    "name": "TRACES Morocco - 65561",
+    "disabled": false
+  },
+  {
+    "id": 57148,
+    "name": "Trade Data - 57148",
+    "disabled": false
+  },
+  {
+    "id": 54694,
+    "name": "trafficking in fire arms - 54694",
+    "disabled": false
+  },
+  {
+    "id": 53306,
+    "name": "Training for ISAMM System Implementation - 53306",
+    "disabled": false
+  },
+  {
+    "id": 52385,
+    "name": "Training Maps - 52385",
+    "disabled": false
+  },
+  {
+    "id": 54186,
+    "name": "Translation of Acquis - 54186",
+    "disabled": false
+  },
+  {
+    "id": 62708,
+    "name": "Tunisia - Renforcement des capacités de l'Instance Générale de Suivi des Programmes Publics - 62708",
+    "disabled": false
+  },
+  {
+    "id": 55002,
+    "name": "Tunisia Sector Security Reform - 55002",
+    "disabled": false
+  },
+  {
+    "id": 64633,
+    "name": "Tunisia - système informatisé gestion financière 64633 - 64633",
+    "disabled": false
+  },
+  {
+    "id": 56460,
+    "name": "Turkey Assesment -communicable diseases - 56460",
+    "disabled": false
+  },
+  {
+    "id": 61380,
+    "name": "Turkey_OHS in Mining Environment - 61380",
+    "disabled": false
+  },
+  {
+    "id": 64513,
+    "name": "Turkey - Open Data Portal - 64513",
+    "disabled": false
+  },
+  {
+    "id": 62401,
+    "name": "Turkey_ Settlement of Labour Disputes_62401 - 62401",
+    "disabled": false
+  },
+  {
+    "id": 66240,
+    "name": "UA 66240 Technical investication transport sector - 66240",
+    "disabled": false
+  },
+  {
+    "id": 61576,
+    "name": "UA - Competition of the energy market  - 61576",
+    "disabled": false
+  },
+  {
+    "id": 61350,
+    "name": "UA Energy Efficiency Mechanism  - 61350",
+    "disabled": false
+  },
+  {
+    "id": 61721,
+    "name": "UA - Gas Transmission Operator - 61721",
+    "disabled": false
+  },
+  {
+    "id": 59934,
+    "name": "Ukraine-communicable diseases - 59934",
+    "disabled": false
+  },
+  {
+    "id": 64464,
+    "name": "Ukraine_Education Funding_Task 27062 - 64464",
+    "disabled": false
+  },
+  {
+    "id": 64920,
+    "name": "Ukraine Forest Governance Reform - 64920",
+    "disabled": false
+  },
+  {
+    "id": 60142,
+    "name": "Ukraine -  Support for the implementation of the EU-Ukraine Association Agreement in the field of anti-trust, State Aid and Postal Services - 60142",
+    "disabled": false
+  },
+  {
+    "id": 63186,
+    "name": "Ukraine - support for the implementation of the EU-Ukraine Association Agreement in the field of customs and trade facilitation - 63186",
+    "disabled": false
+  },
+  {
+    "id": 62788,
+    "name": "Ukraine - Support in the field of Public Financial Management Reform - 62788",
+    "disabled": false
+  },
+  {
+    "id": 65994,
+    "name": "Vehicle approval in ISR - 65994",
+    "disabled": false
+  },
+  {
+    "id": 60378,
+    "name": "Visa Liberalisation Action Pan (24278) - 60378",
+    "disabled": false
+  },
+  {
+    "id": 60315,
+    "name": "VLAP - Georgia (24277) - 60315",
+    "disabled": false
+  },
+  {
+    "id": 56097,
+    "name": "VLAP Georgia - 56097",
+    "disabled": false
+  },
+  {
+    "id": 57736,
+    "name": "Water Framework Directive - 57736",
+    "disabled": false
+  },
+  {
+    "id": 61056,
+    "name": "WB Transport Facilitation WG  - 61056",
+    "disabled": false
+  },
+  {
+    "id": 51165,
+    "name": "Workshop on EU notification procedures, technical legislation, SOLVIT and YOUR EUROPE - 51165",
+    "disabled": false
+  },
+  {
+    "id": 54272,
+    "name": "Workshop on Money Laundering Risk Assessment - 54272",
+    "disabled": false
+  },
+  {
+    "id": 55916,
+    "name": "Workshop on sex offenders - 55916",
+    "disabled": false
+  }
+]

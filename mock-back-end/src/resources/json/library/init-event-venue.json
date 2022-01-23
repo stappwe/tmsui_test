@@ -1,0 +1,326 @@
+[
+  {
+    "id": 51,
+    "name": "Albania"
+  },
+  {
+    "id": 78,
+    "name": "Algeria"
+  },
+  {
+    "id": 76,
+    "name": "Armenia"
+  },
+  {
+    "id": 153,
+    "name": "Australia"
+  },
+  {
+    "id": 100,
+    "name": "Austria"
+  },
+  {
+    "id": 75,
+    "name": "Azerbaijan"
+  },
+  {
+    "id": 164,
+    "name": "Bahrain"
+  },
+  {
+    "id": 74,
+    "name": "Belarus"
+  },
+  {
+    "id": 101,
+    "name": "Belgium"
+  },
+  {
+    "id": 220,
+    "name": "Bolivia"
+  },
+  {
+    "id": 52,
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 191,
+    "name": "Brazil"
+  },
+  {
+    "id": 1,
+    "name": "Bulgaria"
+  },
+  {
+    "id": 155,
+    "name": "Canada"
+  },
+  {
+    "id": 193,
+    "name": "Chile"
+  },
+  {
+    "id": 202,
+    "name": "Colombia"
+  },
+  {
+    "id": 53,
+    "name": "Croatia"
+  },
+  {
+    "id": 11,
+    "name": "Cyprus"
+  },
+  {
+    "id": 2,
+    "name": "Czech Republic"
+  },
+  {
+    "id": 102,
+    "name": "Denmark"
+  },
+  {
+    "id": 226,
+    "name": "Dominican Republic"
+  },
+  {
+    "id": 512,
+    "name": "EU Institution"
+  },
+  {
+    "id": 210,
+    "name": "Ecuador"
+  },
+  {
+    "id": 81,
+    "name": "Egypt"
+  },
+  {
+    "id": 212,
+    "name": "El Salvador"
+  },
+  {
+    "id": 3,
+    "name": "Estonia"
+  },
+  {
+    "id": 104,
+    "name": "France"
+  },
+  {
+    "id": 73,
+    "name": "Georgia"
+  },
+  {
+    "id": 105,
+    "name": "Germany"
+  },
+  {
+    "id": 106,
+    "name": "Greece"
+  },
+  {
+    "id": 158,
+    "name": "Hong Kong"
+  },
+  {
+    "id": 4,
+    "name": "Hungary"
+  },
+  {
+    "id": 156,
+    "name": "Iceland"
+  },
+  {
+    "id": 167,
+    "name": "India"
+  },
+  {
+    "id": 168,
+    "name": "Indonesia"
+  },
+  {
+    "id": 171,
+    "name": "Iran"
+  },
+  {
+    "id": 107,
+    "name": "Ireland"
+  },
+  {
+    "id": 83,
+    "name": "Israel"
+  },
+  {
+    "id": 108,
+    "name": "Italy"
+  },
+  {
+    "id": 85,
+    "name": "Jordan"
+  },
+  {
+    "id": 161,
+    "name": "Kazakhstan"
+  },
+  {
+    "id": 56,
+    "name": "Kosovo"
+  },
+  {
+    "id": 200,
+    "name": "Kyrgyzstan"
+  },
+  {
+    "id": 5,
+    "name": "Latvia"
+  },
+  {
+    "id": 84,
+    "name": "Lebanon"
+  },
+  {
+    "id": 87,
+    "name": "Libya"
+  },
+  {
+    "id": 6,
+    "name": "Lithuania"
+  },
+  {
+    "id": 109,
+    "name": "Luxemburg"
+  },
+  {
+    "id": 235,
+    "name": "Macao"
+  },
+  {
+    "id": 13,
+    "name": "Malta"
+  },
+  {
+    "id": 176,
+    "name": "Mexico"
+  },
+  {
+    "id": 72,
+    "name": "Moldova"
+  },
+  {
+    "id": 58,
+    "name": "Montenegro"
+  },
+  {
+    "id": 77,
+    "name": "Morocco"
+  },
+  {
+    "id": 197,
+    "name": "Nigeria"
+  },
+  {
+    "id": 54,
+    "name": "North Macedonia"
+  },
+  {
+    "id": 152,
+    "name": "Norway"
+  },
+  {
+    "id": 178,
+    "name": "Oman"
+  },
+  {
+    "id": 82,
+    "name": "Palestine"
+  },
+  {
+    "id": 203,
+    "name": "Paraguay"
+  },
+  {
+    "id": 198,
+    "name": "Peru"
+  },
+  {
+    "id": 7,
+    "name": "Poland"
+  },
+  {
+    "id": 111,
+    "name": "Portugal"
+  },
+  {
+    "id": 194,
+    "name": "Republic of Korea"
+  },
+  {
+    "id": 8,
+    "name": "Romania"
+  },
+  {
+    "id": 70,
+    "name": "Russian Federation"
+  },
+  {
+    "id": 246,
+    "name": "San Marino"
+  },
+  {
+    "id": 182,
+    "name": "Saudi Arabia"
+  },
+  {
+    "id": 57,
+    "name": "Serbia"
+  },
+  {
+    "id": 9,
+    "name": "Slovak Republic"
+  },
+  {
+    "id": 10,
+    "name": "Slovenia"
+  },
+  {
+    "id": 112,
+    "name": "Spain"
+  },
+  {
+    "id": 103,
+    "name": "Suomi Finland"
+  },
+  {
+    "id": 113,
+    "name": "Sweden"
+  },
+  {
+    "id": 186,
+    "name": "Thailand"
+  },
+  {
+    "id": 110,
+    "name": "The Netherlands"
+  },
+  {
+    "id": 79,
+    "name": "Tunisia"
+  },
+  {
+    "id": 12,
+    "name": "Turkey"
+  },
+  {
+    "id": 71,
+    "name": "Ukraine"
+  },
+  {
+    "id": 114,
+    "name": "United Kingdom"
+  },
+  {
+    "id": 208,
+    "name": "Uzbekistan"
+  }
+]

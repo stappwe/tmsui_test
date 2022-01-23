@@ -1,0 +1,103 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "eventId": 80425,
+    "eventStartDate": "2021-01-01T00:00:00.000Z",
+    "eventEndDate": "2022-01-01T00:00:00.000Z",
+    "eventCategoryId": 5,
+    "afSigned": false,
+    "readOnlyMode": false,
+    "general": {
+      "teamLeader": {
+        "id": "bowenda",
+        "name": "BOWEN Scott",
+        "email": "Scott.BOWEN@ec.europa.eu",
+        "phone": "56360",
+        "type": 2
+      },
+      "exactDefinition": "",
+      "proposedAction": "",
+      "consultation": "",
+      "consultWho": "",
+      "backgroundInfo": "",
+      "coOrganisation": "",
+      "ecMeasure": "",
+      "beneficiaryInst": "",
+      "benefApplicant": "",
+      "applicant": "",
+      "afInfo": [{ "id": 1, "name": "TAIEX standard"}],
+      "afInfoComment": "",
+      "seriesOfEvents": null
+    },
+    "logistics": {
+      "interpretationFacility": null,
+      "coOrganisationContact": "",
+      "conferenceFacility": null,
+      "cateringFacility": null,
+      "feeComment": "",
+      "comment": ""
+    },
+    "estimation": {
+      "speakers": 0,
+      "flights": 0,
+      "hotelRooms": 0,
+      "totalCost": 3500.00,
+      "projectId": 1,
+      "participants": [
+        {
+          "projectId":  1,
+          "projectName":  "IPA/ENI",
+          "budgetlines": [
+            { "id":  60, "name": "ENPI EAST", "percentage":  26.959000, "participants": 0 },
+            { "id":  59, "name": "ENPI SOUTH", "percentage":  26.959000, "participants":  0 },
+            { "id":  57, "name": "IPA", "percentage":  46.082000, "participants":  0 }
+          ]
+        },
+        {
+          "projectId":  2,
+          "projectName":  "PI",
+          "budgetlines": [
+            { "id":  61, "name": "PI", "percentage":  0, "participants":  0 }
+          ]
+        },
+        {
+          "projectId":  3,
+          "projectName": "REGIO",
+          "budgetlines": [
+            { "id":  62, "name": "REGIO", "percentage":  0, "participants":  0 }
+          ]
+        },
+        {
+          "projectId":  4,
+          "projectName":  "TCC",
+          "budgetlines": [
+            { "id":  58, "name":  "TCC", "percentage":  0, "participants":  0 }
+          ]
+        },
+        {
+          "projectId":  5,
+          "projectName":  "SRSP",
+          "budgetlines": [
+            { "id":  64, "name":  "SRSP", "percentage":  0, "participants":  0 }
+          ]
+        },
+        {
+          "projectId":  6,
+          "projectName":  "EIR",
+          "budgetlines": [
+            { "id":  65, "name":  "EIR", "percentage":  0, "participants":  0 }
+          ]
+        },
+        {
+          "projectId":  7,
+          "projectName":  "INTPA",
+          "budgetlines": [
+            { "id":  66, "name":  "INTPA", "percentage":  0, "participants":  0 }
+          ]
+        }
+      ]
+    }
+  }
+}

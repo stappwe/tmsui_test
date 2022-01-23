@@ -1,0 +1,27 @@
+{
+  "keyContactID": 4847,
+  "hasNoContactName": false,
+  "formalAddressId": 1,
+  "firstName": "Gerald",
+  "familyName": "AUDAZ",
+  "email": "John.Smith@ec.europa.eu, john.smith@hotmail.com",
+  "edbNcpEmail": "John.Smith@ec.europa.eu",
+  "telephone": "",
+  "fax": "",
+  "isEmailReceiver": true,
+  "isMainContact": true,
+  "countries": [100],
+  "applications": [1],
+  "contactTypeID": 1,
+  "lineDG": -1,
+  "institution": "",
+  "address": "",
+  "chapters" : [
+    { "id" : 11719073, "coverageLevel" : 1},
+    { "id" : 11719143, "coverageLevel" : 2},
+    { "id" : 11719144, "coverageLevel" : 1},
+    { "id" : 11719146, "coverageLevel" : 2},
+    { "id" : 11719147, "coverageLevel" : 1},
+    { "id" : 11719148, "coverageLevel" : 1}
+  ]
+}

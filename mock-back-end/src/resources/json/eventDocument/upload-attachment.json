@@ -1,0 +1,23 @@
+{
+  "result": true,
+  "message": "",
+  "messageType": 1,
+  "data": [
+    {
+      "documentId": 2401505,
+      "documentName": "document_1.docx",
+      "url": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=799544&key=2b322118b5a2e7fd7a5d39d03bdcdd68",
+      "size": 250320,
+      "lastChanged": "2021-03-15T11:25:22.000Z",
+      "lastChangedBy": "w10400253"
+    },
+    {
+      "documentId": 2401506,
+      "documentName": "document_2.docx",
+      "url": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=799544&key=2b322118b5a2e7fd7a5d39d03bdcdd68",
+      "size": 1250320,
+      "lastChanged": "2021-03-15T11:25:22.000Z",
+      "lastChangedBy": "stappwe"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 14534,
+    "templateId": 1,
+    "name": "Original_Request_62814.docx",
+    "size": 136192,
+    "lastModified": "2016-09-06T00:00:00.000Z",
+    "permission": 1
+  },
+  {
+    "id": 14535,
+    "templateId": 1,
+    "name": "Original_Request_62814_update.docx",
+    "size": 1361,
+    "lastModified": "2016-10-06T00:00:00.000Z",
+    "permission": 5
+  },
+  {
+    "id": 134587,
+    "templateId": 2,
+    "name": "Approval_Form.pdf",
+    "size": 136192,
+    "lastModified": "2016-09-06T00:00:00.000Z",
+    "permission": 1
+  },
+  {
+    "id": 652344,
+    "templateId": 3,
+    "name": "An_25980.pdf",
+    "size": 75392,
+    "lastModified": "2016-06-29T10:54:00.000Z",
+    "permission": 1
+  },
+  {
+    "id": 765234,
+    "templateId": 5,
+    "name": "62814 Registration tool.xls",
+    "size": 75392,
+    "lastModified": "2016-06-29T10:54:00.000Z",
+    "permission": 7
+  },
+  {
+    "id": 654123,
+    "templateId": 41,
+    "name": "Montenegro.msg",
+    "size": 75392,
+    "lastModified": "2016-09-06T09:44:00.000Z",
+    "permission": 1
+  }
+]

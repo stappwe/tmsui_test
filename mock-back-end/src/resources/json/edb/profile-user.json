@@ -1,0 +1,106 @@
+{
+  "personId": 582041,
+  "firstName": "werner",
+  "familyName": "Stappaerts",
+  "email": "werner.stappaerts@ext.ec.europa.eu",
+  "privateEmail": "werner.stappaerts@live.be",
+  "mobilePhone": null,
+  "formalAddressId": 1,
+  "supplierId": null,
+  "supplierName": null,
+  "street": null,
+  "city": "Bursels",
+  "postalCode": "1000",
+  "countryId": null,
+  "position": null,
+  "telephone": "12378s",
+  "privateMobilePhone": null,
+  "privateTelephone": null,
+  "formType": null,
+  "userType": 1,
+  "selectedNationality": {
+    "id": 101,
+    "countryName": "Belgium",
+    "nationality": "Belgian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BE"
+  },
+  "selectedEmploymentStatus": {
+    "id": 2,
+    "description": "Public Official not In active service (e.g. on unpaid leave…)",
+    "abbreviation": "PO Inactive",
+    "options": 3
+  },
+  "selectedLanguages": [
+    {
+      "id": 11,
+      "abbreviation": "NL",
+      "description": "Dutch",
+      "visible": 1
+    },
+    {
+      "id": 3,
+      "abbreviation": "FR",
+      "description": "French",
+      "visible": 1
+    },
+    {
+      "id": 2,
+      "abbreviation": "DE",
+      "description": "German",
+      "visible": 1
+    },
+    {
+      "id": 1,
+      "abbreviation": "EN",
+      "description": "English",
+      "visible": 1
+    }
+  ],
+  "selectedTwCountry": null,
+  "employmentStatusComment": "No reason",
+  "employmentStatusDate": 694738800000,
+  "password": null,
+  "institution": "IBU",
+  "department": "TAIEX",
+  "function": "IT",
+  "street1": "Rue IT",
+  "street2": "10",
+  "selectedCountry": {
+    "id": 101,
+    "countryName": "Belgium",
+    "nationality": "Belgian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BE"
+  },
+  "institutionType": 0,
+  "euLegislation": "test test",
+  "cvSummary": "test test",
+  "expertFileName": "CommitmentsByEvent.xlsx",
+  "expertCv": null,
+  "expertCvURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/edb/find-expert-cv?jwt=eyJhbGciOiJIUzI1NiJ9.eyJwZXJzb25JZCI6NTgyMDQxfQ.qp-b6vycsRcoAMD8E77Ca4hFNjbZKjoGfZk8h2kAT9k",
+  "expertCvExtension": null,
+  "selectedChapters": [
+    {
+      "id": 11719052,
+      "description": "07 Intellectual property law [17.20]",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 47
+    }
+  ],
+  "selectedKeywords": [
+    107
+  ],
+  "status": 4,
+  "ncpValidate": 5,
+  "ncpComment": "",
+  "privateEmailInComm": true,
+  "expirationDate": 1595326134000,
+  "validationResultMessage": null,
+  "edbTwinning": []
+}

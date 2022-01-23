@@ -1,0 +1,119 @@
+{
+  "actionId": 40,
+  "abbreviation": "btn_account_report_update",
+  "description": "Account Tools - Account Report Modify",
+  "roles": [{
+    "roleId" : 1,
+    "description" : "IBU Case Handler",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 2,
+    "description" : "Team Leader",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 3,
+    "description" : "Head of Unit",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 4,
+    "description" : "IBU Administrator",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 5,
+    "description" : "Contractor Case Handler",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 6,
+    "description" : "Logistic Manager",
+    "roleType" : 2,
+    "selected" : 1
+  }, {
+    "roleId" : 7,
+    "description" : "Accounts Manager",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 8,
+    "description" : "Project Director",
+    "roleType" : 2,
+    "selected" : 1
+  }, {
+    "roleId" : 9,
+    "description" : "Financial Officer",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 10,
+    "description" : "External Service",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 11,
+    "description" : "Read-Only",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 12,
+    "description" : "Statistics Access",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 13,
+    "description" : "Administrator",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 14,
+    "description" : "Admin Access",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 15,
+    "description" : "Budget Access",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 20,
+    "description" : "Travel Agent",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 21,
+    "description" : "Accounts Case Handler",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 22,
+    "description" : "Statistics Cost Access",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 23,
+    "description" : "Twinning User",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 24,
+    "description" : "Twinning Super User",
+    "roleType" : 1,
+    "selected" : 0
+  }, {
+    "roleId" : 25,
+    "description" : "IBU Financial Case Handler",
+    "roleType" : 2,
+    "selected" : 0
+  }, {
+    "roleId" : 26,
+    "description" : "EDB Administrator",
+    "roleType" : 1,
+    "selected" : 0
+  }]
+}
+
+
+

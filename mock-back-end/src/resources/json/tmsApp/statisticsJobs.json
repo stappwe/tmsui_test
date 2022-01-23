@@ -1,0 +1,242 @@
+{
+  "result": true,
+  "message": null,
+  "messageTranslationCode": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "name": "Stat_Task_detail",
+        "description": "Stat_Task_detail",
+        "createDate": "2021-12-13 11:15:05",
+        "userCategoryId": 1,
+        "reportId": 1
+      },
+      {
+        "name": "Stat_Event_detail",
+        "description": "Stat_Event_detail",
+        "createDate": "2021-12-13 02:00:20",
+        "userCategoryId": 1,
+        "reportId": 2
+      },
+      {
+        "name": "Stat_Event_planned",
+        "description": "Stat_Event_planned",
+        "createDate": "2021-12-13 02:00:26",
+        "userCategoryId": 1,
+        "reportId": 3
+      },
+      {
+        "name": "Stat_EventCost_country",
+        "description": "Stat_EventCost_country",
+        "createDate": "2021-12-13 02:45:23",
+        "userCategoryId": 1,
+        "reportId": 4
+      },
+      {
+        "name": "Stat_EventCost_event",
+        "description": "Stat_EventCost_event",
+        "createDate": "2021-12-13 02:45:27",
+        "userCategoryId": 1,
+        "reportId": 5
+      },
+      {
+        "name": "Stat_ParticExpert_detail",
+        "description": "Stat_ParticExpert_detail",
+        "createDate": "2021-12-13 03:31:09",
+        "userCategoryId": 1,
+        "reportId": 6
+      },
+      {
+        "name": "Stat_FlightCost",
+        "description": "Stat_FlightCost",
+        "createDate": "2021-12-13 03:45:18",
+        "userCategoryId": 1,
+        "reportId": 7
+      },
+      {
+        "name": "Stat_Event_workflow",
+        "description": "Workflow Details of the events",
+        "createDate": "2021-12-13 04:15:17",
+        "userCategoryId": 1,
+        "reportId": 8
+      },
+      {
+        "name": "Stat_Interpretation",
+        "description": "Stat_Interpretation",
+        "createDate": "2021-12-13 04:15:20",
+        "userCategoryId": 1,
+        "reportId": 9
+      },
+      {
+        "name": "Stat_Event_detail",
+        "description": "Stat_Event_detail",
+        "createDate": "2021-12-13 02:00:30",
+        "userCategoryId": 4,
+        "reportId": 2
+      },
+      {
+        "name": "Stat_Event_planned",
+        "description": "Stat_Event_planned",
+        "createDate": "2021-12-13 02:00:35",
+        "userCategoryId": 4,
+        "reportId": 3
+      },
+      {
+        "name": "Stat_EventCost_country",
+        "description": "Stat_EventCost_country",
+        "createDate": "2021-12-13 02:45:42",
+        "userCategoryId": 4,
+        "reportId": 4
+      },
+      {
+        "name": "Stat_EventCost_event",
+        "description": "Stat_EventCost_event",
+        "createDate": "2021-12-13 02:45:44",
+        "userCategoryId": 4,
+        "reportId": 5
+      },
+      {
+        "name": "Stat_ParticExpert_detail",
+        "description": "Stat_ParticExpert_detail",
+        "createDate": "2021-12-13 03:31:43",
+        "userCategoryId": 4,
+        "reportId": 6
+      },
+      {
+        "name": "Stat_FlightCost",
+        "description": "Stat_FlightCost",
+        "createDate": "2021-12-13 03:45:29",
+        "userCategoryId": 4,
+        "reportId": 7
+      },
+      {
+        "name": "Stat_Event_workflow",
+        "description": "Workflow Details of the events",
+        "createDate": "2021-12-13 04:15:26",
+        "userCategoryId": 4,
+        "reportId": 8
+      },
+      {
+        "name": "Stat_Interpretation",
+        "description": "Stat_Interpretation",
+        "createDate": "2021-12-13 04:15:27",
+        "userCategoryId": 4,
+        "reportId": 9
+      },
+      {
+        "name": "Stat_Event_detail",
+        "description": "Stat_Event_detail",
+        "createDate": "2021-12-13 02:00:39",
+        "userCategoryId": 256,
+        "reportId": 2
+      },
+      {
+        "name": "Stat_Event_planned",
+        "description": "Stat_Event_planned",
+        "createDate": "2021-12-13 02:00:44",
+        "userCategoryId": 256,
+        "reportId": 3
+      },
+      {
+        "name": "Stat_EventCost_country",
+        "description": "Stat_EventCost_country",
+        "createDate": "2021-12-13 02:46:05",
+        "userCategoryId": 256,
+        "reportId": 4
+      },
+      {
+        "name": "Stat_EventCost_event",
+        "description": "Stat_EventCost_event",
+        "createDate": "2021-12-13 02:46:08",
+        "userCategoryId": 256,
+        "reportId": 5
+      },
+      {
+        "name": "Stat_ParticExpert_detail",
+        "description": "Stat_ParticExpert_detail",
+        "createDate": "2021-12-13 03:32:38",
+        "userCategoryId": 256,
+        "reportId": 6
+      },
+      {
+        "name": "Stat_FlightCost",
+        "description": "Stat_FlightCost",
+        "createDate": "2021-12-13 03:45:41",
+        "userCategoryId": 256,
+        "reportId": 7
+      },
+      {
+        "name": "Stat_Event_workflow",
+        "description": "Workflow Details of the events",
+        "createDate": "2021-12-13 04:15:34",
+        "userCategoryId": 256,
+        "reportId": 8
+      },
+      {
+        "name": "Stat_Interpretation",
+        "description": "Stat_Interpretation",
+        "createDate": "2021-12-13 04:15:36",
+        "userCategoryId": 256,
+        "reportId": 9
+      },
+      {
+        "name": "Stat_Event_detail",
+        "description": "Stat_Event_detail",
+        "createDate": "2021-12-13 02:00:48",
+        "userCategoryId": 16384,
+        "reportId": 2
+      },
+      {
+        "name": "Stat_Event_planned",
+        "description": "Stat_Event_planned",
+        "createDate": "2021-12-13 02:00:51",
+        "userCategoryId": 16384,
+        "reportId": 3
+      },
+      {
+        "name": "Stat_EventCost_country",
+        "description": "Stat_EventCost_country",
+        "createDate": "2021-12-13 02:46:23",
+        "userCategoryId": 16384,
+        "reportId": 4
+      },
+      {
+        "name": "Stat_EventCost_event",
+        "description": "Stat_EventCost_event",
+        "createDate": "2021-12-13 02:46:24",
+        "userCategoryId": 16384,
+        "reportId": 5
+      },
+      {
+        "name": "Stat_ParticExpert_detail",
+        "description": "Stat_ParticExpert_detail",
+        "createDate": "2021-12-10 03:33:27",
+        "userCategoryId": 16384,
+        "reportId": 6
+      },
+      {
+        "name": "Stat_FlightCost",
+        "description": "Stat_FlightCost",
+        "createDate": "2021-12-13 03:45:50",
+        "userCategoryId": 16384,
+        "reportId": 7
+      },
+      {
+        "name": "Stat_Event_workflow",
+        "description": "Workflow Details of the events",
+        "createDate": "2021-12-13 04:15:37",
+        "userCategoryId": 16384,
+        "reportId": 8
+      },
+      {
+        "name": "Stat_Interpretation",
+        "description": "Stat_Interpretation",
+        "createDate": "2021-12-13 04:15:37",
+        "userCategoryId": 16384,
+        "reportId": 9
+      }
+    ],
+    "rowCount": 33
+  }
+}

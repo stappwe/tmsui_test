@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "TAIEX standard"
+  },
+  {
+    "id": 2,
+    "name": "MTA"
+  },
+  {
+    "id": 128,
+    "name": "RTP"
+  },
+  {
+    "id": 4,
+    "name": "Peer Assessment"
+  },
+  {
+    "id": 16,
+    "name": "LTA"
+  },
+  {
+    "id": 32,
+    "name": "Part of a Series"
+  },
+  {
+    "id": 64,
+    "name": "Other"
+  },
+  {
+    "id": 8,
+    "name": "TAIEX strategic"
+  },
+  {
+    "id": 256,
+    "name": "Green Deal/Recovery"
+  },
+  {
+    "id": 512,
+    "name": "Digital Policy"
+  }
+]

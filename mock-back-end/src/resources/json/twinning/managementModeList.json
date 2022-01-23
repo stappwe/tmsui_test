@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Direct Management",
+    "abbreviation": "Direct"
+  },
+  {
+    "id": 2,
+    "name": "Indirect with ex-ante Control",
+    "abbreviation": "Ex-ante"
+  },
+  {
+    "id": 4,
+    "name": "Indirect with ex-post Control",
+    "abbreviation": "Ex-post"
+  },
+  {
+    "id": 8,
+    "name": "Other",
+    "abbreviation": "Other"
+  }
+]

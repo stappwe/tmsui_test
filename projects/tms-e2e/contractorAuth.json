@@ -1,0 +1,245 @@
+{
+  "cookies": [
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "webgate.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "ecas.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "ecas.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "AmLiAuIMIiSSsipn55/C3rY/DSfmLV2ejr7OK312VMSxpqfZyBF/iQN5tIMAaPdmdCIlms4s0pFFT8ZoJ5bnxGZy4fmWiQK6zTzE8eS6o/kjnvLnT9yEoWId+Ua2uiDffm74EFYqNjIKzKZcJcZKRSb0W2mO1UXy6t9p86MfxORI2Q7WwB8/FwMuEr5EO2Qn-Yu9xA0TnQMiBE4djRT6jjjGRcOukcGSi",
+      "domain": "ecas.ec.europa.eu",
+      "path": "/cas",
+      "expires": 1657349272.943088,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "webgate.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "intracomm.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "intracomm.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "AmLiAuIMIiSSsipn55/C3rY/DSfmLV2ejr7OK312VMSxpqfZyBF/iQN5tIMAaPdmdCIlms4s0pFFT8ZoJ5bnxGZy4fmWiQK6zTzE8eS6o/kjnvLnT9yEoWId+Ua2uiDffm74EFYqNjIKzKZcJcZKRSb0W2mO1UXy6t9p86MfxORI2Q7WwB8/FwMuEr5EO2Qn-Yu9xA0TnQMiBE4djRT6jjjGRcOukcGSi",
+      "domain": "intracomm.ec.europa.eu",
+      "path": "/cas",
+      "expires": 1657349273.327202,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "ecas.cc.cec.eu.int",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "ecas.cc.cec.eu.int",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "AmLiAuIMIiSSsipn55/C3rY/DSfmLV2ejr7OK312VMSxpqfZyBF/iQN5tIMAaPdmdCIlms4s0pFFT8ZoJ5bnxGZy4fmWiQK6zTzE8eS6o/kjnvLnT9yEoWId+Ua2uiDffm74EFYqNjIKzKZcJcZKRSb0W2mO1UXy6t9p86MfxORI2Q7WwB8/FwMuEr5EO2Qn-Yu9xA0TnQMiBE4djRT6jjjGRcOukcGSi",
+      "domain": "ecas.cc.cec.eu.int",
+      "path": "/cas",
+      "expires": 1657349273.498771,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "www.cc.cec",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "www.cc.cec",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "AmLiAuIMIiSSsipn55/C3rY/DSfmLV2ejr7OK312VMSxpqfZyBF/iQN5tIMAaPdmdCIlms4s0pFFT8ZoJ5bnxGZy4fmWiQK6zTzE8eS6o/kjnvLnT9yEoWId+Ua2uiDffm74EFYqNjIKzKZcJcZKRSb0W2mO1UXy6t9p86MfxORI2Q7WwB8/FwMuEr5EO2Qn-Yu9xA0TnQMiBE4djRT6jjjGRcOukcGSi",
+      "domain": "www.cc.cec",
+      "path": "/cas",
+      "expires": 1657349273.768122,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "intragate.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "intragate.ec.europa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "AmLiAuIMIiSSsipn55/C3rY/DSfmLV2ejr7OK312VMSxpqfZyBF/iQN5tIMAaPdmdCIlms4s0pFFT8ZoJ5bnxGZy4fmWiQK6zTzE8eS6o/kjnvLnT9yEoWId+Ua2uiDffm74EFYqNjIKzKZcJcZKRSb0W2mO1UXy6t9p86MfxORI2Q7WwB8/FwMuEr5EO2Qn-Yu9xA0TnQMiBE4djRT6jjjGRcOukcGSi",
+      "domain": "intragate.ec.europa.eu",
+      "path": "/cas",
+      "expires": 1657349274.083666,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "ecas.ec.testa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "ecas.ec.testa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "AmLiAuIMIiSSsipn55/C3rY/DSfmLV2ejr7OK312VMSxpqfZyBF/iQN5tIMAaPdmdCIlms4s0pFFT8ZoJ5bnxGZy4fmWiQK6zTzE8eS6o/kjnvLnT9yEoWId+Ua2uiDffm74EFYqNjIKzKZcJcZKRSb0W2mO1UXy6t9p86MfxORI2Q7WwB8/FwMuEr5EO2Qn-Yu9xA0TnQMiBE4djRT6jjjGRcOukcGSi",
+      "domain": "ecas.ec.testa.eu",
+      "path": "/cas",
+      "expires": 1657349274.367081,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__Secure-CASTGC",
+      "value": "TGC-36550548-xydYMCzM9jIciRejc5mSs2WeNtT9dfO986JogshRoId1vTdzrizQMl1oCX3aQOjfHEKewHQ1sIN8L8HXf9uJw90-jpJZscgsw0KA68hdIen6Ea-zdeCTUbGeiUzzi8zQQSwTaXsjgdfWclOzGbAJ71kWUbE7Cmad2xJBaNTue1iv1Na6RlFeToPd5UbdP1yh1Pj4ls",
+      "domain": "webgate.ec.testa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-ECAS_SESSIONID",
+      "value": "QmEzSzD6Mwf7bCzhznX98IufP3hi4kPsYyWjjcbDnBxCJvtC2mfmAiA42A0wb8KHP0J!596794190",
+      "domain": "webgate.ec.testa.eu",
+      "path": "/cas",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "AmLiAuIMIiSSsipn55/C3rY/DSfmLV2ejr7OK312VMSxpqfZyBF/iQN5tIMAaPdmdCIlms4s0pFFT8ZoJ5bnxGZy4fmWiQK6zTzE8eS6o/kjnvLnT9yEoWId+Ua2uiDffm74EFYqNjIKzKZcJcZKRSb0W2mO1UXy6t9p86MfxORI2Q7WwB8/FwMuEr5EO2Qn-Yu9xA0TnQMiBE4djRT6jjjGRcOukcGSi",
+      "domain": "webgate.ec.testa.eu",
+      "path": "/cas",
+      "expires": 1657349274.658834,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__Secure-EuLogin_Prefs",
+      "value": "3iLGPLCLxwmyOWLblvyJVK4NA2PAKNaHMYWoHS8EA6qgeHr06q/Y2EV21hqVMd5uwtwF3sjoPVfuL+TUCHb7fwngUBY95GWvGbmueeLL6DN7uITWg/OlMx9U79rI5nl30+5wRX3+aQccJscOcIdLaeaafRKMROzzAQns5LQ0SYiCVKQW9N9wLLbVScDOYxLo0XLwgbnfUySzm+ZWaeSucw==-KUPFsdV4G+qbUpq8PW5+/c8WxF5HS7uL",
+      "domain": "webgate.ec.europa.eu",
+      "path": "/cas",
+      "expires": 1657349274.826121,
+      "httpOnly": true,
+      "secure": true
+    }
+  ],
+  "origins": []
+}

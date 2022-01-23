@@ -1,0 +1,57 @@
+{
+  "jobTitle": [
+    {
+      "id": 14,
+      "name": "Other participants"
+    },
+    {
+      "id": 0,
+      "name": "Participant CC"
+    },
+    {
+      "id": 10,
+      "name": "Participant EU"
+    },
+    {
+      "id": 3,
+      "name": "Speaker EU"
+    },
+    {
+      "id": 4,
+      "name": "Speaker MS"
+    }
+  ],
+  "participantType": [
+    {
+      "id": 1,
+      "name": "Participant"
+    },
+    {
+      "id": 2,
+      "name": "Speaker"
+    },
+    {
+      "id": 3,
+      "name": "Other"
+    }
+  ],
+  "country": [
+    {
+      "id": 512,
+      "name": "EU Institution"
+    },
+    {
+      "id": 4,
+      "name": "Hungary"
+    },
+    {
+      "id": 551,
+      "name": "International Organisation"
+    },
+    {
+      "id": 56,
+      "name": "Kosovo"
+    }
+  ]
+}
+

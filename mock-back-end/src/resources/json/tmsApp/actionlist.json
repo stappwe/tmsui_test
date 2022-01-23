@@ -1,0 +1,646 @@
+[{
+  "actionId" : 40,
+  "description" : "Account Tools - Account Report Modify",
+  "abbreviation" : "btn_account_report_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 216,
+  "description" : "Account Tools - Account Report View",
+  "abbreviation" : "lnk_account_report",
+  "canDelete" : 0
+}, {
+  "actionId" : 42,
+  "description" : "Account Tools - Budget Management Modify",
+  "abbreviation" : "btn_budget_allocated_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 217,
+  "description" : "Account Tools - Budget management View",
+  "abbreviation" : "lnk_budget_management",
+  "canDelete" : 0
+}, {
+  "actionId" : 212,
+  "description" : "Account Tools - Extract Budget Reports",
+  "abbreviation" : "btn_budget_reports_extract",
+  "canDelete" : 0
+}, {
+  "actionId" : 43,
+  "description" : "Account Tools - Modify Reimbursable sheet",
+  "abbreviation" : "btn_reimburssheet_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 219,
+  "description" : "Account Tools - Reimbursable sheet View",
+  "abbreviation" : "lnk_reimbursable_sheet",
+  "canDelete" : 0
+}, {
+  "actionId" : 269,
+  "description" : "Administration - Other - Windows Folder (map drive)",
+  "abbreviation" : "btn_map_drive",
+  "canDelete" : 0
+}, {
+  "actionId" : 256,
+  "description" : "Administration \u2013 General (Other) - Evaluation",
+  "abbreviation" : "lnk_administration_general",
+  "canDelete" : 0
+}, {
+  "actionId" : 255,
+  "description" : "Administration \u2013 Other - Modify City",
+  "abbreviation" : "lnk_admin_other_city",
+  "canDelete" : 0
+}, {
+  "actionId" : 252,
+  "description" : "Administration \u2013 Other Unarchive",
+  "abbreviation" : "lnk_admin_other_unarchive",
+  "canDelete" : 0
+}, {
+  "actionId" : 38,
+  "description" : "Agenda - Create Agenda",
+  "abbreviation" : "btn_agenda_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 239,
+  "description" : "Agenda - Upload Agenda",
+  "abbreviation" : "btn_agenda_upload",
+  "canDelete" : 0
+}, {
+  "actionId" : 215,
+  "description" : "Amadeus - Link",
+  "abbreviation" : "lnk_amadeus",
+  "canDelete" : 0
+}, {
+  "actionId" : 241,
+  "description" : "Application form",
+  "abbreviation" : "menu_application_form",
+  "canDelete" : 0
+}, {
+  "actionId" : 213,
+  "description" : "Checklist - Link",
+  "abbreviation" : "lnk_checklist",
+  "canDelete" : 0
+}, {
+  "actionId" : 279,
+  "description" : "Dashboard",
+  "abbreviation" : "lnk_dashboard",
+  "canDelete" : 0
+}, {
+  "actionId" : 258,
+  "description" : "Detail Event - Web Folder button",
+  "abbreviation" : "btn_web_folder",
+  "canDelete" : 0
+}, {
+  "actionId" : 233,
+  "description" : "Evaluation System",
+  "abbreviation" : "lnk_evaluationSystem",
+  "canDelete" : 0
+}, {
+  "actionId" : 238,
+  "description" : "Evaluation System - ReSend",
+  "abbreviation" : "btn_evaluationSystem_send",
+  "canDelete" : 0
+}, {
+  "actionId" : 243,
+  "description" : "Event  Expert - Modify Expert ",
+  "abbreviation" : "btn_expert_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 34,
+  "description" : "Event - DG Elarg",
+  "abbreviation" : "btn_elarg",
+  "canDelete" : 1
+}, {
+  "actionId" : 231,
+  "description" : "Event - Expert Report Mission",
+  "abbreviation" : "lnk_expert_mission",
+  "canDelete" : 0
+}, {
+  "actionId" : 232,
+  "description" : "Event - Warn NCP",
+  "abbreviation" : "lnk_national_contacts_warn",
+  "canDelete" : 0
+}, {
+  "actionId" : 33,
+  "description" : "Event AF - Lock/Unlock",
+  "abbreviation" : "btn_af_lock",
+  "canDelete" : 0
+}, {
+  "actionId" : 32,
+  "description" : "Event AF - Modify",
+  "abbreviation" : "btn_af_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 61,
+  "description" : "Event Accomm - Add",
+  "abbreviation" : "btn_accomm_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 64,
+  "description" : "Event Accomm - Add hotel",
+  "abbreviation" : "btn_accomm_add_hotel",
+  "canDelete" : 0
+}, {
+  "actionId" : 63,
+  "description" : "Event Accomm - Delete",
+  "abbreviation" : "btn_accomm_delete",
+  "canDelete" : 0
+}, {
+  "actionId" : 62,
+  "description" : "Event Accomm - Modify",
+  "abbreviation" : "btn_accomm_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 71,
+  "description" : "Event Catering - Add",
+  "abbreviation" : "btn_cater_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 73,
+  "description" : "Event Catering - Delete",
+  "abbreviation" : "btn_cater_delete",
+  "canDelete" : 0
+}, {
+  "actionId" : 72,
+  "description" : "Event Catering - Modify",
+  "abbreviation" : "btn_cater_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 81,
+  "description" : "Event Conference - Add",
+  "abbreviation" : "btn_conf_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 83,
+  "description" : "Event Conference - Delete",
+  "abbreviation" : "btn_conf_delete",
+  "canDelete" : 0
+}, {
+  "actionId" : 82,
+  "description" : "Event Conference - Modify",
+  "abbreviation" : "btn_conf_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 257,
+  "description" : "Event Expert \u2013 Expert detail",
+  "abbreviation" : "lnk_expert_detail",
+  "canDelete" : 0
+}, {
+  "actionId" : 76,
+  "description" : "Event Interpretation - Add",
+  "abbreviation" : "btn_interp_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 78,
+  "description" : "Event Interpretation - Delete",
+  "abbreviation" : "btn_interp_delete",
+  "canDelete" : 0
+}, {
+  "actionId" : 77,
+  "description" : "Event Interpretation - Modify",
+  "abbreviation" : "btn_interp_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 230,
+  "description" : "Event List - Add Activity",
+  "abbreviation" : "btn_activity",
+  "canDelete" : 0
+}, {
+  "actionId" : 280,
+  "description" : "Event List \u2013 Menu",
+  "abbreviation" : "lnk_events_list",
+  "canDelete" : 0
+}, {
+  "actionId" : 36,
+  "description" : "Event Modify - Cancel event",
+  "abbreviation" : "chk_cancel_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 35,
+  "description" : "Event Modify \u2013 Close on EDB",
+  "abbreviation" : "chk_hideESE_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 37,
+  "description" : "Event Modify \u2013 Published on EDB",
+  "abbreviation" : "chk_publishESE_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 244,
+  "description" : "Event Modify \u2013 Visible on TAIEX Website",
+  "abbreviation" : "chk_visibleTaiex_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 48,
+  "description" : "Event New Offer - Modify",
+  "abbreviation" : "btn_offer",
+  "canDelete" : 0
+}, {
+  "actionId" : 86,
+  "description" : "Event Other - Add Savings",
+  "abbreviation" : "btn_other_add_saving",
+  "canDelete" : 0
+}, {
+  "actionId" : 88,
+  "description" : "Event Other - Delete",
+  "abbreviation" : "btn_other_delete",
+  "canDelete" : 0
+}, {
+  "actionId" : 259,
+  "description" : "Event Participant - Modify Registration",
+  "abbreviation" : "btn_participant_registration_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 260,
+  "description" : "Event Participant - View Registration",
+  "abbreviation" : "btn_participant_registration_view",
+  "canDelete" : 0
+}, {
+  "actionId" : 51,
+  "description" : "Event People - Add",
+  "abbreviation" : "btn_people_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 234,
+  "description" : "Event People - Calculation Sheet - Modify",
+  "abbreviation" : "btn_calc_sheet_save",
+  "canDelete" : 0
+}, {
+  "actionId" : 53,
+  "description" : "Event People - Delete",
+  "abbreviation" : "btn_people_delete",
+  "canDelete" : 0
+}, {
+  "actionId" : 235,
+  "description" : "Event People - Function Title - Modify",
+  "abbreviation" : "btn_partic_fct_save",
+  "canDelete" : 0
+}, {
+  "actionId" : 52,
+  "description" : "Event People - Modify",
+  "abbreviation" : "btn_people_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 56,
+  "description" : "Event Travel - Add Delete",
+  "abbreviation" : "btn_travel_add_del",
+  "canDelete" : 0
+}, {
+  "actionId" : 58,
+  "description" : "Event Travel - Group",
+  "abbreviation" : "btn_travel_group",
+  "canDelete" : 0
+}, {
+  "actionId" : 59,
+  "description" : "Event Travel - Save",
+  "abbreviation" : "btn_travel_save",
+  "canDelete" : 0
+}, {
+  "actionId" : 23,
+  "description" : "Event detail - Block",
+  "abbreviation" : "btn_ed_block",
+  "canDelete" : 0
+}, {
+  "actionId" : 222,
+  "description" : "Event detail - Contractor Case Handler",
+  "abbreviation" : "btn_save_GTZ_case_handler",
+  "canDelete" : 0
+}, {
+  "actionId" : 224,
+  "description" : "Event detail - Contractor OF Subm date",
+  "abbreviation" : "btn_save_contr_OF_submission_date",
+  "canDelete" : 0
+}, {
+  "actionId" : 223,
+  "description" : "Event detail - Contractor event report status",
+  "abbreviation" : "btn_save_contr_event_report_status",
+  "canDelete" : 0
+}, {
+  "actionId" : 210,
+  "description" : "Event detail - Drive filestructure Modify",
+  "abbreviation" : "btn_ed_filestructure",
+  "canDelete" : 1
+}, {
+  "actionId" : 237,
+  "description" : "Event detail - Evaluation correspondent",
+  "abbreviation" : "btn_Save_Eval_Corr_Email",
+  "canDelete" : 1
+}, {
+  "actionId" : 211,
+  "description" : "Event detail - Load Contractor documents",
+  "abbreviation" : "btn_ed_loaddoc",
+  "canDelete" : 0
+}, {
+  "actionId" : 21,
+  "description" : "Event detail - Modify",
+  "abbreviation" : "btn_ed_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 276,
+  "description" : "Event detail - Modify blocked event",
+  "abbreviation" : "update_blocked_event",
+  "canDelete" : 0
+}, {
+  "actionId" : 277,
+  "description" : "Event detail - Modify signed event",
+  "abbreviation" : "update_signed_event",
+  "canDelete" : 0
+}, {
+  "actionId" : 25,
+  "description" : "Event detail - Protect",
+  "abbreviation" : "btn_ed_protect",
+  "canDelete" : 0
+}, {
+  "actionId" : 27,
+  "description" : "Event detail - TL Approve",
+  "abbreviation" : "btn_ed_approve",
+  "canDelete" : 0
+}, {
+  "actionId" : 29,
+  "description" : "Event detail - TL Refuse",
+  "abbreviation" : "btn_ed_refuse",
+  "canDelete" : 0
+}, {
+  "actionId" : 1,
+  "description" : "Event list - Add",
+  "abbreviation" : "btn_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 5,
+  "description" : "Event list - Add Addendum/Corrigendum",
+  "abbreviation" : "btn_adden",
+  "canDelete" : 0
+}, {
+  "actionId" : 4,
+  "description" : "Event list - Add PROC event",
+  "abbreviation" : "btn_proc_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 3,
+  "description" : "Event list - Add via copy AF",
+  "abbreviation" : "btn_copy",
+  "canDelete" : 0
+}, {
+  "actionId" : 13,
+  "description" : "Event list - Extract Excel",
+  "abbreviation" : "btn_extract",
+  "canDelete" : 0
+}, {
+  "actionId" : 7,
+  "description" : "Event list - Sign AF",
+  "abbreviation" : "btn_af_approve",
+  "canDelete" : 0
+}, {
+  "actionId" : 11,
+  "description" : "Event list - Sign ER",
+  "abbreviation" : "btn_er_approve",
+  "canDelete" : 0
+}, {
+  "actionId" : 9,
+  "description" : "Event list - Sign OF",
+  "abbreviation" : "btn_of_approve",
+  "canDelete" : 0
+}, {
+  "actionId" : 12,
+  "description" : "Event list - Unsign ER",
+  "abbreviation" : "btn_er_unsign",
+  "canDelete" : 0
+}, {
+  "actionId" : 247,
+  "description" : "Financial - Forecast Modification",
+  "abbreviation" : "btn_forecast_modify",
+  "canDelete" : 0
+}, {
+  "actionId" : 246,
+  "description" : "Financial - Forecast View",
+  "abbreviation" : "lnk_forecast_read",
+  "canDelete" : 0
+}, {
+  "actionId" : 218,
+  "description" : "Financial - Invoice Budgetary View",
+  "abbreviation" : "lnk_invoice_budgetary",
+  "canDelete" : 0
+}, {
+  "actionId" : 275,
+  "description" : "Financial - Invoices View",
+  "abbreviation" : "lnk_invoices_read",
+  "canDelete" : 0
+}, {
+  "actionId" : 41,
+  "description" : "Financial - VAT Report Extract",
+  "abbreviation" : "lnk_financial_vat",
+  "canDelete" : 0
+}, {
+  "actionId" : 272,
+  "description" : "Financial \u2013 Budget Contracts Modification",
+  "abbreviation" : "lnk_budget_contracts_modify",
+  "canDelete" : 0
+}, {
+  "actionId" : 273,
+  "description" : "Financial \u2013 Budget Contracts View",
+  "abbreviation" : "lnk_budget_contracts_read",
+  "canDelete" : 0
+}, {
+  "actionId" : 270,
+  "description" : "Financial \u2013 Invoice Budget Contract Modification",
+  "abbreviation" : "lnk_invoice_budget_contract_modify",
+  "canDelete" : 0
+}, {
+  "actionId" : 271,
+  "description" : "Financial \u2013 Invoice Budget Contract View",
+  "abbreviation" : "lnk_invoice_budget_contracts_read",
+  "canDelete" : 0
+}, {
+  "actionId" : 274,
+  "description" : "Financial \u2013 Invoices Modification",
+  "abbreviation" : "lnk_invoices_modify",
+  "canDelete" : 0
+}, {
+  "actionId" : 261,
+  "description" : "Key Contacts - List",
+  "abbreviation" : "lnk_keycontact_list",
+  "canDelete" : 0
+}, {
+  "actionId" : 236,
+  "description" : "Key Contacts - Modify",
+  "abbreviation" : "btn_contact_modify",
+  "canDelete" : 0
+}, {
+  "actionId" : 242,
+  "description" : "List - Menu",
+  "abbreviation" : "menu_list",
+  "canDelete" : 0
+}, {
+  "actionId" : 281,
+  "description" : "Main Menu \u2013 Event Documents - AF/OF",
+  "abbreviation" : "lnk_events_eventsdocuments_afof",
+  "canDelete" : 0
+}, {
+  "actionId" : 0,
+  "description" : "Main screen - Link Admin",
+  "abbreviation" : "lnk_admin",
+  "canDelete" : 0
+}, {
+  "actionId" : 44,
+  "description" : "Main screen - Link Taskcard",
+  "abbreviation" : "lnk_task",
+  "canDelete" : 0
+}, {
+  "actionId" : 267,
+  "description" : "My settings \u2013 All access",
+  "abbreviation" : "lnk_my_settings_all_access",
+  "canDelete" : 0
+}, {
+  "actionId" : 268,
+  "description" : "My settings \u2013 Team access",
+  "abbreviation" : "lnk_my_settings_team_access",
+  "canDelete" : 0
+}, {
+  "actionId" : 245,
+  "description" : "PAX Registration Tool",
+  "abbreviation" : "menu_pax_registration_tool",
+  "canDelete" : 0
+}, {
+  "actionId" : 229,
+  "description" : "Participant Confirmation Letter - Create",
+  "abbreviation" : "btn_confirm_letter_create",
+  "canDelete" : 0
+}, {
+  "actionId" : 214,
+  "description" : "Participant Confirmation Letter - Link",
+  "abbreviation" : "lnk_participant_confirmation",
+  "canDelete" : 0
+}, {
+  "actionId" : 227,
+  "description" : "Person Add/Modify - Save",
+  "abbreviation" : "btn_person_save",
+  "canDelete" : 0
+}, {
+  "actionId" : 263,
+  "description" : "Person Events - View",
+  "abbreviation" : "lnk_events_person",
+  "canDelete" : 0
+}, {
+  "actionId" : 39,
+  "description" : "Presentation - Link or view presentation",
+  "abbreviation" : "lnk_presentation",
+  "canDelete" : 0
+}, {
+  "actionId" : 221,
+  "description" : "Presentations - Draft Agenda checkbox",
+  "abbreviation" : "chk_draft_agenda",
+  "canDelete" : 0
+}, {
+  "actionId" : 220,
+  "description" : "Presentations - Publish Agenda checkbox",
+  "abbreviation" : "chk_publish_agenda",
+  "canDelete" : 0
+}, {
+  "actionId" : 251,
+  "description" : "QV - Administration",
+  "abbreviation" : "lnk_qv_tab_administration",
+  "canDelete" : 0
+}, {
+  "actionId" : 249,
+  "description" : "QV - EDB dashboard",
+  "abbreviation" : "lnk_qv_tab_edb_dashboard",
+  "canDelete" : 0
+}, {
+  "actionId" : 248,
+  "description" : "QV - Evaluation",
+  "abbreviation" : "lnk_qv_tab_evaluation",
+  "canDelete" : 0
+}, {
+  "actionId" : 250,
+  "description" : "QV - Financial dashboard",
+  "abbreviation" : "lnk_qv_tab_financial_dashboard",
+  "canDelete" : 0
+}, {
+  "actionId" : 201,
+  "description" : "Report - Menu AF/OF Form",
+  "abbreviation" : "menu_af_of_form",
+  "canDelete" : 0
+}, {
+  "actionId" : 202,
+  "description" : "Report - Menu Attendees list",
+  "abbreviation" : "menu_attendee",
+  "canDelete" : 0
+}, {
+  "actionId" : 203,
+  "description" : "Report - Menu Labels",
+  "abbreviation" : "menu_label",
+  "canDelete" : 0
+}, {
+  "actionId" : 204,
+  "description" : "Report - Menu Reports",
+  "abbreviation" : "menu_report",
+  "canDelete" : 0
+}, {
+  "actionId" : 205,
+  "description" : "Report - Menu Statistics",
+  "abbreviation" : "menu_statistic",
+  "canDelete" : 0
+}, {
+  "actionId" : 240,
+  "description" : "Report - Menu Statistics Cost",
+  "abbreviation" : "menu_statistic_cost",
+  "canDelete" : 0
+}, {
+  "actionId" : 228,
+  "description" : "Report - Menu Statistics with pivot tables",
+  "abbreviation" : "menu_statistics_pivot",
+  "canDelete" : 0
+}, {
+  "actionId" : 278,
+  "description" : "Statistics access \u2013 IBU",
+  "abbreviation" : "menu_statistic_IBU",
+  "canDelete" : 0
+}, {
+  "actionId" : 226,
+  "description" : "Supplier Add/Modify - Save",
+  "abbreviation" : "btn_supplier_save",
+  "canDelete" : 0
+}, {
+  "actionId" : 262,
+  "description" : "Supplier Events - View",
+  "abbreviation" : "lnk_events_supplier",
+  "canDelete" : 0
+}, {
+  "actionId" : 225,
+  "description" : "Supplier Modify - Flag blacklist",
+  "abbreviation" : "chk_blacklist_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 264,
+  "description" : "Supplier documents Add/Modify",
+  "abbreviation" : "btn_supplier_document_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 266,
+  "description" : "Supplier documents View",
+  "abbreviation" : "btn_supplier_document_view",
+  "canDelete" : 0
+}, {
+  "actionId" : 46,
+  "description" : "Taskcard - Add",
+  "abbreviation" : "btn_task_insert",
+  "canDelete" : 0
+}, {
+  "actionId" : 45,
+  "description" : "Taskcard - Modify",
+  "abbreviation" : "btn_task_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 254,
+  "description" : "Taskcard - Modify Answer (create mail, add or modify file) ",
+  "abbreviation" : "task_answer_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 253,
+  "description" : "Taskcard - Modify Consultation (create mail,  Yes or No flag)",
+  "abbreviation" : "task_consultation_update",
+  "canDelete" : 0
+}, {
+  "actionId" : 265,
+  "description" : "Twinning - Statistics",
+  "abbreviation" : "lnk_twinning_statistics",
+  "canDelete" : 0
+}]

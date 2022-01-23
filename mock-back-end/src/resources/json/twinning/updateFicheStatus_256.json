@@ -1,0 +1,79 @@
+{
+  "_status": 256,
+  "_budgetlineID": 8,
+  "_templateID": 117,
+  "_beneficiaryCountryID": 51,
+  "managementModeID": null,
+  "chapters": {
+    "_items": [
+      {
+        "id": 11719073,
+        "description": null,
+        "parentid": null,
+        "chapterKeywords": [],
+        "ticked": false,
+        "coverageLevel": 1,
+        "order": null
+      }
+    ]
+  },
+  "budgetYear": 2000,
+  "budget": 1260000,
+  "keywords": [],
+  "twinningID": 2002337,
+  "twinningNumber": "UA08/ENP-PCA/HE/15",
+  "twinningNumberOld": "UA08/ENP-PCA/HE/15",
+  "type": 1,
+  "projectTitle": "Support for the Ukranian veterinary services in enhancing the legal and technical aspects of food safety control systems",
+  "beneficiaryAdministration": "Ministry of Agrarian Policy of Ukraine -MoAP",
+  "comment": "Latvia has been added after the notification of the award to the consortium.  the BA requested to include in the consortium the expertise of a new MS.\n\nRTA Name: Allan Bagge",
+  "duration": 21,
+  "draftFicheOpinionRef": null,
+  "aresCode": null,
+  "dateOfCirculationAresCode": null,
+  "approvalFicheAresCode": null,
+  "draftFicheRef": null,
+  "draftFicheCircRef": null,
+  "crisTenderReference": null,
+  "crisContractRef": "215739",
+  "draftFicheReceived": null,
+  "draftFicheCirculated": null,
+  "draftFicheOpinion": null,
+  "dateOfCirculation": 1226358000000,
+  "deadlineForApplications": 1231714800000,
+  "notificationOfAward": null,
+  "approvalFiche": 1225407600000,
+  "contractNotification": 1248991200000,
+  "implementationStart": 1251756000000,
+  "implementationEnd": 1314741600000,
+  "executionEnd": null,
+  "faExeDeadline": null,
+  "faContrDeadline": null,
+  "finalReportReceived": false,
+  "canPublishFinalReport": null,
+  "trmData": null,
+  "decisionNumberUrl": "http://www.cc.cec/EUROPEAID/cris/saisie/cris.cfm?destinationUrl=decision%2Fdecision%2Ecfm%3Faction%3DShowFromList%26Key%3D",
+  "contractUrl": "http://www.cc.cec/EUROPEAID/cris/saisie/cris.cfm?destinationUrl=contrat%2Fcontratlm%2Ecfm%3Faction%3DShowFromList%26fct%3D%26key%3D",
+  "financialDecisionData": {
+    "idDecision": 51,
+    "decisionNumber": 18038,
+    "decisionNumberUrl": null,
+    "description": "UA AAP 2006 TACIS/2006/18038",
+    "financingStartDate": "2007-06-15 00:00:00",
+    "finalDateForContract": "2009-08-01 00:00:00",
+    "used": null
+  },
+  "beneficiaryCountryData": {
+    "id": 51,
+    "name": "Albania",
+    "abbreviation": "AL"
+  },
+  "archived": false,
+  "pipelineYear": [
+    2021,
+    2020,
+    2019
+  ],
+  "firstEstimatedLaunch": 1667257200000,
+  "currentEstimatedLaunch": 1751320800000
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "fieldName": "Draft Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/09/2015 12:09",
+    "changedBy": "Jamal MOHSENPOUR"
+  },
+  {
+    "fieldName": "Active event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "08/12/2015 11:12",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "AF Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "12/06/2017 08:29",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF TL Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "12/06/2017 08:32",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF Signed",
+    "oldValue": null,
+    "newValue": "Automatically AF Signed",
+    "changedDate": "12/06/2017 08:33",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "Logistics can Start",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "12/06/2017 08:33",
+    "changedBy": "User TO BE DEFINED"
+  }
+]

@@ -1,0 +1,84 @@
+<div class="container-fluid">
+  <div #header>
+    <div class="btn-toolbar btn-toolbar-menu btn-toolbar-content" fxLayout="row" fxLayout.xs="column" fxLayoutGap="5px" role="group" aria-label="Toolbar">
+      <div fxLayout="row" fxLayout.xs="column" fxFlex.gt-sm>
+        <label-input fxShow fxHide.xs [labelText]="'Type'" [labelAlign]="'Center'" [globalClass]="'label-input-toolbar'" [labelClass]="'col-sm-2 label-align-center'">
+          <select class="form-control col-sm-12" [(ngModel)]="templateId" [disabled]="filterOnTemplateID !== undefined || readOnlyMode === true">
+            <option *ngFor="let item of templates" [ngValue]="item.id">{{item.name}}</option>
+          </select>
+        </label-input>
+        <select class="form-control col-sm-12" fxHide fxShow.xs title="Select document type" [(ngModel)]="templateId" [disabled]="filterOnTemplateID !== undefined || readOnlyMode === true">
+          <option *ngFor="let item of templates" [ngValue]="item.id">{{item.name}}</option>
+        </select>
+      </div>
+      <div fxLayout="row" fxFlex.sm fxLayoutAlign="end" fxHide.print="true">
+        <button type="button" class="btn btn-primary" title="Refresh" (click)="btnRefresh()" [disabled]="uploading === true">
+          <span class="fa fa-refresh" aria-hidden="true"></span>
+        </button>
+        <label class="btn btn-primary btn-file" title="Select files" [class.btn-icon-label-disabled] = "templateId === -1 || uploading === true" [hidden]="readOnlyMode === true">
+          <i class="fa fa-plus"></i>
+          <input type="file" file-select [uploader]="uploader" multiple
+                 [accept]="acceptFileTypes" style="display: none;" [disabled]="templateId === -1 || uploading === true"  [hidden]="readOnlyMode === true">
+        </label>
+        <button type="button" class="btn btn-primary" title="Delete" (click)="btnDeleteDocument()" [disabled]="!canDeleteDocument()"  [hidden]="readOnlyMode === true">
+          <span class="fa fa-minus" aria-hidden="true"></span>
+        </button>
+        <button type="button" class="btn btn-primary" title="Reset uploading"
+                (click)="resetUpload()" [disabled]="uploading === true || gridState.selectedItems.length == 0" [hidden]="readOnlyMode === true">
+          <span class="fa fa-times" aria-hidden="true"></span>
+        </button>
+        <button type="button" class="btn btn-primary" title="Clear" (click)="btnClear()">
+          <span class="fa fa-trash" aria-hidden="true"></span>
+        </button>
+        <button type="button" class="btn btn-primary" title="Extract list" (click)="btnPrint()" [disabled]="isPrinting === true">
+          <span aria-hidden="true" [ngClass]="isPrinting === true ? 'fa fa-refresh fa-spin' : 'fa fa-file-excel-o'"></span>
+        </button>
+        <button type="button" class="btn btn-primary" title="Close" (click)="btnClose()" [hidden]="closed.observers.length === 0 && backURL === ''">
+          <span class="fa fa-times-circle" aria-hidden="true"></span>
+        </button>
+      </div>
+    </div>
+    <div fxLayout="row" fxShow fxHide.xs="true" fxHide.print="true" [hidden]="DropzoneVisible() === false">
+      <div fxFlex="100%">
+        <div file-drop class="well drop-zone" [ngClass]="{ 'file-over': DropZoneOver }" (fileOver)="fileOverDropZone($event)"
+             [uploader]="uploader">Drop files to upload here
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div #agGrid fxLayout="row" fxShow fxHide.xs fxShow.print [style.height.px]="gridHeight">
+      <ag-grid-angular style="height: 100%; width: 100%;" class="ag-theme-fresh"
+                       [gridOptions]="gridState.gridOptions"
+
+                       rowHeight="22"
+                       rowSelection="multiple"
+
+                       (selectionChanged)="gridState.onGridSelectionChanged($event)"
+                       (gridReady)="gridState.onGridReady(agGrid)"
+                       (gridSizeChanged)="gridState.onGridResize(agGrid)">
+      </ag-grid-angular>
+    </div>
+    <ux-tms-list-items #listgrid fxHide fxShow.xs fxHide.print rowSelection="multiple">
+      <ux-list-item *ngFor="let rowItem of gridState.rowData" [item]="rowItem" (click)="gridState.onListSelectItem({ 'item' : rowItem, 'ctrlKeyPressed' : $event.ctrlKey })">
+        <uxListItemSubLabel>
+          <div class="m-2">
+            <span class="ux-u-font-size-h5 ux-u-color-primary-dark mb-3" *ngIf="rowItem.file.url && rowItem.file.url !== ''">
+              {{ getTemplateName(rowItem.file.templateId) }} - <a href="{{ rowItem.file.url }}" target="document">{{ rowItem.file.url }}</a>
+            </span>
+            <span class="ux-u-font-size-h5 ux-u-color-primary-dark mb-3" *ngIf="!(rowItem.file.url && rowItem.file.url !== '')">
+              {{ getTemplateName(rowItem.file.templateId) }} - <a href="{{ getNameURL(rowItem.file.id) }}" target="document">{{ rowItem.file.name }}</a>
+            </span>
+            <br>
+            <span class="ux-u-font-size-h7 mb-3" *ngIf="rowItem.file.url && rowItem.file.url !== ''">{{ rowItem.file.lastModified | date: 'dd/MM/yyyy' }}</span>
+            <span class="ux-u-font-size-h7 mb-3" *ngIf="!(rowItem.file.url && rowItem.file.url !== '')">{{ getSizeInMB(rowItem.file.size) }} - {{ rowItem.file.lastModified | date: 'dd/MM/yyyy' }}</span>
+            <div class="progress" *ngIf="rowItem.file.id === -1">
+              <div class="progress-bar text-center" role="progressbar" [attr.aria-valuenow]="rowItem.progress"
+                   aria-valuemin="0" aria-valuemax="100" style="min-width: 2em;" [style.width.%]="rowItem.progress">{{ rowItem.progress }}%</div>
+            </div>
+          </div>
+        </uxListItemSubLabel>
+      </ux-list-item>
+    </ux-tms-list-items>
+  </div>
+</div>

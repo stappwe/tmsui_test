@@ -1,0 +1,179 @@
+@import 'styles';
+
+// This file recreates the old "fresh" theme that was removed in v23, and re-implements it as a custom
+// theme extending ag-theme-base.
+
+// ag-grid.scss defines structural styles and should be imported first
+
+@import '~ag-grid-community/src/styles/ag-grid';
+
+@import '~ag-grid-community/src/styles/ag-theme-base/sass/ag-theme-base-mixin';
+
+.ag-theme-fresh {
+
+  @include ag-theme-base((
+    "font-size": 12px,
+    "font-family": ("eui-default", "Helvetica", "Arial", "sans-serif"),
+    "foreground-color": #000,
+    "background-color": #FFF,
+    "odd-row-background-color": #f6f6f6,
+    "input-disabled-background-color": #ebebeb,
+    "border-color": darkgrey,
+    "cell-horizontal-border": dotted darkgrey,
+    "cell-horizontal-padding": 2px,
+    "header-cell-moving-background-color": #bebebe,
+    "control-panel-background-color": #f6f6f6,
+    "range-selection-highlight-color": rgba(#8F8, 0.4),
+    "value-change-delta-up-color": darkgreen,
+    "value-change-delta-down-color": darkred,
+    "value-change-value-highlight-background-color": #cec,
+    "input-border-color": #000,
+    "header-column-separator": true,
+    "header-foreground-color": #FFF,
+    "row-border-color": null,
+    "subheader-background-color": #ececec,
+    "selected-row-background-color": #bde2e5,
+    "checkbox-background-color": white
+  ));
+
+  .ag-icon {
+    color: #000;
+  }
+
+  .ag-icon-tree-closed::before {
+    content: map-get($ag-theme-base-icons-font-codes, "contracted");
+  }
+
+  .ag-icon-tree-open::before {
+    content: map-get($ag-theme-base-icons-font-codes, "expanded");
+  }
+
+  .ag-tab {
+    border: 1px solid transparent;
+    margin: ag-param(grid-size);
+    margin-bottom: -1px; // shift down 1px to make tab background blend with area below
+    padding: ag-param(grid-size) ag-param(grid-size) * 2;
+  }
+
+  .ag-tabs-body {
+    margin: ag-param(grid-size) / 2 0;
+  }
+
+  .ag-icon {
+    margin: 1px 1px 2px 1px;
+  }
+
+  .ag-tab-selected {
+    background-color: ag-param(background-color);
+    border-color: ag-param(border-color);
+    border-bottom-color: transparent;
+  }
+
+  .ag-tabs-header {
+    background-color: ag-param(header-background-color);
+    border-bottom: 1px solid ag-param(border-color);
+  }
+
+  .ag-filter .ag-filter-apply-panel {
+    justify-content: flex-start;
+  }
+
+  .ag-menu-option-active {
+    background-color: ag-param(selected-row-background-color);
+  }
+
+  .ag-header,
+  .ag-column-drop-cell {
+    background-image: linear-gradient($base-background-color, $base-background-color);
+  }
+
+  .ag-column-drop-cell {
+    border: 1px solid ag-param(border-color);
+    border-radius: 0;
+  }
+
+  .ag-column-drop-cell-button .ag-icon {
+    border: 1px solid transparent;
+  }
+
+  .ag-column-drop-cell-button:hover .ag-icon {
+    border-color: ag-param(border-color);
+  }
+
+  .ag-panel-title-bar-button-icon {
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .ag-menu-option-part {
+    padding-bottom: ag-param(grid-size);
+    padding-top: ag-param(grid-size);
+  }
+
+  .ag-column-drop-vertical-title-bar {
+    margin-left: ag-param(grid-size);
+    margin-top: ag-param(grid-size);
+  }
+
+  .ag-column-drop-vertical-title {
+    margin-left: ag-param(grid-size);
+  }
+
+  .ag-column-drop-vertical-empty-message {
+    margin-left: ag-param(grid-size) * 3 + ag-param(icon-size);
+  }
+
+  .ag-header {
+    .ag-icon-asc,
+    .ag-icon-desc,
+    .ag-icon-expanded,
+    .ag-icon-contracted,
+    .ag-icon-menu,
+    .ag-icon-filter {
+      filter: invert(100%);
+    }
+  }
+
+  .ag-filter-body {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .ag-filter-select {
+    border-radius: 0;
+    font-size: 14px;
+    height: 35px;
+    margin: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: calc(100% - 8px);
+  }
+
+  .ag-filter-apply-panel button {
+    background-color: $base-background-color;
+    border: 2px solid $base-background-color;
+    border-radius: 0;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding: 6px;
+    width: 100%;
+  }
+
+  .ag-filter-filter {
+    border-color: rgb(169, 169, 169) !important;
+    border-radius: 0;
+    font-size: 14px;
+    height: 35px;
+    padding: 8px 12px;
+    width: 100%;
+  }
+
+  .ag-header-icon[aria-hidden='true'] {
+    display: initial;
+  }
+
+  .ag-filter-toolpanel-header.ag-header-cell-label {
+    color: black;
+  }
+}

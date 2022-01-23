@@ -1,0 +1,199 @@
+{
+  "formalTitle": [
+    {
+      "id": 1,
+      "name": "Mr"
+    },
+    {
+      "id": 2,
+      "name": "Ms"
+    }
+  ],
+  "employmentStatus": [
+    {
+      "id": 1,
+      "name": "PO Active"
+    },
+    {
+      "id": 2,
+      "name": "PO Inactive"
+    },
+    {
+      "id": 3,
+      "name": "PO Retired"
+    },
+    {
+      "id": 4,
+      "name": "Other"
+    }
+  ],
+  "ncpValidated": [
+    {
+      "id": 0,
+      "name": "To be validated"
+    },
+    {
+      "id": 1,
+      "name": "Refused"
+    },
+    {
+      "id": 2,
+      "name": "Accepted"
+    }
+  ],
+  "expressedInterest": [
+    {
+      "id": 0,
+      "name": "No"
+    },
+    {
+      "id": 1,
+      "name": "Yes"
+    }
+  ],
+  "countryName": [
+    {
+      "id": 100,
+      "name": "Austria"
+    },
+    {
+      "id": 101,
+      "name": "Belgium"
+    },
+    {
+      "id": 1,
+      "name": "Bulgaria"
+    },
+    {
+      "id": 53,
+      "name": "Croatia"
+    },
+    {
+      "id": 11,
+      "name": "Cyprus"
+    },
+    {
+      "id": 2,
+      "name": "Czech Republic"
+    },
+    {
+      "id": 102,
+      "name": "Denmark"
+    },
+    {
+      "id": 3,
+      "name": "Estonia"
+    },
+    {
+      "id": 103,
+      "name": "Finland"
+    },
+    {
+      "id": 104,
+      "name": "France"
+    },
+    {
+      "id": 105,
+      "name": "Germany"
+    },
+    {
+      "id": 106,
+      "name": "Greece"
+    },
+    {
+      "id": 4,
+      "name": "Hungary"
+    },
+    {
+      "id": 107,
+      "name": "Ireland"
+    },
+    {
+      "id": 108,
+      "name": "Italy"
+    },
+    {
+      "id": 5,
+      "name": "Latvia"
+    },
+    {
+      "id": 6,
+      "name": "Lithuania"
+    },
+    {
+      "id": 109,
+      "name": "Luxembourg"
+    },
+    {
+      "id": 13,
+      "name": "Malta"
+    },
+    {
+      "id": 7,
+      "name": "Poland"
+    },
+    {
+      "id": 111,
+      "name": "Portugal"
+    },
+    {
+      "id": 8,
+      "name": "Romania"
+    },
+    {
+      "id": 9,
+      "name": "Slovak Republic"
+    },
+    {
+      "id": 10,
+      "name": "Slovenia"
+    },
+    {
+      "id": 112,
+      "name": "Spain"
+    },
+    {
+      "id": 113,
+      "name": "Sweden"
+    },
+    {
+      "id": 110,
+      "name": "The Netherlands"
+    },
+    {
+      "id": 512,
+      "name": "EU Institution"
+    },
+    {
+      "id": 551,
+      "name": "International Organisation"
+    },
+    {
+      "id": 150,
+      "name": "Other"
+    }
+  ],
+  "personListTypes": [
+    {
+      "id": 1,
+      "name": "Expert",
+      "default": true
+    },
+    {
+      "id": 2,
+      "name": "ICP",
+      "default": true
+    },
+    {
+      "id": 3,
+      "name": "Not registered",
+      "default": false
+    },
+    {
+      "id": 4,
+      "name": "Shown interest",
+      "default": true
+    }
+  ]
+}
+

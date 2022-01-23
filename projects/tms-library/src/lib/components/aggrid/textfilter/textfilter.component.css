@@ -1,0 +1,18 @@
+input[type="text"].ng-valid,
+select.ng-valid {
+  border-left: 1px solid #ccc !important;
+}
+
+input {
+  padding-left: 4px;
+}
+
+.ag-filter-apply-panel button.btn-secondary {
+  background-color: var(--eui-color-secondary);
+  border: 2px solid var(--eui-color-secondary);
+  color: var(--eui-color-primary);
+}
+
+.ag-filter-apply-panel button.btn-secondary:active {
+  border-color: var(--eui-color-primary-light);
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "fieldName": "Draft Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "01/04/2015 11:59",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "Active event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "15/04/2015 17:41",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "AF Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "13/07/2016 10:44",
+    "changedBy": "Sanja MARINKOVIC"
+  },
+  {
+    "fieldName": "AF TL Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "13/07/2016 18:38",
+    "changedBy": "Scott BOWEN"
+  },
+  {
+    "fieldName": "AF Signed",
+    "oldValue": null,
+    "newValue": "Please add more detail regarding the aim of the workshop.",
+    "changedDate": "04/08/2016 09:48",
+    "changedBy": "Heike GERSTBREIN"
+  },
+  {
+    "fieldName": "Logistics can Start",
+    "oldValue": null,
+    "newValue": "Please add more detail regarding the aim of the workshop.",
+    "changedDate": "04/08/2016 09:48",
+    "changedBy": "Heike GERSTBREIN"
+  },
+  {
+    "fieldName": "Logistics Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/09/2016 10:42",
+    "changedBy": "Bozinova Aleksandra"
+  },
+  {
+    "fieldName": "CH Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/09/2016 14:00",
+    "changedBy": "Sanja MARINKOVIC"
+  },
+  {
+    "fieldName": "Block Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/09/2016 15:14",
+    "changedBy": "Emilija Pavlovska"
+  },
+  {
+    "fieldName": "Protect Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/09/2016 15:53",
+    "changedBy": "Véronique Poot"
+  },
+  {
+    "fieldName": "TL Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/09/2016 16:06",
+    "changedBy": "Scott BOWEN"
+  },
+  {
+    "fieldName": "OF Signed",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/09/2016 16:34",
+    "changedBy": "Heike GERSTBREIN"
+  },
+  {
+    "fieldName": "Accounts Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/01/2017 18:13",
+    "changedBy": "Jürgen Weytjens"
+  }
+]

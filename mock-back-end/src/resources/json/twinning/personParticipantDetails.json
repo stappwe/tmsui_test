@@ -1,0 +1,151 @@
+{
+  "personId": 2104,
+  "formalAddressId" : 1,
+  "firstName": "pierre",
+  "familyName": "Pelan",
+  "title": "PAA Ministry of Finance",
+  "flagged" : false,
+  "enableEdit" : true,
+  "expert" : false,
+  "addressID" : 2050,
+  "address": {
+    "addressID": 2049,
+    "street1": "Rue Loi 15",
+    "street2": "Person address",
+    "postalCode": "1000",
+    "city": "Brussels",
+    "countryId": 101
+  },
+  "professionalContactInfo": {
+    "contactInfoID": -1,
+    "email": "pierre.pelan@gov.be",
+    "telephone": "",
+    "mobilephone": "",
+    "fax": "",
+    "website": "",
+    "usageType": -1,
+    "emailVerified": true,
+    "useInCommunication": true
+  },
+  "privateContactInfo": {
+    "contactInfoID": -1,
+    "email": "",
+    "telephone": "",
+    "mobilephone": "",
+    "fax": "",
+    "website": "",
+    "usageType": -1,
+    "emailVerified": false,
+    "useInCommunication": true
+  },
+  "bankaccount": {
+    "bankName": "",
+    "bankAdditional": "",
+    "sortingCode": "",
+    "swift": "",
+    "iban": ""
+  },
+  "payFdaToSupplier" : false,
+  "perDiemPaySupplier": false,
+  "ofSigned": true,
+  "comment" : "",
+  "categories": [
+    5,
+    10,
+    25,
+    30
+  ],
+  "languages": [
+    15,
+    20
+  ],
+  "personSuppliers": [
+    { "peInId": 209304,
+      "supplierId": 37203,
+      "name": "IBU",
+      "position": "Representative",
+      "active": false,
+      "departmentID": 10,
+      "departments": [
+        {
+          "departmentID": 10,
+          "name": "Human resources"
+        },
+        {
+          "departmentID": 11,
+          "name": "IT"
+        },
+        {
+          "departmentID": 15,
+          "name": "Finance"
+        }
+      ],
+      "address": {
+        "addressID": 2050,
+        "street1": "Rue Loi 20",
+        "street2": "",
+        "postalCode": "1000",
+        "city": "Brussels",
+        "countryId": 101
+      }
+    },
+    { "peInId": 209305,
+      "supplierId": 375303,
+      "name": "IBF",
+      "position": "Director",
+      "active": true,
+      "departmentID": 30,
+      "departments": [
+        {
+          "departmentID": 30,
+          "name": "General"
+        },
+        {
+          "departmentID": 31,
+          "name": "Logistics"
+        },
+        {
+          "departmentID": 32,
+          "name": "Accounts"
+        }
+      ],
+      "address": {
+        "addressID": 2051,
+        "street1": "Rue Loi 25",
+        "street2": "",
+        "postalCode": "1000",
+        "city": "Brussels",
+        "countryId": 101
+      }
+    },
+    { "peInId": 301920,
+      "supplierId": 398439,
+      "name": "TAIEX",
+      "position": "Team Leader",
+      "active": false,
+      "departmentID": 40,
+      "departments": [
+        {
+          "departmentID": 41,
+          "name": "ENI EAST"
+        },
+        {
+          "departmentID": 42,
+          "name": "ENI SOUTH"
+        },
+        {
+          "departmentID": 43,
+          "name": "Finance"
+        }
+      ],
+      "address": {
+        "addressID": 2052,
+        "street1": "Rue Loi 30",
+        "street2": "",
+        "postalCode": "1000",
+        "city": "Brussels",
+        "countryId": 101
+      }
+    }
+  ]
+}

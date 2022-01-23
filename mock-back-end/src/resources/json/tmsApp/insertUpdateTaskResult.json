@@ -1,0 +1,99 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "taskDetail": {
+      "taskId": 29771,
+      "description": "29771 - UA - TAIEX Study Visit on European standards in developing effective legal framework and information environment, collection, processing and analysis of information for preventing and combating corruption and financial crimes",
+      "requester": "Radzhami Dzhan",
+      "institutionName": "National Anti-Corruption Bureau of Ukraine",
+      "requesterEmail": "taiex@center.gov.ua",
+      "requesterPhone": " (044)246-30-03",
+      "requestId": 51068,
+      "proposedDate": null,
+      "proposedActionId": 1,
+      "comment": "The aim of the study visit is to obtain the knowledge and practical experience from EU Member State Agencies on software and other tools for collecting, processing and analyzing information within criminal intelligence and criminal investigation cycle. Also, the special attention is required for technologies for processing and interpretation of “big data”, supporting the strategical analytical process etc. Discussing specific knowledge with experts on advantages and disadvantages of certain approaches, tools and their effectiveness.",
+      "teamLeaderId": "gudeljo",
+      "teamLeaderFamilyName": "GUDELYTE",
+      "teamLeaderFirstName": "Jovita",
+      "eventTypeId": 37,
+      "eventTypeName": "JHA IND/STUD",
+      "projectId": 1,
+      "beneficiaryId": 71,
+      "beneficiaryCountryName": "Ukraine",
+      "evalCorrEmail": "r.dzhan@nabu.gov.ua",
+      "createDate": 1538988564000,
+      "submissionDate": 1538949600000,
+      "holdingLetterDate": 1538988592000,
+      "consultationDate": 1548341069000,
+      "consultationDeadline": -87,
+      "noConsultation": false,
+      "taskSigned": false,
+      "lastWorkflowStep": 102,
+      "nextWorkflowStep": null,
+      "workflowComment": null,
+      "taskDecisionId": 0,
+      "approvalFormType": 0,
+      "decisionDate": null,
+      "answerDate": null,
+      "commentStatus": 1,
+      "placeCountryId": 110,
+      "cityId": null,
+      "cityName": null,
+      "eventIdList": [
+        65707,
+        65718,
+        68005,
+        68006,
+        68007,
+        68008,
+        68012,
+        68014,
+        68015,
+        68016,
+        68017,
+        68018,
+        68019,
+        68020,
+        68021
+      ],
+      "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJ0SUQiOiIyOTc3MSJ9.cyrw1w57hnX7r3UD4-w9eTPZQ_wi1JIgWnR4sj9BVE4",
+      "applicationFormUrl": "https://webgate.acceptance.ec.europa.eu/Twinning/getAppFormDocument/originalRequest?Authorization=eyJhbGciOiJIUzI1NiJ9.eyJ0ZUlEIjoiMyIsInRJRCI6IjI5NzcxIiwidGltZXN0YW1wIjoiMTU4NDM2NzUzODUyNyJ9.sgNyUmiD795wHGlepHZkRKUBeHaPjgDNqcdx2pk86YQ",
+      "expertise": {
+        "_items": [
+          {
+            "id": 11719023,
+            "description": "03 Right of establishment and freedom to provide services [06]",
+            "parentid": 0,
+            "chapterKeywords": [],
+            "ticked": false,
+            "coverageLevel": 2,
+            "order": null
+          },
+          {
+            "id": 11719024,
+            "description": "03.10 Principles and conditions [06.10]",
+            "parentid": 11719023,
+            "chapterKeywords": [],
+            "ticked": false,
+            "coverageLevel": 1,
+            "order": null
+          }
+        ]
+      },
+      "keywords": [
+        46,
+        161
+      ],
+      "status": 0,
+      "allowedWorkflowActions": [],
+      "answerDeadline": -504,
+      "deadlineDate": "29/10/2018",
+      "TAIEXStrategic": 1,
+      "externalRequestId": "19AT33,20AT33,21AT33,22AT33",
+      "externalRequestUrl": "https://webgate.ec.europa.eu/srss/issues/?jql=%22SRSP%20request%20ID%22%20~%20"
+    },
+    "allowedWorkflowActions": []
+  }
+}

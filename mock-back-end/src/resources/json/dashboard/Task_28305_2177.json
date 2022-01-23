@@ -1,0 +1,61 @@
+{
+  "TASKNO": 28305,
+  "DESCRIPTION": "28305 - IL - TAIEX Expert Mission on ..",
+  "REQUESTER": "Ivan Turcan",
+  "INSTITUTION": "Bureau of reintegration policies",
+  "EMAIL": "ivan.turcan@gov.md",
+  "PHONE": "373-22-250378",
+  "IDREQUEST": 27802,
+  "PROPOSEDACTION": "Study visit",
+  "COMMENTS": "The goal of this study visit is to get acquainted with recent developments and current stage.",
+  "TEAMLEADER": "Tatjana BORBAS",
+  "TEAMLEADEREMAIL": "Tatjana.BORBAS@ec.europa.eu",
+  "EVENTTYPE": "ETT IND/STUD",
+  "BENEFICIARY": "Moldova",
+  "EVALCORREMAIL": "alin.gvidiani@gmail.com",
+  "PLACE": "",
+  "PLACECOUNTRY": "Denmark",
+  "CREATEDATE": "15/02/2017",
+  "PROPOSEDDATE": "",
+  "ACKNOWLEDGEDATE": "15/02/2017",
+  "CONSULTATIONDATE": "17/09/2017",
+  "SUBMISSIONDATE": "14/02/2017",
+  "CONSULTATIONDEADLINE": "-194 (07/03/2017)",
+  "TASKDECISION": "No",
+  "DATEOFDECISION": "05/05/2017",
+  "ANSWERDATE": "",
+  "PROJECT": "Instrument for Pre-Accession Assistance, European Neighbourhood Instrument",
+  "EXPERTISE": [
+    {
+      "id": 11719268,
+      "coverageLevel": 2
+    },
+    {
+      "id": 11743849,
+      "coverageLevel": 1
+    },
+    {
+      "id": 11719273,
+      "coverageLevel": 1
+    },
+    {
+      "id": 11719274,
+      "coverageLevel": 1
+    },
+    {
+      "id": 11719282,
+      "coverageLevel": 1
+    }
+  ],
+  "KEYWORD": "333,49,310,417",
+  "ANSWERDEADLINE": "-194 (07/03/2017)",
+  "TASKCARDURL": "https://webgate.acceptance.ec.europa.eu/TMS/updateTask.do?dispatch=Modify&taskcardID=26855",
+  "CREATECONSULTATION": 0,
+  "NOCONSULTATION": 0,
+  "EVENTID": [],
+  "ORIGINALREQUESTURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/viewDocument?id=20oP0Mg8xtiFl0D5L1d1WQ",
+  "taskSigned": false,
+  "approvalFormType": 1,
+  "commentStatus": 1,
+  "lastWorkflowStep": 105
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 3,
+    "name": "Speaker EU"
+  },
+  {
+    "id": 2,
+    "name": "Speaker CC"
+  },
+  {
+    "id": 4,
+    "name": "Speaker MS"
+  },
+  {
+    "id": 13,
+    "name": "Speaker PP"
+  },
+  {
+    "id": 18,
+    "name": "Speaker ENP"
+  },
+  {
+    "id": 5,
+    "name": "Speaker TAIEX"
+  },
+  {
+    "id": 12,
+    "name": "Other speakers"
+  },
+  {
+    "id": 10,
+    "name": "Participant EU"
+  },
+  {
+    "id": 0,
+    "name": "Participant CC"
+  },
+  {
+    "id": 11,
+    "name": "Participant MS"
+  },
+  {
+    "id": 15,
+    "name": "Part. ENP"
+  },
+  {
+    "id": 7,
+    "name": "Interpreter"
+  },
+  {
+    "id": 6,
+    "name": "Co-organiser"
+  },
+  {
+    "id": 14,
+    "name": "Other participants"
+  },
+  {
+    "id": 16,
+    "name": "VLS Attendee"
+  },
+  {
+    "id": 17,
+    "name": "Host"
+  },
+  {
+    "id": 19,
+    "name": "DSM A"
+  },
+  {
+    "id": 20,
+    "name": "DSM B"
+  },
+  {
+    "id": 21,
+    "name": "IT Support"
+  }
+]

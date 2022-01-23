@@ -1,0 +1,134 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "eventId": 80805,
+    "motherEventId": 80805,
+    "seriesFirstEventId": null,
+    "ofStatus": "N",
+    "workflowStepsDone": [
+      0,
+      19
+    ],
+    "eventAddCorr": 0,
+    "eventName": "test proc 1",
+    "eventNameFR": null,
+    "taiexContractor": {
+      "id": 8,
+      "name": "TAIEX - 8",
+      "startDate": "2020-08-01T00:00:00.000Z",
+      "endDate": "2024-07-31T23:59:59.000Z"
+    },
+    "eventType": {
+      "id": 94,
+      "name": "PROC",
+      "eventCategoryId": 5
+    },
+    "taskId": null,
+    "euLegislation": {
+      "_items": [
+        {
+          "id": 11719039,
+          "description": "04 Free movement of capital [10.40]",
+          "parentid": 0,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 1,
+          "order": 34
+        }
+      ]
+    },
+    "keywords": [
+      282
+    ],
+    "eventDates": {
+      "startDate": "2021-06-21T00:00:00.000Z",
+      "endDate": "2021-06-25T00:00:00.000Z"
+    },
+    "project": {
+      "id": 1,
+      "name": "IPA, ENI"
+    },
+    "beneficiaryCountryList": [
+      {
+        "id": 51,
+        "name": "Albania",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      }
+    ],
+    "evalCorrEmail": null,
+    "countryEventPlace": {
+      "id": 164,
+      "name": "Bahrain"
+    },
+    "cityList": [
+      {
+        "id": 1779219,
+        "name": "Hamad Town"
+      }
+    ],
+    "ibuCaseHandler": {
+      "id": "bejenal",
+      "name": "BEJENARU VRABIE Alin",
+      "email": "Alin.BEJENARU@ext.ec.europa.eu",
+      "phone": "+32 229-59593",
+      "type": 1
+    },
+    "coCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 5
+    },
+    "ticketCoCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 21
+    },
+    "accountCoCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 10
+    },
+    "createDate": "2021-06-08T21:50:37.000Z",
+    "lastChanged": "2021-06-08T22:19:35.000Z",
+    "ofSubmissionDate": ".000Z",
+    "invoicePeriod": null,
+    "contractorEventRemarks": null,
+    "ofComments": null,
+    "cancelledEvent": false,
+    "visibleOnTaiex": false,
+    "hasToBePublished": false,
+    "hiddenOnESE": true,
+    "evaluationRequired": true,
+    "webFolderLocked": true,
+    "taiexStrategic": true,
+    "allowedWorkflowActions": [],
+    "commentStatus": 1,
+    "contractorReportStatus": null,
+    "eventStatus": "Active event.",
+    "summary": {
+      "participants": 0,
+      "coffeBreaks": 0,
+      "lunches": 0,
+      "dinners": 0,
+      "waters": 0,
+      "totalCost": 0,
+      "contingency": 0,
+      "balance": 0,
+      "contractorFee": 0,
+      "contractorFeeAdditional": 0
+    },
+    "blankChecklistURL": null,
+    "evaluationImpactFeedbackResultURL": null,
+    "paymentFileURL": null,
+    "implementationType": 1
+  }
+}

@@ -1,0 +1,6 @@
+<div class="{{class}}">
+  <textarea #textArea (input)="onInput()" [readonly]="readOnly" [maxLength]="maxLengthInBytes" [(ngModel)]="value"
+            [placeholder]="placeholder" class="form-control no-validation" [class.ng-invalid]="_InputValid == false"
+            (blur)="onBlur()"></textarea>
+  <div class="font-weight-bold pull-right size-info" [hidden]="showSizeInfo == false" >{{sizeInfo}}</div>
+</div>

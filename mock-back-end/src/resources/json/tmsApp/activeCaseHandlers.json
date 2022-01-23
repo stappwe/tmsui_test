@@ -1,0 +1,562 @@
+[
+  {
+    "id": "angueta",
+    "name": "Tania ANGUELOVA",
+    "email": "Tania.ANGUELOVA@ec.europa.eu",
+    "phone": "56360",
+    "type": 1
+  },
+  {
+    "id": "larsshe",
+    "name": "Helen LARSSON",
+    "email": "Helen.LARSSON@ec.europa.eu",
+    "phone": "+32 2 29 91978",
+    "type": 2
+  },
+  {
+    "id": "w1040002",
+    "name": "Only Read",
+    "email": "werner.stappaerts@ext.ec.europa.eu",
+    "phone": null,
+    "type": 11
+  },
+  {
+    "id": "bejenal",
+    "name": "Alin BEJENARU VRABIE",
+    "email": "Alin.BEJENARU@ext.ec.europa.eu",
+    "phone": "+32 229-59593",
+    "type": 1
+  },
+  {
+    "id": "bowenda",
+    "name": "Scott BOWEN",
+    "email": "scott.bowen@ext.ec.europa.eu",
+    "phone": "+32 229-56519",
+    "type": 2
+  },
+  {
+    "id": "delanka",
+    "name": "Katleen DE LANGHE",
+    "email": "Katleen.DE-LANGHE@ec.europa.eu",
+    "phone": "+32 2 29 88745",
+    "type": 1
+  },
+  {
+    "id": "ebeywje",
+    "name": "Jean-Paul MOURA EBEY",
+    "email": "jean-paul.moura-ebey@ext.ec.europa.eu",
+    "phone": "+32 229-90275",
+    "type": 13
+  },
+  {
+    "id": "forinma",
+    "name": "Mario FORINO",
+    "email": "Mario.FORINO@ec.europa.eu",
+    "phone": "+32 229-87040",
+    "type": 4
+  },
+  {
+    "id": "ilieslu",
+    "name": "Luca DUSSART ILIES",
+    "email": "Luca.DUSSART-ILIES@ec.europa.eu",
+    "phone": "+32 229-51896",
+    "type": 1
+  },
+  {
+    "id": "kovacsa",
+    "name": "Sanda TURCIC",
+    "email": "Sanda.TURCIC@ec.europa.eu",
+    "phone": "+32 229-51866",
+    "type": 11
+  },
+  {
+    "id": "maciagr",
+    "name": "Grzegorz MACIAG",
+    "email": "Grzegorz.MACIAG@ext.ec.europa.eu",
+    "phone": "+32 229-96443",
+    "type": 1
+  },
+  {
+    "id": "mohseja",
+    "name": "Jamal MOHSENPOUR",
+    "email": "Jamal.MOHSENPOUR@ec.europa.eu",
+    "phone": "+32 229-52559",
+    "type": 4
+  },
+  {
+    "id": "pettili",
+    "name": "Lionello PETTINELLI",
+    "email": "lionello.pettinelli@ec.europa.eu",
+    "phone": "+32 229-85376",
+    "type": 1
+  },
+  {
+    "id": "rodrijx",
+    "name": "Jordi RODRIGUEZ RUIZ",
+    "email": "Jordi.RODRIGUEZ-RUIZ@ec.europa.eu",
+    "phone": "+32 2 29 *80470",
+    "type": 1
+  },
+  {
+    "id": "rynkoan",
+    "name": "Anna-Maria RYNKO",
+    "email": "Anna-Maria.RYNKO@ec.europa.eu",
+    "phone": "+32 229-81193",
+    "type": 11
+  },
+  {
+    "id": "stappwe",
+    "name": "Werner STAPPAERTS",
+    "email": "Werner.STAPPAERTS@ext.ec.europa.eu",
+    "phone": "+32 229-96894",
+    "type": 1
+  },
+  {
+    "id": "marchfa",
+    "name": "Fanny MARCHAL",
+    "email": "Fanny.MARCHAL@ec.europa.eu",
+    "phone": "+32 2 29 58451",
+    "type": 2
+  },
+  {
+    "id": "mijolni",
+    "name": "Nikolina MIJOLOVIC",
+    "email": "Nikolina.MIJOLOVIC@ec.europa.eu",
+    "phone": "+32 2 29 86635",
+    "type": 1
+  },
+  {
+    "id": "bmariac",
+    "name": "Cristina BARAGANESCU",
+    "email": "Cristina.BARAGANESCU@ec.europa.eu",
+    "phone": "+32 2 29 90090",
+    "type": 1
+  },
+  {
+    "id": "salkubr",
+    "name": "Brigita SALKUTE",
+    "email": "Brigita.SALKUTE@ec.europa.eu",
+    "phone": "+32 2 29 96064",
+    "type": 1
+  },
+  {
+    "id": "popamih",
+    "name": "Mihaela POPA",
+    "email": "Mihaela.POPA@ec.europa.eu",
+    "phone": "+32 2 29 81532",
+    "type": 1
+  },
+  {
+    "id": "pattepa",
+    "name": "Pavan PATTEPARAPU",
+    "email": "Pavan-Kumar.patteparapu@ext.ec.europa.eu",
+    "phone": null,
+    "type": 1
+  },
+  {
+    "id": "charlth",
+    "name": "Thibault CHARLET",
+    "email": "Thibault.CHARLET@ec.europa.eu",
+    "phone": "+32 2 29 85581",
+    "type": 1
+  },
+  {
+    "id": "cannnat",
+    "name": "Natasha MCCANN",
+    "email": "Natasha.MCCANN@ec.europa.eu",
+    "phone": "+32 2 29 59794",
+    "type": 1
+  },
+  {
+    "id": "chinafe",
+    "name": "Federica LA CHINA",
+    "email": "Federica.LA-CHINA@ec.europa.eu",
+    "phone": "+32 2 29 89613",
+    "type": 1
+  },
+  {
+    "id": "domijos",
+    "name": "Nicolas  MENDOZA",
+    "email": "Jose.DOMINGUEZ-MENDOZA1@ec.europa.eu",
+    "phone": "80990",
+    "type": 1
+  },
+  {
+    "id": "hyrkkhe",
+    "name": "Heini HYRKKO",
+    "email": "Heini.HYRKKO@ec.europa.eu",
+    "phone": "92785",
+    "type": 1
+  },
+  {
+    "id": "mericcl",
+    "name": "Claire MERIC",
+    "email": "Claire.MERIC@ec.europa.eu",
+    "phone": "89187",
+    "type": 1
+  },
+  {
+    "id": "n003u1vj",
+    "name": "Maria Tataki",
+    "email": "maria.tataki@ade.eu",
+    "phone": "00306942077032",
+    "type": 11
+  },
+  {
+    "id": "aquarfr",
+    "name": "Francesca AQUARO",
+    "email": "Francesca.AQUARO@ec.europa.eu",
+    "phone": "+32 2 29 96132",
+    "type": 1
+  },
+  {
+    "id": "jablodi",
+    "name": "Diana JABLONSKA",
+    "email": "Diana.JABLONSKA@ec.europa.eu",
+    "phone": "+32 2 29 52861",
+    "type": 3
+  },
+  {
+    "id": "gudeljo",
+    "name": "Jovita GUDELYTE",
+    "email": "Jovita.GUDELYTE@ec.europa.eu",
+    "phone": "+32 2 29 54785",
+    "type": 2
+  },
+  {
+    "id": "polajpe",
+    "name": "Peter POLAJNAR",
+    "email": "Peter.POLAJNAR@ec.europa.eu",
+    "phone": "+32 2 29 80146",
+    "type": 2
+  },
+  {
+    "id": "iarocal",
+    "name": "Alexei IAROCHEVITCH",
+    "email": "Alexei.IAROCHEVITCH@ec.europa.eu",
+    "phone": "+32 229-84186",
+    "type": 1
+  },
+  {
+    "id": "kiendan",
+    "name": "Andrej KIENDL",
+    "email": "Andrej.KIENDL@ec.europa.eu",
+    "phone": "58166",
+    "type": 1
+  },
+  {
+    "id": "carpfra",
+    "name": "Francesca CARPINELLA",
+    "email": "Francesca.CARPINELLA@ec.europa.eu",
+    "phone": "+32 (229) 90467",
+    "type": 1
+  },
+  {
+    "id": "centmar",
+    "name": "Marco CENTURIONE",
+    "email": "Marco.CENTURIONE@ec.europa.eu",
+    "phone": "90187",
+    "type": 1
+  },
+  {
+    "id": "gciavan",
+    "name": "Ana GARCIA VALDIVIA",
+    "email": "Ana.GARCIA-VALDIVIA1@ec.europa.eu",
+    "phone": "13110",
+    "type": 1
+  },
+  {
+    "id": "cichopi",
+    "name": "Piotr CICHOCKI",
+    "email": "Piotr.CICHOCKI@ec.europa.eu",
+    "phone": "58445",
+    "type": 1
+  },
+  {
+    "id": "haberna",
+    "name": "Nais HABERMACHER",
+    "email": "Nais.HABERMACHER@ec.europa.eu",
+    "phone": "+32 2 29 54803",
+    "type": 1
+  },
+  {
+    "id": "mannaan",
+    "name": "Antje MANNAERTS",
+    "email": "Antje.MANNAERTS@ec.europa.eu",
+    "phone": "+32 2 29 55168",
+    "type": 1
+  },
+  {
+    "id": "horosel",
+    "name": "Ela HOROSZKO",
+    "email": "Elzbieta.HOROSZKO@ec.europa.eu",
+    "phone": "+32 2 29 93263",
+    "type": 1
+  },
+  {
+    "id": "bissepa",
+    "name": "Parveen BISSESSUR",
+    "email": "Parveen.BISSESSUR@ec.europa.eu",
+    "phone": null,
+    "type": 25
+  },
+  {
+    "id": "n002f2jm",
+    "name": "PettinelliExt LionelExt",
+    "email": "lionel.pettinelli@gmail.com",
+    "phone": null,
+    "type": 1
+  },
+  {
+    "id": "marakon",
+    "name": "Konstantina MARAGKOU",
+    "email": "Konstantina.MARAGKOU@ec.europa.eu",
+    "phone": "+32 2 29 *80024",
+    "type": 1
+  },
+  {
+    "id": "zolceer",
+    "name": "Erik ZOLCER",
+    "email": "Erik.ZOLCER@ec.europa.eu",
+    "phone": null,
+    "type": 1
+  },
+  {
+    "id": "gamouni",
+    "name": "Nikos GAMOURAS",
+    "email": "Nikos.GAMOURAS@ec.europa.eu",
+    "phone": "56534",
+    "type": 1
+  },
+  {
+    "id": "raimlel",
+    "name": "Elo RAIMLA",
+    "email": "Elo.RAIMLA@ec.europa.eu",
+    "phone": "81334",
+    "type": 1
+  },
+  {
+    "id": "liogkva",
+    "name": "Vasileios LIOGKAS",
+    "email": "Vasileios.LIOGKAS@ec.europa.eu",
+    "phone": "83880",
+    "type": 1
+  },
+  {
+    "id": "beaumse",
+    "name": "Sophie BEAUMONT",
+    "email": "Sophie.BEAUMONT@ec.europa.eu",
+    "phone": "89938",
+    "type": 1
+  },
+  {
+    "id": "scannek",
+    "name": "Anne-Kathrin SCHMIDT",
+    "email": "Anne-Kathrin.SCHMIDT@ec.europa.eu",
+    "phone": "90321",
+    "type": 1
+  },
+  {
+    "id": "majamvi",
+    "name": "Ville MAJAMAA",
+    "email": "Ville.MAJAMAA@ec.europa.eu",
+    "phone": "+32 229-89711",
+    "type": 1
+  },
+  {
+    "id": "peralex",
+    "name": "Alexandre PEREIRA MEIRE",
+    "email": "Alexandre.PEREIRA-MEIRE@ext.ec.europa.eu",
+    "phone": "0485862003",
+    "type": 1
+  },
+  {
+    "id": "n004dwtg",
+    "name": "Aleksandra Bozinova",
+    "email": "aleksandra.bozinova@cecoforma.com",
+    "phone": "+389 78 221 351",
+    "type": 5
+  },
+  {
+    "id": "n003vbb3",
+    "name": "Mehmet Cemal",
+    "email": "mehmet.cemal@cecoforma.com",
+    "phone": "0090 542 88 00 932",
+    "type": 5
+  },
+  {
+    "id": "n004pkj3",
+    "name": "Laura Coppin",
+    "email": "laura.coppin@remon.be",
+    "phone": null,
+    "type": 15
+  },
+  {
+    "id": "n003qwig",
+    "name": "Zhanna De Voogd",
+    "email": "zhanna.devoogd@cecoforma.com",
+    "phone": "04 340 44 73",
+    "type": 8
+  },
+  {
+    "id": "n004ie1b",
+    "name": "Sophie Delhez",
+    "email": "sophie.delhez@uhodagroup.com",
+    "phone": "0496818439",
+    "type": 21
+  },
+  {
+    "id": "n004pj5t",
+    "name": "Pierre Grignard",
+    "email": "pierre.grignard@remon.be",
+    "phone": null,
+    "type": 21
+  },
+  {
+    "id": "n003t9j7",
+    "name": "Stephane Hallet",
+    "email": "stephane.hallet@cecoforma.com",
+    "phone": "+32477730869",
+    "type": 8
+  },
+  {
+    "id": "n002pmh2",
+    "name": "Hibo Ip",
+    "email": "hibo.ip@cecoforma.com",
+    "phone": "+32485342774",
+    "type": 5
+  },
+  {
+    "id": "n0043l6b",
+    "name": "Nataliia Kostenko",
+    "email": "nataliia.kostenko@cecoforma.com",
+    "phone": null,
+    "type": 5
+  },
+  {
+    "id": "n003uxrf",
+    "name": "Anna Kozachenko",
+    "email": "Anna.kozachenko@cecoforma.com",
+    "phone": "00 38 095 681 06 20",
+    "type": 5
+  },
+  {
+    "id": "n003xhq8",
+    "name": "Maria Narvaez",
+    "email": "maria.narvaez@cecoforma.com",
+    "phone": "+3243404794",
+    "type": 5
+  },
+  {
+    "id": "n003s7fd",
+    "name": "Nina Novakovic",
+    "email": "nina.novakovic@cecoforma.com",
+    "phone": "+3243404764",
+    "type": 5
+  },
+  {
+    "id": "npieeili",
+    "name": "Emilie PIERRE",
+    "email": "emilie.pierre@cecoforma.com",
+    "phone": null,
+    "type": 21
+  },
+  {
+    "id": "n003x83p",
+    "name": "Emilija Pavlovska",
+    "email": "emilija.pavlovska@cecoforma.com",
+    "phone": "0038970337355",
+    "type": 5
+  },
+  {
+    "id": "n004bir9",
+    "name": "Margaux Rossignol",
+    "email": "margaux.rossignol@cecoforma.com",
+    "phone": "003243403183",
+    "type": 14
+  },
+  {
+    "id": "n004bir9",
+    "name": "Margaux Rossignol",
+    "email": "margaux.rossignol@cecoforma.com",
+    "phone": "003243403183",
+    "type": 14
+  },
+  {
+    "id": "n0041ee3",
+    "name": "Zsofia Salamon",
+    "email": "zsofia.salamon@cecoforma.com",
+    "phone": "003243323003",
+    "type": 21
+  },
+  {
+    "id": "n0052bqd",
+    "name": "Anna Shagan",
+    "email": "anna.shagan@cecoforma.com",
+    "phone": null,
+    "type": 7
+  },
+  {
+    "id": "n0052bqd",
+    "name": "Anna Shagan",
+    "email": "anna.shagan@cecoforma.com",
+    "phone": null,
+    "type": 7
+  },
+  {
+    "id": "w1040253",
+    "name": "Werner Stappaerts",
+    "email": "Werner.stappaerts@ext.ec.europa.eu",
+    "phone": null,
+    "type": 7
+  },
+  {
+    "id": "w1040253",
+    "name": "Werner Stappaerts",
+    "email": "Werner.stappaerts@ext.ec.europa.eu",
+    "phone": null,
+    "type": 7
+  },
+  {
+    "id": "n0046svp",
+    "name": "Ayse Turkmen",
+    "email": "ayse.turkmen@cecoforma.com",
+    "phone": null,
+    "type": 5
+  },
+  {
+    "id": "n004j2qr",
+    "name": "Joana Vilela",
+    "email": "joana.vilela@cecoforma.com",
+    "phone": null,
+    "type": 5
+  },
+  {
+    "id": "n003y0fp",
+    "name": "tatiana admetlla",
+    "email": "tatiana.admetlla@cecoforma.com",
+    "phone": "+32492865263",
+    "type": 5
+  },
+  {
+    "id": "n00500d4",
+    "name": "olsi gedaj",
+    "email": "olsi.gedaj@cecoforma.com",
+    "phone": "0032494064400",
+    "type": 21
+  },
+  {
+    "id": "n003tgid",
+    "name": "ioannis mantadis",
+    "email": "ioannis.mantadis@cecoforma.com",
+    "phone": "00306946743024",
+    "type": 7
+  },
+  {
+    "id": "n003z5ak",
+    "name": "Damla Öztan",
+    "email": "damla.oztan@cecoforma.com",
+    "phone": null,
+    "type": 5
+  }
+]

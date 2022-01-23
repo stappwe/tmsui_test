@@ -1,0 +1,44 @@
+[
+  {
+    "projectAppFormId": 1,
+    "abbreviation": "IPA, ENI",
+    "description": "Instrument for Pre-Accession Assistance, European Neighbourhood Instrument",
+    "formGroup": 1
+  },
+  {
+    "projectAppFormId": 2,
+    "abbreviation": "PI",
+    "description": "Partnership Instrument",
+    "formGroup": 2
+  },
+  {
+    "projectAppFormId": 3,
+    "abbreviation": "REGIO PEER 2 PEER",
+    "description": "Regional policy",
+    "formGroup": 2
+  },
+  {
+    "projectAppFormId": 6,
+    "abbreviation": "EIR PEER 2 PEER",
+    "description": "Environmental Implementation Review",
+    "formGroup": 1
+  },
+  {
+    "projectAppFormId": 7,
+    "abbreviation": "DEVCO PEER 2 PEER",
+    "description": "TAIEX DEVCO",
+    "formGroup": 1
+  },
+  {
+    "projectAppFormId": 8,
+    "abbreviation": "TAIEX Strategic",
+    "description": "EU Internal Application",
+    "formGroup": 2
+  },
+  {
+    "projectAppFormId": 9,
+    "abbreviation": "Twinning Review Mission",
+    "description": "Request for the organisation of a Twinning Review Mission",
+    "formGroup": 2
+  }
+]

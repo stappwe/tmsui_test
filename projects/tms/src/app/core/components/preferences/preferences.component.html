@@ -1,0 +1,123 @@
+<ux-modal id="preferences-modal" [isHandleCloseOnClose]="false" (onClose)="onClose($event)"
+
+          titleLabel="Preferences"
+          [isFooterCustomAlignment]="true" [isVisible]="true">
+
+  <uxModalBody>
+
+    <div class="inner-title ux-u-font-size-h6">
+      Adjust your preferences settings such as timezones, etc.
+    </div>
+
+    <form [formGroup]="form">
+
+      <!-- TIME & LOCALIZATION -->
+      <ux-fieldset label="Time and localization" typeClass="primary" iconClass="fa fa-clock-o" isVerticalFields=true styleClass="mt-3">
+        <div [class.has-danger]="form.get('primary').touched && form.get('primary').invalid">
+          <ux-form-group label="Primary time" [isRequired]="true">
+            <div class="flex-container align-items-center">
+              <select class="custom-select" formControlName="primary">
+                <option></option>
+                <option *ngFor="let t of timezones; trackBy: trackByFn" value="{{t.name}}">{{t.desc}}</option>
+              </select>
+              <ux-button isOutline=true isSmall=true (click)="onTimePrimaryFromHQClick($event)" styleClass="ml-2">Set from Brussels HQ</ux-button>
+              <ux-button isOutline=true isSmall=true (click)="onTimePrimaryFromBrowserClick($event)" styleClass="ml-2">Set from local timezone</ux-button>
+            </div>
+            <ux-control-feedback *ngIf="form.get('primary').touched && form.get('primary').invalid" typeClass="danger">
+              This field is required
+            </ux-control-feedback>
+          </ux-form-group>
+        </div>
+        <div [class.has-danger]="form.get('secondary').touched && form.get('secondary').invalid">
+          <ux-form-group label="Secondary time" [isRequired]="true">
+            <div class="flex-container align-items-center">
+              <select class="custom-select" formControlName="secondary">
+                <option></option>
+                <option *ngFor="let t of timezones; trackBy: trackByFn" value="{{t.name}}">{{t.desc}}</option>
+              </select>
+              <ux-button isOutline=true isSmall=true (click)="onTimeSecondaryFromHQClick($event)" styleClass="ml-2">Set from Brussels HQ</ux-button>
+              <ux-button isOutline=true isSmall=true (click)="onTimeSecondaryFromBrowserClick($event)" styleClass="ml-2">Set from local timezone</ux-button>
+            </div>
+            <ux-control-feedback *ngIf="form.get('secondary').touched && form.get('secondary').invalid" typeClass="danger">
+              This field is required
+            </ux-control-feedback>
+          </ux-form-group>
+        </div>
+      </ux-fieldset>
+
+      <!-- NOTIFICATIONS -->
+      <ux-fieldset label="Notifications" typeClass="primary" iconClass="fa fa-bell-o" isVerticalFields=true styleClass="mt-5">
+        <ux-form-group label="Pull frequency" [isRequired]="!preferences?.notifications.isActive">
+          <div class="flex-container align-items-center">
+            <ux-form-control formControlName="notificationsPullFrequency"
+                             [isSelect]="true"
+                             [isDisabled]="preferences?.notifications.isActive"
+                             [selectOptions]="notificationOptions"
+                             validationErrorMessage="This field is required">
+            </ux-form-control>
+            <div class="row ml-2">
+              <div class="flex-container">
+                <ux-switch formControlName="notificationsState" isSmall=true [isChecked]="preferences?.notifications.isActive" (toggle)="onNotificationsStateToggle($event)" styleClass="mr-2"></ux-switch>
+                Turn off
+              </div>
+              <small class="ux-u-color-grey mt-1">Mute notifications</small>
+            </div>
+          </div>
+        </ux-form-group>
+      </ux-fieldset>
+
+
+      <!-- UX & ACCESSIBILITY -->
+      <!-- <ux-fieldset label="User Experience & Accessibility" typeClass="primary" iconClass="ion ion-android-options" isVerticalFields=true styleClass="mt-5">
+
+          <ux-form-group label="<strong>Accessible Rich Internet Applications (ARIA)</strong>" isRenderHTML=true>
+              <div class="row m-2">
+                  <ux-switch formControlName="ariaEnabled" isSmall=true [isChecked]="isAriaEnabled" (click)="toggleAriaEnabled($event)"></ux-switch>
+                  <span class="ml-2">Enable ARIA</span>
+                  <span class="ml-2"><small class="ux-u-color-grey ml-1">more accessible features to people with disabilities</small></span>
+              </div>
+          </ux-form-group>
+
+          <ux-form-group label="<strong>Color-blind & High contrast color template's filters</strong>" isRenderHTML=true>
+              <div class="row m-2">
+                  <ux-switch formControlName="colorFilter1" isSmall=true [isChecked]="isColorFilter1" (click)="toggleColorFilter(1)"></ux-switch>
+                  <span class="ml-2">Protanopia</span>
+                  <span class="ml-2"><small class="ux-u-color-grey ml-1">red/green color blindness; anomalous red cones</small></span>
+              </div>
+              <div class="row m-2">
+                  <ux-switch formControlName="colorFilter2" isSmall=true [isChecked]="isColorFilter2" (click)="toggleColorFilter(2)"></ux-switch>
+                  <span class="ml-2">Deutanopia</span>
+                  <span class="ml-2"><small class="ux-u-color-grey ml-1">red/green color blindness; anomalous green cones</small></span>
+              </div>
+              <div class="row m-2">
+                  <ux-switch formControlName="colorFilter3" isSmall=true [isChecked]="isColorFilter3" (click)="toggleColorFilter(3)"></ux-switch>
+                  <span class="ml-2">Tritanopia</span>
+                  <span class="ml-2"><small class="ux-u-color-grey ml-1">blue/yellow color blindness; anomalous blue cones</small></span>
+              </div>
+              <div class="row m-2">
+                  <ux-switch formControlName="colorFilter4" isSmall=true [isChecked]="isColorFilter4" (click)="toggleColorFilter(4)"></ux-switch>
+                  <span class="ml-2">Greyscale/achromatopsia</span>
+                  <span class="ml-2"><small class="ux-u-color-grey ml-1">suitable for all forms of color blindness</small></span>
+              </div>
+              <div class="row m-2">
+                  <ux-switch formControlName="colorFilter5" isSmall=true [isChecked]="isColorFilter5" (click)="toggleColorFilter(5)"></ux-switch>
+                  <span class="ml-2">High-contrast</span>
+                  <span class="ml-2"><small class="ux-u-color-grey ml-1">suitable for outdoors with high level of sun radiations</small></span>
+              </div>
+          </ux-form-group>
+
+      </ux-fieldset> -->
+
+    </form>
+  </uxModalBody>
+
+  <uxModalFooter>
+    <ux-layout-horizontal>
+      <uxLayoutHorizontalRight>
+        <ux-button typeClass="secondary" (click)="onClose($event)">Close</ux-button>
+        <ux-button typeClass="primary" (click)="onSave($event)" styleClass="ml-2">Save</ux-button>
+      </uxLayoutHorizontalRight>
+    </ux-layout-horizontal>
+  </uxModalFooter>
+
+</ux-modal>

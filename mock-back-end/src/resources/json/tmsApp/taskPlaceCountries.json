@@ -1,0 +1,267 @@
+[
+  {
+    "id": 51,
+    "name": "Albania",
+    "applications": null
+  },
+  {
+    "id": 78,
+    "name": "Algeria",
+    "applications": null
+  },
+  {
+    "id": 76,
+    "name": "Armenia",
+    "applications": null
+  },
+  {
+    "id": 100,
+    "name": "Austria",
+    "applications": null
+  },
+  {
+    "id": 75,
+    "name": "Azerbaijan",
+    "applications": null
+  },
+  {
+    "id": 74,
+    "name": "Belarus",
+    "applications": null
+  },
+  {
+    "id": 101,
+    "name": "Belgium",
+    "applications": null
+  },
+  {
+    "id": 52,
+    "name": "Bosnia and Herzegovina",
+    "applications": null
+  },
+  {
+    "id": 1,
+    "name": "Bulgaria",
+    "applications": null
+  },
+  {
+    "id": 53,
+    "name": "Croatia",
+    "applications": null
+  },
+  {
+    "id": 11,
+    "name": "Cyprus",
+    "applications": null
+  },
+  {
+    "id": 2,
+    "name": "Czech Republic",
+    "applications": null
+  },
+  {
+    "id": 102,
+    "name": "Denmark",
+    "applications": null
+  },
+  {
+    "id": 81,
+    "name": "Egypt",
+    "applications": null
+  },
+  {
+    "id": 3,
+    "name": "Estonia",
+    "applications": null
+  },
+  {
+    "id": 104,
+    "name": "France",
+    "applications": null
+  },
+  {
+    "id": 73,
+    "name": "Georgia",
+    "applications": null
+  },
+  {
+    "id": 105,
+    "name": "Germany",
+    "applications": null
+  },
+  {
+    "id": 106,
+    "name": "Greece",
+    "applications": null
+  },
+  {
+    "id": 4,
+    "name": "Hungary",
+    "applications": null
+  },
+  {
+    "id": 156,
+    "name": "Iceland",
+    "applications": null
+  },
+  {
+    "id": 107,
+    "name": "Ireland",
+    "applications": null
+  },
+  {
+    "id": 83,
+    "name": "Israel",
+    "applications": null
+  },
+  {
+    "id": 108,
+    "name": "Italy",
+    "applications": null
+  },
+  {
+    "id": 85,
+    "name": "Jordan",
+    "applications": null
+  },
+  {
+    "id": 56,
+    "name": "Kosovo",
+    "applications": null
+  },
+  {
+    "id": 5,
+    "name": "Latvia",
+    "applications": null
+  },
+  {
+    "id": 84,
+    "name": "Lebanon",
+    "applications": null
+  },
+  {
+    "id": 87,
+    "name": "Libya",
+    "applications": null
+  },
+  {
+    "id": 6,
+    "name": "Lithuania",
+    "applications": null
+  },
+  {
+    "id": 109,
+    "name": "Luxemburg",
+    "applications": null
+  },
+  {
+    "id": 13,
+    "name": "Malta",
+    "applications": null
+  },
+  {
+    "id": 72,
+    "name": "Moldova",
+    "applications": null
+  },
+  {
+    "id": 58,
+    "name": "Montenegro",
+    "applications": null
+  },
+  {
+    "id": 77,
+    "name": "Morocco",
+    "applications": null
+  },
+  {
+    "id": 54,
+    "name": "North Macedonia",
+    "applications": null
+  },
+  {
+    "id": 82,
+    "name": "Palestine",
+    "applications": null
+  },
+  {
+    "id": 7,
+    "name": "Poland",
+    "applications": null
+  },
+  {
+    "id": 111,
+    "name": "Portugal",
+    "applications": null
+  },
+  {
+    "id": 8,
+    "name": "Romania",
+    "applications": null
+  },
+  {
+    "id": 57,
+    "name": "Serbia",
+    "applications": null
+  },
+  {
+    "id": 55,
+    "name": "Serbia and Montenegro",
+    "applications": null
+  },
+  {
+    "id": 9,
+    "name": "Slovak Republic",
+    "applications": null
+  },
+  {
+    "id": 10,
+    "name": "Slovenia",
+    "applications": null
+  },
+  {
+    "id": 112,
+    "name": "Spain",
+    "applications": null
+  },
+  {
+    "id": 103,
+    "name": "Suomi Finland",
+    "applications": null
+  },
+  {
+    "id": 113,
+    "name": "Sweden",
+    "applications": null
+  },
+  {
+    "id": 86,
+    "name": "Syria",
+    "applications": null
+  },
+  {
+    "id": 110,
+    "name": "The Netherlands",
+    "applications": null
+  },
+  {
+    "id": 79,
+    "name": "Tunisia",
+    "applications": null
+  },
+  {
+    "id": 12,
+    "name": "Turkey",
+    "applications": null
+  },
+  {
+    "id": 71,
+    "name": "Ukraine",
+    "applications": null
+  },
+  {
+    "id": 114,
+    "name": "United Kingdom",
+    "applications": null
+  }
+]

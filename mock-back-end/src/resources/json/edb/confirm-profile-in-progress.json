@@ -1,0 +1,13 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "userToken": null,
+    "status": 2,
+    "passwordHashAlg": null,
+    "autoValidationData": null,
+    "autoValidationDate": "23/11/2020",
+    "emailVerified": false
+  }
+}

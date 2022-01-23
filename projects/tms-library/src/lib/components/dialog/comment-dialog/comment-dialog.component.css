@@ -1,0 +1,30 @@
+.btn {
+  padding: 4px 12px 4px 12px;
+}
+
+.btn-toolbar-text {
+  line-height: 22px;
+}
+
+.btn-split {
+  margin-right: 10px;
+}
+
+.modal-body {
+  padding-bottom: 0;
+  width: 300px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.label {
+  color: rgb(0, 0, 0);
+  padding-left: 0;
+  padding-right: 5px;
+  text-align: left;
+}

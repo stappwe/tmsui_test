@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "borbata",
+    "firstName": "Tatjana",
+    "familyName": "BORBAS",
+    "backupUserId": "bowenda"
+  },
+  {
+    "userId": "bowenda",
+    "firstName": "Scott",
+    "familyName": "BOWEN",
+    "backupUserId": ""
+  },
+  {
+    "userId": "pettili",
+    "firstName": "Lionello",
+    "familyName": "PETTINELLI",
+    "backupUserId": ""
+  },
+  {
+    "userId": "todorla",
+    "firstName": "Lazar",
+    "familyName": "TODOROV",
+    "backupUserId": ""
+  }
+]

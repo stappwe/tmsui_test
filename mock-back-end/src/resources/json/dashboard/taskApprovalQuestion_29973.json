@@ -1,0 +1,219 @@
+{
+  "project": "REGIO",
+  "taskId": 29973,
+  "lastWorkflowStep": 104,
+  "allowedWorkflowActions": [106,107],
+  "commentStatus": 1,
+  "questionList": [
+    {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Are the countries benefiting from the proposed action eligible?",
+      "order" : 1,
+      "key" : 34,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Does the application concern the cohesion policy?",
+      "order" : 2,
+      "key" : 35,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Is the applicant eligible? (ERDF/CF management and control bodies, - other bodies eligible only under duly justified cases)",
+      "order" : 3,
+      "key" : 36,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Are the targeted participants the relevant ones?",
+      "order" : 4,
+      "key" : 37,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Is there an added value for TAIEX-REGIO PEER 2 PEER assistance?",
+      "order" : 5,
+      "key" : 38,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Does the action come at the right time?",
+      "order" : 6,
+      "key" : 39,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Is it ensured that there is no overlap/duplication with on-going or previous assistance?",
+      "order" : 7,
+      "key" : 40,
+      "value": 2,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : 1,
+      "label" : "Is the request well-defined, well-justified and feasible?",
+      "order" : 8,
+      "key" : 41,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    },
+    {
+      "controlType": "Info",
+      "label": "Have the interested parties given there support?",
+      "order": 9,
+      "key": -1
+    },
+    {
+      "controlType": "Consultation",
+      "key": 17,
+      "label": "DG",
+      "value": null,
+      "order": 10,
+      "selectionType": 1,
+      "textValue": "",
+      "groupValue": [27],
+      "groupList": [
+        {
+          "id" : 1,
+          "name" : "AGRI"
+        }, {
+          "id" : 2,
+          "name" : "BUDG"
+        }, {
+          "id" : 3,
+          "name" : "CLIMA"
+        }, {
+          "id" : 4,
+          "name" : "COMM"
+        }, {
+          "id" : 5,
+          "name" : "CNECT"
+        }, {
+          "id" : 6,
+          "name" : "COMP"
+        }, {
+          "id" : 7,
+          "name" : "ECFIN"
+        }, {
+          "id" : 8,
+          "name" : "EAC"
+        }, {
+          "id" : 9,
+          "name" : "EMPL"
+        }, {
+          "id" : 10,
+          "name" : "ENER"
+        }, {
+          "id" : 11,
+          "name" : "ELARG"
+        }, {
+          "id" : 12,
+          "name" : "ENTR"
+        }, {
+          "id" : 13,
+          "name" : "ENV"
+        }, {
+          "id" : 14,
+          "name" : "DEVCO"
+        }, {
+          "id" : 15,
+          "name" : "ESTAT"
+        }, {
+          "id" : 16,
+          "name" : "SANTE"
+        }, {
+          "id" : 17,
+          "name" : "HOME"
+        }, {
+          "id" : 18,
+          "name" : "ECHO"
+        }, {
+          "id" : 19,
+          "name" : "HR"
+        }, {
+          "id" : 20,
+          "name" : "DIGIT"
+        }, {
+          "id" : 21,
+          "name" : "GROW"
+        }, {
+          "id" : 22,
+          "name" : "SCIC"
+        }, {
+          "id" : 23,
+          "name" : "JRC"
+        }, {
+          "id" : 24,
+          "name" : "JUST"
+        }, {
+          "id" : 25,
+          "name" : "MARE"
+        }, {
+          "id" : 26,
+          "name" : "MOVE"
+        }, {
+          "id" : 27,
+          "name" : "REGIO"
+        }, {
+          "id" : 28,
+          "name" : "RTD"
+        }, {
+          "id" : 29,
+          "name" : "SG"
+        }, {
+          "id" : 30,
+          "name" : "FPI"
+        }, {
+          "id" : 31,
+          "name" : "TAXUD"
+        }, {
+          "id" : 32,
+          "name" : "TRADE"
+        }, {
+          "id" : 33,
+          "name" : "DGT"
+        }, {
+          "id" : 34,
+          "name" : "FISMA"
+        }
+      ]
+    },
+    {
+      "controlType": "Consultation",
+      "key": 18,
+      "label": "Other",
+      "value": null,
+      "order": 11,
+      "selectionType": 2,
+      "textValue": "",
+      "groupValue": null,
+      "groupList": null
+    }
+  ],
+  "teamLeader": "Helén LARSSON",
+  "tlComment": "",
+  "decision": 0,
+  "finalComment": "",
+  "applicationFormUrl": "https://webgate.acceptance.ec.europa.eu/Twinning/getAppFormDocument/originalRequest?Authorization=eyJhbGciOiJIUzI1NiJ9.eyJ0ZUlEIjoiMyIsInRJRCI6IjI5NzcxIiwidGltZXN0YW1wIjoiMTU4NDM2NzUzODUyNyJ9.sgNyUmiD795wHGlepHZkRKUBeHaPjgDNqcdx2pk86YQ"
+}

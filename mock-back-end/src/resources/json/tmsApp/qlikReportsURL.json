@@ -1,0 +1,8 @@
+{
+  "qlikSingleEvaluationURL": "https://webgate.acceptance.ec.europa.eu/europeaid/reporting/sense/app/753704db-9117-4888-b56b-746adb8dc7ab/sheet/4db84869-823e-4baf-aacf-3b64db198242/select/EVENTID/",
+  "qlikEvaluationURL": "https://webgate.acceptance.ec.europa.eu/europeaid/reporting/sense/app/382043cb-9caa-4e3a-8c38-859381043063/sheet/4db84869-823e-4baf-aacf-3b64db198242/state/analysis",
+  "qlikFinancialURL": "https://webgate.acceptance.ec.europa.eu/europeaid/reporting/sense/app/3acaefcc-2fc2-4e72-be01-38c641f0f0a7/sheet/4db84869-823e-4baf-aacf-3b64db198242/state/analysis",
+  "qlikEDBURL": "https://webgate.acceptance.ec.europa.eu/europeaid/reporting/sense/app/c66f2b8a-6183-4781-a034-fcf0152817e0/sheet/1e51862f-6dea-4b2a-9238-35d8b57c08d9/state/analysis",
+  "qlikTMSOverviewURL": "https://webgate.acceptance.ec.europa.eu/europeaid/reporting/sense/app/6ce1f47a-33c5-4adf-9fc6-02bdf37a62aa/sheet/4db84869-823e-4baf-aacf-3b64db198242/state/analysis",
+  "qlikTwinningURL": "https://webgate.acceptance.ec.europa.eu/europeaid/reporting/sense/app/3286e2fc-9871-4101-acbb-b65c43d29983/sheet/4120af33-cb84-43f4-b6cc-9073f75f4996/state/analysis"
+}

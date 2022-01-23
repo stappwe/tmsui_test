@@ -1,0 +1,25 @@
+{
+  "userId": "raimlel",
+  "firstName": "Elo",
+  "familyName": "RAIMLA",
+  "email": "Elo.RAIMLA@ec.europa.eu",
+  "phone": "81334",
+  "active": true,
+  "tms": {
+    "roles": null,
+    "userCategory": 0,
+    "activeRole": 0,
+    "defaultRole": 0,
+    "visibleAsUserList": null,
+    "backupUserId": null
+  },
+  "twinning": {
+    "roles": null,
+    "userCategory": 0,
+    "activeRole": 0,
+    "defaultRole": 0,
+    "visibleAsUserList": null,
+    "backupUserId": null
+  },
+  "applicationAccess": []
+}

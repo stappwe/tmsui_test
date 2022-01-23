@@ -1,0 +1,61 @@
+<ux-modal id="about-modal"
+          titleLabel="About TMS"
+          [isFooterCustomAlignment]="true" [isVisible]="true">
+
+  <uxModalBody>
+    <div class="row ml-1 mb-3">
+      <p>
+        TMS - TAIEX Management System is the OPERATIONAL WORKFLOW TOOL to administer the organisation of the organised event...
+      </p>
+      <p>
+        Application form info...
+        <a href="https://webgate.ec.europa.eu/TMSWebRestrict/applicationForm" target="_blank">
+          Application form<span class="fa fa-external-link ux-u-color-grey ux-u-font-size-h6 ml-2"></span>
+        </a><br>
+      </p>
+      <p>
+        Expert datebase info...
+        <a href="https://webgate.ec.europa.eu/TMSWebRestrict/ExpertDatabase#/register" target="_blank">
+          TAIEX Expert Database<span class="fa fa-external-link ux-u-color-grey ux-u-font-size-h6 ml-2"></span>
+        </a><br>
+      </p>
+    </div>
+
+    <ux-panels>
+      <ux-panel label="More information" iconClass="fa fa-info-circle" iconTypeClass="primary">
+        <div class="row">
+          <div class="col-md-12 page-sub-title ux-u-font-size-h4 text-center">
+            <ux-badge [isPill]="true" [isSmall]="true" [isOutline]="true" typeClass="danger mr-2">
+              Access
+            </ux-badge>
+            <a href="https://ec.europa.eu/neighbourhood-enlargement/contact_en" target="_blank">
+              TAIEX group<span class="fa fa-external-link ux-u-color-grey ux-u-font-size-h6 ml-2"></span>
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 page-sub-title ux-u-font-size-h5 text-center">
+            <span class="fa fa-envelope-o mr-2"></span>
+            <a href="mailto:near-taiex@ec.europa.eu?subject=About TMS">near-taiex@ec.europa.eu</a><br/>
+          </div>
+        </div>
+      </ux-panel>
+
+      <ux-panel label="Versions and dependencies" iconClass="fa fa-cubes" iconTypeClass="primary" tagLabel="{{appInfos}}" tagTypeClass="success" [isExpandable]="false">
+        <p style="display: none; white-space: pre-line;">
+          <strong>Dependencies</strong><br>
+          {{modulesVersions}}
+        </p>
+      </ux-panel>
+    </ux-panels>
+  </uxModalBody>
+
+  <uxModalFooter>
+    <ux-layout-horizontal>
+      <uxLayoutHorizontalRight>
+        <ux-button isOutline=true (click)="onClose($event)">Close</ux-button>
+      </uxLayoutHorizontalRight>
+    </ux-layout-horizontal>
+  </uxModalFooter>
+
+</ux-modal>

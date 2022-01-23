@@ -1,0 +1,10 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "assets": [
+      { "include":  "../config/localhost.yml", "outDir": "dist_localhost/config", "watchAssets": true },
+      { "include":  "../config/localhost/IISNode.yml", "outDir": "dist_localhost", "watchAssets": true }
+    ]
+  }
+}

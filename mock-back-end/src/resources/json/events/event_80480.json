@@ -1,0 +1,144 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "eventId": 80480,
+    "motherEventId": 80480,
+    "seriesFirstEventId": null,
+    "ofStatus": "Y",
+    "workflowStepsDone": [
+      1,
+      21,
+      20,
+      3,
+      23,
+      24,
+      37,
+      9,
+      12,
+      33,
+      34
+    ],
+    "eventAddCorr": 0,
+    "eventName": "TCc Cooperation platform",
+    "eventNameFR": null,
+    "taiexContractor": {
+      "id": 8,
+      "name": "TAIEX - 8",
+      "startDate": "2020-08-01T00:00:00.000Z",
+      "endDate": "2024-07-31T23:59:59.000Z"
+    },
+    "eventType": {
+      "id": 94,
+      "name": "PROC",
+      "eventCategoryId": 5
+    },
+    "taskId": 31625,
+    "euLegislation": {
+      "_items": [
+        {
+          "id": 11743839,
+          "description": "All acquis",
+          "parentid": 0,
+          "chapterKeywords": [],
+          "ticked": false,
+          "coverageLevel": 1,
+          "order": 470
+        }
+      ]
+    },
+    "keywords": [
+      469
+    ],
+    "eventDates": {
+      "startDate": "2021-02-26T01:00:00.000Z",
+      "endDate": "2022-03-31T23:00:00.000Z"
+    },
+    "project": {
+      "id": 4,
+      "name": "TCC"
+    },
+    "beneficiaryCountryList": [
+      {
+        "id": 14,
+        "name": "Turkish Cypriot community",
+        "startDate": "2020-08-01T00:00:00.000Z",
+        "endDate": "2024-07-31T23:59:59.000Z"
+      }
+    ],
+    "evalCorrEmail": null,
+    "countryEventPlace": {
+      "id": 512,
+      "name": "EU Institution"
+    },
+    "cityList": [
+      {
+        "id": 1781201,
+        "name": "Brussels"
+      }
+    ],
+    "ibuCaseHandler": {
+      "id": "ilieslu",
+      "name": "DUSSART ILIES Luca",
+      "email": "Luca.DUSSART-ILIES@ec.europa.eu",
+      "phone": "+32 229-51896",
+      "type": 1
+    },
+    "coCaseHandler": {
+      "id": "n004bir9",
+      "name": "Margaux Rossignol",
+      "email": "margaux.rossignol@cecoforma.com",
+      "phone": "003243403183",
+      "type": 5
+    },
+    "ticketCoCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 21
+    },
+    "accountCoCaseHandler": {
+      "id": null,
+      "name": " ",
+      "email": null,
+      "phone": null,
+      "type": 10
+    },
+    "createDate": "2021-01-08T06:57:48.000Z",
+    "lastChanged": "2021-03-01T12:52:22.000Z",
+    "ofSubmissionDate": "2021-03-01T00:00:00.000Z",
+    "invoicePeriod": null,
+    "contractorEventRemarks": null,
+    "ofComments": null,
+    "cancelledEvent": false,
+    "visibleOnTaiex": false,
+    "hasToBePublished": false,
+    "hiddenOnESE": true,
+    "evaluationRequired": true,
+    "webFolderLocked": false,
+    "taiexStrategic": false,
+    "allowedWorkflowActions": [],
+    "commentStatus": 2,
+    "contractorReportStatus": null,
+    "eventStatus": "AF is signed. OF is Signed. \\nEDB Status: 0",
+    "summary": {
+      "participants": null,
+      "coffeBreaks": 0,
+      "lunches": 0,
+      "dinners": 0,
+      "waters": 0,
+      "totalCost": 17368,
+      "contingency": 0,
+      "balance": 0,
+      "contractorFee": 0,
+      "contractorFeeAdditional": 1000
+    },
+    "blankChecklistURL": null,
+    "externalRequestId": "19AT33,20AT33",
+    "evaluationImpactFeedbackResultURL": "https://google.com",
+    "paymentFileURL": null,
+    "implementationType": 1
+  }
+}

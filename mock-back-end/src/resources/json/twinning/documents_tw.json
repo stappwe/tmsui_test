@@ -1,0 +1,41 @@
+[
+  {
+    "id": 12543,
+    "templateId": 104,
+    "name": "Addenda.docx",
+    "size": 136192,
+    "lastModified": "2016-09-06T00:00:00.000Z",
+    "permission": 1
+  },
+  {
+    "id": 65123,
+    "templateId": 125,
+    "name": "Proposal.pdf",
+    "size": 136192,
+    "lastModified": "2016-09-06T00:00:00.000Z",
+    "permission": 1
+  },
+  {
+    "id": 334223,
+    "templateId": 103,
+    "name": "contractDetails.pdf",
+    "size": 75392,
+    "lastModified": "2016-06-29T10:54:00.000Z",
+    "permission": 1
+  },
+  {
+    "id": 124364,
+    "templateId": 126,
+    "name": "conclusions.pdf",
+    "size": 75392,
+    "lastModified": "2016-06-29T10:54:00.000Z",
+    "permission": 7
+  },
+  {
+    "id": 643122,
+    "templateId": 99,
+    "url": "https://ec.europa.eu/energy/sites/ener/files/documents/20160713%20draft_publication_REF2016_v13.pdf",
+    "lastModified": "2016-09-06T09:44:00.000Z",
+    "permission": 1
+  }
+]

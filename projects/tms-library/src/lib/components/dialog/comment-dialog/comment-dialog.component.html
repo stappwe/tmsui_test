@@ -1,0 +1,26 @@
+<form role="form" [formGroup]="commentDialog" *ngIf="(commentDialog !== undefined)">
+  <div class="modal-header" fxLayout="row">
+    <h4 class="modal-title">{{ caption }}</h4>
+    <button type="button" class="btn btn-icon btn-secondary" (click)="onCancel()">
+      <span class="fa fa-times btn-close" fxLayoutAlign="end" aria-label="Close" aria-hidden="true"></span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <div class="label" [safeHtml]="additionalMessage" *ngIf="additionalMessage !== ''"></div>
+    <label-input [labelText]="labelText" [labelAlign]="'Top'" [labelClass]="'col-sm-12 no-left-padding'" [contentClass]="'col-sm-12'">
+      <textarea-with-size type="text" formControlName="comment" [autosize]="true"
+                          [class]="'col-sm-12 no-padding'" [showSizeInfo]="true" [maxBytes]="size"></textarea-with-size>
+      <div [hidden]="commentDialog.controls['comment'].valid || commentDialog.controls['comment'].pristine" class="error-message textarea-with-size-error">
+        <div *ngIf="commentDialog.controls['comment'].hasError('invalidMaxByteSize')">{{ 'general.validation.maxExceeded' | translate }}</div>
+        <div *ngIf="commentDialog.controls['comment'].hasError('required')">{{ 'general.validation.required' | translate }}</div>
+      </div>
+    </label-input>
+    <div class="label h8" [safeHtml]="warningMessage" *ngIf="warningMessage !== ''"></div>
+  </div>
+  <div class="modal-footer">
+    <div fxLayout="row" fxLayoutAlign="end">
+      <button type="button" class="btn btn-primary btn-toolbar-text btn-split" (click)="onCancel()">{{ captionCancelBtn }}</button>
+      <button type="button" class="btn btn-primary btn-toolbar-text" (click)="onOk()" [disabled]="!commentDialog.valid">{{ captionOkBtn }}</button>
+    </div>
+  </div>
+</form>

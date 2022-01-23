@@ -1,0 +1,153 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "eventId": 80659,
+        "participantId": 1003962,
+        "personId": 630706,
+        "formalTitle": "Mr",
+        "firstName": "Norayr",
+        "familyName": "Abgaryan",
+        "position": "Deputy Head of Unit",
+        "supplierId": 261718,
+        "supplierName": "Police Headquarters of Armenia"
+      },
+      {
+        "eventId": 80688,
+        "participantId": 1004316,
+        "personId": 631019,
+        "formalTitle": "Ms",
+        "firstName": "Ruzanna",
+        "familyName": "Bagsdasaryan",
+        "position": "Adviser on Police Development",
+        "supplierId": 249966,
+        "supplierName": "OSCE"
+      },
+      {
+        "eventId": 80015,
+        "participantId": 1003674,
+        "personId": 326576,
+        "formalTitle": "Mr",
+        "firstName": "Stephane",
+        "familyName": "Dekerle",
+        "position": "Colonel / Analyst",
+        "supplierId": 381781,
+        "supplierName": "Ministère de l'Intérieur"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003963,
+        "personId": 630707,
+        "formalTitle": "Mr",
+        "firstName": "Ara",
+        "familyName": "Fidanyan",
+        "position": "Deputy Chief",
+        "supplierId": 261718,
+        "supplierName": "Police Headquarters of Armenia"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003957,
+        "personId": 630701,
+        "formalTitle": "Mr",
+        "firstName": "Armen",
+        "familyName": "Ghazaryan",
+        "position": "Head of Service",
+        "supplierId": 245012,
+        "supplierName": "Migration Service"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003958,
+        "personId": 630702,
+        "formalTitle": "Ms",
+        "firstName": "Kristinne",
+        "familyName": "Grigoryan",
+        "position": "Deputy Minister",
+        "supplierId": 306226,
+        "supplierName": "Ministry of Justice"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003959,
+        "personId": 630703,
+        "formalTitle": "Ms",
+        "firstName": "Amalya",
+        "familyName": "Hovsepyan",
+        "position": "Coordinating Advisor",
+        "supplierId": 306226,
+        "supplierName": "Ministry of Justice"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003964,
+        "personId": 630708,
+        "formalTitle": "Mr",
+        "firstName": "Armen",
+        "familyName": "Mkrtchyan",
+        "position": "Head of HQ",
+        "supplierId": 261718,
+        "supplierName": "Police Headquarters of Armenia"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003965,
+        "personId": 630709,
+        "formalTitle": "Ms",
+        "firstName": "Irina",
+        "familyName": "Mkrtchyan",
+        "position": "Head of Unit",
+        "supplierId": 261718,
+        "supplierName": "Police Headquarters of Armenia"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003961,
+        "personId": 630705,
+        "formalTitle": "Mr",
+        "firstName": "Bjorne Tore",
+        "familyName": "Saltvik",
+        "position": "Adviser on Police Development and Reform",
+        "supplierId": 249966,
+        "supplierName": "OSCE"
+      },
+      {
+        "eventId": 80015,
+        "participantId": 1002905,
+        "personId": 540233,
+        "formalTitle": "Mr",
+        "firstName": "Lauri",
+        "familyName": "Tabur",
+        "position": "Expert on Public Administration and law enforcement reform",
+        "supplierId": 381429,
+        "supplierName": "Estonian Center of Eastern Partnership"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003966,
+        "personId": 630710,
+        "formalTitle": "Mr",
+        "firstName": "Hrant",
+        "familyName": "Torosyan",
+        "position": "Head of Unit",
+        "supplierId": 261718,
+        "supplierName": "Police Headquarters of Armenia"
+      },
+      {
+        "eventId": 80659,
+        "participantId": 1003960,
+        "personId": 630704,
+        "formalTitle": "Mr",
+        "firstName": "Nerses",
+        "familyName": "Zeynalyan",
+        "position": "Assistant to Minister",
+        "supplierId": 306226,
+        "supplierName": "Ministry of Justice"
+      }
+    ],
+    "rowCount": 13
+  }
+}

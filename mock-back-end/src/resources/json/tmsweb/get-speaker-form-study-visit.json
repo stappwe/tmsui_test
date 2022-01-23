@@ -1,0 +1,348 @@
+{
+  "personId": 497761,
+  "firstName": "Neringa",
+  "familyName": "Vilutyte",
+  "email": "neringa.vilutyte@apva.lt",
+  "privateEmail": null,
+  "mobilePhone": "+370 662 17877",
+  "formalAddressId": 2,
+  "supplierId": null,
+  "supplierName": null,
+  "street": null,
+  "city": "Vilnius",
+  "postalCode": "LT-01013",
+  "countryId": null,
+  "position": null,
+  "telephone": "+370 5 205 47 87",
+  "privateMobilePhone": null,
+  "privateTelephone": null,
+  "formType": 1,
+  "userType": 1,
+  "selectedNationality": {
+    "id": 6,
+    "countryName": "Lithuania",
+    "nationality": "Lithuanian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LT"
+  },
+  "selectedEmploymentStatus": {
+    "id": 1,
+    "description": "Public Official in Active service",
+    "abbreviation": "PO Active",
+    "options": 0
+  },
+  "selectedLanguages": [
+    {
+      "id": 106,
+      "abbreviation": "LT",
+      "description": "Lithuanian",
+      "visible": 1
+    },
+    {
+      "id": 111,
+      "abbreviation": "RU",
+      "description": "Russian",
+      "visible": 1
+    },
+    {
+      "id": 4,
+      "abbreviation": "ES",
+      "description": "Spanish",
+      "visible": 1
+    },
+    {
+      "id": 2,
+      "abbreviation": "DE",
+      "description": "German",
+      "visible": 1
+    },
+    {
+      "id": 1,
+      "abbreviation": "EN",
+      "description": "English",
+      "visible": 1
+    }
+  ],
+  "selectedTwCountry": null,
+  "employmentStatusComment": null,
+  "employmentStatusDate": null,
+  "password": null,
+  "institution": "Environmental Projects Management Agency under the Ministry of Environment of Lithuania",
+  "department": null,
+  "function": "Head of the Quality and Risk Management Section",
+  "street1": "Labdariu g. 3",
+  "street2": null,
+  "selectedCountry": {
+    "id": 6,
+    "countryName": "Lithuania",
+    "nationality": "Lithuanian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "LT"
+  },
+  "institutionType": 0,
+  "euLegislation": "32013R1303, \t32013R1300",
+  "cvSummary": "17 years in management of public environmental investments (European Regional Development Fund, Cohesion Fund and other EU and national funds):\n1. Coordinated measures to ensure efficient public administration and high working standards (activities of EPMA were recognised numerously as examples of good practices of public sector): \n▪\tProcess management (according LEAN system),\n▪\tHuman resource management / staff development,\n▪\tEffective project management (PMBOK and Agile),\n▪\tContinuous improvement,\n▪\tMonitoring of activities,\n▪\tSignificant improvement of employee engagement.\n2. Coordinated international cooperation activities. Worked as capacity building expert in the international programmes:\n▫\tEU TWINNING (Project Leader and Expert).\n▫\tEU TAIEX (Moderator and Expert)\n▫\tLithuanian Development Cooperation and Democracy Support (Project Leader and Expert).\n3. Developed the Management and Control System of the Agency as Intermediate Body of the European Regional Development Fund and the Cohesion Fund management system, covering:\n▪\tConsultations and training of applicants and contractors;\n▪\tEvaluation and selection of projects for funding;\n▪\tContract awards;\n▪\tMonitoring of project implementation;\n▪\tOn-the-spot checks;\n▪\tProcurement control;\n▪\tChecking payment requests and disbursement of funds;\n▪\tPrevention and investigation of irregularities;\n▪\tCommunication and publicity.\n4. Arranged advanced learning / training programmes:\n▪\tTraining needs assessment,\n▪\tPreparation of tailor made trainings,\n▪\tAdvanced interactive trainings, training simulations,\n▪\tCarrying out trainings for up to 350 people,\n▪\tOrganisation and moderation of national and international capacity building events.\n5. Coordinated on-the-spot checks of environmental projects.\n6. Arranged visibility measures.\n7. Coordinated cooperation with audits (national and EU).",
+  "expertFileName": "CV_Neringa_Vilutyte.pdf",
+  "expertCv": null,
+  "expertCvURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict//api/tmsweb/find-speakerform-cv?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIxIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NDEzODI5NTE2In0.r3Zs1rXtMTIhOdffhAcYZwWAWyoJXDOM6CnKeK4i76E",
+  "expertCvExtension": null,
+  "selectedChapters": [
+    {
+      "id": 11719268,
+      "description": "22 Regional policy and coordination of structural instruments [14]",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 263
+    },
+    {
+      "id": 11719466,
+      "description": "35 Other issues",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 469
+    },
+    {
+      "id": 11743849,
+      "description": "22.01 REGIO [14]",
+      "parentid": 11719268,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 264
+    },
+    {
+      "id": 11719273,
+      "description": "22.10 General principles, programmes and statistics [14.10]",
+      "parentid": 11719268,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 276
+    },
+    {
+      "id": 11719274,
+      "description": "22.20 European Regional Development Fund (ERDF) [14.20]",
+      "parentid": 11719268,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 277
+    },
+    {
+      "id": 11719275,
+      "description": "22.30 Monitoring and coordination of regional State aids [14.30]",
+      "parentid": 11719268,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 278
+    },
+    {
+      "id": 11719280,
+      "description": "22.50 Coordination of structural instruments [14.50]",
+      "parentid": 11719268,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 283
+    },
+    {
+      "id": 11719281,
+      "description": "22.60 Economic and social cohesion fund [14.60]",
+      "parentid": 11719268,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 284
+    },
+    {
+      "id": 11743842,
+      "description": "22.01.10 Programming cycle [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 265
+    },
+    {
+      "id": 11743843,
+      "description": "22.01.20 Thematic areas [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 266
+    },
+    {
+      "id": 11743844,
+      "description": "22.01.30 Horizontal areas [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 267
+    },
+    {
+      "id": 11743845,
+      "description": "22.01.40 Financial Instruments [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 268
+    },
+    {
+      "id": 11743846,
+      "description": "22.01.50 Integrated and territorial approaches [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 269
+    },
+    {
+      "id": 11743847,
+      "description": "22.01.60 European Territorial Cooperation  [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 270
+    },
+    {
+      "id": 11743848,
+      "description": "22.01.70 Other [14]",
+      "parentid": 11743849,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 271
+    }
+  ],
+  "selectedKeywords": [
+    457,
+    74,
+    66,
+    290,
+    348,
+    65,
+    240,
+    116,
+    246,
+    22,
+    350,
+    349,
+    405,
+    20,
+    241,
+    301,
+    352,
+    176,
+    237,
+    436,
+    434
+  ],
+  "status": 4,
+  "ncpValidate": 6,
+  "ncpComment": null,
+  "privateEmailInComm": false,
+  "expirationDate": 1605430254638,
+  "validationResultMessage": null,
+  "edbTwinning": [
+    {
+      "countryName": "Georgia",
+      "sector": "Environment",
+      "project": "“Strengthening sustainable development of forests in Georgia”",
+      "jobTitle": "MS - Component Leader",
+      "edbTwinningId": 2463,
+      "countryId": 73,
+      "sectorId": 3,
+      "jobTitleId": 9
+    },
+    {
+      "countryName": "North Macedonia",
+      "sector": "Environment",
+      "project": "“Strengthening the capacities for effective implementation of the acquis in the field of water quality”",
+      "jobTitle": "MS - Project Leader",
+      "edbTwinningId": 1721,
+      "countryId": 54,
+      "sectorId": 3,
+      "jobTitleId": 1
+    }
+  ],
+  "registrationId": 9721,
+  "encryptedId": "eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIxIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NDEzODI5NTE2In0.r3Zs1rXtMTIhOdffhAcYZwWAWyoJXDOM6CnKeK4i76E",
+  "eventName": "TAIEX-REGIO Study Visit on communication activities",
+  "eventTypeAbbr": "REGIO IND/STUD",
+  "eventId": 70469,
+  "eventStartDate": 1601535600000,
+  "eventCategoryId": 2,
+  "place": "",
+  "printUrl": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/speakerForm/print?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzIxIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNTk3NDEzODI5NTE2In0.r3Zs1rXtMTIhOdffhAcYZwWAWyoJXDOM6CnKeK4i76E",
+  "personAccount": {
+    "bankName": null,
+    "accountHolder": null,
+    "iban": null,
+    "originalIban": null,
+    "bic": null,
+    "confirm": null
+  },
+  "subsistanceAccount": {
+    "bankName": "test 1",
+    "accountHolder": "test 2",
+    "iban": "test 3",
+    "originalIban": null,
+    "bic": "test 4",
+    "confirm": null
+  },
+  "fax": null,
+  "speechTitle": null,
+  "codedString": null,
+  "result": null,
+  "caseHandlerEmail": "Thibault.CHARLET@ec.europa.eu",
+  "faaPaySupplier": false,
+  "perDiemPaySupplier": false,
+  "newRegistration": true,
+  "state": {
+    "logisticsFinished": false,
+    "completed": false,
+    "registered": false,
+    "valid": true
+  },
+  "participantTravelData": {
+    "travelBy": null,
+    "departureAirport": null,
+    "departureStation": null,
+    "earlyArrival": true,
+    "lateDeparture": true,
+    "requireAccommodation": null,
+    "comment": null
+  },
+  "limits": {},
+  "travelBy": null,
+  "comment": null,
+  "departure": null,
+  "studyVisit": true,
+  "requireAccommodation": null,
+  "breakOutSessionList": [
+    {
+      "id": 1,
+      "name": "Session 1 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 2,
+      "name": "Session 2 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 3,
+      "name": "Session 3 - Improve... 25/10 - 14h - 18h"
+    }
+  ],
+  "selectedBreakOutSessions": [1,2]
+}

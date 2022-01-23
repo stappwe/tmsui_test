@@ -1,0 +1,127 @@
+{
+  "personId": 582101,
+  "firstName": "expert",
+  "familyName": "icp",
+  "email": "werner.stappaerts@icp.be",
+  "privateEmail": null,
+  "mobilePhone": null,
+  "formalAddressId": 1,
+  "supplierId": null,
+  "supplierName": null,
+  "street1": "Svetosimunska 25",
+  "street2": null,
+  "city": "test",
+  "postalCode": "test",
+  "countryId": null,
+  "position": null,
+  "telephone": "159159",
+  "privateMobilePhone": null,
+  "privateTelephone": null,
+  "formType": 1,
+  "userType": 2,
+  "selectedNationality": {
+    "id": 101,
+    "countryName": "Belgium",
+    "nationality": "Belgian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BE"
+  },
+  "selectedEmploymentStatus": {
+    "id": 3,
+    "description": "Retired Public Official",
+    "abbreviation": "PO Retired",
+    "options": 1
+  },
+  "selectedLanguages": [
+    {
+      "id": 152,
+      "abbreviation": "BS",
+      "name": "Bosnian",
+      "visible": 1
+    },
+    {
+      "id": 201,
+      "abbreviation": "AR",
+      "name": "Arabic",
+      "visible": 1
+    }
+  ],
+  "selectedTwCountry": null,
+  "employmentStatusComment": null,
+  "employmentStatusDate": 1553641200000,
+  "password": null,
+  "institution": "test",
+  "department": null,
+  "function": null,
+  "selectedCountry": {
+    "id": 101,
+    "countryName": "Belgium",
+    "nationality": "Belgian",
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": 8,
+    "abbreviation": "BE"
+  },
+  "institutionType": 0,
+  "euLegislation": "test test",
+  "cvSummary": "test test",
+  "expertFileName": null,
+  "expertCv": null,
+  "expertCvURL": null,
+  "expertCvExtension": null,
+  "selectedInputChapters": [
+    {
+      "id": 11719052,
+      "description": "07 Intellectual property law [17.20]",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 47
+    },
+    {
+      "id": 11719120,
+      "description": "12 Food safety, veterinary and phytosanitary policy",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 115
+    },
+    {
+      "id": 11719121,
+      "description": "12.10 Approximation of laws and health measures [03.50]",
+      "parentid": 11719120,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 116
+    },
+    {
+      "id": 11719125,
+      "description": "12.10.40 Seeds and seedlings [03.50.40]",
+      "parentid": 11719121,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 120
+    }
+  ],
+  "selectedInputKeywords": [
+    {
+      "id": 330,
+      "description": "Chapter 07"
+    },
+    {
+      "id": 154,
+      "description": "Chapter 12"
+    }
+  ],
+  "status": 4,
+  "ncpValidate": 4,
+  "ncpComment": null,
+  "usePrivate": false,
+  "expirationDate": 1596692874179,
+  "validationResultMessage": null,
+  "edbTwinning": []
+}

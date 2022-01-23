@@ -1,0 +1,34 @@
+select.ng-valid {
+  border-left: 1px solid #ccc !important;
+}
+
+.label-content {
+  padding: 5px;
+}
+
+button[disabled] {
+  color: #c1c0c0;
+}
+
+button[disabled]:hover {
+  color: #c1c0c0;
+}
+
+.margin-bottom {
+  margin-bottom: 4px;
+}
+
+mat-form-field input {
+  border-radius: 0;
+}
+
+.ag-filter-apply-panel button.btn-secondary {
+  background-color: var(--eui-color-secondary);
+  border: 2px solid var(--eui-color-secondary);
+  color: var(--eui-color-primary);
+}
+
+.ag-filter-apply-panel button.btn-secondary:active {
+  border-color: var(--eui-color-primary-light);
+}
+

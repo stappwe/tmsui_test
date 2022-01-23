@@ -1,0 +1,537 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "evalSysPartId": 11,
+    "status": 0,
+    "languageCodes": "en,fr",
+    "defaultLanguage": "fr",
+    "form": [
+      {
+        "controlType": "FormTabs",
+        "order": 1,
+        "label": null,
+        "qId": 18001,
+        "key": "1",
+        "tabs": [
+          {
+            "controlType": "FormTab",
+            "order": 1,
+            "label": "Event",
+            "qId": 18100,
+            "key": "1_1",
+            "questionList": [
+              {
+                "controlType": "TextInfo",
+                "order": 1,
+                "label": "Evaluation Report",
+                "value": "Workshop - participant",
+                "labelLayout": 1,
+                "qId": 18110,
+                "key": "1_1_1"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 2,
+                "label": "Event",
+                "value": "TAIEX-REGIO Workshop on Conflict of Interest in the European Structural and Investment Funds",
+                "labelLayout": 1,
+                "qId": 18120,
+                "key": "1_1_2"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 3,
+                "label": "Event ID and Classification",
+                "value": "Event 69925 - REGIO - Workshop",
+                "labelLayout": 1,
+                "qId": 18130,
+                "key": "1_1_3"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 4,
+                "label": "Location and Date",
+                "value": "Bratislava, Slovak Republic - 25 Feb 2020",
+                "labelLayout": 1,
+                "qId": 18140,
+                "key": "1_1_4"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 5,
+                "label": "Beneficiary Institution",
+                "value": "Deputy Prime Minister's Office for Investments and Informatization",
+                "labelLayout": 1,
+                "qId": 18150,
+                "key": "1_1_5"
+              },
+              {
+                "controlType": "YesNo",
+                "order": 6,
+                "label": "Did I attend this event?",
+                "value": null,
+                "hint": "When you didn't attend, no feedback will be collected",
+                "required": true,
+                "labelLayout": 1,
+                "qId": 18160,
+                "key": "1_1_6"
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 2,
+            "label": "General evaluation",
+            "qId": 18200,
+            "key": "1_2",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "Was the workshop carried out according to the agenda?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 19030
+              },
+              {
+                "order": 2,
+                "label": "Was the programme well structured?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 19040
+              },
+              {
+                "order": 3,
+                "label": "Were the key issues related to the topics addressed?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 19050
+              },
+              {
+                "order": 4,
+                "label": "Did the workshop enable you to improve your knowledge?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 19060
+              },
+              {
+                "order": 5,
+                "label": "Was enough time allowed for questions and discussions?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 19070
+              },
+              {
+                "order": 7,
+                "label": "Do you expect any follow-up based on the results of the workshop (new initiative, new administrative approach, etc.)?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 19090
+              },
+              {
+                "order": 8,
+                "label": "Do you think that further TAIEX - REGIO PEER 2 PEER assistance is needed (workshop, expert mission, study visit, assessment mission) on the topic of this workshop?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 19100
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 3,
+            "label": "Speaker evaluation",
+            "qId": 18300,
+            "key": "1_3",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "How do you assess the quality of the speakers?",
+                "value": null,
+                "controlType": "TextInfo",
+                "labelLayout": 1,
+                "qId": 18310
+              },
+              {
+                "order": 2,
+                "label": "William Noppe",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 979653,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18320
+              },
+              {
+                "order": 3,
+                "label": "Radoslav Nedyalkov",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 980109,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18330
+              },
+              {
+                "order": 4,
+                "label": "Linda Pucena",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 980955,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18340
+              },
+              {
+                "order": 5,
+                "label": "Aleksejs Cekalovs",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 980923,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18350
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 4,
+            "label": "Logistics rating",
+            "qId": 18400,
+            "key": "1_4",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "Were you satisfied with the logistical arrangements, if applicable?",
+                "value": null,
+                "controlType": "TextInfo",
+                "labelLayout": 1,
+                "qId": 18410
+              },
+              {
+                "order": 2,
+                "label": "Conference venue",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18420
+              },
+              {
+                "order": 3,
+                "label": "Interpretation",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18430
+              },
+              {
+                "order": 4,
+                "label": "Hotel",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18440
+              },
+              {
+                "order": 5,
+                "label": "Flight",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18450
+              },
+              {
+                "order": 6,
+                "label": "Catering",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 18460
+              },
+              {
+                "controlType": "TextArea",
+                "order": 7,
+                "label": "General Comments and suggestions",
+                "value": null,
+                "hint": "Comment and suggestions on the event organization in general (content, accommodation, travel...)",
+                "required": false,
+                "fieldSize": 500,
+                "labelLayout": 1,
+                "qId": 18470
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

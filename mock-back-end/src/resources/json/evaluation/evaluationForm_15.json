@@ -1,0 +1,315 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "evalSysPartId": 15,
+    "status": 0,
+    "languageCodes": "en,fr",
+    "defaultLanguage": "fr",
+    "form": [
+      {
+        "controlType": "FormTabs",
+        "order": 1,
+        "label": null,
+        "qId": 22001,
+        "key": "1",
+        "tabs": [
+          {
+            "controlType": "FormTab",
+            "order": 1,
+            "label": "Event",
+            "qId": 22100,
+            "key": "1_1",
+            "questionList": [
+              {
+                "controlType": "TextInfo",
+                "order": 1,
+                "label": "Evaluation Report",
+                "value": "Study Visit - host",
+                "labelLayout": 1,
+                "qId": 22110,
+                "key": "1_1_1"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 2,
+                "label": "Event",
+                "value": "TAIEX-REGIO Study Visit on Application of State Aid Rules",
+                "labelLayout": 1,
+                "qId": 22120,
+                "key": "1_1_2"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 3,
+                "label": "Event ID and Classification",
+                "value": "Event 69724 - REGIO IND/STUD - Study Visit",
+                "labelLayout": 1,
+                "qId": 22130,
+                "key": "1_1_3"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 4,
+                "label": "Location and Date",
+                "value": "Rome, Italy - 15 - 17 Jan 2020",
+                "labelLayout": 1,
+                "qId": 22140,
+                "key": "1_1_4"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 5,
+                "label": "Beneficiary Institution",
+                "value": "Ministry of Finance of Latvia, State Aid Control Department. ",
+                "labelLayout": 1,
+                "qId": 22150,
+                "key": "1_1_5"
+              },
+              {
+                "controlType": "YesNo",
+                "order": 6,
+                "label": "Did I attend this event?",
+                "value": null,
+                "hint": "When you didn't attend, no feedback will be collected",
+                "required": true,
+                "labelLayout": 1,
+                "qId": 22160,
+                "key": "1_1_6"
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 2,
+            "label": "General evaluation",
+            "qId": 22200,
+            "key": "1_2",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "Did you receive all the information necessary for the preparation of the study visit? ",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23400
+              },
+              {
+                "order": 2,
+                "label": "Has the overall aim of the study visit been achieved? ",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23410
+              },
+              {
+                "order": 3,
+                "label": "Were the participants present throughout the scheduled study visit?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23420
+              },
+              {
+                "order": 4,
+                "label": "Was the beneficiary represented by the appropriate participants? ",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23430
+              },
+              {
+                "order": 5,
+                "label": "Did the participants actively take part in the discussions?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23440
+              },
+              {
+                "order": 6,
+                "label": "Do you expect that the beneficiary will undertake follow-up based on the results of the study visit (new initiative, new administrative approach etc.)?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 4,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 5,
+                    "name": "No"
+                  },
+                  {
+                    "id": 6,
+                    "name": "Do not know"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23450
+              },
+              {
+                "order": 7,
+                "label": "Do you think that the beneficiary needs further TAIEX - REGIO PEER 2 PEER assistance (workshop, expert mission, study visit, assessment mission) on the topic of this study visit?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23460
+              },
+              {
+                "order": 8,
+                "label": "Would you be ready to host other TAIEX - REGIO PEER 2 PEER study visits?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": true,
+                "listLayout": 0,
+                "qId": 23470
+              },
+              {
+                "order": 9,
+                "label": "If applicable, were you satisfied with the logistical arrangements?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "required": false,
+                "listLayout": 0,
+                "qId": 23480
+              },
+              {
+                "controlType": "TextArea",
+                "order": 10,
+                "label": "General Comments and suggestions",
+                "value": null,
+                "hint": "Comment and suggestions on the event organization in general (content, accommodation, travel...)",
+                "required": false,
+                "fieldSize": 500,
+                "labelLayout": 1,
+                "qId": 22295
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "userId": "abbatsa",
+  "firstName": "Sara",
+  "familyName": "ABBATE",
+  "email": "Sara.ABBATE@ec.europa.eu",
+  "phone": "60972",
+  "active": 0,
+  "backupUserId": "",
+  "tms": {
+    "roles": [
+      {
+        "userRoleId": 16,
+        "accessMode": 2,
+        "roleId": 1,
+        "roleType": 2,
+        "description": "IBU Case Handler",
+        "abbreviation": "IBU_CH"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 2,
+        "roleType": 2,
+        "description": "Team Leader",
+        "abbreviation": "TL"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 3,
+        "roleType": 2,
+        "description": "Head of Unit",
+        "abbreviation": "HoU"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 25,
+        "roleType": 2,
+        "description": "IBU Financial Case Handler",
+        "abbreviation": "IBU_FCH"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 9,
+        "roleType": 2,
+        "description": "Financial Officer",
+        "abbreviation": "FO"
+      },
+      {
+        "userRoleId": 2127,
+        "accessMode": 2,
+        "roleId": 4,
+        "roleType": 2,
+        "description": "IBU Administrator",
+        "abbreviation": "IBU_Adm"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 14,
+        "roleType": 1,
+        "description": "Admin Access",
+        "abbreviation": "AA"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 27,
+        "roleType": 1,
+        "description": "IBU CH Extra",
+        "abbreviation": "IBU_CH_E"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 17,
+        "roleType": 1,
+        "description": "IBU User OFs",
+        "abbreviation": "IO"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 15,
+        "roleType": 1,
+        "description": "Budget Access",
+        "abbreviation": "BA"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 22,
+        "roleType": 1,
+        "description": "Statistics Cost Access",
+        "abbreviation": "SC"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 12,
+        "roleType": 1,
+        "description": "Statistics Access",
+        "abbreviation": "SA"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 26,
+        "roleType": 1,
+        "description": "EDB Administrator",
+        "abbreviation": "EDB_Adm"
+      }
+    ],
+    "userCategory": 1,
+    "defaultRole": 1,
+    "activeRole": -1,
+    "visibleAsUserList": []
+  },
+  "twinning": {
+    "roles": [
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 23,
+        "roleType": 1,
+        "description": "Twinning User",
+        "abbreviation": "TWN"
+      },
+      {
+        "userRoleId": -1,
+        "accessMode": 0,
+        "roleId": 24,
+        "roleType": 1,
+        "description": "Twinning Super User",
+        "abbreviation": "TWS"
+      }
+    ],
+    "userCategory": 8,
+    "defaultRole": 1,
+    "activeRole": -1,
+    "visibleAsUserList": []
+  },
+  "applicationAccess": [
+    1
+  ]
+}

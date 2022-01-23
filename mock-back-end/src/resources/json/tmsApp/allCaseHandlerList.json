@@ -1,0 +1,170 @@
+[
+  {
+    "id": "default",
+    "name": "  DEFAULT",
+    "email": "Tania.ANGUELOVA@ec.europa.eu",
+    "phone": "56360",
+    "type": 1
+  },
+  {
+    "id": "iarocal",
+    "name": "Alexei IAROCHEVITCH",
+    "email": "Tania.ANGUELOVA@ec.europa.eu",
+    "phone": "56360",
+    "type": 1
+  },
+  {
+    "id": "versman",
+    "name": "Andreas VERSMANN",
+    "email": "Tania.ANGUELOVA@ec.europa.eu",
+    "phone": "56360",
+    "type": 1
+  },
+  {
+    "id": "mannaan",
+    "name": "Antje MANNAERTS",
+    "email": "Tania.ANGUELOVA@ec.europa.eu",
+    "phone": "56360",
+    "type": 1
+  },
+  {
+    "id": "salkubr",
+    "name": "Brigita SALKUTE",
+    "email": "Tania.ANGUELOVA@ec.europa.eu",
+    "phone": "56360",
+    "type": 1
+  },
+  {
+    "id": "w1040169",
+    "name": "Anna Kozachenko",
+    "email": "shevchenko@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 5
+  },
+  {
+    "id": "w1040132",
+    "name": "Ayse Turkmen",
+    "email": "shevchenko@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 5
+  },
+  {
+    "id": "w1040200",
+    "name": "Bozinova Aleksandra",
+    "email": "shevchenko@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 5
+  },
+  {
+    "id": "w1040146",
+    "name": "Damla Aztan",
+    "email": "shevchenko@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 5
+  },
+  {
+    "id": "borbata",
+    "name": "BORBAS Tatjana",
+    "email": "shevchenko@ec.europa.eu",
+    "phone": "+32 2 786 58 55",
+    "type": 2
+  },
+  {
+    "id": "bowenda",
+    "name": "BOWEN Scott",
+    "email": "shevchenko@ec.europa.eu",
+    "phone": "+32 2 786 58 55",
+    "type": 2
+  },
+  {
+    "id": "evangni",
+    "name": "EVANGELOU Nicholas",
+    "email": "shevchenko@ec.europa.eu",
+    "phone": "+32 2 786 58 55",
+    "type": 2
+  },
+  {
+    "id": "gudeljo",
+    "name": "GUDELYTE Jovita",
+    "email": "shevchenko@ec.europa.eu",
+    "phone": "+32 2 786 58 55",
+    "type": 2
+  },
+  {
+    "id": "kirscch",
+    "name": "KIRSCHBAUM Christiane",
+    "email": "shevchenko@ec.europa.eu",
+    "phone": "+32 2 786 58 55",
+    "type": 2
+  },
+  {
+    "id": "larsshe",
+    "name": "LARSSON Helen",
+    "email": "shevchenko@ec.europa.eu",
+    "phone": "+32 2 786 58 55",
+    "type": 2
+  },
+  {
+    "id": "w1040177",
+    "name": "Aleksandrs Lebedevs",
+    "email": "accounts@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 21
+  },
+  {
+    "id": "w1040215",
+    "name": "Karina Lebedeva-Dzabara",
+    "email": "accounts@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 21
+  },
+  {
+    "id": "w1040172",
+    "name": "Roman Shagan",
+    "email": "accounts@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 21
+  },
+  {
+    "id": "w1040231",
+    "name": "Warwar Soe",
+    "email": "accounts@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 21
+  },
+  {
+    "id": "w1040250",
+    "name": "Yuriko Hashimoto",
+    "email": "accounts@ibf.be",
+    "phone": "+32 2 786 58 55",
+    "type": 21
+  },
+  {
+    "id": "w1040187",
+    "name": "Estrella Marmol",
+    "email": "ticket@ibf.be",
+    "phone": "+60 2 786 58 55",
+    "type": 10
+  },
+  {
+    "id": "w1040242",
+    "name": "Rahul Mohinder",
+    "email": "ticket@ibf.be",
+    "phone": "+32 2 760 58 55",
+    "type": 10
+  },
+  {
+    "id": "w1040186",
+    "name": "Sahar Samaan",
+    "email": "ticket@ibf.be",
+    "phone": "+32 2 786 60 55",
+    "type": 10
+  },
+  {
+    "id": "w1040182",
+    "name": "Suhaib Ismaeil",
+    "email": "ticket@ibf.be",
+    "phone": "+32 2 786 58 60",
+    "type": 10
+  }
+]

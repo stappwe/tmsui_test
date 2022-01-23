@@ -1,0 +1,871 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "taskApproval": {
+      "project": "PI",
+      "taskId": 29997,
+      "lastWorkflowStep": 105,
+      "nextWorkflowStep": null,
+      "commentStatus": 2,
+      "teamLeader": "Tatjana BORBAS",
+      "tlComment": "fffddfdf",
+      "decision": 1,
+      "finalComment": null,
+      "allowedWorkflowActions": [
+        103
+      ],
+      "taskName": "29997 - TC - TAIEX Workshop on Study visit on visit on the implementation, certification and control of quality schemes for agriculturalral products and foodstuffs according to Regulations (EU) (Reg 1151/2012, Reg 664/2014, Reg 668/2014, Reg 665/2014)",
+      "decisionName": "Yes",
+      "workflowName": "Task Refused",
+      "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJ0SUQiOiIyOTk5NyJ9.-0wMcEdm57UVmSPWE8n0recd691QcKlIe5zzBzbrsdI",
+      "questionList": [
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Are the needs justified and is the proposed action clear?",
+          "order": 1,
+          "key": 33,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Is it ensured that there is no overlap/duplication with on-going or previous assistance?",
+          "order": 2,
+          "key": 32,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Does the TAIEX action come at the right time?",
+          "order": 3,
+          "key": 31,
+          "value": 2,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Is there an added value for TAIEX assistance?",
+          "order": 4,
+          "key": 30,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Are the targeted participants the relevant ones?",
+          "order": 5,
+          "key": 29,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Is the local partner eligible? (Ministries, Government bodies, National Parliaments, Judiciary, Social Partners, Private Sector Associations)",
+          "order": 6,
+          "key": 28,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Is the applicant eligible? (Commission services, EU Delegations)",
+          "order": 7,
+          "key": 27,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Does the proposed action underpin the foreign policy priorities of the EU?",
+          "order": 8,
+          "key": 26,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "YesNo",
+          "withComment": true,
+          "label": "Are the countries involved in the proposed action eligible?",
+          "order": 9,
+          "key": 25,
+          "value": 0,
+          "textValue": null,
+          "commentValue": " ",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [],
+          "groupValue": [],
+          "controlType": "Info",
+          "withComment": null,
+          "label": "Have the interested parties given their support?",
+          "order": 10,
+          "key": -1,
+          "value": null,
+          "textValue": null,
+          "commentValue": null,
+          "commentSize": null,
+          "contactType": null,
+          "selectionType": null
+        },
+        {
+          "groupList": [
+            {
+              "id": 209,
+              "name": "Afghanistan",
+              "abbreviation": null
+            },
+            {
+              "id": 214,
+              "name": "American Samoa",
+              "abbreviation": null
+            },
+            {
+              "id": 162,
+              "name": "Andorra",
+              "abbreviation": null
+            },
+            {
+              "id": 190,
+              "name": "Angola",
+              "abbreviation": null
+            },
+            {
+              "id": 215,
+              "name": "Antigua and Barbuda",
+              "abbreviation": null
+            },
+            {
+              "id": 163,
+              "name": "Argentina",
+              "abbreviation": null
+            },
+            {
+              "id": 216,
+              "name": "Aruba",
+              "abbreviation": null
+            },
+            {
+              "id": 153,
+              "name": "Australia",
+              "abbreviation": null
+            },
+            {
+              "id": 164,
+              "name": "Bahrain",
+              "abbreviation": null
+            },
+            {
+              "id": 217,
+              "name": "Bangladesh",
+              "abbreviation": null
+            },
+            {
+              "id": 218,
+              "name": "Barbados",
+              "abbreviation": null
+            },
+            {
+              "id": 219,
+              "name": "Belize",
+              "abbreviation": null
+            },
+            {
+              "id": 220,
+              "name": "Bolivia",
+              "abbreviation": null
+            },
+            {
+              "id": 191,
+              "name": "Brazil",
+              "abbreviation": null
+            },
+            {
+              "id": 165,
+              "name": "Brunei",
+              "abbreviation": null
+            },
+            {
+              "id": 192,
+              "name": "Cambodia",
+              "abbreviation": null
+            },
+            {
+              "id": 155,
+              "name": "Canada",
+              "abbreviation": null
+            },
+            {
+              "id": 193,
+              "name": "Chile",
+              "abbreviation": null
+            },
+            {
+              "id": 202,
+              "name": "Colombia",
+              "abbreviation": null
+            },
+            {
+              "id": 221,
+              "name": "Congo the Democratic Republic of the",
+              "abbreviation": null
+            },
+            {
+              "id": 222,
+              "name": "Costa Rica",
+              "abbreviation": null
+            },
+            {
+              "id": 223,
+              "name": "Cuba",
+              "abbreviation": null
+            },
+            {
+              "id": 224,
+              "name": "Curaçao",
+              "abbreviation": null
+            },
+            {
+              "id": 225,
+              "name": "Dominica",
+              "abbreviation": null
+            },
+            {
+              "id": 226,
+              "name": "Dominican Republic",
+              "abbreviation": null
+            },
+            {
+              "id": 210,
+              "name": "Ecuador",
+              "abbreviation": null
+            },
+            {
+              "id": 212,
+              "name": "El Salvador",
+              "abbreviation": null
+            },
+            {
+              "id": 227,
+              "name": "Equatorial Guinea",
+              "abbreviation": null
+            },
+            {
+              "id": 228,
+              "name": "Faroe Islands",
+              "abbreviation": null
+            },
+            {
+              "id": 229,
+              "name": "Greenland",
+              "abbreviation": null
+            },
+            {
+              "id": 213,
+              "name": "Guatemala",
+              "abbreviation": null
+            },
+            {
+              "id": 230,
+              "name": "Guinea",
+              "abbreviation": null
+            },
+            {
+              "id": 231,
+              "name": "Guyana",
+              "abbreviation": null
+            },
+            {
+              "id": 232,
+              "name": "Haiti",
+              "abbreviation": null
+            },
+            {
+              "id": 233,
+              "name": "Honduras",
+              "abbreviation": null
+            },
+            {
+              "id": 158,
+              "name": "Hong Kong",
+              "abbreviation": null
+            },
+            {
+              "id": 167,
+              "name": "India",
+              "abbreviation": null
+            },
+            {
+              "id": 168,
+              "name": "Indonesia",
+              "abbreviation": null
+            },
+            {
+              "id": 171,
+              "name": "Iran",
+              "abbreviation": null
+            },
+            {
+              "id": 170,
+              "name": "Iraq",
+              "abbreviation": null
+            },
+            {
+              "id": 234,
+              "name": "Jamaica",
+              "abbreviation": null
+            },
+            {
+              "id": 172,
+              "name": "Japan",
+              "abbreviation": null
+            },
+            {
+              "id": 161,
+              "name": "Kazakhstan",
+              "abbreviation": null
+            },
+            {
+              "id": 173,
+              "name": "Kuwait",
+              "abbreviation": null
+            },
+            {
+              "id": 200,
+              "name": "Kyrgyzstan",
+              "abbreviation": null
+            },
+            {
+              "id": 195,
+              "name": "Laos",
+              "abbreviation": null
+            },
+            {
+              "id": 247,
+              "name": "Lesotho",
+              "abbreviation": null
+            },
+            {
+              "id": 174,
+              "name": "Liechtenstein",
+              "abbreviation": null
+            },
+            {
+              "id": 235,
+              "name": "Macao",
+              "abbreviation": null
+            },
+            {
+              "id": 175,
+              "name": "Malaysia",
+              "abbreviation": null
+            },
+            {
+              "id": 211,
+              "name": "Maldives",
+              "abbreviation": null
+            },
+            {
+              "id": 249,
+              "name": "Mauritius",
+              "abbreviation": null
+            },
+            {
+              "id": 176,
+              "name": "Mexico",
+              "abbreviation": null
+            },
+            {
+              "id": 177,
+              "name": "Monaco",
+              "abbreviation": null
+            },
+            {
+              "id": 236,
+              "name": "Mongolia",
+              "abbreviation": null
+            },
+            {
+              "id": 196,
+              "name": "Myanmar",
+              "abbreviation": null
+            },
+            {
+              "id": 237,
+              "name": "Nepal",
+              "abbreviation": null
+            },
+            {
+              "id": 160,
+              "name": "New Zealand",
+              "abbreviation": null
+            },
+            {
+              "id": 238,
+              "name": "Nicaragua",
+              "abbreviation": null
+            },
+            {
+              "id": 197,
+              "name": "Nigeria",
+              "abbreviation": null
+            },
+            {
+              "id": 178,
+              "name": "Oman",
+              "abbreviation": null
+            },
+            {
+              "id": 179,
+              "name": "Pakistan",
+              "abbreviation": null
+            },
+            {
+              "id": 239,
+              "name": "Panama",
+              "abbreviation": null
+            },
+            {
+              "id": 203,
+              "name": "Paraguay",
+              "abbreviation": null
+            },
+            {
+              "id": 159,
+              "name": "People´s Republic of China",
+              "abbreviation": null
+            },
+            {
+              "id": 198,
+              "name": "Peru",
+              "abbreviation": null
+            },
+            {
+              "id": 180,
+              "name": "Philippines",
+              "abbreviation": null
+            },
+            {
+              "id": 240,
+              "name": "Puerto Rico",
+              "abbreviation": null
+            },
+            {
+              "id": 181,
+              "name": "Qatar",
+              "abbreviation": null
+            },
+            {
+              "id": 194,
+              "name": "Republic of Korea",
+              "abbreviation": null
+            },
+            {
+              "id": 70,
+              "name": "Russian Federation",
+              "abbreviation": null
+            },
+            {
+              "id": 246,
+              "name": "San Marino",
+              "abbreviation": null
+            },
+            {
+              "id": 241,
+              "name": "Sao Tome and Principe",
+              "abbreviation": null
+            },
+            {
+              "id": 182,
+              "name": "Saudi Arabia",
+              "abbreviation": null
+            },
+            {
+              "id": 248,
+              "name": "Seychelles",
+              "abbreviation": null
+            },
+            {
+              "id": 183,
+              "name": "Singapore",
+              "abbreviation": null
+            },
+            {
+              "id": 184,
+              "name": "South Africa",
+              "abbreviation": null
+            },
+            {
+              "id": 201,
+              "name": "Sri Lanka",
+              "abbreviation": null
+            },
+            {
+              "id": 253,
+              "name": "Sudan",
+              "abbreviation": null
+            },
+            {
+              "id": 242,
+              "name": "Suriname",
+              "abbreviation": null
+            },
+            {
+              "id": 204,
+              "name": "Taiwan",
+              "abbreviation": null
+            },
+            {
+              "id": 205,
+              "name": "Tajikistan",
+              "abbreviation": null
+            },
+            {
+              "id": 186,
+              "name": "Thailand",
+              "abbreviation": null
+            },
+            {
+              "id": 243,
+              "name": "Timor-Leste",
+              "abbreviation": null
+            },
+            {
+              "id": 244,
+              "name": "Trinidad and Tobago",
+              "abbreviation": null
+            },
+            {
+              "id": 206,
+              "name": "Turkmenistan",
+              "abbreviation": null
+            },
+            {
+              "id": 188,
+              "name": "UAE - United Arab Emirates",
+              "abbreviation": null
+            },
+            {
+              "id": 151,
+              "name": "United States of America",
+              "abbreviation": null
+            },
+            {
+              "id": 207,
+              "name": "Uruguay",
+              "abbreviation": null
+            },
+            {
+              "id": 208,
+              "name": "Uzbekistan",
+              "abbreviation": null
+            },
+            {
+              "id": 245,
+              "name": "Venezuela",
+              "abbreviation": null
+            },
+            {
+              "id": 199,
+              "name": "Vietnam",
+              "abbreviation": null
+            },
+            {
+              "id": 189,
+              "name": "Yemen",
+              "abbreviation": null
+            },
+            {
+              "id": 187,
+              "name": "the Holy See",
+              "abbreviation": null
+            }
+          ],
+          "groupValue": null,
+          "controlType": "Consultation",
+          "withComment": false,
+          "label": "EUD",
+          "order": 11,
+          "key": 1,
+          "value": null,
+          "textValue": null,
+          "commentValue": "",
+          "commentSize": 1000,
+          "contactType": "EUD",
+          "selectionType": 1
+        },
+        {
+          "groupList": [
+            {
+              "id": 1,
+              "name": "AGRI",
+              "abbreviation": null
+            },
+            {
+              "id": 2,
+              "name": "BUDG",
+              "abbreviation": null
+            },
+            {
+              "id": 3,
+              "name": "CLIMA",
+              "abbreviation": null
+            },
+            {
+              "id": 5,
+              "name": "CNECT",
+              "abbreviation": null
+            },
+            {
+              "id": 4,
+              "name": "COMM",
+              "abbreviation": null
+            },
+            {
+              "id": 6,
+              "name": "COMP",
+              "abbreviation": null
+            },
+            {
+              "id": 14,
+              "name": "DEVCO",
+              "abbreviation": null
+            },
+            {
+              "id": 33,
+              "name": "DGT",
+              "abbreviation": null
+            },
+            {
+              "id": 20,
+              "name": "DIGIT",
+              "abbreviation": null
+            },
+            {
+              "id": 8,
+              "name": "EAC",
+              "abbreviation": null
+            },
+            {
+              "id": 7,
+              "name": "ECFIN",
+              "abbreviation": null
+            },
+            {
+              "id": 18,
+              "name": "ECHO",
+              "abbreviation": null
+            },
+            {
+              "id": 11,
+              "name": "ELARG",
+              "abbreviation": null
+            },
+            {
+              "id": 9,
+              "name": "EMPL",
+              "abbreviation": null
+            },
+            {
+              "id": 10,
+              "name": "ENER",
+              "abbreviation": null
+            },
+            {
+              "id": 12,
+              "name": "ENTR",
+              "abbreviation": null
+            },
+            {
+              "id": 13,
+              "name": "ENV",
+              "abbreviation": null
+            },
+            {
+              "id": 15,
+              "name": "ESTAT",
+              "abbreviation": null
+            },
+            {
+              "id": 34,
+              "name": "FISMA",
+              "abbreviation": null
+            },
+            {
+              "id": 30,
+              "name": "FPI",
+              "abbreviation": null
+            },
+            {
+              "id": 21,
+              "name": "GROW",
+              "abbreviation": null
+            },
+            {
+              "id": 17,
+              "name": "HOME",
+              "abbreviation": null
+            },
+            {
+              "id": 19,
+              "name": "HR",
+              "abbreviation": null
+            },
+            {
+              "id": 23,
+              "name": "JRC",
+              "abbreviation": null
+            },
+            {
+              "id": 24,
+              "name": "JUST",
+              "abbreviation": null
+            },
+            {
+              "id": 25,
+              "name": "MARE",
+              "abbreviation": null
+            },
+            {
+              "id": 26,
+              "name": "MOVE",
+              "abbreviation": null
+            },
+            {
+              "id": 27,
+              "name": "REGIO",
+              "abbreviation": null
+            },
+            {
+              "id": 28,
+              "name": "RTD",
+              "abbreviation": null
+            },
+            {
+              "id": 16,
+              "name": "SANTE",
+              "abbreviation": null
+            },
+            {
+              "id": 22,
+              "name": "SCIC",
+              "abbreviation": null
+            },
+            {
+              "id": 29,
+              "name": "SG",
+              "abbreviation": null
+            },
+            {
+              "id": 31,
+              "name": "TAXUD",
+              "abbreviation": null
+            },
+            {
+              "id": 32,
+              "name": "TRADE",
+              "abbreviation": null
+            }
+          ],
+          "groupValue": [
+            30
+          ],
+          "controlType": "Consultation",
+          "withComment": false,
+          "label": "DG",
+          "order": 12,
+          "key": 2,
+          "value": null,
+          "textValue": "30",
+          "commentValue": "",
+          "commentSize": 1000,
+          "contactType": "DG",
+          "selectionType": 1
+        },
+        {
+          "groupList": null,
+          "groupValue": null,
+          "controlType": "Consultation",
+          "withComment": false,
+          "label": "Other",
+          "order": 13,
+          "key": 3,
+          "value": null,
+          "textValue": null,
+          "commentValue": "",
+          "commentSize": 1000,
+          "contactType": null,
+          "selectionType": 2
+        }
+      ],
+      "workflowComment": null
+    },
+    "allowedWorkflowActions": [
+      103
+    ],
+    "applicationFormUrl": "https://webgate.acceptance.ec.europa.eu/Twinning/getAppFormDocument/originalRequest?Authorization=eyJhbGciOiJIUzI1NiJ9.eyJ0ZUlEIjoiMyIsInRJRCI6IjI5NzcxIiwidGltZXN0YW1wIjoiMTU4NDM2NzUzODUyNyJ9.sgNyUmiD795wHGlepHZkRKUBeHaPjgDNqcdx2pk86YQ"
+  }
+}

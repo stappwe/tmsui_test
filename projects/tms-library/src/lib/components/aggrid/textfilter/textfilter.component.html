@@ -1,0 +1,17 @@
+<div>
+  <div>
+    <select class="ag-filter-select no-validation" (ngModelChange)="onFilterTypeChanged($event)" [ngModel]="filterTypeValue">
+      <option *ngFor="let item of filterTypes" [ngValue]="item.id">{{item.name}}</option>
+    </select>
+  </div>
+  <div class="ag-filter-body">
+    <input class="ag-filter-filter no-validation" type="text" #input (ngModelChange)="onFilterChanged($event)" [ngModel]="filterText"
+           placeholder="Filter...">
+  </div>
+  <div class="ag-filter-apply-panel">
+    <button type="button" (click)="onApplyClick()">Apply Filter</button>
+  </div>
+  <div class="ag-filter-apply-panel">
+    <button type="button" class="btn-secondary" (click)="onResetClick()">Reset Filter</button>
+  </div>
+</div>

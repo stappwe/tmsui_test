@@ -1,0 +1,121 @@
+[
+  {
+    "fieldName": "Draft Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "14/12/2016 11:08",
+    "changedBy": "Jamal MOHSENPOUR"
+  },
+  {
+    "fieldName": "Active event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "16/12/2016 17:33",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "AF Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "31/01/2017 20:53",
+    "changedBy": "Nikolina MIJOLOVIC"
+  },
+  {
+    "fieldName": "AF TL Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "01/02/2017 12:44",
+    "changedBy": "Scott BOWEN"
+  },
+  {
+    "fieldName": "AF Signed",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "01/02/2017 14:23",
+    "changedBy": "Tatjana BORBAS"
+  },
+  {
+    "fieldName": "Logistics can Start",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "01/02/2017 14:23",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "Logistics Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "15/02/2017 13:09",
+    "changedBy": "Jana Matasová"
+  },
+  {
+    "fieldName": "CH Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "15/02/2017 14:50",
+    "changedBy": "Nikolina MIJOLOVIC"
+  },
+  {
+    "fieldName": "Block Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "15/02/2017 14:52",
+    "changedBy": "Zhanna de Voogd"
+  },
+  {
+    "fieldName": "Protect Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "15/02/2017 14:55",
+    "changedBy": "Véronique Poot"
+  },
+  {
+    "fieldName": "Logistics can Start",
+    "oldValue": null,
+    "newValue": "Workflow update TMS-1933",
+    "changedDate": "23/05/2017 11:45",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "AF Unsigned",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/05/2017 11:47",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF Refused",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/05/2017 11:47",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/05/2017 11:48",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF TL Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/05/2017 12:07",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "AF Signed",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/05/2017 12:08",
+    "changedBy": "Werner STAPPAERTS"
+  },
+  {
+    "fieldName": "Logistics can Start",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/05/2017 12:08",
+    "changedBy": "User TO BE DEFINED"
+  }
+]

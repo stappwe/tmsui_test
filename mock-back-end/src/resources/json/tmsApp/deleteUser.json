@@ -1,0 +1,5 @@
+{
+  "result": false,
+  "message": "User is in use and cannot be deleted",
+  "messageType": 4
+}

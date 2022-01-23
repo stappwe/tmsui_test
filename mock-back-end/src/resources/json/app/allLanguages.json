@@ -1,0 +1,302 @@
+[
+  {
+    "id": 151,
+    "abbreviation": "SQ",
+    "description": "Albanian",
+    "visible": 1
+  },
+  {
+    "id": 201,
+    "abbreviation": "AR",
+    "description": "Arabic",
+    "visible": 1
+  },
+  {
+    "id": 202,
+    "abbreviation": "HY",
+    "description": "Armenian",
+    "visible": 1
+  },
+  {
+    "id": 203,
+    "abbreviation": "AZ",
+    "description": "Azerbaijani",
+    "visible": 1
+  },
+  {
+    "id": 152,
+    "abbreviation": "BS",
+    "description": "Bosnian",
+    "visible": 1
+  },
+  {
+    "id": 101,
+    "abbreviation": "BG",
+    "description": "Bulgarian",
+    "visible": 1
+  },
+  {
+    "id": 217,
+    "abbreviation": "YUE",
+    "description": "Cantonese",
+    "visible": 1
+  },
+  {
+    "id": 270,
+    "abbreviation": "SHU",
+    "description": "Chadian Arabic",
+    "visible": 1
+  },
+  {
+    "id": 214,
+    "abbreviation": "ZH",
+    "description": "Chinese",
+    "visible": 1
+  },
+  {
+    "id": 153,
+    "abbreviation": "HR",
+    "description": "Croatian",
+    "visible": 1
+  },
+  {
+    "id": 102,
+    "abbreviation": "CZ",
+    "description": "Czech",
+    "visible": 1
+  },
+  {
+    "id": 8,
+    "abbreviation": "DA",
+    "description": "Danish",
+    "visible": 1
+  },
+  {
+    "id": 11,
+    "abbreviation": "NL",
+    "description": "Dutch",
+    "visible": 1
+  },
+  {
+    "id": 1,
+    "abbreviation": "EN",
+    "description": "English",
+    "visible": 1
+  },
+  {
+    "id": 103,
+    "abbreviation": "ET",
+    "description": "Estonian",
+    "visible": 1
+  },
+  {
+    "id": 216,
+    "abbreviation": "FO",
+    "description": "Faroese",
+    "visible": 1
+  },
+  {
+    "id": 250,
+    "abbreviation": "FA",
+    "description": "Farsi",
+    "visible": 1
+  },
+  {
+    "id": 9,
+    "abbreviation": "FI",
+    "description": "Finnish",
+    "visible": 1
+  },
+  {
+    "id": 3,
+    "abbreviation": "FR",
+    "description": "French",
+    "visible": 1
+  },
+  {
+    "id": 204,
+    "abbreviation": "KA",
+    "description": "Georgian",
+    "visible": 1
+  },
+  {
+    "id": 2,
+    "abbreviation": "DE",
+    "description": "German",
+    "visible": 1
+  },
+  {
+    "id": 6,
+    "abbreviation": "EL",
+    "description": "Greek",
+    "visible": 1
+  },
+  {
+    "id": 215,
+    "abbreviation": "HT",
+    "description": "Haitian",
+    "visible": 1
+  },
+  {
+    "id": 205,
+    "abbreviation": "IW",
+    "description": "Hebrew",
+    "visible": 1
+  },
+  {
+    "id": 104,
+    "abbreviation": "HU",
+    "description": "Hungarian",
+    "visible": 1
+  },
+  {
+    "id": 208,
+    "abbreviation": "IS",
+    "description": "Icelandic",
+    "visible": 1
+  },
+  {
+    "id": 218,
+    "abbreviation": "ID",
+    "description": "Indonesian",
+    "visible": 1
+  },
+  {
+    "id": 5,
+    "abbreviation": "IT",
+    "description": "Italian",
+    "visible": 1
+  },
+  {
+    "id": 211,
+    "abbreviation": "KO",
+    "description": "Korean",
+    "visible": 1
+  },
+  {
+    "id": 105,
+    "abbreviation": "LV",
+    "description": "Latvian",
+    "visible": 1
+  },
+  {
+    "id": 106,
+    "abbreviation": "LT",
+    "description": "Lithuanian",
+    "visible": 1
+  },
+  {
+    "id": 154,
+    "abbreviation": "MK",
+    "description": "Macedonian",
+    "visible": 1
+  },
+  {
+    "id": 212,
+    "abbreviation": "DV",
+    "description": "Maldivian",
+    "visible": 1
+  },
+  {
+    "id": 112,
+    "abbreviation": "MT",
+    "description": "Maltese",
+    "visible": 1
+  },
+  {
+    "id": 213,
+    "abbreviation": "MN",
+    "description": "Mongolian",
+    "visible": 1
+  },
+  {
+    "id": 210,
+    "abbreviation": "ME",
+    "description": "Montenegrin",
+    "visible": 1
+  },
+  {
+    "id": 107,
+    "abbreviation": "PL",
+    "description": "Polish",
+    "visible": 1
+  },
+  {
+    "id": 10,
+    "abbreviation": "PT",
+    "description": "Portuguese",
+    "visible": 1
+  },
+  {
+    "id": 108,
+    "abbreviation": "RO",
+    "description": "Romanian",
+    "visible": 1
+  },
+  {
+    "id": 111,
+    "abbreviation": "RU",
+    "description": "Russian",
+    "visible": 1
+  },
+  {
+    "id": 155,
+    "abbreviation": "SR",
+    "description": "Serbian",
+    "visible": 1
+  },
+  {
+    "id": 109,
+    "abbreviation": "SK",
+    "description": "Slovak",
+    "visible": 1
+  },
+  {
+    "id": 110,
+    "abbreviation": "SI",
+    "description": "Slovene",
+    "visible": 1
+  },
+  {
+    "id": 4,
+    "abbreviation": "ES",
+    "description": "Spanish",
+    "visible": 1
+  },
+  {
+    "id": 7,
+    "abbreviation": "SV",
+    "description": "Swedish",
+    "visible": 1
+  },
+  {
+    "id": 260,
+    "abbreviation": "TH",
+    "description": "Thai",
+    "visible": 1
+  },
+  {
+    "id": 113,
+    "abbreviation": "TR",
+    "description": "Turkish",
+    "visible": 1
+  },
+  {
+    "id": 206,
+    "abbreviation": "UK",
+    "description": "Ukrainian",
+    "visible": 1
+  },
+  {
+    "id": 280,
+    "abbreviation": "VIE",
+    "description": "Vietnamese",
+    "visible": 1
+  },
+  {
+    "id": 230,
+    "abbreviation": "YO",
+    "description": "Yoruba",
+    "visible": 1
+  }
+]

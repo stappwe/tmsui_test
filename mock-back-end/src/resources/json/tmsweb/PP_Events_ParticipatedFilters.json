@@ -1,0 +1,423 @@
+{
+  "eventType": [
+    {
+      "id": 63,
+      "name": "AGR HOME"
+    },
+    {
+      "id": 36,
+      "name": "AGR IND/EXP"
+    },
+    {
+      "id": 35,
+      "name": "AGR IND/STUD"
+    },
+    {
+      "id": 34,
+      "name": "ATCC"
+    },
+    {
+      "id": 55,
+      "name": "ATCC HOME"
+    },
+    {
+      "id": 44,
+      "name": "ATCC IND/EXP"
+    },
+    {
+      "id": 43,
+      "name": "ATCC IND/STUD"
+    },
+    {
+      "id": 69,
+      "name": "ECRAN"
+    },
+    {
+      "id": 72,
+      "name": "ECRAN HOME"
+    },
+    {
+      "id": 70,
+      "name": "ECRAN IND/EXP"
+    },
+    {
+      "id": 71,
+      "name": "ECRAN IND/STUD"
+    },
+    {
+      "id": 77,
+      "name": "EIR"
+    },
+    {
+      "id": 78,
+      "name": "EIR HOME"
+    },
+    {
+      "id": 79,
+      "name": "EIR IND/EXP"
+    },
+    {
+      "id": 80,
+      "name": "EIR IND/STUD"
+    },
+    {
+      "id": 95,
+      "name": "EPPA"
+    },
+    {
+      "id": 96,
+      "name": "EPPA HOME"
+    },
+    {
+      "id": 97,
+      "name": "EPPA IND/EXP"
+    },
+    {
+      "id": 98,
+      "name": "EPPA IND/STUD"
+    },
+    {
+      "id": 59,
+      "name": "ETT"
+    },
+    {
+      "id": 64,
+      "name": "ETT HOME"
+    },
+    {
+      "id": 61,
+      "name": "ETT IND/EXP"
+    },
+    {
+      "id": 60,
+      "name": "ETT IND/STUD"
+    },
+    {
+      "id": 30,
+      "name": "INT MARKT"
+    },
+    {
+      "id": 65,
+      "name": "INT MARKT HOME"
+    },
+    {
+      "id": 42,
+      "name": "INT MARKT IND/EXP"
+    },
+    {
+      "id": 41,
+      "name": "INT MARKT IND/STUD"
+    },
+    {
+      "id": 32,
+      "name": "JHA"
+    },
+    {
+      "id": 66,
+      "name": "JHA HOME"
+    },
+    {
+      "id": 38,
+      "name": "JHA IND/EXP"
+    },
+    {
+      "id": 37,
+      "name": "JHA IND/STUD"
+    },
+    {
+      "id": 86,
+      "name": "PI"
+    },
+    {
+      "id": 85,
+      "name": "PI HOME"
+    },
+    {
+      "id": 88,
+      "name": "PI IND/EXP"
+    },
+    {
+      "id": 87,
+      "name": "PI IND/STUD"
+    },
+    {
+      "id": 90,
+      "name": "REGIO"
+    },
+    {
+      "id": 89,
+      "name": "REGIO HOME"
+    },
+    {
+      "id": 92,
+      "name": "REGIO IND/EXP"
+    },
+    {
+      "id": 91,
+      "name": "REGIO IND/STUD"
+    },
+    {
+      "id": 81,
+      "name": "RIPAP"
+    },
+    {
+      "id": 84,
+      "name": "RIPAP HOME"
+    },
+    {
+      "id": 83,
+      "name": "RIPAP IND/EXP"
+    },
+    {
+      "id": 82,
+      "name": "RIPAP IND/STUD"
+    },
+    {
+      "id": 62,
+      "name": "SCR"
+    },
+    {
+      "id": 73,
+      "name": "SRSP"
+    },
+    {
+      "id": 74,
+      "name": "SRSP HOME"
+    },
+    {
+      "id": 75,
+      "name": "SRSP IND/EXP"
+    },
+    {
+      "id": 76,
+      "name": "SRSP IND/STUD"
+    }
+  ],
+  "eventCategory": [
+    {
+      "id": 1,
+      "name": "Workshop"
+    },
+    {
+      "id": 2,
+      "name": "Expert Mission"
+    },
+    {
+      "id": 3,
+      "name": "Study Visit"
+    },
+    {
+      "id": 4,
+      "name": "Work from Home"
+    },
+    {
+      "id": 5,
+      "name": "Procurement"
+    }
+  ],
+  "countryEventPlace": [
+    {
+      "id": 51,
+      "name": "Albania"
+    },
+    {
+      "id": 78,
+      "name": "Algeria"
+    },
+    {
+      "id": 76,
+      "name": "Armenia"
+    },
+    {
+      "id": 75,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 74,
+      "name": "Belarus"
+    },
+    {
+      "id": 52,
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "id": 81,
+      "name": "Egypt"
+    },
+    {
+      "id": 73,
+      "name": "Georgia"
+    },
+    {
+      "id": 83,
+      "name": "Israel"
+    },
+    {
+      "id": 85,
+      "name": "Jordan"
+    },
+    {
+      "id": 56,
+      "name": "Kosovo"
+    },
+    {
+      "id": 84,
+      "name": "Lebanon"
+    },
+    {
+      "id": 87,
+      "name": "Libya"
+    },
+    {
+      "id": 72,
+      "name": "Moldova"
+    },
+    {
+      "id": 58,
+      "name": "Montenegro"
+    },
+    {
+      "id": 77,
+      "name": "Morocco"
+    },
+    {
+      "id": 0,
+      "name": "MultiCountry"
+    },
+    {
+      "id": 54,
+      "name": "North Macedonia"
+    },
+    {
+      "id": 82,
+      "name": "Palestine"
+    },
+    {
+      "id": 70,
+      "name": "Russian Federation"
+    },
+    {
+      "id": 57,
+      "name": "Serbia"
+    },
+    {
+      "id": 86,
+      "name": "Syria"
+    },
+    {
+      "id": 79,
+      "name": "Tunisia"
+    },
+    {
+      "id": 12,
+      "name": "Turkey"
+    },
+    {
+      "id": 71,
+      "name": "Ukraine"
+    }
+  ],
+  "beneficiary": [
+    {
+      "id": 51,
+      "name": "Albania"
+    },
+    {
+      "id": 78,
+      "name": "Algeria"
+    },
+    {
+      "id": 76,
+      "name": "Armenia"
+    },
+    {
+      "id": 75,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 74,
+      "name": "Belarus"
+    },
+    {
+      "id": 52,
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "id": 81,
+      "name": "Egypt"
+    },
+    {
+      "id": 73,
+      "name": "Georgia"
+    },
+    {
+      "id": 83,
+      "name": "Israel"
+    },
+    {
+      "id": 85,
+      "name": "Jordan"
+    },
+    {
+      "id": 56,
+      "name": "Kosovo"
+    },
+    {
+      "id": 84,
+      "name": "Lebanon"
+    },
+    {
+      "id": 87,
+      "name": "Libya"
+    },
+    {
+      "id": 72,
+      "name": "Moldova"
+    },
+    {
+      "id": 58,
+      "name": "Montenegro"
+    },
+    {
+      "id": 77,
+      "name": "Morocco"
+    },
+    {
+      "id": 0,
+      "name": "MultiCountry"
+    },
+    {
+      "id": 54,
+      "name": "North Macedonia"
+    },
+    {
+      "id": 82,
+      "name": "Palestine"
+    },
+    {
+      "id": 70,
+      "name": "Russian Federation"
+    },
+    {
+      "id": 57,
+      "name": "Serbia"
+    },
+    {
+      "id": 86,
+      "name": "Syria"
+    },
+    {
+      "id": 79,
+      "name": "Tunisia"
+    },
+    {
+      "id": 12,
+      "name": "Turkey"
+    },
+    {
+      "id": 71,
+      "name": "Ukraine"
+    }
+  ]
+}
+

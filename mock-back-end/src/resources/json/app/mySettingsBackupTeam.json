@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "AGR",
+    "abbreviation": null
+  },
+  {
+    "id": 4,
+    "name": "ETT",
+    "abbreviation": null
+  },
+  {
+    "id": 12,
+    "name": "ICE",
+    "abbreviation": null
+  },
+  {
+    "id": 3,
+    "name": "IND/MOB",
+    "abbreviation": null
+  },
+  {
+    "id": 5,
+    "name": "INT MARKT",
+    "abbreviation": null
+  },
+  {
+    "id": 6,
+    "name": "JHA",
+    "abbreviation": null
+  },
+  {
+    "id": 13,
+    "name": "LAF",
+    "abbreviation": null
+  },
+  {
+    "id": 7,
+    "name": "LAN/INF",
+    "abbreviation": null
+  },
+  {
+    "id": 11,
+    "name": "P2P",
+    "abbreviation": null
+  },
+  {
+    "id": 8,
+    "name": "PEER",
+    "abbreviation": null
+  },
+  {
+    "id": 10,
+    "name": "PROC",
+    "abbreviation": null
+  },
+  {
+    "id": 9,
+    "name": "RTP",
+    "abbreviation": null
+  },
+  {
+    "id": 14,
+    "name": "SCR",
+    "abbreviation": null
+  },
+  {
+    "id": 2,
+    "name": "TCC",
+    "abbreviation": null
+  }
+]

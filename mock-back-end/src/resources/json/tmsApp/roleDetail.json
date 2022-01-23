@@ -1,0 +1,12 @@
+{
+  "roleId": 1,
+  "description": "IBU Case Handler",
+  "abbreviation": "IBU_CH",
+  "roleType": 2,
+  "roleFixed": 1,
+  "canDelete": 0,
+  "userCategoryList": [
+    1
+  ],
+  "order": 1
+}

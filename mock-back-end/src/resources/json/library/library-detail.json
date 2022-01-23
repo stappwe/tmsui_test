@@ -1,0 +1,95 @@
+{
+  "searchMatch": "NA",
+  "eventDates": "26 - 28 January 2021",
+  "eventCountry": "Belgium",
+  "eventPlace": "Brussels",
+  "beneficiary": "Albania,Algeria,Armenia,Azerbaijan,Belarus,Bosnia and Herzegovina,Egypt,Georgia,Israel,Jordan,Kosovo,Lebanon,Libya,Moldova,Montenegro,Morocco,North Macedonia,Palestine,Serbia,Syria,Tunisia,Turkey,Ukraine",
+  "eventName": "TAIEX Flagship Workshop on Green Deal and Green Recovery",
+  "classification": "NA",
+  "eventID": 80304,
+  "pastEvent": false,
+  "eventKeyword": null,
+  "lat": null,
+  "lng": null,
+  "exactDefinition": "The aim of the workshop is to provide advice and guidance on the European Commissions’ Green Deal Policy and the green recovery to participants from all DG NEAR Regions. Representatives of European Commission Directorates General will explain the objectives of the policy and how their implementation is being planned and supported. \r\nThe provision of this information is intended to ensure that DG NEAR’s beneficiary and partner countries are fully informed of the nature and implications of the green deal and green recovery. This will allow them to utilise this information in order to align themselves where agreed or where needed, with the direction that is being taken and the legislation that has been and will be implemented in order to achieve the desired outcome of making Europe the first climate-neutral Continent by 2050.\r\n",
+  "multiCountry": true,
+  "beneficiaryInstitution": "NEAR C3 - TAIEX",
+  "applicant": "Representatives from all three NEAR Regions dealing with the Green Deal and Green Recovery. Colleagues working in the EU delegations covering the  Green Deal and Green Recovery.",
+  "numberOfPart": 0,
+  "ecMeasure": "The Green Deal and Green Recovery\r\n",
+  "partOfSeries": false,
+  "publishedDocuments": [
+    {
+      "id": 2395792,
+      "name": "Agenda",
+      "position": "",
+      "institutionName": "",
+      "country": "",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getAgendaDocument?id=okAmEVpZ2KRbCVE2FO-VBw",
+      "displayName": "Agenda_80304.docx"
+    },
+    {
+      "id": 2406833,
+      "name": "Mr Xavier Guillou",
+      "position": "Team leader: marine renewable energy and maritime spatial planning",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=kinY3GrRlD0LRUaaBjq5Nw",
+      "displayName": "DAY 3_ TOMAS Robert_TAIEX_GREEN_DEAL_RT_update.pptx"
+    },
+    {
+      "id": 2406812,
+      "name": "Ms Barbara Kauffmann",
+      "position": "Director",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=UloaXvkCjbvp21JnWax5VA",
+      "displayName": "Justyna_External dimension Green Deal_final.pptx"
+    },
+    {
+      "id": 2406792,
+      "name": "Ms Emilia Gargallo-Gonzalez",
+      "position": "-",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=IT5W2soN8StKP2pr4GeHUg",
+      "displayName": "DAY 2_ GARGALLO GONZALEZ Emilia_210127- TAIEX-Fisheries and aquaculture.pptx"
+    },
+    {
+      "id": 2407183,
+      "name": "Ms Nathalie Chaze",
+      "position": "Director",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=Ruyu_2Qv59-_tu8IjcCFpQ",
+      "displayName": "IT_TMS_TRAINING_20200805.mp4"
+    },
+    {
+      "id": 2407305,
+      "name": "Ms Nathalie Chaze",
+      "position": "Director",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=wY4vp_Sga2jEnVRSLXsSvA",
+      "displayName": "output.mp4"
+    },
+    {
+      "id": 2406793,
+      "name": "Ms Susanne Lindahl",
+      "position": "Policy Officer",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=1oU6_y0WdbmD6NUUwbYlWA",
+      "displayName": "DAY 2_Gislev TAIEX 27012021.pptx"
+    },
+    {
+      "id": 2406834,
+      "name": "Ms Vanda Jakir",
+      "position": "Policy Officer",
+      "institutionName": "European Commission",
+      "country": "EU Institution",
+      "link": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=CVQfdzas8qK7Jr76j2D0hg",
+      "displayName": "DAY 3_WEDERDT Patrick_Biodiversity Strategy TAIEX regional event Jan 2021.pptx"
+    }
+  ]
+}

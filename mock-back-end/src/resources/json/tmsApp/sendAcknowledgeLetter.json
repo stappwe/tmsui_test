@@ -1,0 +1,8 @@
+{
+  "result": true,
+  "message": "Ackowledge letter mail has been sent succesfully!",
+  "messageType": 1,
+  "data": {
+    "taskId": 29902
+  }
+}

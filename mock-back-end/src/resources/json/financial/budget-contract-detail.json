@@ -1,0 +1,21 @@
+{
+  "budgetContractId": 263,
+  "budgetContractName": "IPA - Addendum 02",
+  "budgetContract": 1.135E7,
+  "budgetAllocated": null,
+  "budgetPrefinanced": 2270000.50,
+  "bankGuarantee": 2270000.0,
+  "startDate": 1487890800000,
+  "endDate": 1598652000000,
+  "yearDecision": 2018,
+  "crisReference": "383437",
+  "budgetLineName": "IPA",
+  "budgetLineId": 37,
+  "crisContractReferenceUrl": "http://www.cc.cec/EUROPEAID/cris/saisie/cris.cfm?destinationUrl=contrat%2Fcontratlm%2Ecfm%3Faction%3DShowFromList%26fct%3D%26key%3D383437",
+  "taiexContractId": 7,
+  "notRemovable": true,
+  "budgetFees": 2906560.0,
+  "budgetEventsCost": 8443440.0,
+  "budgetIncExp": 0.0,
+  "budgetExpVer": 0.0
+}

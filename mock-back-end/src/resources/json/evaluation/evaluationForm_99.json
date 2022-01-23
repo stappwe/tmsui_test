@@ -1,0 +1,12 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "evalSysPartId": 99,
+    "status": 1,
+    "languageCodes": "en,fr",
+    "defaultLanguage": "fr",
+    "form": []
+  }
+}

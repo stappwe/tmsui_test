@@ -1,0 +1,8 @@
+{
+  "result": true,
+  "message": "The event 65783 was created successfully",
+  "messageType": 1,
+  "data": {
+    "eventId": 65783
+  }
+}

@@ -1,0 +1,74 @@
+﻿{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "supplierId": 171233,
+        "name": "Austrian Federal Ministry of Justice",
+        "description": "",
+        "street1": "Museumstrasse 7",
+        "city": "Vienna",
+        "country": "Austria",
+        "numberOfEvents": 0,
+        "category": "",
+        "type": "Administration",
+        "modified": "2017-03-20 15:58:52",
+        "author": " .",
+        "flagged": 0,
+        "interpretation": "",
+        "AvgPrice": 0
+      },
+      {
+        "supplierId": 171234,
+        "name": "Agency for Economic Cooperation and Development (aed)",
+        "description": "",
+        "street1": "Heiligenstädter Lände 29",
+        "city": "Vienna",
+        "country": "Austria",
+        "numberOfEvents": 0,
+        "category": "",
+        "type": "Mandated body",
+        "modified": "2017-03-20 15:58:52",
+        "author": " .",
+        "flagged": 0,
+        "interpretation": "",
+        "AvgPrice": 0
+      },
+      {
+        "supplierId": 171235,
+        "name": "NEUSTART",
+        "description": "",
+        "street1": "Castelligasse 17",
+        "city": "Vienna",
+        "country": "Austria",
+        "numberOfEvents": 0,
+        "category": "",
+        "type": "Mandated body ad hoc",
+        "modified": "2017-03-20 15:58:52",
+        "author": " .",
+        "flagged": 0,
+        "interpretation": "",
+        "AvgPrice": 0
+      },
+      {
+        "supplierId": 171236,
+        "name": "Criminal Sanctions Agency (RISE)",
+        "description": "",
+        "street1": "Lintulahdenkuja 4",
+        "city": "Helsinki",
+        "country": "Suomi Finland",
+        "numberOfEvents": 0,
+        "category": "",
+        "type": "Administration",
+        "modified": "2017-03-20 15:58:52",
+        "author": " .",
+        "flagged": 0,
+        "interpretation": "",
+        "AvgPrice": 0
+      }
+    ],
+    "rowCount": 200
+  }
+}

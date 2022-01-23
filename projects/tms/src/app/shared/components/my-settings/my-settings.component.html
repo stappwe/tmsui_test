@@ -1,0 +1,24 @@
+<label-input labelText="Active role" labelAlign="Center" labelClass="col-sm-3" contentClass="col-sm-9" *ngIf="xsDevice === true">
+  <select class="form-control" [formControl]="activeUserRole">
+    <option *ngFor="let userRole of appService?.application.user.getUserWorkflowRoles()" [ngValue]="userRole">
+      {{ userRole.description }}
+    </option>
+  </select>
+</label-input>
+<hr *ngIf="xsDevice === true">
+<label-input labelText="User" labelAlign="Center" labelClass="col-sm-3" contentClass="col-sm-9">
+  <select class="form-control" [(ngModel)]="selectedForUser" [disabled]="!hasAction('lnk_my_settings_all_access')">
+    <option *ngFor="let user of forUserList" [ngValue]="user">{{ user.name }}</option>
+  </select>
+</label-input>
+<label-input labelText="Backup user" labelAlign="Center" labelClass="col-sm-3" contentClass="col-sm-9">
+  <select class="form-control" [(ngModel)]="selectedBackupUser">
+    <option *ngFor="let backupUser of backupUserList" [ngValue]="backupUser">{{ backupUser.name }}</option>
+  </select>
+</label-input>
+<hr *ngIf="hasAction('lnk_my_settings_team_access')">
+<label-input labelText="Team" labelAlign="Center" labelClass="col-sm-3" contentClass="col-sm-9" *ngIf="hasAction('lnk_my_settings_team_access')">
+  <select class="form-control" [formControl]="selectedTeamId">
+    <option *ngFor="let item of teamList" [ngValue]="item.id">{{ item.name }}</option>
+  </select>
+</label-input>

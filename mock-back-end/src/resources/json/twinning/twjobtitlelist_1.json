@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "MS - Project Leader",
+    "abbreviation": "MS-PL"
+  },
+  {
+    "id": 5,
+    "name": "MS - Resident Twinning Adviser 1",
+    "abbreviation": "MS-RTA-1"
+  },
+  {
+    "id": 2,
+    "name": "MS - Junior Project Leader 1",
+    "abbreviation": "JPL-1"
+  },
+  {
+    "id": 3,
+    "name": "MS - Junior Project Leader 2 ",
+    "abbreviation": "JPL-2"
+  },
+  {
+    "id": 4,
+    "name": "MS - Junior Project Leader 3",
+    "abbreviation": "JPL-3"
+  },
+  {
+    "id": 8,
+    "name": "MS - Resident Twinning Adviser 2",
+    "abbreviation": "MS-RTA-2"
+  },
+  {
+    "id": 9,
+    "name": "MS - Component Leader",
+    "abbreviation": "MS-CL"
+  }
+]

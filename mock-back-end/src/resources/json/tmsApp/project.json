@@ -1,0 +1,11 @@
+{
+  "projectId": 1,
+  "description": "Instrument for Pre-Accession Assistance, European Neighbourhood Instrument",
+  "abbreviation": "IPA, ENI",
+  "comment": null,
+  "emailRequestValidator": null,
+  "signatureEmail": "Kind regards,<br/><br/>Unit C.3 - Institution-Building, TAIEX, Twinning<br/>Directorate C - Neighbourhood East<br/>Directorate-General Neighbourhood and Enlargement Negotiations<brEuropean Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+  "signatureEmailOutlook": "test123",
+  "generalEmail": null,
+  "consultation": 1
+}

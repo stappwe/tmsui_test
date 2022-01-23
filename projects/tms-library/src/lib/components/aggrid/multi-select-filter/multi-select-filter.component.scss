@@ -1,0 +1,43 @@
+select.ng-valid {
+  border-left: 1px solid #ccc !important;
+}
+
+.label-content {
+  padding: 5px;
+}
+
+button[disabled] {
+  color: #c1c0c0;
+}
+
+button[disabled]:hover {
+  color: #c1c0c0;
+}
+
+.margin-bottom {
+  margin-bottom: 4px;
+}
+
+.mat-list-base {
+  padding-top: 0;
+}
+
+.mat-list-base > .mat-list-option {
+  height: 25px;
+  font-size: 12px;
+}
+
+mat-selection-list {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.ag-filter-apply-panel button.btn-secondary {
+  background-color: var(--eui-color-secondary);
+  border: 2px solid var(--eui-color-secondary);
+  color: var(--eui-color-primary);
+}
+
+.ag-filter-apply-panel button.btn-secondary:active {
+  border-color: var(--eui-color-primary-light);
+}

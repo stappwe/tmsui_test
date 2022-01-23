@@ -1,0 +1,20 @@
+{
+  "result": true,
+  "message": null,
+  "messageTranslationCode": null,
+  "messageType": 1,
+  "data": [
+    {
+      "documentName": "SampleVideo_1280x720_5mb.mp4",
+      "size": 5253880,
+      "assignedTo": null,
+      "templateId": 5,
+      "publishedTo": 0,
+      "publToParticipants": null,
+      "publToParticipantName": null,
+      "documentId": 2428248,
+      "participantId": null,
+      "publishedBy": ""
+    }
+  ]
+}

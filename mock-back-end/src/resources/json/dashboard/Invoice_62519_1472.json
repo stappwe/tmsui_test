@@ -1,0 +1,93 @@
+{
+  "EVENTID": 62519,
+  "EVENTTYPE": "JHA",
+  "TASKID": 25750,
+  "TEAMLEADER": "KIRSCHBAUM Christiane",
+  "IBUCASEHANDLER": "MILINOVIC Sanja",
+  "ACCOUNTCH": "Shagan Anna",
+  "NAME": "TAIEX Workshop on the Role of Psychological Assessment in the Prevention of Crime",
+  "SUBJECT": "24 Justice, freedom and security [19] (Partial),24.30 Police and judicial cooperation in criminal and customs matters [19.30] (Partial),24.30.10 Police cooperation [19.30.10] (Complete),25 Science and research [16] (Partial),25.10 Science [16.10] (Partial),25.10.20 Research sectors [16.10.20] (Complete),26 Education and culture (Partial),26.10 Education and training [16.30] (Complete)",
+  "STARTDATESTR": "20/10/2016 09:00",
+  "ENDDATESTR": "21/10/2016 17:00",
+  "CITY": "Tbilisi",
+  "COUNTRY": "Georgia",
+  "BENEFICIARY": "Georgia",
+  "MULTICOUNTRY": "No",
+  "LASTCHANGEDDATE": "03/01/2018 18:53",
+  "AFSIGNDATE": "20/09/2016 13:39",
+  "OFSIGNDATE": "30/09/2016 16:44",
+  "TEAMLEADEREMAIL": "Christiane.Kirschbaum@ec.europa.eu",
+  "IBUCASEHANDLEREMAIL": "Sanja.MILINOVIC@ec.europa.eu",
+  "ACCOUNTCHEMAIL": "shagan@ibf.be",
+  "OFCOMMENT": "- All prices are excluding VAT.\f\n- Addendum will follow for local participants.\f\n- For the experts, Ms. Morris, Mr. Christianson, Mr. Bjoergo, only flights with arrival on the 18th October are suitable.The flights with departure on the 19th October all had arrival on the 20th October early morning. It has been agreed with IBU CH that FAA en DSA will be paid for the 18th October.",
+  "EVENTREMARK": "",
+  "STATUS": 9,
+  "FEE": 3493,
+  "FEEADDITIONAL": 0,
+  "BALANCE": 2673,
+  "TOTALBUDGET": 32893.36,
+  "COMMENTSTATUS": 2,
+  "EXPENDITURE": 28720.27,
+  "TEAMLEADERPHONE": "+32 229-50803",
+  "IBUCASEHANDLERPHONE": "+32 229-78698",
+  "ACCOUNTCHPHONE": "+32 2 237 09 98",
+  "ER_CC_F_DATE": "18/11/2016 18:07",
+  "ER_TC_A_DATE": "25/11/2016 12:20",
+  "TASKCARDURL": "https://webgate.acceptance.ec.europa.eu/TMS/updateTask.do?dispatch=Modify&taskcardID=25750",
+  "COMMENTLISTURL": "https://webgate.acceptance.ec.europa.eu/TMS/eventDashboard.do?dispatch=Select&eventID=62519",
+  "STATUSADDENCORR": [
+    {
+      "EVENTID": 62519,
+      "TYPE": "Main Event",
+      "NUMBER": 0,
+      "DATEOFSIGNATURE": "30/09/2016 16:44",
+      "STATUS": "S",
+      "COST": 30220.36
+    },
+    {
+      "EVENTID": 63398,
+      "TYPE": "Add.",
+      "NUMBER": 1,
+      "DATEOFSIGNATURE": "11/10/2016 16:46",
+      "STATUS": "S",
+      "COST": -234.39
+    },
+    {
+      "EVENTID": 63442,
+      "TYPE": "Add.",
+      "NUMBER": 2,
+      "DATEOFSIGNATURE": "18/10/2016 14:26",
+      "STATUS": "S",
+      "COST": -0.09
+    },
+    {
+      "EVENTID": 63536,
+      "TYPE": "Corr.",
+      "NUMBER": 3,
+      "DATEOFSIGNATURE": "04/11/2016 15:10",
+      "STATUS": "S",
+      "COST": -456.38
+    }
+  ],
+  "BUDGETLINES": [
+    {
+      "BUDGETLINE": "ENPI EAST",
+      "BENEFICIARIES": "Georgia",
+      "PARTICIPANTS": 25,
+      "COST": 28720.27
+    }
+  ],
+  "AFREVOKED": "N",
+  "OFREVOKED": "N",
+  "ENABLEWFB_FCA": 0,
+  "ENABLEWFB_FCRA": 0,
+  "ENABLEWFB_FCRC": 0,
+  "ADJUSTMENTS": -809.23,
+  "LASTSIGNEDER_RS_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=869423&key=5ab16788a8bc83d90eb8a8385903be15",
+  "LASTSIGNEDER_BL_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=869422&key=6d365a70307c3289836409909d5e6aca",
+  "LASTSIGNEDER_ER_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=869421&key=7e155664b47333cbf336ab0e0de8695f",
+  "OPENFOLDER_URL": "\\\\s-elarg-pen01\\TMSACCEPTANCE\\Events\\JHA\\2016\\Open\\62519-GE-Tbilisi",
+  "coCasehandler": "Matasová Jana",
+  "coCasehandlerEmail": "matasova@ibf.be",
+  "coCasehandlerPhone": "+32 2 237 09 12"
+}

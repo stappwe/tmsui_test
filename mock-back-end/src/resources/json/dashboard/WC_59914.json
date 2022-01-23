@@ -1,0 +1,58 @@
+[
+  {
+    "fieldName": "Draft Event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "03/06/2015 13:10",
+    "changedBy": "Jamal MOHSENPOUR"
+  },
+  {
+    "fieldName": "Active event",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "29/06/2015 16:02",
+    "changedBy": "User TO BE DEFINED"
+  },
+  {
+    "fieldName": "AF Finished",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "10/03/2016 14:24",
+    "changedBy": "Sanja MARINKOVIC"
+  },
+  {
+    "fieldName": "AF TL Approved",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "10/03/2016 14:35",
+    "changedBy": "Jean-Marie GOBEAUX"
+  },
+  {
+    "fieldName": "AF Signed",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "14/03/2016 15:58",
+    "changedBy": "Heike GERSTBREIN"
+  },
+  {
+    "fieldName": "Logistics can Start",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "14/03/2016 15:58",
+    "changedBy": "Heike GERSTBREIN"
+  },
+  {
+    "fieldName": "AF Unsigned",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/06/2016 17:16",
+    "changedBy": "Scott BOWEN"
+  },
+  {
+    "fieldName": "AF Refused",
+    "oldValue": null,
+    "newValue": " ",
+    "changedDate": "23/06/2016 17:16",
+    "changedBy": "Scott BOWEN"
+  }
+]

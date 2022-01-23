@@ -1,0 +1,50 @@
+<form>
+  <div class="list-group" (blur)="onBlur()">
+    <button disabled type="button" class="btn-outline-secondary caption full-width validate" [ngClass]="isVisible ? 'open' : ''"
+            [ngClass]="settings.buttonClasses" title="{{ titleCaption }}"
+            (click)="toggleDropdown(true)" [disabled]="isDisabled">
+      <div class="form-control btn-truncate-caption pull-left" fxFlex [ngClass]="(selectedItems.size === 0) ? 'placeholder' : ''">{{ caption }}</div>
+      <div class="dropdown-toggle pull-right" [ngClass]="isVisible ? 'open' : ''"></div>
+    </button>
+    <ul class="full-width dropdown-menu" *ngIf="isVisible">
+      <li class="dropdown-toolbar" *ngIf="showToolbar">
+        <div class="btn-toolbar" fxLayout="row" fxFlex fxLayoutAlign="end">
+          <input #searchInput type="text" class="form-control form-control-toolbar no-validation" placeholder="{{ texts.searchPlaceholder }}"
+                 aria-describedby="sizing-addon3" [formControl]="searchField" *ngIf="settings.button.search"
+                 [ngClass]="{ toolbarButtons: hasToolbarButtons }" fxFlex>
+          <div class="ms-toolbar-buttons" fxLayout="row" *ngIf="hasToolbarButtons">
+            <button type="button" class="btn btn-secondary" disabled *ngIf="isLoading === true">
+              <mat-progress-spinner mode="indeterminate" diameter="16"></mat-progress-spinner>
+            </button>
+            <button type="button" class="btn btn-primary" (click)="btnClearFilter($event)" *ngIf="settings.button.search && searchFilterText.length > 0">
+              <span class="fa fa-remove" aria-hidden="true"></span>
+            </button>
+            <button type="button" class="btn btn-primary" (click)="btnSelectAll()" [title]="texts.checkAll" *ngIf="settings.button.selectAll">
+              <span class="fa fa-check-square" aria-hidden="true"></span>
+            </button>
+            <button type="button" class="btn btn-primary" (click)="btnClearAll()" [title]="texts.uncheckAll" *ngIf="settings.button.clearAll">
+              <span class="fa fa-square" aria-hidden="true"></span>
+            </button>
+            <button type="button" class="btn btn-primary" (click)="btnOk()" [title]="texts.ok" *ngIf="settings.button.ok">
+              <span class="fa fa-check" aria-hidden="true"></span>
+            </button>
+            <button type="button" class="btn btn-primary" (click)="btnCancel()" [title]="texts.cancel" *ngIf="settings.button.cancel">
+              <span class="fa fa-times" aria-hidden="true"></span>
+            </button>
+          </div>
+        </div>
+      </li>
+      <li class="dropdown-list">
+        <ul [style.max-height]="settings.maxHeight" (keydown)="keyboardListener($event)">
+          <li *ngFor="let option of filteredOptions; let i = index;" class="text-truncate">
+            <ux-form-group labelWidthClass="collapse" inputWidthClass="col-12" styleClass="ux-field-margin">
+              <input [tabindex]="i+1" #inputcheckbox [id]="'checkbox1a_' + i" type="checkbox" class="eui-input__checkbox" [disabled]="option.disabled"
+                     [checked]="option.checked" (change)="setSelected(option, i+1, $event)" *ngIf="settings.selectionLimit !== 1">
+              <label [for]="'checkbox1a_' + i" #inputlabel (click)="setSelected(option, i+1, $event)" [title]="option.name">{{ option.name }}</label>
+            </ux-form-group>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</form>

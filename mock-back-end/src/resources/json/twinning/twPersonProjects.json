@@ -1,0 +1,64 @@
+{
+  "personID": 2104,
+  "formalTitle": "Mr",
+  "firstName": "pierre",
+  "familyName": "Pelan",
+  "profEmail": "pierre.pelan@gov.be",
+  "position": "PAA Ministry of Finance",
+  "address": {
+    "addressID": 2050,
+    "street1": "Rue Loi 15",
+    "street2": "",
+    "postalCode": "1000",
+    "city": "Brussels",
+    "countryId": 101,
+    "countryName": "Belgium"
+  },
+  "projects": [
+    {
+      "twinningID": 1,
+      "region": "IPA",
+      "benCountry": "Albania",
+      "twinningNumber": "AL 12 IB FI 02",
+      "type": 1,
+      "projectTitle": "Modernization of the Albanian Customs Administration",
+      "sector": "TR, AG"
+    },
+    {
+      "twinningID": 2,
+      "region": "ENI South",
+      "benCountry": "Tunesia",
+      "twinningNumber": "TN/14/ENP/HE/44",
+      "type": 1,
+      "projectTitle": "Appui institutionnel en matière de maîtrise des risques sanitaires et environnementaux",
+      "sector": "AG"
+    },
+    {
+      "twinningID": 3,
+      "region": "ENI South",
+      "benCountry": "Tunesia",
+      "twinningNumber": "TN/14/ENP/HE/45",
+      "type": 2,
+      "projectTitle": "Appui institutionnel en matière de maîtrise des risques sanitaires et environnementaux",
+      "sector": "AG"
+    },
+    {
+      "twinningID": 4,
+      "region": "ENI South",
+      "benCountry": "Tunesia",
+      "twinningNumber": "TN/14/ENP/HE/46",
+      "type": 1,
+      "projectTitle": "Appui institutionnel en matière de maîtrise des risques sanitaires et environnementaux",
+      "sector": "AG"
+    },
+    {
+      "twinningID": 5,
+      "region": "ENI South",
+      "benCountry": "Tunesia",
+      "twinningNumber": "TN/14/ENP/HE/47",
+      "type": 2,
+      "projectTitle": "Appui institutionnel en matière de maîtrise des risques sanitaires et environnementaux",
+      "sector": "AG"
+    }
+  ]
+}

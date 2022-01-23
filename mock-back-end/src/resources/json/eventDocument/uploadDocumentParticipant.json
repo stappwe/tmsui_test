@@ -1,0 +1,38 @@
+{
+  "result": true,
+  "message": null,
+  "messageTranslationCode": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "documentId": 2389435,
+        "documentName": "Agenda_70726.docx",
+        "url": "https://webgate.acceptance.ec.europa.eu/Twinning/api/TMS/getAgendaDocument?eventId=70726",
+        "size": 311953,
+        "lastChanged": 1611132221000,
+        "lastChangedBy": "beaumse",
+        "documentType": 1
+      },
+      {
+        "documentId": 88692,
+        "documentName": "AttachmentList.xlsx",
+        "url": "https://webgate.acceptance.ec.europa.eu/Twinning/viewDocument?id=eyJhbGciOiJIUzI1NiJ9.eyJkSUQiOjg4NjkyLCJ0aW1lc3RhbXAiOjE2NDE5ODA3MzU0OTUsImRvY3VtZW50U291cmNlIjozfQ.DfkY_ef66FUA6tuq30bRnP68XWpEmmgiY_9LqVgHJAc",
+        "size": 17811,
+        "lastChanged": 1641883260000,
+        "lastChangedBy": "w1040253",
+        "documentType": 3
+      },
+      {
+        "documentId": 88695,
+        "documentName": "Book1.xls",
+        "url": "https://webgate.acceptance.ec.europa.eu/Twinning/viewDocument?id=eyJhbGciOiJIUzI1NiJ9.eyJkSUQiOjg4Njk1LCJ0aW1lc3RhbXAiOjE2NDE5ODA3MzU0OTYsImRvY3VtZW50U291cmNlIjozfQ.MlIKoYL8SGDJNeUcg_3bcuOemN0NN1nZ8FuzOWvcLQo",
+        "size": 29696,
+        "lastChanged": 1641909048000,
+        "lastChangedBy": "w1040253",
+        "documentType": 3
+      }
+    ],
+    "rowCount": 3
+  }
+}

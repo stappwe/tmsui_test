@@ -1,0 +1,90 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": "1",
+  "data": {
+    "rows": [
+      {
+        "whenChangedDate": "2020-12-09T15:49:19.000Z",
+        "startDate": null,
+        "endDate": "2021-01-28T15:30:00.000Z",
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-12-09T15:49:19.000Z",
+        "startDate": "2021-01-26T08:30:00.000Z",
+        "endDate": null,
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-11-19T15:53:39.000Z",
+        "startDate": "2021-01-26T09:00:00.000Z",
+        "endDate": null,
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-11-19T15:53:39.000Z",
+        "startDate": null,
+        "endDate": "2021-01-28T17:00:00.000Z",
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-10-19T09:19:53.000Z",
+        "startDate": "2021-02-01T09:00:00.000Z",
+        "endDate": null,
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-10-19T09:19:53.000Z",
+        "startDate": null,
+        "endDate": "2021-02-02T17:00:00.000Z",
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-10-19T09:18:03.000Z",
+        "startDate": null,
+        "endDate": "2021-01-02T17:00:00.000Z",
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-10-19T09:18:03.000Z",
+        "startDate": "2021-01-01T09:00:00.000Z",
+        "endDate": null,
+        "changedBy": "BOWENDA",
+        "workflowStatus": "19.Active event",
+        "workflowChangedSince": "2020-10-19T09:18:02.000Z"
+      },
+      {
+        "whenChangedDate": "2020-10-19T09:14:34.000Z",
+        "startDate": null,
+        "endDate": "2100-01-01T00:00:00.000Z",
+        "changedBy": "BOWENDA",
+        "workflowStatus": "0.Draft Event",
+        "workflowChangedSince": "2020-10-19T09:14:33.000Z"
+      },
+      {
+        "whenChangedDate": "2020-10-19T09:14:34.000Z",
+        "startDate": "2100-01-01T00:00:00.000Z",
+        "endDate": null,
+        "changedBy": "BOWENDA",
+        "workflowStatus": "0.Draft Event",
+        "workflowChangedSince": "2020-10-19T09:14:33.000Z"
+      }
+    ],
+    "rowCount": 4
+  }
+}

@@ -1,0 +1,1030 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "evalSysPartId": 3,
+    "status": 0,
+    "languageCodes": "en,fr",
+    "defaultLanguage": "fr",
+    "form": [
+      {
+        "controlType": "FormTabs",
+        "order": 1,
+        "label": null,
+        "qId": 11001,
+        "key": "1",
+        "tabs": [
+          {
+            "controlType": "FormTab",
+            "order": 1,
+            "label": "Event",
+            "qId": 11100,
+            "key": "1_1",
+            "questionList": [
+              {
+                "controlType": "TextInfo",
+                "order": 1,
+                "label": "Evaluation Report",
+                "value": "Workshop - Local co-organizer",
+                "labelLayout": 1,
+                "qId": 11110,
+                "key": "1_1_1"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 2,
+                "label": "Event",
+                "value": "TAIEX Assessment Mission on Communicable Diseases, Surveillance and Control",
+                "labelLayout": 1,
+                "qId": 11120,
+                "key": "1_1_2"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 3,
+                "label": "Event ID and Classification",
+                "value": "Event 69371 - AGR - Workshop",
+                "labelLayout": 1,
+                "qId": 11130,
+                "key": "1_1_3"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 4,
+                "label": "Location and Date",
+                "value": "Ambrolauri,Batumi,Gori,Kutaisi,Ozurgeti,Poti,Rustavi,Tbilisi,Telavi,Zugdidi, Georgia - 11 - 15 Nov 2019",
+                "labelLayout": 1,
+                "qId": 11140,
+                "key": "1_1_4"
+              },
+              {
+                "controlType": "TextInfo",
+                "order": 5,
+                "label": "Beneficiary Institution",
+                "value": "Ministry of Health",
+                "labelLayout": 1,
+                "qId": 11150,
+                "key": "1_1_5"
+              },
+              {
+                "controlType": "YesNo",
+                "order": 6,
+                "label": "Did I attend this event?",
+                "value": null,
+                "hint": "When you didn't attend, no feedback will be collected",
+                "required": true,
+                "labelLayout": 1,
+                "qId": 11160,
+                "key": "1_1_6"
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 2,
+            "label": "General evaluation",
+            "qId": 11200,
+            "key": "1_2",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "Was the workshop carried out according to the agenda?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 11400
+              },
+              {
+                "order": 2,
+                "label": "Was the programme well structured?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 11410
+              },
+              {
+                "order": 3,
+                "label": "Was enough time allowed for questions and discussions?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 11420
+              },
+              {
+                "order": 4,
+                "label": "Was the aim of the workshop achieved?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 11430
+              },
+              {
+                "order": 5,
+                "label": "Did the participants actively participate in the workshop? ",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 1,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 2,
+                    "name": "No"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 11440
+              },
+              {
+                "order": 7,
+                "label": "Do you expect any follow-up based on the results of the workshop (new legislation, new administrative approach, etc.)?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 11460
+              },
+              {
+                "order": 8,
+                "label": "Do you think that further TAIEX - IPA, ENI assistance is needed (workshop, expert mission, study visit, assessment mission) on the topic of this workshop?",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "list": [
+                  {
+                    "id": 14,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 15,
+                    "name": "No"
+                  }
+                ],
+                "labelLayout": 1,
+                "listLayout": 0,
+                "qId": 11470
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 3,
+            "label": "Speaker evaluation",
+            "qId": 11300,
+            "key": "1_3",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "How do you assess the quality of the speakers?",
+                "value": null,
+                "controlType": "TextInfo",
+                "labelLayout": 1,
+                "qId": 11310
+              },
+              {
+                "order": 2,
+                "label": "Jeremy Duns",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973254,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11320
+              },
+              {
+                "order": 3,
+                "label": "Graham Fraser",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973250,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11330
+              },
+              {
+                "order": 4,
+                "label": "Frank Van Loock",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973249,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11340
+              },
+              {
+                "order": 5,
+                "label": "Colombe Mercey",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973247,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11350
+              },
+              {
+                "order": 6,
+                "label": "Nino (Nika) Kochishvili",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973246,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11360
+              },
+              {
+                "order": 7,
+                "label": "Svetla Tsalova",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973245,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11370
+              },
+              {
+                "order": 8,
+                "label": "Julien Beaute",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973240,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11380
+              },
+              {
+                "order": 9,
+                "label": "Emmanuelle Roure",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973248,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11390
+              },
+              {
+                "order": 10,
+                "label": "Boguslaw Suski",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973244,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11400
+              },
+              {
+                "order": 11,
+                "label": "Katrin Leitmeyer",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973243,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11410
+              },
+              {
+                "order": 12,
+                "label": "Antonis Lanaras",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973242,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11420
+              },
+              {
+                "order": 13,
+                "label": "Antonio Carnieletto",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973241,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11430
+              },
+              {
+                "order": 14,
+                "label": "Elisabeth Waagensen",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973253,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11440
+              },
+              {
+                "order": 15,
+                "label": "Ketevan Kandelaki",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973252,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11450
+              },
+              {
+                "order": 16,
+                "label": "Silviu Domente",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 973251,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11460
+              },
+              {
+                "order": 17,
+                "label": "Fernando    Simon Soria    ",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 969581,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11470
+              },
+              {
+                "order": 18,
+                "label": "Jose Manuel Calheiros",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 969566,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11480
+              },
+              {
+                "order": 19,
+                "label": "Petri  Ruutu",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 969026,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11490
+              },
+              {
+                "order": 20,
+                "label": "Donato Greco",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 970916,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11500
+              },
+              {
+                "order": 21,
+                "label": "Iosif Papaparaskevas",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 969065,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11510
+              },
+              {
+                "order": 22,
+                "label": "Adriana Pistol",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": true,
+                "id": 970795,
+                "list": [
+                  {
+                    "id": 7,
+                    "name": "Excellent"
+                  },
+                  {
+                    "id": 8,
+                    "name": "Good"
+                  },
+                  {
+                    "id": 9,
+                    "name": "Satisfactory"
+                  },
+                  {
+                    "id": 10,
+                    "name": "Poor"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11520
+              }
+            ]
+          },
+          {
+            "controlType": "FormTab",
+            "order": 4,
+            "label": "Logistics rating",
+            "qId": 11400,
+            "key": "1_4",
+            "questionList": [
+              {
+                "order": 1,
+                "label": "Were you satisfied with the logistical arrangements?",
+                "value": null,
+                "controlType": "TextInfo",
+                "labelLayout": 1,
+                "qId": 11410
+              },
+              {
+                "order": 2,
+                "label": "Conference venue",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11420
+              },
+              {
+                "order": 3,
+                "label": "Interpretation",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11430
+              },
+              {
+                "order": 4,
+                "label": "Hotel",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11440
+              },
+              {
+                "order": 5,
+                "label": "Flight",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11450
+              },
+              {
+                "order": 6,
+                "label": "Catering",
+                "value": null,
+                "controlType": "RadioGroup",
+                "required": false,
+                "list": [
+                  {
+                    "id": 11,
+                    "name": "Yes"
+                  },
+                  {
+                    "id": 12,
+                    "name": "No"
+                  },
+                  {
+                    "id": 13,
+                    "name": "Partially"
+                  }
+                ],
+                "labelLayout": 0,
+                "listLayout": 0,
+                "qId": 11460
+              },
+              {
+                "controlType": "TextArea",
+                "order": 7,
+                "label": "General Comments and suggestions",
+                "value": null,
+                "hint": "Comment and suggestions on the event organization in general (content, accommodation, travel...)",
+                "required": false,
+                "fieldSize": 500,
+                "labelLayout": 1,
+                "qId": 11470
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

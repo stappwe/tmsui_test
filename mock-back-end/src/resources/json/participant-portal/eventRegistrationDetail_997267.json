@@ -1,0 +1,106 @@
+{
+  "eventId": 80390,
+  "motherEventId": 80390,
+  "eventName": "Online Workshop on Strengthening supervision capacity of the financial and Capital Market",
+  "eventType": "SRSP",
+  "startDate": 1632470400000,
+  "endDate": 1632549600000,
+  "cityList": ["Video Tele Conference"],
+  "countryEventPlace": "EU Institution",
+  "ibuCaseHandler": {
+    "id": "sanchis",
+    "name": "Isabel SANCHEZ",
+    "email": "Isabel.SANCHEZ@ec.europa.eu",
+    "phone": "+32 2 29 85652"
+  },
+  "coCaseHandler": {
+    "id": "w1040294",
+    "name": "Ayse Turkmen",
+    "email": "ayse.turkmen@cecoforma.com",
+    "phone": null
+  },
+  "lco": null,
+  "agendaURL": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getAgendaDocument?id=ty23jja5iaYEJcU99KZmGA",
+  "publishedDocuments": [
+    {
+      "id": 2403284,
+      "name": "Mr Eric Sonnet",
+      "position": "Directeur",
+      "institutionName": "Service Public Fédéral Economie, PME, Classes Moyennes et Energie",
+      "country": "Belgium",
+      "link": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=Vnu47nq4_U33KAVrjcDyVw",
+      "displayName": "Eric Sonnet Présentation du 14 décembre 2020 .pptx",
+      "size": 21123311,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2403285,
+      "name": "Mr Eric Sonnet",
+      "position": "Directeur",
+      "institutionName": "Service Public Fédéral Economie, PME, Classes Moyennes et Energie",
+      "country": "Belgium",
+      "link": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=fLDyTDy_au7znfYyK4zB7g",
+      "displayName": "Eric Sonnet Présentation du 16 décembre 2020 bis (wecompress.com).pptx",
+      "size": 21123311,
+      "isOwner": 1,
+      "canDelete": 1
+    },
+    {
+      "id": 2404458,
+      "name": "Mr benedetto ballatore",
+      "position": "public officer  ",
+      "institutionName": "MINISTRY OF AGRICULTURE, FOODSTUFFS AND FORESTRY POLICIES",
+      "country": "Italy",
+      "link": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=vGVIsgNQiB_mdrcJa87UxA",
+      "displayName": "Ballatore I Labelling analysis.pptx",
+      "size": 21123311,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2404459,
+      "name": "Mr benedetto ballatore",
+      "position": "public officer  ",
+      "institutionName": "MINISTRY OF AGRICULTURE, FOODSTUFFS AND FORESTRY POLICIES",
+      "country": "Italy",
+      "link": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=Lw0Qp4udE1TOtObDqcsxLg",
+      "displayName": "Ballatore III.pptx",
+      "size": 21123311,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2404460,
+      "name": "Mr benedetto ballatore",
+      "position": "public officer  ",
+      "institutionName": "MINISTRY OF AGRICULTURE, FOODSTUFFS AND FORESTRY POLICIES",
+      "country": "Italy",
+      "link": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=0s9u_7kbXGxG9WNiR9EM3Q",
+      "displayName": "Second presentation Ballatore.pptx",
+      "size": 21123311,
+      "isOwner": 0,
+      "canDelete": 0
+    },
+    {
+      "id": 2404461,
+      "name": "Ms Valerie Bastin",
+      "position": "Attaché",
+      "institutionName": "Federal Public Service Economy",
+      "country": "Belgium",
+      "link": "https://webgate.ec.europa.eu/TMSWebRestrict/api/library/getPresentationFile?id=7S3-whduiVgcs2nCXUw9JA",
+      "displayName": "Valerie Bastin.pptx",
+      "size": 21123311,
+      "isOwner": 0,
+      "canDelete": 0
+    }
+  ],
+  "confirmationLetterURL": "https://webgate.ec.europa.eu/TMSWebRestrict/publicDocument?id=7S3-whduiVgcs2nCXUw9JA",
+  "registrationURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/speakerForm/print?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiIxMDUxNCJ9.QLIL6Wzq5BCkuMJ5WY4yQRXueW1x795tqBy3ez1qkhw",
+  "agendaURL": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/api/library/getAgendaDocument?id=okAmEVpZ2KRbCVE2FO-VBw",
+  "participantId": 997267,
+  "personType": 1,
+  "contractorFullName": "IBF International Consulting",
+  "participationGuideURL": "https://webgate.ec.europa.eu/TMSWebRestrict/publicDocument?id=169"
+}
+

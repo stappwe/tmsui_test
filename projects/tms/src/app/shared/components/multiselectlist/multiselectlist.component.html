@@ -1,0 +1,32 @@
+<div fxLayout="row">
+  <div class="form-data caption" fxFlex="45%">
+    <span class="bold">List of selected items</span>
+  </div>
+  <div class="form-data caption" fxFlex="10%">
+  </div>
+  <div class="form-data caption" fxFlex="45%">
+    <span class="bold">Available items</span>
+  </div>
+</div>
+<div fxLayout="row" fxLayoutGap="5px">
+  <div fxFlex="45%">
+    <select #selectedList class="form-control" multiple="multiple" size="20" [disabled]="disabled">
+      <option *ngFor="let item of selectedItems" [ngValue]="item.id" [title]="item.name">{{ item.name }}</option>
+    </select>
+  </div>
+  <div class="btn-toolbar no-padding text-center" fxFlex="10%" fxLayout="column" fxLayoutGap="5px">
+    <button type="button" class="btn btn-icon btn-primary" title="Add" [disabled]="disabled" (click)="addItem(unSelectedList,selectedList)">
+      <span class="fa fa-arrow-left" aria-hidden="true"></span>
+    </button>
+    <button type="button" class="btn btn-icon btn-primary" title="Remove" [disabled]="disabled" (click)="removeItem(selectedList,unSelectedList)">
+      <span class="fa fa-arrow-right" aria-hidden="true"></span>
+    </button>
+  </div>
+  <div fxFlex="45%">
+    <select #unSelectedList class="form-control" multiple="multiple" size="20" [disabled]="disabled">
+      <option *ngFor="let item of unselectedItems" [ngValue]="item.id" [title]="item.name">{{ item.name }}</option>
+    </select>
+  </div>
+</div>
+
+

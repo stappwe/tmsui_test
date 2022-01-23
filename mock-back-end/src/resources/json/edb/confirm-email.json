@@ -1,0 +1,8 @@
+{
+  "result": true,
+  "message": "Thank you to complete the email validation. You can now start using the TAIEX Expert Database",
+  "messageType": 1,
+  "data": {
+    "userToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbnR5cGUiOjYsInJvbGUiOjE2LCJpZCI6MSwiZW1haWwiOiJ3c0B0YWlleC5iZSIsInVzZXJOYW1lIjoiUnV0aCBNQVJUSU4ifQ.XUh5eMNuLs6SFxD4n2COg4ihfcDbpiO6_2G3M__MLdxgZOZ6EPHga4o9ISFLDL6BOOAtap70um-yFwpFV9X-PQ"
+  }
+}

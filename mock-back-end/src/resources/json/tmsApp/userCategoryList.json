@@ -1,0 +1,72 @@
+[
+  {
+    "userCategoryId": 2048,
+    "abbreviation": "Carlbro",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 16,
+    "abbreviation": "DEVCO",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 8192,
+    "abbreviation": "EIR",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 2,
+    "abbreviation": "GIZ_5",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 512,
+    "abbreviation": "GTZ_4",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 1024,
+    "abbreviation": "IBF-GTZ",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 4,
+    "abbreviation": "IBF_6",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 256,
+    "abbreviation": "IBF_7",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 1,
+    "abbreviation": "IBU",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 8,
+    "abbreviation": "NEAR",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 32,
+    "abbreviation": "PI",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 64,
+    "abbreviation": "REGIO",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 4096,
+    "abbreviation": "SRSP",
+    "userType": 0
+  },
+  {
+    "userCategoryId": 128,
+    "abbreviation": "TCC",
+    "userType": 0
+  }
+]

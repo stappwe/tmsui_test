@@ -1,0 +1,16 @@
+{
+  "eventTypeId": 44,
+  "description": "ATCC Expert Mission",
+  "abbreviation": "ATCC IND/EXP",
+  "status": 1,
+  "taiexPublish": 0,
+  "edbPublish": 0,
+  "agendaRequired": 1,
+  "active": 1,
+  "budgetTeam": "TCC",
+  "eventCategory": "Expert Mission",
+  "userId": "bowenda",
+  "eventCategoryId": 3,
+  "budgetTeamId": 2,
+  "evaluationRequired": 1
+}

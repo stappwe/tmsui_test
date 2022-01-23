@@ -1,0 +1,9 @@
+{
+    "source": "Configuration File",
+    "menus" : [
+        {
+            "label": "Dummy coming from local Config",
+            "url": "#"
+        }
+    ]
+}

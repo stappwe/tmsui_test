@@ -1,0 +1,82 @@
+{
+  "EVENTID": 62820,
+  "EVENTTYPE": "INT MARKT",
+  "TASKID": 25999,
+  "TEAMLEADER": "TODOROV Lazar",
+  "IBUCASEHANDLER": "LUKASEVICIENE Ieva",
+  "ACCOUNTCH": "Shagan Anna",
+  "NAME": "TAIEX Workshop on Social Inclusion of Syrians under Temporary Protection in Turkey",
+  "SUBJECT": "19 Social policy and employment [05] (Partial),19.20 Social policy [05.20] (Partial),19.20.05 General social provisions [05.20.05] (Complete),19.20.30 Employment and unemployment [05.20.30] (Partial),19.20.30.30 Employment incentives [05.20.30.30] (Complete)",
+  "STARTDATESTR": "22/11/2016 09:30",
+  "ENDDATESTR": "23/11/2016 13:00",
+  "CITY": "Ankara",
+  "COUNTRY": "Turkey",
+  "BENEFICIARY": "Turkey",
+  "MULTICOUNTRY": "No",
+  "LASTCHANGEDDATE": "03/01/2018 18:53",
+  "AFSIGNDATE": "03/11/2016 16:20",
+  "OFSIGNDATE": "10/11/2016 16:23",
+  "TEAMLEADEREMAIL": "Lazar.TODOROV@ec.europa.eu",
+  "IBUCASEHANDLEREMAIL": "Ieva.LUKASEVICIENE@ec.europa.eu",
+  "ACCOUNTCHEMAIL": "shagan@ibf.be",
+  "OFCOMMENT": "-The prices encoded excluding VAT. \f\n-Provisional budget has been foreseen in \"Other\" to reimburse visa costs to Ms Carvalho (PT). The other experts will not need visas for their entries to Turkey.   \f\n-Addendum will follow to add 10 local participants + flights + accommodation. Catering and head phones have been foreseen in this file. \f\n-Ms Guven Gures will organize her own accommodation and airport transfers in Ankara. She will cover airport transfers by herself. ",
+  "EVENTREMARK": "final registration tool and accommodation&travel list received on 08/11.",
+  "STATUS": 0,
+  "FEE": 3493,
+  "FEEADDITIONAL": 0,
+  "BALANCE": 0,
+  "TOTALBUDGET": 24446.64,
+  "COMMENTSTATUS": 2,
+  "EXPENDITURE": 22998.87,
+  "TEAMLEADERPHONE": "+32 229-65516",
+  "IBUCASEHANDLERPHONE": "+32 229-87713",
+  "ACCOUNTCHPHONE": "+32 2 237 09 98",
+  "ER_CC_F_DATE": "09/12/2016 12:41",
+  "ER_TC_A_DATE": "12/12/2016 10:38",
+  "TASKCARDURL": "https://webgate.acceptance.ec.europa.eu/TMS/updateTask.do?dispatch=Modify&taskcardID=25999",
+  "COMMENTLISTURL": "https://webgate.acceptance.ec.europa.eu/TMS/eventDashboard.do?dispatch=Select&eventID=62820",
+  "STATUSADDENCORR": [
+    {
+      "EVENTID": 62820,
+      "TYPE": "Main Event",
+      "NUMBER": 0,
+      "DATEOFSIGNATURE": "10/11/2016 16:23",
+      "STATUS": "S",
+      "COST": 21721.51
+    },
+    {
+      "EVENTID": 63586,
+      "TYPE": "Add.",
+      "NUMBER": 1,
+      "DATEOFSIGNATURE": "14/11/2016 16:17",
+      "STATUS": "S",
+      "COST": -674.4
+    },
+    {
+      "EVENTID": 63642,
+      "TYPE": "Corr.",
+      "NUMBER": 2,
+      "DATEOFSIGNATURE": "23/11/2016 16:56",
+      "STATUS": "S",
+      "COST": 2725.13
+    }
+  ],
+  "BUDGETLINES": [
+    {
+      "BUDGETLINE": "IPA",
+      "BENEFICIARIES": "Turkey",
+      "PARTICIPANTS": 90,
+      "COST": 22998.87
+    }
+  ],
+  "AFREVOKED": "N",
+  "OFREVOKED": "N",
+  "ENABLEWFB_FCA": 1,
+  "ENABLEWFB_FCRA": 1,
+  "ENABLEWFB_FCRC": 1,
+  "ADJUSTMENTS": -773.37,
+  "LASTSIGNEDER_RS_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=869420&key=24ca8333e73ee7fbd154c30cf9ef7a37",
+  "LASTSIGNEDER_BL_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=869419&key=aea576cf1e2f5765bb8e71b4622be19e",
+  "LASTSIGNEDER_ER_URL": "https://webgate.acceptance.ec.europa.eu/TMS/uploadDocument.do?dispatch=Extract&documentID=869418&key=ea75602be76b215c775986f3f3645d64",
+  "OPENFOLDER_URL": "\\\\s-elarg-pen01\\TMSACCEPTANCE\\Events\\INT MARKT\\2016\\Open\\62820-TR-Ankara"
+}

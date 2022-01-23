@@ -1,0 +1,79 @@
+[
+  {
+    "projectId": 1,
+    "description": "Instrument for Pre-Accession Assistance, European Neighbourhood Instrument",
+    "abbreviation": "IPA, ENI",
+    "comment": null,
+    "emailRequestValidator": null,
+    "signatureEmail": "Kind regards,<br/><br/>Unit C.3 - Institution-Building, TAIEX, Twinning<br/>Directorate C - Neighbourhood East and Institution Building<br/>Directorate-General Neighbourhood and Enlargement Negotiations<brEuropean Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+    "signatureEmailOutlook": null,
+    "generalEmail": null,
+    "consultation": 0
+  },
+  {
+    "projectId": 2,
+    "description": "Partnership Instrument",
+    "abbreviation": "PI",
+    "comment": null,
+    "emailRequestValidator": null,
+    "signatureEmail": "Kind regards,<br/><br/>The TAIEX Unit<br/>for the Partnership Instrument<br/>European Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+    "signatureEmailOutlook": null,
+    "generalEmail": null,
+    "consultation": 0
+  },
+  {
+    "projectId": 3,
+    "description": "Regional policy",
+    "abbreviation": "REGIO PEER 2 PEER",
+    "comment": null,
+    "emailRequestValidator": null,
+    "signatureEmail": "Kind regards,<br/><br/>The TAIEX Unit<br/>for TAIEX REGIO Peer 2 Peer<br/>European Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+    "signatureEmailOutlook": null,
+    "generalEmail": null,
+    "consultation": 0
+  },
+  {
+    "projectId": 4,
+    "description": "Turkish Cypriot Community",
+    "abbreviation": "TCC",
+    "comment": null,
+    "emailRequestValidator": null,
+    "signatureEmail": "Kind regards,<br/><br/>Unit C.3 - Institution-Building, TAIEX, Twinning<br/>Directorate C - Neighbourhood East and Institution Building<br/>Directorate-General Neighbourhood and Enlargement Negotiations<brEuropean Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+    "signatureEmailOutlook": null,
+    "generalEmail": null,
+    "consultation": 0
+  },
+  {
+    "projectId": 5,
+    "description": "Technical Support Instrument",
+    "abbreviation": "TSI PEER 2 PEER",
+    "comment": null,
+    "emailRequestValidator": null,
+    "signatureEmail": "Kind regards,<br/><br/>The TAIEX Unit<br/>for TAIEX TSI Peer 2 Peer<br/>European Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+    "signatureEmailOutlook": null,
+    "generalEmail": "SRSS-SRSP-TAIEX-VALIDATION-TMS@ec.europa.eu",
+    "consultation": 0
+  },
+  {
+    "projectId": 7,
+    "description": "International Partnership peer reviews",
+    "abbreviation": "INTPA PEER 2 PEER",
+    "comment": null,
+    "emailRequestValidator": null,
+    "signatureEmail": "Kind regards,<br/><br/>The TAIEX Unit<br/>for TAIEX INTPA Peer 2 Peer<br/>European Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>\n\n",
+    "signatureEmailOutlook": null,
+    "generalEmail": "NEAR-TAIEX-INTPA@ec.europa.eu;FPI-4-TAIEX@ec.europa.eu",
+    "consultation": 0
+  },
+  {
+    "projectId": 6,
+    "description": "Environmental Implementation Review",
+    "abbreviation": "EIR PEER 2 PEER",
+    "comment": null,
+    "emailRequestValidator": null,
+    "signatureEmail": "Kind regards,<br/><br/>The TAIEX Unit<br/>for TAIEX EIR Peer 2 Peer<br/>European Commission<br/><a href=\"http://ec.europa.eu/taiex\" target=\"_blank\">http://ec.europa.eu/taiex</a>",
+    "signatureEmailOutlook": null,
+    "generalEmail": "ENV-EIR@ec.europa.eu",
+    "consultation": 0
+  }
+]

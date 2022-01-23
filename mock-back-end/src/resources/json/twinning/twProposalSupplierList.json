@@ -1,0 +1,21 @@
+{
+  "twinningID": 2011242,
+  "participantID": 52648,
+  "countryId": 105,
+  "jobtitleID": 1,
+  "personId": null,
+  "personName": null,
+  "documentType": null,
+  "documentID": null,
+  "documentName": null,
+  "documentStr": null,
+  "proposalID": 2,
+  "replaced": false,
+  "selected": true,
+  "followedTraining": false,
+  "lastTraining": null,
+  "comment": null,
+  "countryRoleID": 1,
+  "supplierId": null,
+  "supplierTypeID": null
+}

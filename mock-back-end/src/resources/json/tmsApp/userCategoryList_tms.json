@@ -1,0 +1,49 @@
+[{
+  "userCategoryId" : 1,
+  "abbreviation" : "IBU",
+  "userType" : 1
+}, {
+  "userCategoryId" : 2,
+  "abbreviation" : "GIZ",
+  "userType" : 2
+}, {
+  "userCategoryId" : 4,
+  "abbreviation" : "IBF",
+  "userType" : 2
+}, {
+  "userCategoryId" : 32,
+  "abbreviation" : "PI",
+  "userType" : 1
+}, {
+  "userCategoryId" : 64,
+  "abbreviation" : "REGIO",
+  "userType" : 1
+}, {
+  "userCategoryId" : 128,
+  "abbreviation" : "TCC",
+  "userType" : 1
+}, {
+  "userCategoryId" : 256,
+  "abbreviation" : "IBF",
+  "userType" : 2
+}, {
+  "userCategoryId" : 4096,
+  "abbreviation" : "SRSP",
+  "userType" : 1
+}, {
+  "userCategoryId" : 8192,
+  "abbreviation" : "EIR",
+  "userType" : 1
+}, {
+  "userCategoryId" : 512,
+  "abbreviation" : "GTZ",
+  "userType" : 2
+}, {
+  "userCategoryId" : 1024,
+  "abbreviation" : "IBF-GTZ",
+  "userType" : 2
+}, {
+  "userCategoryId" : 2048,
+  "abbreviation" : "Carlbro",
+  "userType" : 2
+}]

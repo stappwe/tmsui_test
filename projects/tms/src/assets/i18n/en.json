@@ -1,0 +1,59 @@
+{
+  "tms": {
+    "app-header.component": {
+      "fullTitle": "TMS",
+      "shortTitle": "TMS"
+    },
+    "home.page.title": "TMS Home",
+    "dashboard" : {
+      "title" : "TMS Dashboard",
+      "listType" : {
+        "AF" : "Events to AF sign",
+        "OF" : "Events to OF sign",
+        "ER" : "Checklist Events",
+        "INVOICE" : "",
+        "TASK" : "New Tasks",
+        "APPROVAL" : "Approval Forms"
+      },
+      "er": {
+        "placeholder": {
+          "filename": "Checklist document to upload"
+        }
+      },
+      "mail": {
+        "approvalSubject": "Task approval",
+        "invSubject" : "Invoice event verification"
+      },
+      "messages": {
+        "selectSignEvent": "Select event(s) to sign",
+        "selectRefuseEvent": "Select event(s) to refuse"
+      }
+    },
+    "about.page.title": "TMS About",
+    "event": {
+      "registration": {
+        "title": "Participant registration - Event:"
+      }
+    }
+  },
+  "twinning": {
+    "app-header.component": {
+      "fullTitle": "Twinning",
+      "shortTitle": "TW"
+    },
+    "home.page.title": "Twinning Home",
+    "about.page.title": "Twinning About",
+    "fiche": {
+      "ares" : "ARES code",
+      "crisProspect" : "CRIS, PROSPECT",
+      "duration" : "in months...",
+      "reviewMission" : "TAIEX event ID"
+    }
+  },
+  "app": {
+    "search.button": "Search",
+    "placeholder": {
+      "filename": "Select file to upload"
+    }
+  }
+}

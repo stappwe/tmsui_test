@@ -1,0 +1,12 @@
+{
+  "result": true,
+  "message": null,
+  "messageTranslationCode": null,
+  "messageType": 1,
+  "data": {
+    "id": 22,
+    "type": 3,
+    "languageId": 0,
+    "name": "poster.jpg"
+  }
+}

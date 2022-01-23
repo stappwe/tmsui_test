@@ -1,0 +1,14 @@
+{
+  "result": true,
+  "message": null,
+  "messageType": 1,
+  "data": {
+    "checklistSpeakers": true,
+    "checklistInterpretors": false,
+    "checklistHotels": false,
+    "checklistCatering": false,
+    "checklistConference": false,
+    "checklistOthers": false,
+    "checklistPackage": true
+  }
+}

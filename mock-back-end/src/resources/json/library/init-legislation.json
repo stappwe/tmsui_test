@@ -1,0 +1,8142 @@
+[
+  {
+    "id": 11719005,
+    "description": "01 Free movement of goods",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 6,
+        "description": "Chemicals/REACH"
+      },
+      {
+        "id": 53,
+        "description": "Dangerous substances"
+      },
+      {
+        "id": 477,
+        "description": "SDG 08 - Decent Work and Economic Growth"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 279,
+        "description": "Construction/Eurocodes"
+      },
+      {
+        "id": 280,
+        "description": "Construction products"
+      },
+      {
+        "id": 276,
+        "description": "Machines"
+      },
+      {
+        "id": 384,
+        "description": "Textiles"
+      },
+      {
+        "id": 157,
+        "description": "Risk assessment"
+      },
+      {
+        "id": 336,
+        "description": "Medical devices"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 223,
+        "description": "Cosmetics"
+      },
+      {
+        "id": 221,
+        "description": "Gas appliances"
+      },
+      {
+        "id": 51,
+        "description": "Mutual recognition"
+      },
+      {
+        "id": 101,
+        "description": "Product safety"
+      },
+      {
+        "id": 278,
+        "description": "Motor vehicles"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 220,
+        "description": "Accreditation "
+      },
+      {
+        "id": 7,
+        "description": "Fertilisers"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 382,
+        "description": "CE marking"
+      },
+      {
+        "id": 277,
+        "description": "Explosives"
+      },
+      {
+        "id": 102,
+        "description": "Agricultural and forestry tractors"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 52,
+        "description": "Standardisation"
+      },
+      {
+        "id": 5,
+        "description": "Pharmaceutical"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 335,
+        "description": "Market surveillance"
+      },
+      {
+        "id": 152,
+        "description": "Chapter 01"
+      },
+      {
+        "id": 222,
+        "description": "Metrology/MID"
+      },
+      {
+        "id": 337,
+        "description": "Electrical and electronic equipment"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 383,
+        "description": "Toys"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 0
+  },
+  {
+    "id": 11719006,
+    "description": "01.10 Internal market: approximation of laws [13.30]",
+    "parentid": 11719005,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 1
+  },
+  {
+    "id": 11719007,
+    "description": "01.10.05 General, programmes [13.30.05]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 2
+  },
+  {
+    "id": 11719008,
+    "description": "01.10.10 Motor vehicles [13.30.10]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 3
+  },
+  {
+    "id": 11719009,
+    "description": "01.10.11 Agricultural and forestry tractors [13.30.11]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 4
+  },
+  {
+    "id": 11719010,
+    "description": "01.10.12 Metrology [13.30.12]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 5
+  },
+  {
+    "id": 11719011,
+    "description": "01.10.13 Electrical material [13.30.13]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 6
+  },
+  {
+    "id": 11719012,
+    "description": "01.10.15 Proprietary medicinal products [13.30.15]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 7
+  },
+  {
+    "id": 11719013,
+    "description": "01.10.16 Cosmetics [13.30.16]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 8
+  },
+  {
+    "id": 11719014,
+    "description": "01.10.17 Textiles [13.30.17]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 9
+  },
+  {
+    "id": 11719015,
+    "description": "01.10.18 Dangerous substances [13.30.18]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 10
+  },
+  {
+    "id": 11719016,
+    "description": "01.10.19 Fertilisers [13.30.19]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 11
+  },
+  {
+    "id": 11719017,
+    "description": "01.10.99 Other sectors for approximation of laws [13.30.99]",
+    "parentid": 11719006,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 12
+  },
+  {
+    "id": 11719018,
+    "description": "02 Freedom of movement for workers",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 158,
+        "description": "Migrant workers"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 270,
+        "description": "Chapter 02"
+      },
+      {
+        "id": 281,
+        "description": "Social security "
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 13
+  },
+  {
+    "id": 11719019,
+    "description": "02.10 Freedom of movement for workers [05.10]",
+    "parentid": 11719018,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 14
+  },
+  {
+    "id": 11719020,
+    "description": "02.20 Social security [05.20.40]",
+    "parentid": 11719018,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 15
+  },
+  {
+    "id": 11719021,
+    "description": "02.20.10 Principles of social security [05.20.40.10]",
+    "parentid": 11719020,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 16
+  },
+  {
+    "id": 11719022,
+    "description": "02.20.20 Application to migrant workers [05.20.40.20]",
+    "parentid": 11719020,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 17
+  },
+  {
+    "id": 11719023,
+    "description": "03 Right of establishment and freedom to provide services [06]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 387,
+        "description": "Recognition of professional qualifications"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 386,
+        "description": "Posting of workers"
+      },
+      {
+        "id": 160,
+        "description": "Real property "
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 161,
+        "description": "Business activities "
+      },
+      {
+        "id": 388,
+        "description": "Services provided to undertakings "
+      },
+      {
+        "id": 54,
+        "description": "Leisure services "
+      },
+      {
+        "id": 385,
+        "description": "Services directive"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 104,
+        "description": "Self-employed activities"
+      },
+      {
+        "id": 46,
+        "description": "Chapter 03"
+      },
+      {
+        "id": 159,
+        "description": "Services of general interest"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 103,
+        "description": "Personnel services "
+      },
+      {
+        "id": 8,
+        "description": "Right of establishment "
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 18
+  },
+  {
+    "id": 11719024,
+    "description": "03.10 Principles and conditions [06.10]",
+    "parentid": 11719023,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 19
+  },
+  {
+    "id": 11719025,
+    "description": "03.20 Sectoral application [06.20]",
+    "parentid": 11719023,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 20
+  },
+  {
+    "id": 11719026,
+    "description": "03.20.10 Production and processing activities [06.20.10]",
+    "parentid": 11719025,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 21
+  },
+  {
+    "id": 11719027,
+    "description": "03.20.10.10 Agriculture [06.20.10.10]",
+    "parentid": 11719026,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 22
+  },
+  {
+    "id": 11719028,
+    "description": "03.20.10.20 Other production and processing activities [06.20.10.20]",
+    "parentid": 11719026,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 23
+  },
+  {
+    "id": 11719029,
+    "description": "03.20.20 Service activities [06.20.20]",
+    "parentid": 11719025,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 24
+  },
+  {
+    "id": 11719030,
+    "description": "03.20.20.40 Real property [06.20.20.40]",
+    "parentid": 11719029,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 25
+  },
+  {
+    "id": 11719031,
+    "description": "03.20.20.50 Leisure services [06.20.20.50]",
+    "parentid": 11719029,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 26
+  },
+  {
+    "id": 11719032,
+    "description": "03.20.20.60 Personnel services [06.20.20.60]",
+    "parentid": 11719029,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 27
+  },
+  {
+    "id": 11719033,
+    "description": "03.20.20.70 Services provided to undertakings [06.20.20.70]",
+    "parentid": 11719029,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 28
+  },
+  {
+    "id": 11719034,
+    "description": "03.20.20.80 Other service activities [06.20.20.80]",
+    "parentid": 11719029,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 29
+  },
+  {
+    "id": 11719035,
+    "description": "03.20.30 Business activities [06.20.30]",
+    "parentid": 11719025,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 30
+  },
+  {
+    "id": 11719036,
+    "description": "03.20.40 Self-employed activities [06.20.40]",
+    "parentid": 11719025,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 31
+  },
+  {
+    "id": 11719037,
+    "description": "03.20.50 Medical and paramedical activities [06.20.50]",
+    "parentid": 11719025,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 32
+  },
+  {
+    "id": 11719038,
+    "description": "03.20.60 Other activities [06.20.60]",
+    "parentid": 11719025,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 33
+  },
+  {
+    "id": 11719039,
+    "description": "04 Free movement of capital [10.40]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 283,
+        "description": "Single european payment area"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 224,
+        "description": "Settlement finality in payment and securities settlement systems"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 389,
+        "description": "EMoney/ EInvoicing"
+      },
+      {
+        "id": 225,
+        "description": "Investor compensation schemes"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 282,
+        "description": "Crossborder payments"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 378,
+        "description": "Chapter 04"
+      },
+      {
+        "id": 338,
+        "description": "Payment services"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 55,
+        "description": "Crossborder payments in euros"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 34
+  },
+  {
+    "id": 11719040,
+    "description": "05 Public procurement",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 56,
+        "description": "Public works/supply/service contracts"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 105,
+        "description": "Eprocurement"
+      },
+      {
+        "id": 47,
+        "description": "Chapter 05"
+      },
+      {
+        "id": 106,
+        "description": "Public private partnership"
+      },
+      {
+        "id": 284,
+        "description": "Framework agreements"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 162,
+        "description": "Defence procurement"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 35
+  },
+  {
+    "id": 11719041,
+    "description": "05.10 Public contracts [06.30]",
+    "parentid": 11719040,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 36
+  },
+  {
+    "id": 11719042,
+    "description": "05.10.10 General [06.30.10]",
+    "parentid": 11719041,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 37
+  },
+  {
+    "id": 11719043,
+    "description": "05.10.20 Public works contracts [06.30.20]",
+    "parentid": 11719041,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 38
+  },
+  {
+    "id": 11719044,
+    "description": "05.10.30 Public supply contracts [06.30.30]",
+    "parentid": 11719041,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 39
+  },
+  {
+    "id": 11719045,
+    "description": "05.10.40 Public services contracts [06.30.40]",
+    "parentid": 11719041,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 40
+  },
+  {
+    "id": 11719046,
+    "description": "05.10.50 Other public contracts [06.30.50]",
+    "parentid": 11719041,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 41
+  },
+  {
+    "id": 11719047,
+    "description": "06 Company law",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 285,
+        "description": "International Financial Reporting Standards (IFRS)"
+      },
+      {
+        "id": 9,
+        "description": "European company"
+      },
+      {
+        "id": 215,
+        "description": "Chapter 06"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 58,
+        "description": "Crossborder mergers "
+      },
+      {
+        "id": 391,
+        "description": "Takeover bids"
+      },
+      {
+        "id": 390,
+        "description": "Company accounts "
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 57,
+        "description": "Law relating to undertakings"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 42
+  },
+  {
+    "id": 11719048,
+    "description": "06.10 Law relating to undertakings [17]",
+    "parentid": 11719047,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 43
+  },
+  {
+    "id": 11719049,
+    "description": "06.10.10 Company law [17.10]",
+    "parentid": 11719048,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 44
+  },
+  {
+    "id": 11719050,
+    "description": "06.10.20 Economic and commercial law [17.30]",
+    "parentid": 11719048,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 45
+  },
+  {
+    "id": 11719051,
+    "description": "06.10.20.10 Business procedures [17.30.10]",
+    "parentid": 11719050,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 46
+  },
+  {
+    "id": 11719052,
+    "description": "07 Intellectual property law [17.20]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 392,
+        "description": "Patents "
+      },
+      {
+        "id": 165,
+        "description": "Industrial property rights"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 107,
+        "description": "Community design "
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 163,
+        "description": "Copyright and related rights"
+      },
+      {
+        "id": 164,
+        "description": "Counterfeit goods and piracy "
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 339,
+        "description": "Trade mark"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 330,
+        "description": "Chapter 07"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 47
+  },
+  {
+    "id": 11719053,
+    "description": "08 Competition policy [08]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 10,
+        "description": "Mergers"
+      },
+      {
+        "id": 393,
+        "description": "National trading monopolies"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 59,
+        "description": "Public undertakings "
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 271,
+        "description": "Chapter 08"
+      },
+      {
+        "id": 11,
+        "description": "Supervision procedures "
+      },
+      {
+        "id": 109,
+        "description": "Competition principles "
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 286,
+        "description": "Dominant positions "
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 108,
+        "description": "Agreements and abuse of dominant positions"
+      },
+      {
+        "id": 340,
+        "description": "State aid"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 12,
+        "description": "Concentrations "
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 48
+  },
+  {
+    "id": 11719054,
+    "description": "08.10 Competition principles [08.10]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 49
+  },
+  {
+    "id": 11719055,
+    "description": "08.20 Restrictive practices [08.20]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 50
+  },
+  {
+    "id": 11719056,
+    "description": "08.20.10 Prohibited agreements [08.20.10]",
+    "parentid": 11719055,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 51
+  },
+  {
+    "id": 11719057,
+    "description": "08.20.20 Authorised agreements, exemptions and negative clearances [08.20.20]",
+    "parentid": 11719055,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 52
+  },
+  {
+    "id": 11719058,
+    "description": "08.20.30 Supervision procedures [08.20.30]",
+    "parentid": 11719055,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 53
+  },
+  {
+    "id": 11719059,
+    "description": "08.30 Dominant positions [08.30]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 54
+  },
+  {
+    "id": 11719060,
+    "description": "08.40 Concentrations [08.40]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 55
+  },
+  {
+    "id": 11719061,
+    "description": "08.50 Application of the rules of competition to public undertakings [08.50]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 56
+  },
+  {
+    "id": 11719062,
+    "description": "08.60 State aids and other subsidies [08.60]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 57
+  },
+  {
+    "id": 11719063,
+    "description": "08.80 Obligations of undertakings [08.80]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 58
+  },
+  {
+    "id": 11719064,
+    "description": "08.90 National trading monopolies [08.90]",
+    "parentid": 11719053,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 59
+  },
+  {
+    "id": 11719065,
+    "description": "09 Financial services",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 13,
+        "description": "Financial markets infrastructures"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 166,
+        "description": "Insurance and occupational pensions"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 272,
+        "description": "Chapter 09"
+      },
+      {
+        "id": 60,
+        "description": "Banking "
+      },
+      {
+        "id": 226,
+        "description": "Securities markets and investment services"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 14,
+        "description": "Stock exchange"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 60
+  },
+  {
+    "id": 11719066,
+    "description": "09.10 Insurance [06.20.20.10]",
+    "parentid": 11719065,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 61
+  },
+  {
+    "id": 11719067,
+    "description": "09.20 Banks [06.20.20.20]",
+    "parentid": 11719065,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 62
+  },
+  {
+    "id": 11719068,
+    "description": "09.30 Stock exchanges and other securities markets [06.20.20.25]",
+    "parentid": 11719065,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 63
+  },
+  {
+    "id": 11719069,
+    "description": "09.40 Other economic and commercial provisions [17.30.20]",
+    "parentid": 11719065,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 64
+  },
+  {
+    "id": 11719070,
+    "description": "10 Information society and media",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 415,
+        "description": "Postal Services"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 309,
+        "description": "Telecommunications internet"
+      },
+      {
+        "id": 273,
+        "description": "Chapter 10"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 75,
+        "description": "Telecommunications radio frequency"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 250,
+        "description": "Audiovisual"
+      },
+      {
+        "id": 26,
+        "description": "Telecommunications mobile"
+      },
+      {
+        "id": 308,
+        "description": "Telecommunications tariffs"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 456,
+        "description": "Telecommunications emergency number"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 65
+  },
+  {
+    "id": 11719071,
+    "description": "10.10 Information technology, telecommunications and data-processing [13.20.60]",
+    "parentid": 11719070,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 66
+  },
+  {
+    "id": 11719072,
+    "description": "10.20 Dissemination of information [16.20]",
+    "parentid": 11719070,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 67
+  },
+  {
+    "id": 11719073,
+    "description": "11 Agriculture and rural development [03]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 136,
+        "description": "Hops"
+      },
+      {
+        "id": 368,
+        "description": "State aids in agriculture"
+      },
+      {
+        "id": 137,
+        "description": "Tobacco"
+      },
+      {
+        "id": 371,
+        "description": "Floriculture"
+      },
+      {
+        "id": 134,
+        "description": "Milk products"
+      },
+      {
+        "id": 262,
+        "description": "Trade mechanisms"
+      },
+      {
+        "id": 202,
+        "description": "Import/export licenses and tariff rate quotas"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 83,
+        "description": "Cross compliance and greening"
+      },
+      {
+        "id": 203,
+        "description": "Seeds"
+      },
+      {
+        "id": 38,
+        "description": "Controlling agricultural expenditure "
+      },
+      {
+        "id": 370,
+        "description": "Organic farming"
+      },
+      {
+        "id": 402,
+        "description": "Statistics"
+      },
+      {
+        "id": 85,
+        "description": "Agrimonetary issues"
+      },
+      {
+        "id": 367,
+        "description": "Farm Accountancy Data Network (FADN) "
+      },
+      {
+        "id": 133,
+        "description": "Private storage"
+      },
+      {
+        "id": 200,
+        "description": "Onspot controls"
+      },
+      {
+        "id": 36,
+        "description": "IT and database"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 264,
+        "description": "Cereals (refunds/licences; tariff quotas)"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 82,
+        "description": "Land parcel identification system"
+      },
+      {
+        "id": 140,
+        "description": "Fresh fruit and vegetables [03.60.54] "
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 40,
+        "description": "Sheepmeat and goatmeat [03.60.68]"
+      },
+      {
+        "id": 204,
+        "description": "Wine"
+      },
+      {
+        "id": 201,
+        "description": "Intervention"
+      },
+      {
+        "id": 84,
+        "description": "Guarantees and securities"
+      },
+      {
+        "id": 88,
+        "description": "Rural development"
+      },
+      {
+        "id": 317,
+        "description": "Rice"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 366,
+        "description": "Clearance of accounts"
+      },
+      {
+        "id": 86,
+        "description": "Price reporting"
+      },
+      {
+        "id": 369,
+        "description": "Beef and veal [03.60.57]"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 261,
+        "description": "Advisory services"
+      },
+      {
+        "id": 425,
+        "description": "Oilseeds"
+      },
+      {
+        "id": 135,
+        "description": "Carcass classification"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 426,
+        "description": "Honey"
+      },
+      {
+        "id": 39,
+        "description": "Sugar"
+      },
+      {
+        "id": 35,
+        "description": "Integrated administrative control system"
+      },
+      {
+        "id": 89,
+        "description": "Leader"
+      },
+      {
+        "id": 138,
+        "description": "Olive oil"
+      },
+      {
+        "id": 139,
+        "description": "Quality policy (Geographical indications and traditional expressions)  "
+      },
+      {
+        "id": 87,
+        "description": "Cocoa and coffee"
+      },
+      {
+        "id": 424,
+        "description": "Farm register"
+      },
+      {
+        "id": 316,
+        "description": "Pigmeat [03.60.52]"
+      },
+      {
+        "id": 37,
+        "description": "Administrative controls"
+      },
+      {
+        "id": 315,
+        "description": "Combined nomenclature (specific regulations for agricultural products)"
+      },
+      {
+        "id": 427,
+        "description": "Promotion of agricultural products"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 471,
+        "description": "SDG 02 - Zero Hunger"
+      },
+      {
+        "id": 34,
+        "description": "Overall policy, strategy"
+      },
+      {
+        "id": 132,
+        "description": "Financing of the CAP"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 263,
+        "description": "Export refunds and its monitoring system"
+      },
+      {
+        "id": 318,
+        "description": "Eggs and poultry [03.60.53]"
+      },
+      {
+        "id": 260,
+        "description": "Direct support schemes, "
+      },
+      {
+        "id": 153,
+        "description": "Chapter 11"
+      },
+      {
+        "id": 328,
+        "description": "Audit"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 68
+  },
+  {
+    "id": 11719074,
+    "description": "11.05 General [03.05]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 69
+  },
+  {
+    "id": 11719075,
+    "description": "11.10 Basic provisions [03.10]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 70
+  },
+  {
+    "id": 11719076,
+    "description": "11.10.10 National aid [03.10.10]",
+    "parentid": 11719075,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 71
+  },
+  {
+    "id": 11719077,
+    "description": "11.10.20 Common agricultural policy mechanisms [03.10.20]",
+    "parentid": 11719075,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 72
+  },
+  {
+    "id": 11719078,
+    "description": "11.10.30 Accessions [03.10.30]",
+    "parentid": 11719075,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 73
+  },
+  {
+    "id": 11719079,
+    "description": "11.20 European Agricultural Guidance and Guarantee Fund (EAGGF) [03.20]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 74
+  },
+  {
+    "id": 11719080,
+    "description": "11.20.10 General [03.20.10]",
+    "parentid": 11719079,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 75
+  },
+  {
+    "id": 11719081,
+    "description": "11.20.20 EAGGF (Guidance Section) [03.20.20]",
+    "parentid": 11719079,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 76
+  },
+  {
+    "id": 11719082,
+    "description": "11.20.30 EAGGF (Guarantee Section) [03.20.30]",
+    "parentid": 11719079,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 77
+  },
+  {
+    "id": 11719083,
+    "description": "11.30 Agricultural structures [03.30]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 78
+  },
+  {
+    "id": 11719084,
+    "description": "11.30.10 Social and structural measures [03.30.10]",
+    "parentid": 11719083,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 79
+  },
+  {
+    "id": 11719085,
+    "description": "11.30.20 Processing and marketing of agricultural products [03.30.20]",
+    "parentid": 11719083,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 80
+  },
+  {
+    "id": 11719086,
+    "description": "11.30.30 Accountancy data network [03.30.30]",
+    "parentid": 11719083,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 81
+  },
+  {
+    "id": 11719087,
+    "description": "11.40 Monetary measures [03.40]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 82
+  },
+  {
+    "id": 11719088,
+    "description": "11.40.10 Fixing of compensatory amounts [03.40.10]",
+    "parentid": 11719087,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 83
+  },
+  {
+    "id": 11719089,
+    "description": "11.40.20 Other monetary measures [03.40.20]",
+    "parentid": 11719087,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 84
+  },
+  {
+    "id": 11719090,
+    "description": "11.60 Products subject to market organisation [03.60]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 85
+  },
+  {
+    "id": 11719091,
+    "description": "11.60.05 Arrangements covering more than one market organisation [03.60.05]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 86
+  },
+  {
+    "id": 11719092,
+    "description": "11.60.51 Cereals [03.60.51]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 87
+  },
+  {
+    "id": 11719093,
+    "description": "11.60.52 Pigmeat [03.60.52]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 88
+  },
+  {
+    "id": 11719094,
+    "description": "11.60.53 Eggs and poultry [03.60.53]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 89
+  },
+  {
+    "id": 11719095,
+    "description": "11.60.54 Fresh fruit and vegetables [03.60.54]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 90
+  },
+  {
+    "id": 11719096,
+    "description": "11.60.55 Wine [03.60.55]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 91
+  },
+  {
+    "id": 11719097,
+    "description": "11.60.56 Milk products [03.60.56]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 92
+  },
+  {
+    "id": 11719098,
+    "description": "11.60.57 Beef and veal [03.60.57]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 93
+  },
+  {
+    "id": 11719099,
+    "description": "11.60.58 Rice [03.60.58]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 94
+  },
+  {
+    "id": 11719100,
+    "description": "11.60.59 Oils and fats [03.60.59]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 95
+  },
+  {
+    "id": 11719101,
+    "description": "11.60.60 Sugar [03.60.60]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 96
+  },
+  {
+    "id": 11719102,
+    "description": "11.60.61 Flowers and live plants [03.60.61]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 97
+  },
+  {
+    "id": 11719103,
+    "description": "11.60.62 Dried fodder [03.60.62]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 98
+  },
+  {
+    "id": 11719104,
+    "description": "11.60.63 Products processed from fruit and vegetables [03.60.63]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 99
+  },
+  {
+    "id": 11719105,
+    "description": "11.60.64 Raw tobacco [03.60.64]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 100
+  },
+  {
+    "id": 11719106,
+    "description": "11.60.65 Flax and hemp [03.60.65]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 101
+  },
+  {
+    "id": 11719107,
+    "description": "11.60.66 Hops [03.60.66]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 102
+  },
+  {
+    "id": 11719108,
+    "description": "11.60.67 Seeds [03.60.67]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 103
+  },
+  {
+    "id": 11719109,
+    "description": "11.60.68 Sheepmeat and goatmeat [03.60.68]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 104
+  },
+  {
+    "id": 11719110,
+    "description": "11.60.69 Other agricultural products [03.60.69]",
+    "parentid": 11719090,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 105
+  },
+  {
+    "id": 11719111,
+    "description": "11.70 Products not subject to market organisation [03.70]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 106
+  },
+  {
+    "id": 11719112,
+    "description": "11.70.10 Silkworms [03.70.10]",
+    "parentid": 11719111,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 107
+  },
+  {
+    "id": 11719113,
+    "description": "11.70.20 Isoglucose [03.70.20]",
+    "parentid": 11719111,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 108
+  },
+  {
+    "id": 11719114,
+    "description": "11.70.30 Peas and beans [03.70.30]",
+    "parentid": 11719111,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 109
+  },
+  {
+    "id": 11719115,
+    "description": "11.70.40 Albumens [03.70.40]",
+    "parentid": 11719111,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 110
+  },
+  {
+    "id": 11719116,
+    "description": "11.70.50 Non-Annex II products (now Non-Annex I products) [03.70.50]",
+    "parentid": 11719111,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 111
+  },
+  {
+    "id": 11719117,
+    "description": "11.70.60 Cotton [03.70.60]",
+    "parentid": 11719111,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 112
+  },
+  {
+    "id": 11719118,
+    "description": "11.70.70 Other agricultural products [03.70.70]",
+    "parentid": 11719111,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 113
+  },
+  {
+    "id": 11719119,
+    "description": "11.80 Agreements with non-member countries [03.80]",
+    "parentid": 11719073,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 114
+  },
+  {
+    "id": 11719120,
+    "description": "12 Food safety, veterinary and phytosanitary policy",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 142,
+        "description": "International agreements"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 205,
+        "description": "General food law "
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 471,
+        "description": "SDG 02 - Zero Hunger"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 141,
+        "description": "Committees"
+      },
+      {
+        "id": 265,
+        "description": "Accession treaties"
+      },
+      {
+        "id": 154,
+        "description": "Chapter 12"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 115
+  },
+  {
+    "id": 11719121,
+    "description": "12.10 Approximation of laws and health measures [03.50]",
+    "parentid": 11719120,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 116
+  },
+  {
+    "id": 11719122,
+    "description": "12.10.10 Animal feedingstuffs [03.50.10]",
+    "parentid": 11719121,
+    "chapterKeywords": [
+      {
+        "id": 94,
+        "description": "Undesirable substances"
+      },
+      {
+        "id": 326,
+        "description": "Specific rules for feed hygiene title 5, chapters 1-5"
+      },
+      {
+        "id": 325,
+        "description": "Feed additives"
+      },
+      {
+        "id": 95,
+        "description": "Medicated feed"
+      },
+      {
+        "id": 324,
+        "description": "Placing on the market and use of feed"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 117
+  },
+  {
+    "id": 11719123,
+    "description": "12.10.20 Plant health [03.50.20]",
+    "parentid": 11719121,
+    "chapterKeywords": [
+      {
+        "id": 268,
+        "description": "Plant variety rights"
+      },
+      {
+        "id": 44,
+        "description": "Quality of seeds and propagating material"
+      },
+      {
+        "id": 96,
+        "description": "Plant health - Harmful organisms"
+      },
+      {
+        "id": 147,
+        "description": "Plant health - Plant protection products"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 118
+  },
+  {
+    "id": 11719124,
+    "description": "12.10.30 Animal health and zootechnics [03.50.30]",
+    "parentid": 11719121,
+    "chapterKeywords": [
+      {
+        "id": 90,
+        "description": "Non-commercial movements of pet animals"
+      },
+      {
+        "id": 266,
+        "description": "Control system of imports"
+      },
+      {
+        "id": 373,
+        "description": "Trade of live animals, semen ova and embryos within the EU"
+      },
+      {
+        "id": 41,
+        "description": "Control measures of animal diseases"
+      },
+      {
+        "id": 428,
+        "description": "Control system in the internal market"
+      },
+      {
+        "id": 429,
+        "description": "Zootechnics"
+      },
+      {
+        "id": 267,
+        "description": "Animal welfare"
+      },
+      {
+        "id": 372,
+        "description": "Identification and registration of animals and registration of their movements"
+      },
+      {
+        "id": 430,
+        "description": "Veterinary expenditures"
+      },
+      {
+        "id": 144,
+        "description": "Imports requirements for live animals and animal products"
+      },
+      {
+        "id": 143,
+        "description": "Prohibition of substances and control of residues"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 119
+  },
+  {
+    "id": 11719125,
+    "description": "12.10.40 Seeds and seedlings [03.50.40]",
+    "parentid": 11719121,
+    "chapterKeywords": [
+      {
+        "id": 148,
+        "description": "Release into the environment"
+      },
+      {
+        "id": 327,
+        "description": "Genetically modified food and feed"
+      },
+      {
+        "id": 374,
+        "description": "Genetically modified organisms (GMOs)"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 120
+  },
+  {
+    "id": 11719126,
+    "description": "12.20 Foodstuffs [13.30.14]",
+    "parentid": 11719120,
+    "chapterKeywords": [
+      {
+        "id": 322,
+        "description": "Food enzymes"
+      },
+      {
+        "id": 208,
+        "description": "Flavourings"
+      },
+      {
+        "id": 91,
+        "description": "Hygiene rules"
+      },
+      {
+        "id": 43,
+        "description": "Quick frozen foodstuff"
+      },
+      {
+        "id": 146,
+        "description": "Extraction solvents"
+      },
+      {
+        "id": 320,
+        "description": "Specific control rules for animal products"
+      },
+      {
+        "id": 93,
+        "description": "Ionising radiation"
+      },
+      {
+        "id": 42,
+        "description": "Additives authorised and purity criteria"
+      },
+      {
+        "id": 206,
+        "description": "Funding of checks"
+      },
+      {
+        "id": 1,
+        "description": "Contaminants"
+      },
+      {
+        "id": 209,
+        "description": "Control rules"
+      },
+      {
+        "id": 319,
+        "description": "Specific rules for animal products "
+      },
+      {
+        "id": 207,
+        "description": "Labelling presentation and advertising of foodstuffs including nutritional labelling and health claims and nutritional labelling"
+      },
+      {
+        "id": 2,
+        "description": "Food contact materials"
+      },
+      {
+        "id": 323,
+        "description": "Novel foods"
+      },
+      {
+        "id": 145,
+        "description": "Rules for animal by-products"
+      },
+      {
+        "id": 321,
+        "description": "Mineral waters"
+      },
+      {
+        "id": 92,
+        "description": "Food for particular nutritional uses, food fortification"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 121
+  },
+  {
+    "id": 11719127,
+    "description": "12.20.10 Colouring matters [13.30.14.10]",
+    "parentid": 11719126,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 122
+  },
+  {
+    "id": 11719128,
+    "description": "12.20.20 Preservatives [13.30.14.20]",
+    "parentid": 11719126,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 123
+  },
+  {
+    "id": 11719129,
+    "description": "12.20.30 Other provisions [13.30.14.30]",
+    "parentid": 11719126,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 124
+  },
+  {
+    "id": 11719130,
+    "description": "12.30 Protection of animals [15.40]",
+    "parentid": 11719120,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 125
+  },
+  {
+    "id": 11719131,
+    "description": "13 Fisheries [04]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 441,
+        "description": "European Fisheries and Maritime Fund"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 439,
+        "description": "Data collection and Statistics"
+      },
+      {
+        "id": 438,
+        "description": "Aquaculture"
+      },
+      {
+        "id": 483,
+        "description": "SDG 14 - Life Below Water"
+      },
+      {
+        "id": 98,
+        "description": "Chapter 13"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 471,
+        "description": "SDG 02 - Zero Hunger"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 437,
+        "description": "Common Fisheries Policy"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 440,
+        "description": "Inspection and control"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 126
+  },
+  {
+    "id": 11719132,
+    "description": "13.05 General, supply and research [04.05]",
+    "parentid": 11719131,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 127
+  },
+  {
+    "id": 11719133,
+    "description": "13.10 Common fisheries policy [04.10]",
+    "parentid": 11719131,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 128
+  },
+  {
+    "id": 11719134,
+    "description": "13.10.10 Structural measures [04.10.10]",
+    "parentid": 11719133,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 129
+  },
+  {
+    "id": 11719135,
+    "description": "13.10.20 Market organisation [04.10.20]",
+    "parentid": 11719133,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 130
+  },
+  {
+    "id": 11719136,
+    "description": "13.10.30 Conservation of resources [04.10.30]",
+    "parentid": 11719133,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 131
+  },
+  {
+    "id": 11719137,
+    "description": "13.10.30.10 Catch quotas and management of stocks [04.10.30.10]",
+    "parentid": 11719136,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 132
+  },
+  {
+    "id": 11719138,
+    "description": "13.10.30.20 Other conservation measures [04.10.30.20]",
+    "parentid": 11719136,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 133
+  },
+  {
+    "id": 11719139,
+    "description": "13.10.40 State aids [04.10.40]",
+    "parentid": 11719133,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 134
+  },
+  {
+    "id": 11719140,
+    "description": "13.20 External relations [04.20]",
+    "parentid": 11719131,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 135
+  },
+  {
+    "id": 11719141,
+    "description": "13.20.10 Multilateral relations [04.20.10]",
+    "parentid": 11719140,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 136
+  },
+  {
+    "id": 11719142,
+    "description": "13.20.20 Agreements with non-member countries [04.20.20]",
+    "parentid": 11719140,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 137
+  },
+  {
+    "id": 11719143,
+    "description": "14 Transport policy [07]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 124,
+        "description": "Aviation safety"
+      },
+      {
+        "id": 359,
+        "description": "Aviation transport"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 76,
+        "description": "Railway transport"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 77,
+        "description": "Maritime transport"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 28,
+        "description": "Railway safety"
+      },
+      {
+        "id": 479,
+        "description": "SDG 10 - Reduced Inequalities"
+      },
+      {
+        "id": 27,
+        "description": "Road safety"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 358,
+        "description": "Road transport"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 155,
+        "description": "Chapter 14"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 416,
+        "description": "Maritime safety"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 138
+  },
+  {
+    "id": 11719144,
+    "description": "14.02 Transport [06.20.20.30]",
+    "parentid": 11719143,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 139
+  },
+  {
+    "id": 11719145,
+    "description": "14.05 General [07.05]",
+    "parentid": 11719143,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 140
+  },
+  {
+    "id": 11719146,
+    "description": "14.10 Transport infrastructure [07.10]",
+    "parentid": 11719143,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 141
+  },
+  {
+    "id": 11719147,
+    "description": "14.10.10 Coordination and investment [07.10.10]",
+    "parentid": 11719146,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 142
+  },
+  {
+    "id": 11719148,
+    "description": "14.10.20 Financial support [07.10.20]",
+    "parentid": 11719146,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 143
+  },
+  {
+    "id": 11719149,
+    "description": "14.10.30 User tariffs [07.10.30]",
+    "parentid": 11719146,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 144
+  },
+  {
+    "id": 11719150,
+    "description": "14.20 Inland transport [07.20]",
+    "parentid": 11719143,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 145
+  },
+  {
+    "id": 11719151,
+    "description": "14.20.10 Competition rules [07.20.10]",
+    "parentid": 11719150,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 146
+  },
+  {
+    "id": 11719152,
+    "description": "14.20.20 State intervention [07.20.20]",
+    "parentid": 11719150,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 147
+  },
+  {
+    "id": 11719153,
+    "description": "14.20.30 Market operation [07.20.30]",
+    "parentid": 11719150,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 148
+  },
+  {
+    "id": 11719154,
+    "description": "14.20.30.10 Market monitoring [07.20.30.10]",
+    "parentid": 11719153,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 149
+  },
+  {
+    "id": 11719155,
+    "description": "14.20.30.20 Market access [07.20.30.20]",
+    "parentid": 11719153,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 150
+  },
+  {
+    "id": 11719156,
+    "description": "14.20.30.30 Transport prices and terms [07.20.30.30]",
+    "parentid": 11719153,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 151
+  },
+  {
+    "id": 11719157,
+    "description": "14.20.40 Structural harmonisation [07.20.40]",
+    "parentid": 11719150,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 152
+  },
+  {
+    "id": 11719158,
+    "description": "14.20.40.10 Technical and safety conditions [07.20.40.10]",
+    "parentid": 11719157,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 153
+  },
+  {
+    "id": 11719159,
+    "description": "14.20.40.20 Social conditions [07.20.40.20]",
+    "parentid": 11719157,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 154
+  },
+  {
+    "id": 11719160,
+    "description": "14.20.40.30 Taxation [07.20.40.30]",
+    "parentid": 11719157,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 155
+  },
+  {
+    "id": 11719161,
+    "description": "14.20.50 Combined transport [07.20.50]",
+    "parentid": 11719150,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 156
+  },
+  {
+    "id": 11719162,
+    "description": "14.20.60 ECSC provisions [07.20.60]",
+    "parentid": 11719150,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 157
+  },
+  {
+    "id": 11719163,
+    "description": "14.30 Shipping [07.30]",
+    "parentid": 11719143,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 158
+  },
+  {
+    "id": 11719164,
+    "description": "14.30.10 Competition rules [07.30.10]",
+    "parentid": 11719163,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 159
+  },
+  {
+    "id": 11719165,
+    "description": "14.30.20 Market operation [07.30.20]",
+    "parentid": 11719163,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 160
+  },
+  {
+    "id": 11719166,
+    "description": "14.30.20.10 Market monitoring [07.30.20.10]",
+    "parentid": 11719165,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 161
+  },
+  {
+    "id": 11719167,
+    "description": "14.30.20.20 Code of conduct for liner conferences [07.30.20.20]",
+    "parentid": 11719165,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 162
+  },
+  {
+    "id": 11719168,
+    "description": "14.30.20.30 Market access [07.30.20.30]",
+    "parentid": 11719165,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 163
+  },
+  {
+    "id": 11719169,
+    "description": "14.30.30 Safety at sea [07.30.30]",
+    "parentid": 11719163,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 164
+  },
+  {
+    "id": 11719170,
+    "description": "14.30.40 Structural harmonisation [07.30.40]",
+    "parentid": 11719163,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 165
+  },
+  {
+    "id": 11719171,
+    "description": "14.30.40.10 Technical conditions [07.30.40.10]",
+    "parentid": 11719170,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 166
+  },
+  {
+    "id": 11719172,
+    "description": "14.30.40.20 Social conditions [07.30.40.20]",
+    "parentid": 11719170,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 167
+  },
+  {
+    "id": 11719173,
+    "description": "14.30.40.30 Taxation [07.30.40.30]",
+    "parentid": 11719170,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 168
+  },
+  {
+    "id": 11719174,
+    "description": "14.30.40.40 Flags, vessel registration [07.30.40.40]",
+    "parentid": 11719170,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 169
+  },
+  {
+    "id": 11719175,
+    "description": "14.30.50 International relations [07.30.50]",
+    "parentid": 11719163,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 170
+  },
+  {
+    "id": 11719176,
+    "description": "14.30.50.10 Consultation procedure [07.30.50.10]",
+    "parentid": 11719175,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 171
+  },
+  {
+    "id": 11719177,
+    "description": "14.30.50.20 Conventions with non-member countries [07.30.50.20]",
+    "parentid": 11719175,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 172
+  },
+  {
+    "id": 11719178,
+    "description": "14.40 Air transport [07.40]",
+    "parentid": 11719143,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 173
+  },
+  {
+    "id": 11719179,
+    "description": "14.40.10 Competition rules [07.40.10]",
+    "parentid": 11719178,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 174
+  },
+  {
+    "id": 11719180,
+    "description": "14.40.20 Market operation [07.40.20]",
+    "parentid": 11719178,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 175
+  },
+  {
+    "id": 11719181,
+    "description": "14.40.20.10 Market access [07.40.20.10]",
+    "parentid": 11719180,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 176
+  },
+  {
+    "id": 11719182,
+    "description": "14.40.20.20 Route distribution [07.40.20.20]",
+    "parentid": 11719180,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 177
+  },
+  {
+    "id": 11719183,
+    "description": "14.40.20.30 Prices and terms [07.40.20.30]",
+    "parentid": 11719180,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 178
+  },
+  {
+    "id": 11719184,
+    "description": "14.40.30 Air safety [07.40.30]",
+    "parentid": 11719178,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 179
+  },
+  {
+    "id": 11719185,
+    "description": "14.40.40 Structural harmonization [07.40.40]",
+    "parentid": 11719178,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 180
+  },
+  {
+    "id": 11719186,
+    "description": "14.40.50 International relations [07.40.50]",
+    "parentid": 11719178,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 181
+  },
+  {
+    "id": 11719187,
+    "description": "14.40.50.10 Consultation procedure [07.40.50.10]",
+    "parentid": 11719186,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 182
+  },
+  {
+    "id": 11719188,
+    "description": "14.40.50.20 Conventions with non-member countries [07.40.50.20]",
+    "parentid": 11719186,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 183
+  },
+  {
+    "id": 11719189,
+    "description": "15 Energy [12]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 304,
+        "description": "Oil"
+      },
+      {
+        "id": 248,
+        "description": "Gas"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 305,
+        "description": "Coal"
+      },
+      {
+        "id": 302,
+        "description": "Internal energy market"
+      },
+      {
+        "id": 476,
+        "description": "SDG 07 - Affordable and Clean Energy"
+      },
+      {
+        "id": 247,
+        "description": "Energy efficiency"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 120,
+        "description": "Nuclear energy"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 25,
+        "description": "Renewables"
+      },
+      {
+        "id": 216,
+        "description": "Chapter 15"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 303,
+        "description": "Energy supply"
+      },
+      {
+        "id": 189,
+        "description": "Electricity"
+      },
+      {
+        "id": 414,
+        "description": "Mining"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 355,
+        "description": "Energy statistics"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 184
+  },
+  {
+    "id": 11719190,
+    "description": "15.10 General principles and programmes [12.10]",
+    "parentid": 11719189,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 185
+  },
+  {
+    "id": 11719191,
+    "description": "15.10.10 General [12.10.10]",
+    "parentid": 11719190,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 186
+  },
+  {
+    "id": 11719192,
+    "description": "15.10.20 Rational utilisation and conservation of energy [12.10.20]",
+    "parentid": 11719190,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 187
+  },
+  {
+    "id": 11719193,
+    "description": "15.20 Coal [12.20]",
+    "parentid": 11719189,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 188
+  },
+  {
+    "id": 11719194,
+    "description": "15.20.10 Promotion of the coal industry [12.20.10]",
+    "parentid": 11719193,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 189
+  },
+  {
+    "id": 11719195,
+    "description": "15.20.20 Competition: rates and other conditions of sale [12.20.20]",
+    "parentid": 11719193,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 190
+  },
+  {
+    "id": 11719196,
+    "description": "15.20.30 Coal products [12.20.30]",
+    "parentid": 11719193,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 191
+  },
+  {
+    "id": 11719197,
+    "description": "15.20.40 Other measures relating to coal [12.20.40]",
+    "parentid": 11719193,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 192
+  },
+  {
+    "id": 11719198,
+    "description": "15.30 Electricity [12.30]",
+    "parentid": 11719189,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 193
+  },
+  {
+    "id": 11719199,
+    "description": "15.40 Nuclear energy [12.40]",
+    "parentid": 11719189,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 194
+  },
+  {
+    "id": 11719200,
+    "description": "15.40.10 Fuel supplies [12.40.10]",
+    "parentid": 11719199,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 195
+  },
+  {
+    "id": 11719201,
+    "description": "15.40.20 Power stations and joint undertakings [12.40.20]",
+    "parentid": 11719199,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 196
+  },
+  {
+    "id": 11719202,
+    "description": "15.40.30 Safeguards [12.40.30]",
+    "parentid": 11719199,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 197
+  },
+  {
+    "id": 11719203,
+    "description": "15.40.40 Nuclear research [12.40.40]",
+    "parentid": 11719199,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 198
+  },
+  {
+    "id": 11719204,
+    "description": "15.40.50 Other measures relating to nuclear energy [12.40.50]",
+    "parentid": 11719199,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 199
+  },
+  {
+    "id": 11719205,
+    "description": "15.50 Oil and gas [12.50]",
+    "parentid": 11719189,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 200
+  },
+  {
+    "id": 11719206,
+    "description": "15.50.10 Supplies and stocks [12.50.10]",
+    "parentid": 11719205,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 201
+  },
+  {
+    "id": 11719207,
+    "description": "15.50.20 Intra-Community trade [12.50.20]",
+    "parentid": 11719205,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 202
+  },
+  {
+    "id": 11719208,
+    "description": "15.50.30 Other measures relating to oil or gas [12.50.30]",
+    "parentid": 11719205,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 203
+  },
+  {
+    "id": 11719209,
+    "description": "15.60 Other sources of energy [12.60]",
+    "parentid": 11719189,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 204
+  },
+  {
+    "id": 11719210,
+    "description": "15.70 Nuclear safety and radioactive waste [15.10.20.10]",
+    "parentid": 11719189,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 205
+  },
+  {
+    "id": 11719211,
+    "description": "16 Taxation [09]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 394,
+        "description": "Indirect taxation"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 341,
+        "description": "Administrative cooperation "
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 167,
+        "description": "Direct taxation "
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 156,
+        "description": "Chapter 16"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 206
+  },
+  {
+    "id": 11719212,
+    "description": "16.10 General [09.10]",
+    "parentid": 11719211,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 207
+  },
+  {
+    "id": 11719213,
+    "description": "16.20 Direct taxation [09.20]",
+    "parentid": 11719211,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 208
+  },
+  {
+    "id": 11719214,
+    "description": "16.20.10 Income tax [09.20.10]",
+    "parentid": 11719213,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 209
+  },
+  {
+    "id": 11719215,
+    "description": "16.20.20 Corporation tax [09.20.20]",
+    "parentid": 11719213,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 210
+  },
+  {
+    "id": 11719216,
+    "description": "16.20.30 Elimination of double taxation [09.20.30]",
+    "parentid": 11719213,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 211
+  },
+  {
+    "id": 11719217,
+    "description": "16.30 Indirect taxation [09.30]",
+    "parentid": 11719211,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 212
+  },
+  {
+    "id": 11719218,
+    "description": "16.30.10 Turnover tax/VAT [09.30.10]",
+    "parentid": 11719217,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 213
+  },
+  {
+    "id": 11719219,
+    "description": "16.30.20 Excise duties [09.30.20]",
+    "parentid": 11719217,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 214
+  },
+  {
+    "id": 11719220,
+    "description": "16.30.30 Taxes on capital and transactions in securities [09.30.30]",
+    "parentid": 11719217,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 215
+  },
+  {
+    "id": 11719221,
+    "description": "16.30.40 Individual tax exemptions [09.30.40]",
+    "parentid": 11719217,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 216
+  },
+  {
+    "id": 11719222,
+    "description": "16.40 Other taxes [09.40]",
+    "parentid": 11719211,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 217
+  },
+  {
+    "id": 11719223,
+    "description": "16.50 Prevention of tax evasion and avoidance [09.50]",
+    "parentid": 11719211,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 218
+  },
+  {
+    "id": 11719224,
+    "description": "17 Economic and monetary policy [10]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 342,
+        "description": "Economic and monetary union"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 48,
+        "description": "Chapter 17"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 219
+  },
+  {
+    "id": 11719225,
+    "description": "17.10 General [10.10]",
+    "parentid": 11719224,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 220
+  },
+  {
+    "id": 11719226,
+    "description": "17.20 Monetary policy [10.20]",
+    "parentid": 11719224,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 221
+  },
+  {
+    "id": 11719227,
+    "description": "17.20.10 Institutional monetary provisions [10.20.10]",
+    "parentid": 11719226,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 222
+  },
+  {
+    "id": 11719228,
+    "description": "17.20.20 Direct instruments of monetary policy [10.20.20]",
+    "parentid": 11719226,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 223
+  },
+  {
+    "id": 11719229,
+    "description": "17.20.30 Indirect instruments of monetary policy [10.20.30]",
+    "parentid": 11719226,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 224
+  },
+  {
+    "id": 11719230,
+    "description": "17.30 Economic policy [17.30]",
+    "parentid": 11719224,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 225
+  },
+  {
+    "id": 11719231,
+    "description": "17.30.10 Institutional economic provisions [10.30.10]",
+    "parentid": 11719230,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 226
+  },
+  {
+    "id": 11719232,
+    "description": "17.30.20 Instruments of economic policy [10.30.20]",
+    "parentid": 11719230,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 227
+  },
+  {
+    "id": 11719233,
+    "description": "17.30.30 Economic and monetary union [10.30.30]",
+    "parentid": 11719230,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 228
+  },
+  {
+    "id": 11719234,
+    "description": "18 Statistics",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 229,
+        "description": "Open data"
+      },
+      {
+        "id": 344,
+        "description": "National accounts"
+      },
+      {
+        "id": 400,
+        "description": "Index industry"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 228,
+        "description": "Nomenclature"
+      },
+      {
+        "id": 15,
+        "description": "Education statistics"
+      },
+      {
+        "id": 343,
+        "description": "Quality assurance"
+      },
+      {
+        "id": 398,
+        "description": "Statistics users"
+      },
+      {
+        "id": 346,
+        "description": "Census and population"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 230,
+        "description": "Waste Statistics"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 331,
+        "description": "Chapter 18"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 168,
+        "description": "Business statistics"
+      },
+      {
+        "id": 396,
+        "description": "Social statistics"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 110,
+        "description": "Tourism satellite accounts"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 399,
+        "description": "Metadata"
+      },
+      {
+        "id": 169,
+        "description": "Forestry statistics"
+      },
+      {
+        "id": 231,
+        "description": "Transport statistics"
+      },
+      {
+        "id": 227,
+        "description": "Economic statistics"
+      },
+      {
+        "id": 395,
+        "description": "Macro-economic statistics"
+      },
+      {
+        "id": 287,
+        "description": "GIS"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 345,
+        "description": "Remittances"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 288,
+        "description": "Central bank statistics"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 397,
+        "description": "HETUS"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 229
+  },
+  {
+    "id": 11719235,
+    "description": "18.10 Agricultural statistics [03.30.40]",
+    "parentid": 11719234,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 230
+  },
+  {
+    "id": 11719236,
+    "description": "18.20 Statistics on external trade (Nimexe) [11.60.60]",
+    "parentid": 11719234,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 231
+  },
+  {
+    "id": 11719237,
+    "description": "19 Social policy and employment [05]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 477,
+        "description": "SDG 08 - Decent Work and Economic Growth"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 401,
+        "description": "Working conditions"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 233,
+        "description": "Social inclusion "
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 232,
+        "description": "Organisational safety and health "
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 236,
+        "description": "Europe 2020 strategy"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 111,
+        "description": "Social dialogue"
+      },
+      {
+        "id": 289,
+        "description": "Equality / Non-discrimination"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 64,
+        "description": "Employment and unemployment"
+      },
+      {
+        "id": 347,
+        "description": "Social policy "
+      },
+      {
+        "id": 332,
+        "description": "Chapter 19"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 61,
+        "description": "Social protection/pensions/social security"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 170,
+        "description": "Active ageing / elderly people"
+      },
+      {
+        "id": 234,
+        "description": "Disability"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 232
+  },
+  {
+    "id": 11719238,
+    "description": "19.20 Social policy [05.20]",
+    "parentid": 11719237,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 233
+  },
+  {
+    "id": 11719239,
+    "description": "19.20.05 General social provisions [05.20.05]",
+    "parentid": 11719238,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 234
+  },
+  {
+    "id": 11719240,
+    "description": "19.20.20 Working conditions [05.20.20]",
+    "parentid": 11719238,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 235
+  },
+  {
+    "id": 11719241,
+    "description": "19.20.20.10 Safety at work [05.20.20.10]",
+    "parentid": 11719240,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 236
+  },
+  {
+    "id": 11719242,
+    "description": "19.20.20.20 Wages, income and working hours [05.20.20.20]",
+    "parentid": 11719240,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 237
+  },
+  {
+    "id": 11719243,
+    "description": "19.20.20.30 Industrial relations [05.20.20.30]",
+    "parentid": 11719240,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 238
+  },
+  {
+    "id": 11719244,
+    "description": "19.20.30 Employment and unemployment [05.20.30]",
+    "parentid": 11719238,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 239
+  },
+  {
+    "id": 11719245,
+    "description": "19.20.30.10 Programmes and statistics [05.20.30.10]",
+    "parentid": 11719244,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 240
+  },
+  {
+    "id": 11719246,
+    "description": "19.20.30.20 Protection of workers [05.20.30.20]",
+    "parentid": 11719244,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 241
+  },
+  {
+    "id": 11719247,
+    "description": "19.20.30.30 Employment incentives [05.20.30.30]",
+    "parentid": 11719244,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 242
+  },
+  {
+    "id": 11719248,
+    "description": "19.20.50 Approximation of certain social provisions [05.20.50]",
+    "parentid": 11719238,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 243
+  },
+  {
+    "id": 11719249,
+    "description": "20 Enterprise and industrial policy [13]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 113,
+        "description": "Aeronautical industry"
+      },
+      {
+        "id": 99,
+        "description": "Chapter 20"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 18,
+        "description": "Pharmaceutical industry"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 19,
+        "description": "Research and technological development"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 402,
+        "description": "Statistics"
+      },
+      {
+        "id": 171,
+        "description": "Business support"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 235,
+        "description": "Textile industry"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 174,
+        "description": "Other sectors"
+      },
+      {
+        "id": 112,
+        "description": "Iron and steel industry"
+      },
+      {
+        "id": 17,
+        "description": "Chemical industry"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 173,
+        "description": "Leather, hides, skins and footwear"
+      },
+      {
+        "id": 62,
+        "description": "Industrial policy"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 63,
+        "description": "Shipbuilding"
+      },
+      {
+        "id": 172,
+        "description": "Tourism"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 16,
+        "description": "SMEs"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 244
+  },
+  {
+    "id": 11719250,
+    "description": "20.10 Industrial policy: general, programmes, statistics and research [13.10]",
+    "parentid": 11719249,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 245
+  },
+  {
+    "id": 11719251,
+    "description": "20.10.10 General [13.10.10]",
+    "parentid": 11719250,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 246
+  },
+  {
+    "id": 11719252,
+    "description": "20.10.20 Programmes and statistics [13.10.20]",
+    "parentid": 11719250,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 247
+  },
+  {
+    "id": 11719253,
+    "description": "20.10.30 Research and technological development [13.10.30]",
+    "parentid": 11719250,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 248
+  },
+  {
+    "id": 11719254,
+    "description": "20.10.30.10 General principles [13.10.30.10]",
+    "parentid": 11719253,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 249
+  },
+  {
+    "id": 11719255,
+    "description": "20.10.30.20 Research sectors [13.10.30.20]",
+    "parentid": 11719253,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 250
+  },
+  {
+    "id": 11719256,
+    "description": "20.20 Industrial policy: sectoral operations [13.20]",
+    "parentid": 11719249,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 251
+  },
+  {
+    "id": 11719257,
+    "description": "20.20.10 Iron and steel industry [13.20.10]",
+    "parentid": 11719256,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 252
+  },
+  {
+    "id": 11719258,
+    "description": "20.20.10.10 Competition: prices and other conditions of sale [13.20.10.10]",
+    "parentid": 11719257,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 253
+  },
+  {
+    "id": 11719259,
+    "description": "20.20.10.20 Other measures relating to iron and steel [13.20.10.20]",
+    "parentid": 11719257,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 254
+  },
+  {
+    "id": 11719260,
+    "description": "20.20.20 Shipbuilding [13.20.20]",
+    "parentid": 11719256,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 255
+  },
+  {
+    "id": 11719261,
+    "description": "20.20.30 Aeronautical industry [13.20.30]",
+    "parentid": 11719256,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 256
+  },
+  {
+    "id": 11719262,
+    "description": "20.20.40 Textiles [13.20.40]",
+    "parentid": 11719256,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 257
+  },
+  {
+    "id": 11719263,
+    "description": "20.20.50 Leather, hides, skins and footwear [13.20.50]",
+    "parentid": 11719256,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 258
+  },
+  {
+    "id": 11719264,
+    "description": "20.20.70 Other industrial sectors [13.20.70]",
+    "parentid": 11719256,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 259
+  },
+  {
+    "id": 11719265,
+    "description": "20.40 Internal market: policy relating to undertakings [13.40]",
+    "parentid": 11719249,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 260
+  },
+  {
+    "id": 11719266,
+    "description": "20.50 Miscellaneous [13.50]",
+    "parentid": 11719249,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 261
+  },
+  {
+    "id": 11719267,
+    "description": "21 Trans-European networks [13.60]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 442,
+        "description": "Energy"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 443,
+        "description": "Transport"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 379,
+        "description": "Chapter 21"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 262
+  },
+  {
+    "id": 11719268,
+    "description": "22 Regional policy and coordination of structural instruments [14]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 333,
+        "description": "Chapter 22"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 480,
+        "description": "SDG 11 - Sustainable Cities and Communities"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 290,
+        "description": "Regional development"
+      },
+      {
+        "id": 65,
+        "description": "Coordination of structural instruments "
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 237,
+        "description": "Structural and cohesion funds "
+      },
+      {
+        "id": 488,
+        "description": "TAIEX REGIO P2P"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 263
+  },
+  {
+    "id": 11743849,
+    "description": "22.01 REGIO [14]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 264
+  },
+  {
+    "id": 11743842,
+    "description": "22.01.10 Programming cycle [14]",
+    "parentid": 11743849,
+    "chapterKeywords": [
+      {
+        "id": 349,
+        "description": "Monitoring and reporting "
+      },
+      {
+        "id": 66,
+        "description": "Evaluation"
+      },
+      {
+        "id": 403,
+        "description": "Financial management and control"
+      },
+      {
+        "id": 20,
+        "description": "Programme management and implementation "
+      },
+      {
+        "id": 291,
+        "description": "Information and communication"
+      },
+      {
+        "id": 434,
+        "description": "Programming cycle"
+      },
+      {
+        "id": 328,
+        "description": "Audit"
+      },
+      {
+        "id": 348,
+        "description": "Programming"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 265
+  },
+  {
+    "id": 11743843,
+    "description": "22.01.20 Thematic areas [14]",
+    "parentid": 11743849,
+    "chapterKeywords": [
+      {
+        "id": 239,
+        "description": "Sustainable transport and network infrastructures"
+      },
+      {
+        "id": 435,
+        "description": "Thematic areas"
+      },
+      {
+        "id": 115,
+        "description": "Social inclusion, combating poverty and any discrimination"
+      },
+      {
+        "id": 175,
+        "description": "Competitiveness of SMEs"
+      },
+      {
+        "id": 351,
+        "description": "Sustainable and quality employment and labour mobility"
+      },
+      {
+        "id": 350,
+        "description": "Protection of the environment and resource efficiency"
+      },
+      {
+        "id": 240,
+        "description": "Other thematic areas"
+      },
+      {
+        "id": 114,
+        "description": "Research, technological development and innovation"
+      },
+      {
+        "id": 238,
+        "description": "Low-carbon economy"
+      },
+      {
+        "id": 67,
+        "description": "Education, training and lifelong learning"
+      },
+      {
+        "id": 405,
+        "description": "Efficiency of public administration, including use of technical assistance"
+      },
+      {
+        "id": 176,
+        "description": "Climate change, risk prevention and management"
+      },
+      {
+        "id": 404,
+        "description": "Information and communication technologies"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 266
+  },
+  {
+    "id": 11743844,
+    "description": "22.01.30 Horizontal areas [14]",
+    "parentid": 11743849,
+    "chapterKeywords": [
+      {
+        "id": 22,
+        "description": "Public Procurement "
+      },
+      {
+        "id": 292,
+        "description": "Statistical systems and result indicators"
+      },
+      {
+        "id": 241,
+        "description": "Other horizontal areas "
+      },
+      {
+        "id": 406,
+        "description": "Anti-fraud measures"
+      },
+      {
+        "id": 21,
+        "description": "Gender equality"
+      },
+      {
+        "id": 340,
+        "description": "State aid"
+      },
+      {
+        "id": 352,
+        "description": "Reduction of administrative burden"
+      },
+      {
+        "id": 116,
+        "description": "Environmental impact assessment"
+      },
+      {
+        "id": 436,
+        "description": "Horizontal areas"
+      },
+      {
+        "id": 177,
+        "description": "Anti-discrimination"
+      },
+      {
+        "id": 234,
+        "description": "Disability"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 267
+  },
+  {
+    "id": 11743845,
+    "description": "22.01.40 Financial Instruments [14]",
+    "parentid": 11743849,
+    "chapterKeywords": [
+      {
+        "id": 178,
+        "description": "Financial instruments"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 268
+  },
+  {
+    "id": 11743846,
+    "description": "22.01.50 Integrated and territorial approaches [14]",
+    "parentid": 11743849,
+    "chapterKeywords": [
+      {
+        "id": 452,
+        "description": "Sustainable urban development"
+      },
+      {
+        "id": 68,
+        "description": "Integrated territorial investments"
+      },
+      {
+        "id": 453,
+        "description": "Macro-regional strategies"
+      },
+      {
+        "id": 451,
+        "description": "Community lead local development"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 269
+  },
+  {
+    "id": 11743847,
+    "description": "22.01.60 European Territorial Cooperation  [14]",
+    "parentid": 11743849,
+    "chapterKeywords": [
+      {
+        "id": 69,
+        "description": "European territorial cooperation "
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 270
+  },
+  {
+    "id": 11743848,
+    "description": "22.01.70 Other [14]",
+    "parentid": 11743849,
+    "chapterKeywords": [
+      {
+        "id": 179,
+        "description": "Other regional policy issues"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 271
+  },
+  {
+    "id": 11719269,
+    "description": "22.05 European Social Fund (ESF) [05.20.10]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 272
+  },
+  {
+    "id": 11719270,
+    "description": "22.05.10 Organisation and reform of the ESF [05.20.10.10]",
+    "parentid": 11719269,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 273
+  },
+  {
+    "id": 11719271,
+    "description": "22.05.20 Administrative and financial procedures of the ESF [05.20.10.20]",
+    "parentid": 11719269,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 274
+  },
+  {
+    "id": 11719272,
+    "description": "22.05.30 Operations of the ESF [05.20.10.30]",
+    "parentid": 11719269,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 275
+  },
+  {
+    "id": 11719273,
+    "description": "22.10 General principles, programmes and statistics [14.10]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 276
+  },
+  {
+    "id": 11719274,
+    "description": "22.20 European Regional Development Fund (ERDF) [14.20]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 277
+  },
+  {
+    "id": 11719275,
+    "description": "22.30 Monitoring and coordination of regional State aids [14.30]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 278
+  },
+  {
+    "id": 11719276,
+    "description": "22.40 Autonomous regional action [14.40]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 279
+  },
+  {
+    "id": 11719277,
+    "description": "22.40.10 ERDF operations [14.40.10]",
+    "parentid": 11719276,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 280
+  },
+  {
+    "id": 11719278,
+    "description": "22.40.20 Aid for stricken regions [14.40.20]",
+    "parentid": 11719276,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 281
+  },
+  {
+    "id": 11719279,
+    "description": "22.40.30 Community loans [14.40.30]",
+    "parentid": 11719276,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 282
+  },
+  {
+    "id": 11719280,
+    "description": "22.50 Coordination of structural instruments [14.50]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 283
+  },
+  {
+    "id": 11719281,
+    "description": "22.60 Economic and social cohesion fund [14.60]",
+    "parentid": 11719268,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 284
+  },
+  {
+    "id": 11719282,
+    "description": "23 Judiciary and fundamental rights [20]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 29,
+        "description": "Ombudsman"
+      },
+      {
+        "id": 49,
+        "description": "Chapter 23"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 251,
+        "description": "Rights of the child"
+      },
+      {
+        "id": 78,
+        "description": "Data protection"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 21,
+        "description": "Gender equality"
+      },
+      {
+        "id": 30,
+        "description": "Democracy"
+      },
+      {
+        "id": 419,
+        "description": "Peer assessment"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 128,
+        "description": "Women's rights"
+      },
+      {
+        "id": 360,
+        "description": "Freedom of expression"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 125,
+        "description": "Rule of law"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 362,
+        "description": "Corruption"
+      },
+      {
+        "id": 126,
+        "description": "Constitutional reform"
+      },
+      {
+        "id": 417,
+        "description": "Human rights"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 127,
+        "description": "Freedom of information"
+      },
+      {
+        "id": 361,
+        "description": "Judiciary"
+      },
+      {
+        "id": 418,
+        "description": "Torture"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 420,
+        "description": "Rights of minorities"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 252,
+        "description": "Victims"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 285
+  },
+  {
+    "id": 11719283,
+    "description": "23.10 Freedom of movement of people [20.10]",
+    "parentid": 11719282,
+    "chapterKeywords": [
+      {
+        "id": 310,
+        "description": "Classified information"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 286
+  },
+  {
+    "id": 11719284,
+    "description": "23.20 European citizenship [20.20]",
+    "parentid": 11719282,
+    "chapterKeywords": [
+      {
+        "id": 253,
+        "description": "Industrial security"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 287
+  },
+  {
+    "id": 11719285,
+    "description": "24 Justice, freedom and security [19]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 311,
+        "description": "Civil protection and rescue"
+      },
+      {
+        "id": 454,
+        "description": "Fraud"
+      },
+      {
+        "id": 3,
+        "description": "Chapter 24"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 288
+  },
+  {
+    "id": 11719286,
+    "description": "24.10 Free movement of persons [19.10]",
+    "parentid": 11719285,
+    "chapterKeywords": [
+      {
+        "id": 192,
+        "description": "Visa dialogue  "
+      },
+      {
+        "id": 363,
+        "description": "Visa policy"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 289
+  },
+  {
+    "id": 11719287,
+    "description": "24.10.10 Elimination of internal border controls [19.10.10]",
+    "parentid": 11719286,
+    "chapterKeywords": [
+      {
+        "id": 193,
+        "description": "Schengen"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 290
+  },
+  {
+    "id": 11719288,
+    "description": "24.10.20 Crossing external borders [19.10.20]",
+    "parentid": 11719286,
+    "chapterKeywords": [
+      {
+        "id": 254,
+        "description": "Border management"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 291
+  },
+  {
+    "id": 11719289,
+    "description": "24.10.30 Asylum policy [19.10.30]",
+    "parentid": 11719286,
+    "chapterKeywords": [
+      {
+        "id": 364,
+        "description": "Asylum"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 292
+  },
+  {
+    "id": 11719290,
+    "description": "24.10.40 Immigration and the right of nationals of third countries [19.10.40]",
+    "parentid": 11719286,
+    "chapterKeywords": [
+      {
+        "id": 255,
+        "description": "Integration"
+      },
+      {
+        "id": 79,
+        "description": "Legal migration"
+      },
+      {
+        "id": 421,
+        "description": "Irregular migration"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 293
+  },
+  {
+    "id": 11719291,
+    "description": "24.20 Judicial cooperation in civil matters [19.20]",
+    "parentid": 11719285,
+    "chapterKeywords": [
+      {
+        "id": 361,
+        "description": "Judiciary"
+      },
+      {
+        "id": 80,
+        "description": "Mediation "
+      },
+      {
+        "id": 194,
+        "description": "Civil law cooperation "
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 294
+  },
+  {
+    "id": 11719292,
+    "description": "24.30 Police and judicial cooperation in criminal and customs matters [19.30]",
+    "parentid": 11719285,
+    "chapterKeywords": [
+      {
+        "id": 295,
+        "description": "Cyber crime"
+      },
+      {
+        "id": 129,
+        "description": "Asset recovery"
+      },
+      {
+        "id": 81,
+        "description": "Counterfeit money"
+      },
+      {
+        "id": 196,
+        "description": "Drugs"
+      },
+      {
+        "id": 365,
+        "description": "Trafficking in human beings"
+      },
+      {
+        "id": 256,
+        "description": "Doping"
+      },
+      {
+        "id": 195,
+        "description": "Terrorism"
+      },
+      {
+        "id": 32,
+        "description": "Intellectual property crime"
+      },
+      {
+        "id": 245,
+        "description": "Money laundering"
+      },
+      {
+        "id": 31,
+        "description": "Domestic violence"
+      },
+      {
+        "id": 312,
+        "description": "Organised crime"
+      },
+      {
+        "id": 72,
+        "description": "Prisons"
+      },
+      {
+        "id": 422,
+        "description": "Probation"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 295
+  },
+  {
+    "id": 11719293,
+    "description": "24.30.10 Police cooperation [19.30.10]",
+    "parentid": 11719292,
+    "chapterKeywords": [
+      {
+        "id": 33,
+        "description": "Forensics"
+      },
+      {
+        "id": 197,
+        "description": "Public order"
+      },
+      {
+        "id": 313,
+        "description": "Europol"
+      },
+      {
+        "id": 257,
+        "description": "Sports violence "
+      },
+      {
+        "id": 258,
+        "description": "Video surveillance"
+      },
+      {
+        "id": 423,
+        "description": "Dog training"
+      },
+      {
+        "id": 130,
+        "description": "Police cooperation"
+      },
+      {
+        "id": 277,
+        "description": "Explosives"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 296
+  },
+  {
+    "id": 11719294,
+    "description": "24.30.20 Judicial cooperation in criminal matters [19.30.20]",
+    "parentid": 11719292,
+    "chapterKeywords": [
+      {
+        "id": 314,
+        "description": "Criminal law cooperation"
+      },
+      {
+        "id": 198,
+        "description": "Eurojust"
+      },
+      {
+        "id": 361,
+        "description": "Judiciary"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 297
+  },
+  {
+    "id": 11719295,
+    "description": "24.30.30 Customs cooperation [19.30.30]",
+    "parentid": 11719292,
+    "chapterKeywords": [
+      {
+        "id": 259,
+        "description": "Customs"
+      },
+      {
+        "id": 131,
+        "description": "CITES (Washington convention)"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 298
+  },
+  {
+    "id": 11719296,
+    "description": "24.40 Programmes [19.40]",
+    "parentid": 11719285,
+    "chapterKeywords": [
+      {
+        "id": 199,
+        "description": "CFSP - CSDP"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 299
+  },
+  {
+    "id": 11719297,
+    "description": "24.50 External relations [19.50]",
+    "parentid": 11719285,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 300
+  },
+  {
+    "id": 11719298,
+    "description": "25 Science and research [16]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 249,
+        "description": "Horizon 2020"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 217,
+        "description": "Chapter 25"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 301
+  },
+  {
+    "id": 11719299,
+    "description": "25.05 Agricultural research [03.30.50]",
+    "parentid": 11719298,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 302
+  },
+  {
+    "id": 11719300,
+    "description": "25.10 Science [16.10]",
+    "parentid": 11719298,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 303
+  },
+  {
+    "id": 11719301,
+    "description": "25.10.10 General principles [16.10.10]",
+    "parentid": 11719300,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 304
+  },
+  {
+    "id": 11719302,
+    "description": "25.10.20 Research sectors [16.10.20]",
+    "parentid": 11719300,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 305
+  },
+  {
+    "id": 11719303,
+    "description": "26 Education and culture",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 408,
+        "description": "eLearning "
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 23,
+        "description": "Youth "
+      },
+      {
+        "id": 343,
+        "description": "Quality assurance"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 407,
+        "description": "Education"
+      },
+      {
+        "id": 473,
+        "description": "SDG 04 - Quality Education"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 409,
+        "description": "Vocational education and training"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 218,
+        "description": "Chapter 26"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 70,
+        "description": "Culture"
+      },
+      {
+        "id": 182,
+        "description": "Sport"
+      },
+      {
+        "id": 180,
+        "description": "Bologna process"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 181,
+        "description": "Lifelong learning"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 306
+  },
+  {
+    "id": 11719304,
+    "description": "26.10 Education and training [16.30]",
+    "parentid": 11719303,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 307
+  },
+  {
+    "id": 11719305,
+    "description": "26.20 Culture [16.40]",
+    "parentid": 11719303,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 308
+  },
+  {
+    "id": 11719306,
+    "description": "27 Environment [15]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 274,
+        "description": "Chapter 27"
+      },
+      {
+        "id": 484,
+        "description": "SDG 15 - Life On Land"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 123,
+        "description": "Chemicals"
+      },
+      {
+        "id": 306,
+        "description": "Nature protection"
+      },
+      {
+        "id": 357,
+        "description": "Noise"
+      },
+      {
+        "id": 190,
+        "description": "Water"
+      },
+      {
+        "id": 356,
+        "description": "Environment  general"
+      },
+      {
+        "id": 307,
+        "description": "INSPIRE"
+      },
+      {
+        "id": 121,
+        "description": "Air"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 455,
+        "description": "TAIEX EIR P2P"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 122,
+        "description": "Climate change"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 191,
+        "description": "Waste"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 309
+  },
+  {
+    "id": 11719307,
+    "description": "27.05 Forests and forestry [03.30.60]",
+    "parentid": 11719306,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 310
+  },
+  {
+    "id": 11719308,
+    "description": "27.10 Environment [15.10]",
+    "parentid": 11719306,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 311
+  },
+  {
+    "id": 11719309,
+    "description": "27.10.10 General provisions and programmes [15.10.10]",
+    "parentid": 11719308,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 312
+  },
+  {
+    "id": 11719310,
+    "description": "27.10.20 Pollution and nuisances [15.10.20]",
+    "parentid": 11719308,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 313
+  },
+  {
+    "id": 11719311,
+    "description": "27.10.20.20 Water protection and management [15.10.20.20]",
+    "parentid": 11719310,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 314
+  },
+  {
+    "id": 11719312,
+    "description": "27.10.20.30 Monitoring of atmospheric pollution [15.10.20.30]",
+    "parentid": 11719310,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 315
+  },
+  {
+    "id": 11719313,
+    "description": "27.10.20.40 Prevention of noise pollution [15.10.20.40]",
+    "parentid": 11719310,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 316
+  },
+  {
+    "id": 11719314,
+    "description": "27.10.20.50 Chemicals, industrial risk and biotechnology [15.10.20.50]",
+    "parentid": 11719310,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 317
+  },
+  {
+    "id": 11719315,
+    "description": "27.10.30 Space, environment and natural resources [15.10.30]",
+    "parentid": 11719308,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 318
+  },
+  {
+    "id": 11719316,
+    "description": "27.10.30.10 Management and efficient use of space, the environment and natural resources [15.10.30.10]",
+    "parentid": 11719315,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 319
+  },
+  {
+    "id": 11719317,
+    "description": "27.10.30.20 Conservation of wild fauna and flora [15.10.30.20]",
+    "parentid": 11719315,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 320
+  },
+  {
+    "id": 11719318,
+    "description": "27.10.30.30 Waste management and clean technology [15.10.30.30]",
+    "parentid": 11719315,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 321
+  },
+  {
+    "id": 11719319,
+    "description": "27.10.40 International cooperation [15.10.40]",
+    "parentid": 11719308,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 322
+  },
+  {
+    "id": 11719320,
+    "description": "28 Consumer and health protection",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 101,
+        "description": "Product safety"
+      },
+      {
+        "id": 481,
+        "description": "SDG 12 - Responsible Production and Consumption"
+      },
+      {
+        "id": 472,
+        "description": "SDG 03 - Good Health and Well-Being"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 334,
+        "description": "Chapter 28"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 323
+  },
+  {
+    "id": 11719321,
+    "description": "28.20 Consumers [15.20]",
+    "parentid": 11719320,
+    "chapterKeywords": [
+      {
+        "id": 353,
+        "description": "Consumer organisations"
+      },
+      {
+        "id": 411,
+        "description": "Distance selling"
+      },
+      {
+        "id": 45,
+        "description": "Transport"
+      },
+      {
+        "id": 243,
+        "description": "Advertising"
+      },
+      {
+        "id": 293,
+        "description": "Contracts "
+      },
+      {
+        "id": 410,
+        "description": "Unfair commercial practices"
+      },
+      {
+        "id": 242,
+        "description": "Financial services"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 324
+  },
+  {
+    "id": 11719322,
+    "description": "28.20.10 General [15.20.10]",
+    "parentid": 11719321,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 325
+  },
+  {
+    "id": 11719323,
+    "description": "28.20.20 Consumer information, education and representation [15.20.20]",
+    "parentid": 11719321,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 326
+  },
+  {
+    "id": 11719324,
+    "description": "28.20.30 Protection of health and safety [15.20.30]",
+    "parentid": 11719321,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 327
+  },
+  {
+    "id": 11719325,
+    "description": "28.20.40 Protection of economic interests [15.20.40]",
+    "parentid": 11719321,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 328
+  },
+  {
+    "id": 11719326,
+    "description": "28.30 Health protection [15.30]",
+    "parentid": 11719320,
+    "chapterKeywords": [
+      {
+        "id": 183,
+        "description": "Communicable diseases"
+      },
+      {
+        "id": 336,
+        "description": "Medical devices"
+      },
+      {
+        "id": 472,
+        "description": "SDG 03 - Good Health and Well-Being"
+      },
+      {
+        "id": 184,
+        "description": "Blood, tissues, cells and organs"
+      },
+      {
+        "id": 185,
+        "description": "Pharmaceuticals"
+      },
+      {
+        "id": 186,
+        "description": "Patient's rights"
+      },
+      {
+        "id": 71,
+        "description": "Mental health"
+      },
+      {
+        "id": 244,
+        "description": "Health determinants"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 329
+  },
+  {
+    "id": 11719327,
+    "description": "29 Customs union [02]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 294,
+        "description": "Customs checks and exemptions at internal and external borders"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 296,
+        "description": "Agreement with third countries and international conventions"
+      },
+      {
+        "id": 118,
+        "description": "Rules of origin"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 297,
+        "description": "International customs cooperation"
+      },
+      {
+        "id": 479,
+        "description": "SDG 10 - Reduced Inequalities"
+      },
+      {
+        "id": 24,
+        "description": "Free movements of goods"
+      },
+      {
+        "id": 4,
+        "description": "Chapter 29"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 412,
+        "description": "Combined nomenclature, common customs tariff and integrated tariff"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 187,
+        "description": "Community customs code"
+      },
+      {
+        "id": 117,
+        "description": "Customs controls and formalities"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 330
+  },
+  {
+    "id": 11719328,
+    "description": "29.05 General [02.05]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 331
+  },
+  {
+    "id": 11719329,
+    "description": "29.10 General customs rules [02.10]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 332
+  },
+  {
+    "id": 11719330,
+    "description": "29.10.10 Common customs territory [02.10.10]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 333
+  },
+  {
+    "id": 11719331,
+    "description": "29.10.20 Procedures for presentation and clearance [02.10.20]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 334
+  },
+  {
+    "id": 11719332,
+    "description": "29.10.30 Definition of declarant [02.10.30]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 335
+  },
+  {
+    "id": 11719333,
+    "description": "29.10.40 Customs debt inception, exigibility and extinction [02.10.40]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 336
+  },
+  {
+    "id": 11719334,
+    "description": "29.10.50 Carry-over of duties [02.10.50]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 337
+  },
+  {
+    "id": 11719335,
+    "description": "29.10.60 Recovery or remission of duties [02.10.60]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 338
+  },
+  {
+    "id": 11719336,
+    "description": "29.10.70 Post-clearance collection of duties [02.10.70]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 339
+  },
+  {
+    "id": 11719337,
+    "description": "29.10.80 Information binding the administration [02.10.80]",
+    "parentid": 11719329,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 340
+  },
+  {
+    "id": 11719338,
+    "description": "29.20 Basic customs instruments [02.20]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 341
+  },
+  {
+    "id": 11719339,
+    "description": "29.20.10 Customs tariffs [02.20.10]",
+    "parentid": 11719338,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 342
+  },
+  {
+    "id": 11719340,
+    "description": "29.20.10.10 Common Customs Tariff [02.20.10.10]",
+    "parentid": 11719339,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 343
+  },
+  {
+    "id": 11719341,
+    "description": "29.20.10.20 ECSC unified tariff [02.20.10.20]",
+    "parentid": 11719339,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 344
+  },
+  {
+    "id": 11719342,
+    "description": "29.20.10.30 European Community's integrated tariff (TARIC) [02.20.10.30]",
+    "parentid": 11719339,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 345
+  },
+  {
+    "id": 11719343,
+    "description": "29.20.20 Value for customs purposes [02.20.20]",
+    "parentid": 11719338,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 346
+  },
+  {
+    "id": 11719344,
+    "description": "29.20.30 Origin of goods [02.20.30]",
+    "parentid": 11719338,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 347
+  },
+  {
+    "id": 11719345,
+    "description": "29.20.30.10 Common definition used in non-preferential traffic [02.20.30.10]",
+    "parentid": 11719344,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 348
+  },
+  {
+    "id": 11719346,
+    "description": "29.20.30.20 Rules of origin defined in the context of preferential arrangements [02.20.30.20]",
+    "parentid": 11719344,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 349
+  },
+  {
+    "id": 11719347,
+    "description": "29.20.30.21 EFTA countries [02.20.30.21]",
+    "parentid": 11719344,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 350
+  },
+  {
+    "id": 11719348,
+    "description": "29.20.30.22 Mediterranean countries [02.20.30.22]",
+    "parentid": 11719344,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 351
+  },
+  {
+    "id": 11719349,
+    "description": "29.20.30.23 ACP states and OCT [02.20.30.23]",
+    "parentid": 11719344,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 352
+  },
+  {
+    "id": 11719350,
+    "description": "29.20.30.25 Countries benefiting from the system of generalized preferences [02.20.30.25]",
+    "parentid": 11719344,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 353
+  },
+  {
+    "id": 11719351,
+    "description": "29.30 Application of the Common Customs Tariff [02.30]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 354
+  },
+  {
+    "id": 11719352,
+    "description": "29.30.10 Tariff classification [02.30.10]",
+    "parentid": 11719351,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 355
+  },
+  {
+    "id": 11719353,
+    "description": "29.30.20 Particular destinations [02.30.20]",
+    "parentid": 11719351,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 356
+  },
+  {
+    "id": 11719354,
+    "description": "29.30.30 Tariff derogations [02.30.30]",
+    "parentid": 11719351,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 357
+  },
+  {
+    "id": 11719355,
+    "description": "29.30.30.10 Tariff suspensions [02.30.30.10]",
+    "parentid": 11719354,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 358
+  },
+  {
+    "id": 11719356,
+    "description": "29.30.30.20 Tariff quotas [02.30.30.20]",
+    "parentid": 11719354,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 359
+  },
+  {
+    "id": 11719357,
+    "description": "29.30.30.30 Tariff ceilings [02.30.30.30]",
+    "parentid": 11719354,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 360
+  },
+  {
+    "id": 11719358,
+    "description": "29.30.30.40 Reintroduction of customs duties [02.30.30.40]",
+    "parentid": 11719354,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 361
+  },
+  {
+    "id": 11719359,
+    "description": "29.30.40 Standard rate of duty [02.30.40]",
+    "parentid": 11719351,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 362
+  },
+  {
+    "id": 11719360,
+    "description": "29.30.50 Reliefs from duty [02.30.50]",
+    "parentid": 11719351,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 363
+  },
+  {
+    "id": 11719361,
+    "description": "29.30.50.10 Returned goods [02.30.50.10]",
+    "parentid": 11719360,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 364
+  },
+  {
+    "id": 11719362,
+    "description": "29.30.50.20 Victualling procedures [02.30.50.20]",
+    "parentid": 11719360,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 365
+  },
+  {
+    "id": 11719363,
+    "description": "29.30.50.30 Other reliefs from duty [02.30.50.30]",
+    "parentid": 11719360,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 366
+  },
+  {
+    "id": 11719364,
+    "description": "29.40 Specific customs rules [02.40]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 367
+  },
+  {
+    "id": 11719365,
+    "description": "29.40.10 Movement of goods [02.40.10]",
+    "parentid": 11719364,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 368
+  },
+  {
+    "id": 11719366,
+    "description": "29.40.10.10 Free movement of goods [02.40.10.10]",
+    "parentid": 11719365,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 369
+  },
+  {
+    "id": 11719367,
+    "description": "29.40.10.11 Community transit [02.40.10.11]",
+    "parentid": 11719365,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 370
+  },
+  {
+    "id": 11719368,
+    "description": "29.40.10.12 Other arrangements concerning movement of goods [02.40.10.12]",
+    "parentid": 11719365,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 371
+  },
+  {
+    "id": 11719369,
+    "description": "29.40.10.13 Turkey [02.40.10.13]",
+    "parentid": 11719365,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 372
+  },
+  {
+    "id": 11719370,
+    "description": "29.40.10.20 Extra-Community trade: EFTA agreements [02.40.10.20]",
+    "parentid": 11719365,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 373
+  },
+  {
+    "id": 11719371,
+    "description": "29.40.10.30 Export procedures [02.40.10.30]",
+    "parentid": 11719365,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 374
+  },
+  {
+    "id": 11719372,
+    "description": "29.40.10.40 Elimination of barriers to trade [02.40.10.40]",
+    "parentid": 11719365,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 375
+  },
+  {
+    "id": 11719373,
+    "description": "29.40.20 Economic customs arrangements [02.40.20]",
+    "parentid": 11719364,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 376
+  },
+  {
+    "id": 11719374,
+    "description": "29.40.20.10 Inward processing [02.40.20.10]",
+    "parentid": 11719373,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 377
+  },
+  {
+    "id": 11719375,
+    "description": "29.40.20.20 Outward processing and harmonisation of standard trade [02.40.20.20]",
+    "parentid": 11719373,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 378
+  },
+  {
+    "id": 11719376,
+    "description": "29.40.20.30 Free zones, bonded warehouses, handling [02.40.20.30]",
+    "parentid": 11719373,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 379
+  },
+  {
+    "id": 11719377,
+    "description": "29.40.20.40 Other economic customs arrangements [02.40.20.40]",
+    "parentid": 11719373,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 380
+  },
+  {
+    "id": 11719378,
+    "description": "29.50 Mutual assistance [02.50]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 381
+  },
+  {
+    "id": 11719379,
+    "description": "29.50.10 In the application of customs or agricultural rules [02.50.10]",
+    "parentid": 11719378,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 382
+  },
+  {
+    "id": 11719380,
+    "description": "29.50.20 For the recovery of claims in customs or agriculture [02.50.20]",
+    "parentid": 11719378,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 383
+  },
+  {
+    "id": 11719381,
+    "description": "29.60 Proceedings and penalties [02.60]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 384
+  },
+  {
+    "id": 11719382,
+    "description": "29.60.10 Settlement of disputes [02.60.10]",
+    "parentid": 11719381,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 385
+  },
+  {
+    "id": 11719383,
+    "description": "29.60.20 Prevention of infringements of Community law [02.60.20]",
+    "parentid": 11719381,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 386
+  },
+  {
+    "id": 11719384,
+    "description": "29.70 International customs cooperation [02.70]",
+    "parentid": 11719327,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 387
+  },
+  {
+    "id": 11719385,
+    "description": "30 External relations [11]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 447,
+        "description": "GSP"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 448,
+        "description": "Kimberley process"
+      },
+      {
+        "id": 479,
+        "description": "SDG 10 - Reduced Inequalities"
+      },
+      {
+        "id": 446,
+        "description": "Export credits"
+      },
+      {
+        "id": 380,
+        "description": "Chapter 30"
+      },
+      {
+        "id": 445,
+        "description": "Common commercial policy"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 444,
+        "description": "Dual use"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 449,
+        "description": "Anti-torture regulation"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 388
+  },
+  {
+    "id": 11719386,
+    "description": "30.05 Intra-Community dumping practices [08.70]",
+    "parentid": 11719385,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 389
+  },
+  {
+    "id": 11719387,
+    "description": "30.10 General [11.10]",
+    "parentid": 11719385,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 390
+  },
+  {
+    "id": 11719388,
+    "description": "30.30 Multilateral relations [11.30]",
+    "parentid": 11719385,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 391
+  },
+  {
+    "id": 11719389,
+    "description": "30.30.10 Relations in the context of the General Agreement on Tariffs and Trade (GATT) [11.30.10]",
+    "parentid": 11719388,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 392
+  },
+  {
+    "id": 11719390,
+    "description": "30.30.10.10 Basic standards [11.30.10.10]",
+    "parentid": 11719389,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 393
+  },
+  {
+    "id": 11719391,
+    "description": "30.30.10.20 Bilateral questions [11.30.10.20]",
+    "parentid": 11719389,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 394
+  },
+  {
+    "id": 11719392,
+    "description": "30.30.20 International commodity agreements [11.30.20]",
+    "parentid": 11719388,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 395
+  },
+  {
+    "id": 11719393,
+    "description": "30.30.30 Multilateral customs cooperation [11.30.30]",
+    "parentid": 11719388,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 396
+  },
+  {
+    "id": 11719394,
+    "description": "30.30.40 Cooperation with international and non-governmental organisations [11.30.40]",
+    "parentid": 11719388,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 397
+  },
+  {
+    "id": 11719395,
+    "description": "30.30.50 Multilateral transport cooperation [11.30.50]",
+    "parentid": 11719388,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 398
+  },
+  {
+    "id": 11719396,
+    "description": "30.30.60 Multilateral cooperation for protection of the environment, wild fauna and flora and natural resources [11.30.60]",
+    "parentid": 11719388,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 399
+  },
+  {
+    "id": 11719397,
+    "description": "30.30.70 Other spheres of multilateral cooperation [11.30.70]",
+    "parentid": 11719388,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 400
+  },
+  {
+    "id": 11719398,
+    "description": "30.40 Bilateral agreements with non-member countries [11.40]",
+    "parentid": 11719385,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 401
+  },
+  {
+    "id": 11719399,
+    "description": "30.40.10 European countries [11.40.10]",
+    "parentid": 11719398,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 402
+  },
+  {
+    "id": 11719400,
+    "description": "30.40.10.10 Member countries of the European Free Trade Association (EFTA) [11.40.10.10]",
+    "parentid": 11719399,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 403
+  },
+  {
+    "id": 11719401,
+    "description": "30.40.10.20 Mediterranean countries [11.40.10.20]",
+    "parentid": 11719399,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 404
+  },
+  {
+    "id": 11719402,
+    "description": "30.40.10.30 Countries in transition [11.40.10.30]",
+    "parentid": 11719399,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 405
+  },
+  {
+    "id": 11719403,
+    "description": "30.40.10.40 Other European countries [11.40.10.40]",
+    "parentid": 11719399,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 406
+  },
+  {
+    "id": 11719404,
+    "description": "30.40.20 The Near and Middle East [11.40.20]",
+    "parentid": 11719398,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 407
+  },
+  {
+    "id": 11719405,
+    "description": "30.40.30 African, Caribbean and Pacific (ACP) Group of States [11.40.30]",
+    "parentid": 11719398,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 408
+  },
+  {
+    "id": 11719406,
+    "description": "30.40.40 North America [11.40.40]",
+    "parentid": 11719398,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 409
+  },
+  {
+    "id": 11719407,
+    "description": "30.40.50 Central America and Latin America [11.40.50]",
+    "parentid": 11719398,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 410
+  },
+  {
+    "id": 11719408,
+    "description": "30.40.60 Asian countries [11.40.60]",
+    "parentid": 11719398,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 411
+  },
+  {
+    "id": 11719409,
+    "description": "30.40.70 Oceanian countries [11.40.70]",
+    "parentid": 11719398,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 412
+  },
+  {
+    "id": 11719410,
+    "description": "30.50 Action in favour of countries in transition [11.50]",
+    "parentid": 11719385,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 413
+  },
+  {
+    "id": 11719411,
+    "description": "30.50.10 European Bank for Reconstruction and Development [11.50.10]",
+    "parentid": 11719410,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 414
+  },
+  {
+    "id": 11719412,
+    "description": "30.50.20 Financial and economic Aid [11.50.20]",
+    "parentid": 11719410,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 415
+  },
+  {
+    "id": 11719413,
+    "description": "30.50.30 Specific aid actions [11.50.30]",
+    "parentid": 11719410,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 416
+  },
+  {
+    "id": 11719414,
+    "description": "30.60 Commercial policy [11.60]",
+    "parentid": 11719385,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 417
+  },
+  {
+    "id": 11719415,
+    "description": "30.60.10 General [11.60.10]",
+    "parentid": 11719414,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 418
+  },
+  {
+    "id": 11719416,
+    "description": "30.60.20 Extension or renewal of agreements with State-trading countries [11.60.20]",
+    "parentid": 11719414,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 419
+  },
+  {
+    "id": 11719417,
+    "description": "30.60.30 Trade arrangements [11.60.30]",
+    "parentid": 11719414,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 420
+  },
+  {
+    "id": 11719418,
+    "description": "30.60.30.10 Preferential arrangements [11.60.30.10]",
+    "parentid": 11719417,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 421
+  },
+  {
+    "id": 11719419,
+    "description": "30.60.30.20 Common import arrangements [11.60.30.20]",
+    "parentid": 11719417,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 422
+  },
+  {
+    "id": 11719420,
+    "description": "30.60.30.30 Common export arrangements [11.60.30.30]",
+    "parentid": 11719417,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 423
+  },
+  {
+    "id": 11719421,
+    "description": "30.60.30.40 Export guarantees and financing [11.60.30.40]",
+    "parentid": 11719417,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 424
+  },
+  {
+    "id": 11719422,
+    "description": "30.60.40 Trade protection [11.60.40]",
+    "parentid": 11719414,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 425
+  },
+  {
+    "id": 11719423,
+    "description": "30.60.40.10 Countervailing duties [11.60.40.10]",
+    "parentid": 11719422,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 426
+  },
+  {
+    "id": 11719424,
+    "description": "30.60.40.20 Anti-dumping measures [11.60.40.20]",
+    "parentid": 11719422,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 427
+  },
+  {
+    "id": 11719425,
+    "description": "30.60.40.30 Specific ECSC measures [11.60.40.30]",
+    "parentid": 11719422,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 428
+  },
+  {
+    "id": 11719426,
+    "description": "30.60.50 Other commercial policy measures [11.60.50]",
+    "parentid": 11719414,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 429
+  },
+  {
+    "id": 11719427,
+    "description": "30.70 Development policy [11.70]",
+    "parentid": 11719385,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 430
+  },
+  {
+    "id": 11719428,
+    "description": "30.70.10 General [11.70.10]",
+    "parentid": 11719427,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 431
+  },
+  {
+    "id": 11719429,
+    "description": "30.70.20 Aid to developing countries [11.70.20]",
+    "parentid": 11719427,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 432
+  },
+  {
+    "id": 11719430,
+    "description": "30.70.20.10 Food aid [11.70.20.10]",
+    "parentid": 11719429,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 433
+  },
+  {
+    "id": 11719431,
+    "description": "30.70.20.20 European Development Fund (EDF) [11.70.20.20]",
+    "parentid": 11719429,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 434
+  },
+  {
+    "id": 11719432,
+    "description": "30.70.20.30 Aid to Latin American and Asian countries [11.70.20.30]",
+    "parentid": 11719429,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 435
+  },
+  {
+    "id": 11719433,
+    "description": "30.70.30 Generalised system of preferences [11.70.30]",
+    "parentid": 11719427,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 436
+  },
+  {
+    "id": 11719434,
+    "description": "30.70.40 Associations [11.70.40]",
+    "parentid": 11719427,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 437
+  },
+  {
+    "id": 11719435,
+    "description": "30.70.40.10 Overseas countries and territories (PTOM) [11.70.40.10]",
+    "parentid": 11719434,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 438
+  },
+  {
+    "id": 11719436,
+    "description": "30.70.40.20 African, Caribbean and Pacific (ACP) Group of States [11.70.40.20]",
+    "parentid": 11719434,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 439
+  },
+  {
+    "id": 11719437,
+    "description": "31 Foreign, security and defence policy",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 100,
+        "description": "Chapter 31"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 199,
+        "description": "CFSP - CSDP"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 440
+  },
+  {
+    "id": 11719438,
+    "description": "31.10 European political cooperation [11.20]",
+    "parentid": 11719437,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 441
+  },
+  {
+    "id": 11719439,
+    "description": "31.20 Common Foreign and Security Policy [18]",
+    "parentid": 11719437,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 442
+  },
+  {
+    "id": 11719440,
+    "description": "32 Financial control [01.60.60]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 298,
+        "description": "Public Internal Financial Control (PIFC)"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 300,
+        "description": "EU preaccession funding and future structural action"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 219,
+        "description": "Chapter 32"
+      },
+      {
+        "id": 299,
+        "description": "External audit"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 443
+  },
+  {
+    "id": 11719441,
+    "description": "33 Financial and budgetary provisions [01.60]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 50,
+        "description": "Chapter 33"
+      },
+      {
+        "id": 413,
+        "description": "EU own resourses"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 188,
+        "description": "Budget "
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 444
+  },
+  {
+    "id": 11719442,
+    "description": "33.10 Unit of account [01.60.10]",
+    "parentid": 11719441,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 445
+  },
+  {
+    "id": 11719443,
+    "description": "33.20 Budget [01.60.20]",
+    "parentid": 11719441,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 446
+  },
+  {
+    "id": 11719444,
+    "description": "33.30 Own resources [01.60.30]",
+    "parentid": 11719441,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 447
+  },
+  {
+    "id": 11719445,
+    "description": "33.40 European Coal and Steel Community (ECSC) [01.60.40]",
+    "parentid": 11719441,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 448
+  },
+  {
+    "id": 11719446,
+    "description": "33.50 Other revenue [01.60.50]",
+    "parentid": 11719441,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 449
+  },
+  {
+    "id": 11719447,
+    "description": "34 Institutions [01]",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 275,
+        "description": "Chapter 34"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 199,
+        "description": "CFSP - CSDP"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 450
+  },
+  {
+    "id": 11719448,
+    "description": "34.10 Principles, objectives and tasks of the Treaties [01.10]",
+    "parentid": 11719447,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 451
+  },
+  {
+    "id": 11719449,
+    "description": "34.20 General provisions [01.20]",
+    "parentid": 11719447,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 452
+  },
+  {
+    "id": 11719450,
+    "description": "34.30 Scope of the Treaties [01.30]",
+    "parentid": 11719447,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 453
+  },
+  {
+    "id": 11719451,
+    "description": "34.40 Provisions governing the institutions [01.40]",
+    "parentid": 11719447,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 454
+  },
+  {
+    "id": 11719452,
+    "description": "34.40.10 General [01.40.10]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 455
+  },
+  {
+    "id": 11719453,
+    "description": "34.40.20 Parliament [01.40.20]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 456
+  },
+  {
+    "id": 11719454,
+    "description": "34.40.30 Council [01.40.30]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 457
+  },
+  {
+    "id": 11719455,
+    "description": "34.40.40 Commission [01.40.40]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 458
+  },
+  {
+    "id": 11719456,
+    "description": "34.40.50 Court of Justice [01.40.50]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 459
+  },
+  {
+    "id": 11719457,
+    "description": "34.40.60 Court of Auditors [01.40.60]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 460
+  },
+  {
+    "id": 11719458,
+    "description": "34.40.65 Committee of the Regions [01.40.65]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 461
+  },
+  {
+    "id": 11719459,
+    "description": "34.40.70 Economic and Social Committee [01.40.70]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 462
+  },
+  {
+    "id": 11719460,
+    "description": "34.40.75 European Central Bank [01.40.75]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 463
+  },
+  {
+    "id": 11719461,
+    "description": "34.40.80 European Investment Bank [01.40.80]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 464
+  },
+  {
+    "id": 11719462,
+    "description": "34.40.85 European Monetary Institute [01.40.85]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 465
+  },
+  {
+    "id": 11719463,
+    "description": "34.40.90 ECSC Consultative Committee [01.40.90]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 466
+  },
+  {
+    "id": 11719464,
+    "description": "34.40.95 European System of Central Banks [01.40.95]",
+    "parentid": 11719451,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 467
+  },
+  {
+    "id": 11719465,
+    "description": "34.50 Administration and Staff Regulations [01.50]",
+    "parentid": 11719447,
+    "chapterKeywords": [],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 468
+  },
+  {
+    "id": 11719466,
+    "description": "35 Other issues",
+    "parentid": 0,
+    "chapterKeywords": [
+      {
+        "id": 74,
+        "description": "Strategic planning"
+      },
+      {
+        "id": 470,
+        "description": "SDG 01 - No Poverty"
+      },
+      {
+        "id": 477,
+        "description": "SDG 08 - Decent Work and Economic Growth"
+      },
+      {
+        "id": 484,
+        "description": "SDG 15 - Life On Land"
+      },
+      {
+        "id": 467,
+        "description": "Deliverable - Economic Development"
+      },
+      {
+        "id": 73,
+        "description": "Ethics"
+      },
+      {
+        "id": 478,
+        "description": "SDG 09 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 476,
+        "description": "SDG 07 - Affordable and Clean Energy"
+      },
+      {
+        "id": 475,
+        "description": "SDG 06 - Clean Water and Sanitation"
+      },
+      {
+        "id": 119,
+        "description": "Decentralization"
+      },
+      {
+        "id": 462,
+        "description": "WBS - Flagship 3"
+      },
+      {
+        "id": 460,
+        "description": "WBS - Flagship 1"
+      },
+      {
+        "id": 464,
+        "description": "WBS - Flagship 5"
+      },
+      {
+        "id": 468,
+        "description": "Deliverable - Cross Cutting"
+      },
+      {
+        "id": 458,
+        "description": "Deliverable - People to People"
+      },
+      {
+        "id": 485,
+        "description": "SDG 16 - Peace, Justice and Strong Institution"
+      },
+      {
+        "id": 301,
+        "description": "Public administration reform"
+      },
+      {
+        "id": 354,
+        "description": "Parliaments"
+      },
+      {
+        "id": 486,
+        "description": "SDG 17 - Partnerships for the Goals"
+      },
+      {
+        "id": 381,
+        "description": "Chapter 35"
+      },
+      {
+        "id": 481,
+        "description": "SDG 12 - Responsible Production and Consumption"
+      },
+      {
+        "id": 472,
+        "description": "SDG 03 - Good Health and Well-Being"
+      },
+      {
+        "id": 482,
+        "description": "SDG 13 - Climate Action"
+      },
+      {
+        "id": 459,
+        "description": "Deliverable - Other including NO"
+      },
+      {
+        "id": 480,
+        "description": "SDG 11 - Sustainable Cities and Communities"
+      },
+      {
+        "id": 466,
+        "description": "Deliverable - Good Governance"
+      },
+      {
+        "id": 479,
+        "description": "SDG 10 - Reduced Inequalities"
+      },
+      {
+        "id": 473,
+        "description": "SDG 04 - Quality Education"
+      },
+      {
+        "id": 246,
+        "description": "Human resources"
+      },
+      {
+        "id": 483,
+        "description": "SDG 14 - Life Below Water"
+      },
+      {
+        "id": 461,
+        "description": "WBS - Flagship 2"
+      },
+      {
+        "id": 465,
+        "description": "WBS - Flagship 6"
+      },
+      {
+        "id": 463,
+        "description": "WBS - Flagship 4"
+      },
+      {
+        "id": 471,
+        "description": "SDG 02 - Zero Hunger"
+      },
+      {
+        "id": 199,
+        "description": "CFSP - CSDP"
+      },
+      {
+        "id": 469,
+        "description": "Deliverable - Connectivity"
+      },
+      {
+        "id": 487,
+        "description": "COVID 19"
+      },
+      {
+        "id": 474,
+        "description": "SDG 05 - Gender Equality"
+      }
+    ],
+    "ticked": false,
+    "coverageLevel": null,
+    "order": 469
+  }
+]

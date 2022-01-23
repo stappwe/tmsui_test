@@ -1,0 +1,51 @@
+<div [formGroup]="dateRangeFilterForm" *ngIf="(dateRangeFilterForm !== undefined)">
+  <div>
+    <select class="ag-filter-select no-validation" formControlName="filterType">
+      <option *ngFor="let item of filterTypes" [ngValue]="item.id">{{item.name}}</option>
+    </select>
+  </div>
+  <div class="ag-filter-body">
+    <div [hidden]="dateRangeFilterForm.controls['filterType'].value !== 1">
+      <input class="ag-filter-filter no-validation" type="text" #textInput formControlName="textFilter" placeholder="Filter...">
+    </div>
+    <div fxLayout="column" fxLayoutGap="5px" [hidden]="dateRangeFilterForm.controls['filterType'].value !== 5">
+      <!-- start date -->
+      <div>
+        <mat-form-field class="mat-no-caption">
+          <input #fromDateInput class="form-control" matInput [min]="minDate" [max]="maxDate" [matDatepicker]="fromDatePicker"
+                 formControlName="fromDate">
+          <mat-datepicker-toggle matSuffix [for]="fromDatePicker"></mat-datepicker-toggle>
+          <mat-datepicker #fromDatePicker panelClass="ag-custom-component-popup"></mat-datepicker>
+        </mat-form-field>
+        <div [hidden]="dateRangeFilterForm.controls['fromDate'].valid || dateRangeFilterForm.controls['fromDate'].pristine" class="error-message">
+          <div *ngIf="dateRangeFilterForm.controls['fromDate'].hasError('matDatepickerMin')">Not valid, minimum value exceeded</div>
+          <div *ngIf="dateRangeFilterForm.controls['fromDate'].hasError('matDatepickerMax')">Not valid, maximum value exceeded</div>
+          <div *ngIf="dateRangeFilterForm.controls['fromDate'].hasError('matDatepickerParse')">Date is not valid</div>
+        </div>
+      </div>
+      <!-- end date -->
+      <div class="margin-bottom">
+        <mat-form-field class="mat-no-caption">
+          <input class="form-control" matInput [min]="dateRangeFilterForm.controls['fromDate'].value || minDate" [max]="maxDate"
+                 [matDatepicker]="toDatePicker" formControlName="toDate">
+          <mat-datepicker-toggle matSuffix [for]="toDatePicker"></mat-datepicker-toggle>
+          <mat-datepicker #toDatePicker panelClass="ag-custom-component-popup"></mat-datepicker>
+        </mat-form-field>
+        <div [hidden]="dateRangeFilterForm.controls['toDate'].valid || dateRangeFilterForm.controls['toDate'].pristine" class="error-message">
+          <div *ngIf="dateRangeFilterForm.controls['toDate'].hasError('matDatepickerMin')">Not valid, minimum value exceeded</div>
+          <div *ngIf="dateRangeFilterForm.controls['toDate'].hasError('matDatepickerMax')">Not valid, maximum value exceeded</div>
+          <div *ngIf="dateRangeFilterForm.controls['toDate'].hasError('matDatepickerParse')">Date is not valid</div>
+        </div>
+      </div>
+      <div [hidden]="dateRangeFilterForm.valid || dateRangeFilterForm.pristine || !dateRangeFilterForm.hasError('valueRangeError')" class="error-message">
+        <div *ngIf="dateRangeFilterForm.hasError('valueRangeError')">Invalid value range</div>
+      </div>
+    </div>
+  </div>
+  <div class="ag-filter-apply-panel">
+    <button type="button" (click)="onApplyClick()" [disabled]="!dateRangeFilterForm.valid">Apply Filter</button>
+  </div>
+  <div class="ag-filter-apply-panel">
+    <button type="button" class="btn-secondary" (click)="onResetClick()" [disabled]="!dateRangeFilterForm.valid">Reset Filter</button>
+  </div>
+</div>

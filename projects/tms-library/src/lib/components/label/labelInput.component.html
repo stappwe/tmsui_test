@@ -1,0 +1,6 @@
+<div class="form-group row {{globalClass}}">
+  <label class="{{ labelClass }} {{ addLabelClass }}" [title]="displayLabel" *ngIf="hideLabel === false">{{ labelText }}<span *ngIf="required === true">*</span></label>
+  <div class="{{contentClass}}">
+    <ng-content></ng-content>
+  </div>
+</div>

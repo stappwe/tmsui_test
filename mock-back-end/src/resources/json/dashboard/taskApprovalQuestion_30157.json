@@ -1,0 +1,539 @@
+{
+  "project": "PI",
+  "taskId": 30157,
+  "lastWorkflowStep": 102,
+  "allowedWorkflowActions": [103],
+  "commentStatus": 1,
+  "questionList": [
+    {
+    "controlType" : "YesNo",
+    "withComment" : true,
+    "label" : "Are the countries involved in the proposed action eligible?",
+    "order" : 1,
+    "key" : 25,
+    "value": 1,
+    "comentValue" : "",
+    "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Does the proposed action underpin the foreign policy priorities of the EU?",
+      "order" : 2,
+      "key" : 26,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Is the applicant eligible? (Commission services, EU Delegations)",
+      "order" : 3,
+      "key" : 27,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Is the local partner eligible? (Ministries, Government bodies, National Parliaments, Judiciary, Social Partners, Private Sector Associations)",
+      "order" : 4,
+      "key" : 28,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Are the targeted participants the relevant ones?",
+      "order" : 5,
+      "key" : 29,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Is there an added value for TAIEX assistance?",
+      "order" : 6,
+      "key" : 30,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Does the TAIEX action come at the right time?",
+      "order" : 7,
+      "key" : 31,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Is it ensured that there is no overlap/duplication with on-going or previous assistance?",
+      "order" : 8,
+      "key" : 32,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    }, {
+      "controlType" : "YesNo",
+      "withComment" : true,
+      "label" : "Are the needs justified and is the proposed action clear?",
+      "order" : 9,
+      "key" : 33,
+      "value": 1,
+      "comentValue" : "",
+      "commentSize" : 1000
+    },
+    {
+      "controlType": "Info",
+      "label": "Have the interested parties given there support?",
+      "order": 10,
+      "key": -1
+    },
+    {
+      "controlType" : "Consultation",
+      "key" : 34,
+      "label" : "EUD",
+      "value": 1,
+      "order": 11,
+      "selectionType": 1,
+      "textValue": "",
+      "groupValue": [163],
+      "groupList": [
+        {
+          "id" : 209,
+          "name" : "Afghanistan"
+        }, {
+          "id" : 214,
+          "name" : "American Samoa"
+        }, {
+          "id" : 162,
+          "name" : "Andorra"
+        }, {
+          "id" : 190,
+          "name" : "Angola"
+        }, {
+          "id" : 215,
+          "name" : "Antigua and Barbuda"
+        }, {
+          "id" : 163,
+          "name" : "Argentina"
+        }, {
+          "id" : 216,
+          "name" : "Aruba"
+        }, {
+          "id" : 153,
+          "name" : "Australia"
+        }, {
+          "id" : 164,
+          "name" : "Bahrain"
+        }, {
+          "id" : 217,
+          "name" : "Bangladesh"
+        }, {
+          "id" : 218,
+          "name" : "Barbados"
+        }, {
+          "id" : 219,
+          "name" : "Belize"
+        }, {
+          "id" : 220,
+          "name" : "Bolivia"
+        }, {
+          "id" : 191,
+          "name" : "Brazil"
+        }, {
+          "id" : 165,
+          "name" : "Brunei"
+        }, {
+          "id" : 192,
+          "name" : "Cambodia"
+        }, {
+          "id" : 155,
+          "name" : "Canada"
+        }, {
+          "id" : 193,
+          "name" : "Chile"
+        }, {
+          "id" : 202,
+          "name" : "Colombia"
+        }, {
+          "id" : 221,
+          "name" : "Congo the Democratic Republic of the"
+        }, {
+          "id" : 222,
+          "name" : "Costa Rica"
+        }, {
+          "id" : 223,
+          "name" : "Cuba"
+        }, {
+          "id" : 224,
+          "name" : "Curaçao"
+        }, {
+          "id" : 225,
+          "name" : "Dominica"
+        }, {
+          "id" : 226,
+          "name" : "Dominican Republic"
+        }, {
+          "id" : 210,
+          "name" : "Ecuador"
+        }, {
+          "id" : 212,
+          "name" : "El Salvador"
+        }, {
+          "id" : 227,
+          "name" : "Equatorial Guinea"
+        }, {
+          "id" : 228,
+          "name" : "Faroe Islands"
+        }, {
+          "id" : 229,
+          "name" : "Greenland"
+        }, {
+          "id" : 213,
+          "name" : "Guatemala"
+        }, {
+          "id" : 230,
+          "name" : "Guinea"
+        }, {
+          "id" : 231,
+          "name" : "Guyana"
+        }, {
+          "id" : 232,
+          "name" : "Haiti"
+        }, {
+          "id" : 233,
+          "name" : "Honduras"
+        }, {
+          "id" : 158,
+          "name" : "Hong Kong"
+        }, {
+          "id" : 167,
+          "name" : "India"
+        }, {
+          "id" : 168,
+          "name" : "Indonesia"
+        }, {
+          "id" : 171,
+          "name" : "Iran"
+        }, {
+          "id" : 170,
+          "name" : "Iraq"
+        }, {
+          "id" : 234,
+          "name" : "Jamaica"
+        }, {
+          "id" : 172,
+          "name" : "Japan"
+        }, {
+          "id" : 161,
+          "name" : "Kazakhstan"
+        }, {
+          "id" : 173,
+          "name" : "Kuwait"
+        }, {
+          "id" : 200,
+          "name" : "Kyrgyzstan"
+        }, {
+          "id" : 195,
+          "name" : "Laos"
+        }, {
+          "id" : 247,
+          "name" : "Lesotho"
+        }, {
+          "id" : 174,
+          "name" : "Liechtenstein"
+        }, {
+          "id" : 235,
+          "name" : "Macao"
+        }, {
+          "id" : 175,
+          "name" : "Malaysia"
+        }, {
+          "id" : 211,
+          "name" : "Maldives"
+        }, {
+          "id" : 249,
+          "name" : "Mauritius"
+        }, {
+          "id" : 176,
+          "name" : "Mexico"
+        }, {
+          "id" : 177,
+          "name" : "Monaco"
+        }, {
+          "id" : 236,
+          "name" : "Mongolia"
+        }, {
+          "id" : 196,
+          "name" : "Myanmar"
+        }, {
+          "id" : 237,
+          "name" : "Nepal"
+        }, {
+          "id" : 160,
+          "name" : "New Zealand"
+        }, {
+          "id" : 238,
+          "name" : "Nicaragua"
+        }, {
+          "id" : 197,
+          "name" : "Nigeria"
+        }, {
+          "id" : 178,
+          "name" : "Oman"
+        }, {
+          "id" : 179,
+          "name" : "Pakistan"
+        }, {
+          "id" : 239,
+          "name" : "Panama"
+        }, {
+          "id" : 203,
+          "name" : "Paraguay"
+        }, {
+          "id" : 159,
+          "name" : "People's Republic of China"
+        }, {
+          "id" : 198,
+          "name" : "Peru"
+        }, {
+          "id" : 180,
+          "name" : "Philippines"
+        }, {
+          "id" : 240,
+          "name" : "Puerto Rico"
+        }, {
+          "id" : 181,
+          "name" : "Qatar"
+        }, {
+          "id" : 194,
+          "name" : "Republic of Korea"
+        }, {
+          "id" : 70,
+          "name" : "Russian Federation"
+        }, {
+          "id" : 246,
+          "name" : "San Marino"
+        }, {
+          "id" : 241,
+          "name" : "Sao Tome and Principe"
+        }, {
+          "id" : 182,
+          "name" : "Saudi Arabia"
+        }, {
+          "id" : 248,
+          "name" : "Seychelles"
+        }, {
+          "id" : 183,
+          "name" : "Singapore"
+        }, {
+          "id" : 184,
+          "name" : "South Africa"
+        }, {
+          "id" : 201,
+          "name" : "Sri Lanka"
+        }, {
+          "id" : 242,
+          "name" : "Suriname"
+        }, {
+          "id" : 204,
+          "name" : "Taiwan"
+        }, {
+          "id" : 205,
+          "name" : "Tajikistan"
+        }, {
+          "id" : 186,
+          "name" : "Thailand"
+        }, {
+          "id" : 243,
+          "name" : "Timor-Leste"
+        }, {
+          "id" : 244,
+          "name" : "Trinidad and Tobago"
+        }, {
+          "id" : 206,
+          "name" : "Turkmenistan"
+        }, {
+          "id" : 188,
+          "name" : "UAE - United Arab Emirates"
+        }, {
+          "id" : 151,
+          "name" : "United States of America"
+        }, {
+          "id" : 207,
+          "name" : "Uruguay"
+        }, {
+          "id" : 208,
+          "name" : "Uzbekistan"
+        }, {
+          "id" : 245,
+          "name" : "Venezuela"
+        }, {
+          "id" : 199,
+          "name" : "Vietnam"
+        }, {
+          "id" : 189,
+          "name" : "Yemen"
+        }, {
+          "id" : 187,
+          "name" : "the Holy See"
+        }
+      ]
+    }, {
+      "controlType": "Consultation",
+      "key": 35,
+      "label": "DG",
+      "value": 2,
+      "order": 12,
+      "selectionType": 1,
+      "textValue": "",
+      "groupValue": [14,28,32],
+      "groupList": [
+        {
+          "id" : 1,
+          "name" : "AGRI"
+        }, {
+          "id" : 2,
+          "name" : "BUDG"
+        }, {
+          "id" : 3,
+          "name" : "CLIMA"
+        }, {
+          "id" : 4,
+          "name" : "COMM"
+        }, {
+          "id" : 5,
+          "name" : "CNECT"
+        }, {
+          "id" : 6,
+          "name" : "COMP"
+        }, {
+          "id" : 7,
+          "name" : "ECFIN"
+        }, {
+          "id" : 8,
+          "name" : "EAC"
+        }, {
+          "id" : 9,
+          "name" : "EMPL"
+        }, {
+          "id" : 10,
+          "name" : "ENER"
+        }, {
+          "id" : 11,
+          "name" : "ELARG"
+        }, {
+          "id" : 12,
+          "name" : "ENTR"
+        }, {
+          "id" : 13,
+          "name" : "ENV"
+        }, {
+          "id" : 14,
+          "name" : "DEVCO"
+        }, {
+          "id" : 15,
+          "name" : "ESTAT"
+        }, {
+          "id" : 16,
+          "name" : "SANTE"
+        }, {
+          "id" : 17,
+          "name" : "HOME"
+        }, {
+          "id" : 18,
+          "name" : "ECHO"
+        }, {
+          "id" : 19,
+          "name" : "HR"
+        }, {
+          "id" : 20,
+          "name" : "DIGIT"
+        }, {
+          "id" : 21,
+          "name" : "GROW"
+        }, {
+          "id" : 22,
+          "name" : "SCIC"
+        }, {
+          "id" : 23,
+          "name" : "JRC"
+        }, {
+          "id" : 24,
+          "name" : "JUST"
+        }, {
+          "id" : 25,
+          "name" : "MARE"
+        }, {
+          "id" : 26,
+          "name" : "MOVE"
+        }, {
+          "id" : 27,
+          "name" : "REGIO"
+        }, {
+          "id" : 28,
+          "name" : "RTD"
+        }, {
+          "id" : 29,
+          "name" : "SG"
+        }, {
+          "id" : 30,
+          "name" : "FPI"
+        }, {
+          "id" : 31,
+          "name" : "TAXUD"
+        }, {
+          "id" : 32,
+          "name" : "TRADE"
+        }, {
+          "id" : 33,
+          "name" : "DGT"
+        }, {
+          "id" : 34,
+          "name" : "FISMA"
+        }
+      ]
+    }, {
+      "controlType": "Consultation",
+      "key": 36,
+      "label": "Other",
+      "value": 1,
+      "order": 13,
+      "selectionType": 2,
+      "textValue": "FPI.4: thematic + geographic",
+      "groupValue": null,
+      "groupList": null
+    }, {
+      "controlType": "Consultation",
+      "key": 37,
+      "label": "Other",
+      "value": 2,
+      "order": 14,
+      "selectionType": 2,
+      "textValue": "Regional Team - Bangkok",
+      "groupValue": null,
+      "groupList": null
+    }, {
+      "controlType": "Consultation",
+      "key": 38,
+      "label": "Other",
+      "value": 2,
+      "order": 15,
+      "selectionType": 2,
+      "textValue": "EEAS",
+      "groupValue": null,
+      "groupList": null
+    }
+  ],
+  "teamLeader": "Helen LARSSON",
+  "tlComment": "",
+  "decision": 1,
+  "finalComment": "",
+  "applicationFormUrl": "https://webgate.acceptance.ec.europa.eu/Twinning/getAppFormDocument/originalRequest?Authorization=eyJhbGciOiJIUzI1NiJ9.eyJ0ZUlEIjoiMyIsInRJRCI6IjI5NzcxIiwidGltZXN0YW1wIjoiMTU4NDM2NzUzODUyNyJ9.sgNyUmiD795wHGlepHZkRKUBeHaPjgDNqcdx2pk86YQ"
+}
+

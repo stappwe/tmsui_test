@@ -1,0 +1,31 @@
+[
+  {
+    "eventInviterId": 40,
+    "eventId": 80034,
+    "formalAddressId": 1,
+    "formalTitle": "Mr",
+    "firstName": "LCO",
+    "familyName": "Norway",
+    "countryId": 152,
+    "countryName": "Norway",
+    "role": 1,
+    "email": "inv@norway.no",
+    "maxParticipants": 0,
+    "createdDate": 1600155290000,
+    "lastchangedDate": 1600155290000,
+    "eventName": "TAIEX Workshop on Regional development of new Trade routes",
+    "eventDates": null,
+    "eventStarted": false,
+    "eventPlace": "Yerevan",
+    "eventCountryID": 76,
+    "eventCountry": "Armenia",
+    "isWorkshop": false,
+    "registrationDeadline": 1609282800000,
+    "registrationClosed": null,
+    "calculatedEventTypeIdName": "ETT 80034 - TAIEX Workshop on Regional development of new Trade routes",
+    "inviterAdded": false,
+    "isStudyVisit": false,
+    "registrationVersion": 1,
+    "vPassRequired": false
+  }
+]

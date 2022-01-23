@@ -1,0 +1,145 @@
+{
+  "personId": 590045,
+  "firstName": "Grigory",
+  "familyName": "Dikov",
+  "email": "grigory.dikov@coe.int",
+  "privateEmail": null,
+  "mobilePhone": "+33679460040",
+  "formalAddressId": 1,
+  "supplierId": null,
+  "supplierName": "Main",
+  "street": null,
+  "city": "Strasbourg",
+  "postalCode": "67075 Strasbourg Cedex",
+  "countryId": null,
+  "position": null,
+  "telephone": null,
+  "privateMobilePhone": null,
+  "privateTelephone": null,
+  "formType": 3,
+  "userType": 3,
+  "selectedNationality": null,
+  "selectedEmploymentStatus": {
+    "id": 1,
+    "description": "Public Official in Active service",
+    "abbreviation": "PO Active",
+    "options": 0
+  },
+  "selectedLanguages": [],
+  "selectedTwCountry": null,
+  "employmentStatusComment": null,
+  "employmentStatusDate": null,
+  "password": null,
+  "institution": "Main",
+  "department": "Democratic instittions and fundamental rights",
+  "function": "Lawyer",
+  "street1": "Agora Building",
+  "street2": "Street2",
+  "selectedCountry": {
+    "id": 551,
+    "countryName": "International Organisation",
+    "nationality": null,
+    "budgetCountryEmailValidator": null,
+    "beneficiaryType": null,
+    "abbreviation": "PP"
+  },
+  "institutionType": 2,
+  "euLegislation": "Non applicable",
+  "cvSummary": "For the past five years I work at the Secretariat of the Venice Commission of the Council of Europe, where I cover broad range of issues related to comparative constituional law: checks and balances, law-making, fundamental rights, independnce of the judiciary, Rule of Law, etc. My main function is to assist the rapporteurs in preparing opinions on the legislation requested by governments and international organisations. Before, for over ten years, I worked as a case-lawyer at the Secretariat of the European Court of Human Rights, assisting judges with the examination of cases lodged under the ECHR. Before that I worked as a Rule of Law specialist for USAID and as a lawyer in private practice and as an in-house lawyer. I have over 22 years of legal experience, and over 19 years of relevant experience in the field of international human rights law and comparative constitutional law.",
+  "expertFileName": null,
+  "expertCv": null,
+  "expertCvURL": null,
+  "expertCvExtension": null,
+  "selectedChapters": [
+    {
+      "id": 11719466,
+      "description": "35 Other issues",
+      "parentid": 0,
+      "chapterKeywords": [],
+      "ticked": false,
+      "coverageLevel": null,
+      "order": 469
+    }
+  ],
+  "selectedKeywords": [
+    466,
+    354
+  ],
+  "status": 4,
+  "ncpValidate": 4,
+  "ncpComment": null,
+  "privateEmailInComm": false,
+  "expirationDate": 1612248959779,
+  "validationResultMessage": null,
+  "edbTwinning": [],
+  "registrationVersion": 2,
+  "registrationId": 9791,
+  "encryptedId": "eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzkxIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNjA0NDAzODQ2NTcwIn0.luAfwp1EdaQTk-1dHJMQO1UBzfb7mW1z7nWCC0WAsJQ",
+  "eventName": "New event TAIEX 8 with speaker copy",
+  "eventTypeAbbr": "AGR IND/EXP",
+  "eventId": 80034,
+  "eventStartDate": 1605423600000,
+  "eventCategoryId": 3,
+  "place": "Yerevan",
+  "printUrl": "https://webgate.acceptance.ec.europa.eu/TMSWebRestrict/speakerForm/print?id=eyJhbGciOiJIUzI1NiJ9.eyJTcGVha2VySWQiOiI5NzkxIiwidG9rZW50eXBlIjozLCJ0aW1lc3RhbXAiOiIxNjA0NDAzODQ2NTcwIn0.luAfwp1EdaQTk-1dHJMQO1UBzfb7mW1z7nWCC0WAsJQ",
+  "personAccount": {
+    "bankName": "Societe Generale",
+    "accountHolder": "Mr Grigory Dikov",
+    "iban": "FR76 **** **** **** **** *** 7915",
+    "originalIban": null,
+    "bic": "SOGEFRPP",
+    "confirm": null
+  },
+  "subsistanceAccount": {
+    "bankName": "bank - host",
+    "accountHolder": "Name - host",
+    "iban": "iban *** host",
+    "originalIban": null,
+    "bic": "swift - host",
+    "confirm": null
+  },
+  "fax": null,
+  "speechTitle": null,
+  "codedString": null,
+  "result": null,
+  "caseHandlerEmail": "Werner.STAPPAERTS@ext.ec.europa.eu",
+  "faaPaySupplier": true,
+  "perDiemPaySupplier": false,
+  "newRegistration": true,
+  "state": {
+    "logisticsFinished": false,
+    "completed": true,
+    "registered": true,
+    "valid": false
+  },
+  "participantTravelData": {
+    "travelBy": null,
+    "departureAirport": null,
+    "departureStation": null,
+    "earlyArrival": true,
+    "lateDeparture": true,
+    "requireAccommodation": null,
+    "comment": null
+  },
+  "limits": {},
+  "travelBy": null,
+  "comment": null,
+  "departure": null,
+  "studyVisit": false,
+  "requireAccommodation": null,
+  "breakOutSessionList": [
+    {
+      "id": 1,
+      "name": "Session 1 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 2,
+      "name": "Session 2 - Improve... 25/10 - 8h - 12h"
+    },
+    {
+      "id": 3,
+      "name": "Session 3 - Improve... 25/10 - 14h - 18h"
+    }
+  ],
+  "selectedBreakOutSessions": [1,2]
+}

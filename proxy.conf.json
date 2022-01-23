@@ -1,0 +1,13 @@
+{
+    "/api": {
+        "target": "http://localhost:7001",
+        "secure": false
+    },
+    "/configuration-service": {
+        "target": "http://localhost:3000",
+        "pathRewrite": {
+            "/configuration-service": "/configuration"
+        },
+        "secure": "false"
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "result": true,
+  "message": null,
+  "messageTranslationCode": null,
+  "messageType": 1,
+  "data": {
+    "rows": [
+      {
+        "participantId": -1,
+        "documentId": 2399357,
+        "documentName": "Agenda_80335.docx",
+        "size": 2002050,
+        "publishedBy": "Other Presentation",
+        "templateId": 1,
+        "publishedTo": 0,
+        "assignedTo": null,
+        "publToParticipants": [],
+        "publToParticipantName": []
+      },
+      {
+        "participantId": 996594,
+        "documentId": 2402048,
+        "documentName": "EJCN-Presentation-Kosovo.pptx",
+        "size": 12002050,
+        "publishedBy": "Balázs Garamvölgyi",
+        "templateId": 5,
+        "publishedTo": 0,
+        "assignedTo": null,
+        "publToParticipants": [],
+        "publToParticipantName": []
+      },
+      {
+        "participantId": 996594,
+        "documentId": 2402049,
+        "documentName": "Eurojust’s role PP Jarosch.pptx",
+        "publishedBy": "Balázs Garamvölgyi",
+        "size": 502050,
+        "templateId": 5,
+        "publishedTo": 0,
+        "assignedTo": null,
+        "publToParticipants": [],
+        "publToParticipantName": []
+      },
+      {
+        "participantId": 996594,
+        "documentId": 2402050,
+        "documentName": "Presentation CT Michael Schmid Kosovo study visit December 2020.pptx",
+        "publishedBy": "Balázs Garamvölgyi",
+        "size": 802050,
+        "templateId": 161,
+        "publishedTo": 1,
+        "assignedTo": null,
+        "publToParticipants": [],
+        "publToParticipantName": []
+      },
+      {
+        "participantId": 996594,
+        "documentId": 2401504,
+        "documentName": "Xavier Tracol Visit Kosovo.pptx",
+        "publishedBy": "Balázs Garamvölgyi",
+        "size": 2502050,
+        "templateId": 161,
+        "publishedTo": 2,
+        "assignedTo": null,
+        "publToParticipants": [],
+        "publToParticipantName": []
+      },
+      {
+        "documentName": "SampleVideo_1280x720_5mb.mp4",
+        "size": 5253880,
+        "assignedTo": null,
+        "templateId": 5,
+        "publishedTo": 0,
+        "publToParticipants": [],
+        "publToParticipantName": [],
+        "documentId": 2428248,
+        "participantId": -1,
+        "publishedBy": ""
+      }
+    ],
+    "rowCount": 5
+  }
+}
