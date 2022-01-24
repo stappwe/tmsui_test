@@ -35,6 +35,12 @@ npm run e2e-simple
 
 npm run e2e-report
 
+## Issues
+
+### download issue on EC network
+
+git config --global http.proxy http://username:password@psbru-vip-acc-user.snmc.cec.eu.int:8012
+
 
 
 
