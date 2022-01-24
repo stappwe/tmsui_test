@@ -8,12 +8,15 @@ NodeJS 12.x download NodeJS 12.x MAX is required and minimum 12.20.1 is required
 
 From: tmsui_test/mock-back-end location:
 npm install
+
 npm run start:dev
 
 #### Front-end - setup and start
 
 From: tmsui_test location:
 npm install
+npm run build:lib
+
 npm run start:tms:vm
 
 http://localhost:4207/

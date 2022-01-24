@@ -9,7 +9,7 @@ const config: PlaywrightTestConfig = {
   retries: process.env.CI ? 2 : 0,
   use: {
     baseURL: 'http://localhost:4207',
-    headless: true,
+    headless: false,
     trace: 'on-first-retry',
   },
   projects: [
