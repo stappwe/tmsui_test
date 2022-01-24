@@ -1,3 +1,15 @@
+## Github
+
+### Repository
+
+https://github.com/stappwe/tmsui_test.git
+
+### Setup
+
+Create or send use github username or email of your github.com account to allow you to push to the project
+
+Note: you can create a free account on github.com
+
 ## Development server
 
 ### Prerequestes and setup
@@ -19,7 +31,7 @@ npm run build:lib
 
 npm run start:tms:vm
 
-http://localhost:4207/
+http://localhost:4207/#/tms/other/administration/administrator/project/list
 
 ## Test
 
@@ -33,6 +45,8 @@ npm install playwright
 #### Test - running
 
 npm run e2e-simple
+
+Note: e2e test, see tms-e2e
 
 ##### Report
 
