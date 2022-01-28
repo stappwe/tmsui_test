@@ -12,7 +12,7 @@
     "build:localhost": "rimraf dist_localhost && nest build --path tsconfig.build.localhost.json --config nest-cli.localhost.json && npm run postbuild:localhost",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
-    "start:dev": "NODE_ENV=development nest start --watch",
+    "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
     "start:prod": "node dist/main",
     "lint": "eslint '{src,apps,libs,test}/**/*.ts' --fix",
@@ -32,8 +32,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^6.6.3",
-    "win-node-env": "^0.4.0"
+    "rxjs": "^6.6.3"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.6.0",
