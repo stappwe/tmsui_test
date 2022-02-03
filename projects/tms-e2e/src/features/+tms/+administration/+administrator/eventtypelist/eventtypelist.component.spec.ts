@@ -80,10 +80,12 @@ test('Event type list', async ({ page, baseURL }) => {
   const path = await download.path();
   await expect(path !== '').toBeTruthy();
 
-  // check if the Poject menu and event type menu is available
+  // check if the Project menu and event type menu is available
   await expect(page.locator('xpath=//body//app-root//nav[@id=\'top-menu\']')).toBeVisible();
   await page.hover('text=Other');
   await page.hover('text=Administration');
+  await expect(page.
+  locator('xpath=//body//app-root//nav[@id=\'top-menu\']//li[2]//a[@href=\'#/tms/other/administration/administrator/project/list\']')).toBeVisible();
   await page.hover('text=Projects');
   await page.click('text=Projects');
 
@@ -91,6 +93,8 @@ test('Event type list', async ({ page, baseURL }) => {
   await expect(page.locator('xpath=//body//app-root//nav[@id=\'top-menu\']')).toBeVisible();
   await page.hover('text=Other');
   await page.hover('text=Administration');
+  await expect(page.
+  locator('xpath=//body//app-root//nav[@id=\'top-menu\']//li[2]//a[@href=\'#/tms/other/administration/administrator/eventtype/list\']')).toBeVisible();
   await page.hover('text=Event Type');
   await page.click('text=Event Type');
 });
