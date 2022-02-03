@@ -20,7 +20,7 @@ On the github repository the event type menu has been added (Other/Administratio
 
 #### Don't matter how fare you are, after two hours push your changes to the remote repository
 
-The repository will be closed at 14:30.
+The repository will be closed at 13:30.
 
 We will leave you and good luck
 
