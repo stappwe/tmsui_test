@@ -1,0 +1,46 @@
+<div class="container-fluid">
+  <div #header>
+    <div class="btn-toolbar btn-toolbar-menu" fxLayout="row" fxLayoutAlign="end" fxHide.print="true" role="group" aria-label="Filter toolbar">
+      <button type="button" class="btn btn-primary" title="Search" (click)="gridState.refreshData(true)">
+        <span class="fa fa-refresh" aria-hidden="true"></span>
+      </button>
+      <button type="button" class="btn btn-primary" title="Add" (click)="openEventType(-1)" [hidden]="true || readOnlyMode">
+        <span class="fa fa-plus" aria-hidden="true"></span>
+      </button>
+      <button type="button" class="btn btn-primary" title="Edit" [disabled]="!gridState.isSingleRowSelected()"
+              (click)="openEventType(gridState.selectedItems[0].eventTypeId)" [hidden]="readOnlyMode">
+        <span class="fa fa-pencil" aria-hidden="true"></span>
+      </button>
+      <button type="button" class="btn btn-primary" title="Clear" (click)="gridState.reset()">
+        <span class="fa fa-trash" aria-hidden="true"></span>
+      </button>
+      <button type="button" class="btn btn-primary" title="Extract list" (click)="btnPrint()" [disabled]="isPrinting === true || !gridState.totalRows">
+        <span aria-hidden="true" [ngClass]="isPrinting === true ? 'fa fa-refresh fa-spin' : 'fa fa-file-excel-o'"></span>
+      </button>
+    </div>
+  </div>
+  <div #agGrid fxLayout="row" fxShow fxShow.xs="false" fxShow.print="true" [style.height.px]="aggridHeight">
+    <ag-grid-angular style="height: 100%; width: 100%;" class="ag-theme-fresh"
+                     [gridOptions]="gridState.gridOptions"
+
+                     rowHeight="22"
+                     rowSelection="single"
+
+                     (cellClicked)="onCellClicked($event)"
+                     (selectionChanged)="gridState.onGridSelectionChanged($event)"
+                     (gridReady)="gridState.onGridReady(agGrid)"
+                     (gridSizeChanged)="gridState.onGridResize(agGrid)">
+    </ag-grid-angular>
+  </div>
+  <ux-tms-list-items #listgrid fxHide fxShow.xs="true" fxHide.print="true">
+    <ux-list-item *ngFor="let rowItem of gridState.rowData" [item]="rowItem" (click)="gridState.onListSelectItem({ 'item' : rowItem, 'ctrlKeyPressed' : false })">
+      <uxListItemSubLabel>
+        <div class="m-2">
+          <span class="ux-u-font-size-h5 ux-u-color-primary-dark mb-3">
+            <a [ngClass]="gridState.isRowSelected('procedureRecipientsId',rowItem.procedureRecipientsId) ? 'active' : ''" (click)="lnkEventType($event,rowItem)">{{ rowItem.eventTypeId }} - {{ rowItem.description }}</a>
+          </span>
+        </div>
+      </uxListItemSubLabel>
+    </ux-list-item>
+  </ux-tms-list-items>
+</div>

@@ -1,0 +1,99 @@
+<form role="form" [formGroup]="detailForm" *ngIf="(detailForm !== undefined)">
+  <div #header>
+    <div class="btn-toolbar btn-toolbar-menu" fxLayout="row" fxLayoutAlign="end" fxLayoutGap="5px" fxHide.print="true" role="toolbar" aria-label="Event type toolbar">
+      <button type="button" class="btn btn-primary" (click)="onCancelClick()" [hidden]="!detailForm.pristine || eventTypeId === -1">Back</button>
+      <button type="button" class="btn btn-primary" (click)="onCancelClick()" [hidden]="detailForm.pristine && eventTypeId !== -1">Cancel</button>
+      <button type="button" class="btn btn-primary" [disabled]="!(detailForm.valid && !submitting)" (click)="onSubmit()" [hidden]="readOnlyMode">Save</button>
+    </div>
+  </div>
+  <div class="detail print-layout" [style.height.px]="detailHeight">
+    <ux-panel class="ux-panel-group" [label]="pageTitle">
+      <div fxLayout="row" fxLayout.xs="column" fxLayoutGap="15px">
+        <div fxFlex="50%">
+          <label-input [labelText]="'ID'" [labelAlign]="'Center'">
+            <input type="number" class="form-control col-sm-12" formControlName="eventTypeId">
+          </label-input>
+          <label-input [labelText]="'Description'" [labelAlign]="'Center'">
+            <input type="text" class="form-control col-sm-12" formControlName="description">
+            <div [hidden]="detailForm.controls['description'].valid || detailForm.controls['description'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['description'].hasError('required')">Description is required</div>
+              <div *ngIf="detailForm.controls['description'].hasError('maxlength')">Maximum length exceeded</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Abbreviation'" [labelAlign]="'Center'">
+            <input type="text" class="form-control col-sm-12" formControlName="abbreviation">
+            <div [hidden]="detailForm.controls['abbreviation'].valid || detailForm.controls['abbreviation'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['abbreviation'].hasError('required')">Abbreviation is required</div>
+              <div *ngIf="detailForm.controls['abbreviation'].hasError('maxlength')">Maximum length exceeded</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Team'" [labelAlign]="'Center'">
+            <select class="form-control col-sm-12" formControlName="budgetTeamId">
+              <option *ngFor="let item of budgetTeamList" [ngValue]="item.id">{{ item.name }}</option>
+            </select>
+            <div [hidden]="detailForm.controls['budgetTeamId'].valid || detailForm.controls['budgetTeamId'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['budgetTeamId'].hasError('required')">Team value is required</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Category'" [labelAlign]="'Center'">
+            <select class="form-control col-sm-12" formControlName="eventCategoryId">
+              <option *ngFor="let item of eventCategoryList" [ngValue]="item.id">{{ item.name }}</option>
+            </select>
+            <div [hidden]="detailForm.controls['eventCategoryId'].valid || detailForm.controls['eventCategoryId'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['eventCategoryId'].hasError('required')">Category value is required</div>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Team Leader'" [labelAlign]="'Center'"
+                       matTooltip="Default team leader" [matTooltipPosition]="'above'">
+            <select class="form-control col-sm-12" formControlName="userId">
+              <option *ngFor="let item of teamLeaderList" [ngValue]="item.userId">{{ item.familyName }} {{ item.firstName }}</option>
+            </select>
+          </label-input>
+          <div [hidden]="detailForm.controls['userId'].valid || detailForm.controls['userId'].pristine" class="error-message">
+            <div *ngIf="detailForm.controls['userId'].hasError('required')">Team Leader value is required</div>
+          </div>
+        </div>
+        <div fxFlex="50%">
+          <label-input [labelText]="'Active'" [labelAlign]="'Center'" [labelClass]="'col-sm-3'" [contentClass]="'col-sm-9'">
+            <div class="mat-checkbox-center">
+              <mat-checkbox formControlName="active" [color]="'primary'" class="mat-checkbox"></mat-checkbox>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Status'" [labelAlign]="'Center'" [labelClass]="'col-sm-3'" [contentClass]="'col-sm-9'"
+                       matTooltip="Status ????" [matTooltipPosition]="'above'">
+            <div class="mat-checkbox-center">
+              <mat-checkbox formControlName="status" [color]="'primary'" class="mat-checkbox"></mat-checkbox>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Agenda'" [labelAlign]="'Center'" [labelClass]="'col-sm-3'" [contentClass]="'col-sm-9'"
+                       matTooltip="Agenda required" [matTooltipPosition]="'above'">
+            <div class="mat-checkbox-center">
+              <mat-checkbox formControlName="agendaRequired" [color]="'primary'" class="mat-checkbox"></mat-checkbox>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Publish EDB'" [labelAlign]="'Center'" [labelClass]="'col-sm-3'" [contentClass]="'col-sm-9'"
+                       matTooltip="Publish on the Expert database" [matTooltipPosition]="'above'">
+            <div class="mat-checkbox-center">
+              <mat-checkbox formControlName="edbPublish" [color]="'primary'" class="mat-checkbox"></mat-checkbox>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Publish Library'" [labelAlign]="'Center'" [labelClass]="'col-sm-3'" [contentClass]="'col-sm-9'"
+                       matTooltip="Publish on the TAIEX Library" [matTooltipPosition]="'above'">
+            <div class="mat-checkbox-center">
+              <mat-checkbox formControlName="taiexPublish" [color]="'primary'" class="mat-checkbox"></mat-checkbox>
+            </div>
+          </label-input>
+          <label-input [labelText]="'Evaluation Required'" [labelAlign]="'Center'" [labelClass]="'col-sm-3'" [contentClass]="'col-sm-9'">
+            <mat-radio-group formControlName="evaluationRequired" fxLayout="row" fxLayoutGap="10px" color="primary">
+              <mat-radio-button [value]=true>Yes</mat-radio-button>
+              <mat-radio-button [value]=false>No</mat-radio-button>
+            </mat-radio-group>
+            <div [hidden]="detailForm.controls['evaluationRequired'].valid || detailForm.controls['evaluationRequired'].pristine" class="error-message">
+              <div *ngIf="detailForm.controls['evaluationRequired'].hasError('required')">Value is required</div>
+            </div>
+          </label-input>
+        </div>
+      </div>
+    </ux-panel>
+  </div>
+</form>
