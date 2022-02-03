@@ -68,4 +68,5 @@ test('Project list', async ({ page, baseURL }) => {
   // wait for download to complete
   const path = await download.path();
   await expect(path !== '').toBeTruthy();
+
 });
